@@ -1,0 +1,15 @@
+# Build outputs (generated from canonical source — never hand-edit, never commit)
+build/output/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/

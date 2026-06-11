@@ -1,0 +1,19 @@
+slug: festival-slug        # rename folder + this to a unique lowercase-hyphenated slug
+type: festival             # festival | vrat | ekadashi
+order: 0                   # ascending sort within book/app
+category: major            # major | minor
+deity:
+  - DeityName
+panchang:
+  month: Kartik
+  paksha: Shukla           # Shukla | Krishna
+  tithi: Purnima
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - tag-one
+sources:
+  - "DrikPanchang — <festival>"
+status: draft              # draft | reviewed | published
