@@ -72,22 +72,22 @@ Verify dates: drikpanchang.com → September 2026
 Verify dates: drikpanchang.com → October 2026
 ⚠️ Write all 9 Navratri swaroop kathas in a single sitting — they must sound like one continuous journey.
 
-- [ ] `mahalaya-pitru-paksha` · Ashwin Krishna Paksha · ~Sep 26–Oct 10
-- [ ] `jivitputrika` · Ashwin Krishna Ashtami · ~Oct 3
-- [ ] `indira-ekadashi` · Ashwin Krishna Ekadashi · ~Oct 6
-- [ ] `navratri-shailputri` · Ashwin Shukla Pratipada · ~Oct 11  ┐
-- [ ] `navratri-brahmacharini` · Ashwin Shukla Dwitiya · ~Oct 12  │
-- [ ] `navratri-chandraghanta` · Ashwin Shukla Tritiya · ~Oct 13  │
-- [ ] `navratri-kushmanda` · Ashwin Shukla Chaturthi · ~Oct 14   │ write
-- [ ] `navratri-skandamata` · Ashwin Shukla Panchami · ~Oct 15   │ together
-- [ ] `navratri-katyayani` · Ashwin Shukla Shashthi · ~Oct 16    │
-- [ ] `navratri-kalaratri` · Ashwin Shukla Saptami · ~Oct 17     │
-- [ ] `navratri-mahagauri` · Ashwin Shukla Ashtami · ~Oct 18     │
-- [ ] `navratri-siddhidatri` · Ashwin Shukla Navami · ~Oct 19   ┘
-- [ ] `vijayadashami` · Ashwin Shukla Dashami · ~Oct 20
-- [ ] `papankusha-ekadashi` · Ashwin Shukla Ekadashi · ~Oct 22
-- [ ] `sharad-purnima` · Ashwin Purnima · ~Oct 25–26
-- [ ] `karwa-chauth` · Kartik Krishna Chaturthi · ~Oct 29
+- [x] `mahalaya-pitru-paksha` · Ashwin Krishna Paksha · ~Sep 26–Oct 10 ✓ reviewed
+- [x] `jivitputrika` · Ashwin Krishna Ashtami · ~Oct 3 ✓ reviewed
+- [x] `indira-ekadashi` · Ashwin Krishna Ekadashi · ~Oct 6 ✓ reviewed
+- [x] `navratri-shailputri` · Ashwin Shukla Pratipada · ~Oct 11 ✓ reviewed
+- [x] `navratri-brahmacharini` · Ashwin Shukla Dwitiya · ~Oct 12 ✓ reviewed
+- [x] `navratri-chandraghanta` · Ashwin Shukla Tritiya · ~Oct 13 ✓ reviewed
+- [x] `navratri-kushmanda` · Ashwin Shukla Chaturthi · ~Oct 14 ✓ reviewed
+- [x] `navratri-skandamata` · Ashwin Shukla Panchami · ~Oct 15 ✓ reviewed
+- [x] `navratri-katyayani` · Ashwin Shukla Shashthi · ~Oct 16 ✓ reviewed
+- [x] `navratri-kalaratri` · Ashwin Shukla Saptami · ~Oct 17 ✓ reviewed
+- [x] `navratri-mahagauri` · Ashwin Shukla Ashtami · ~Oct 18 ✓ reviewed
+- [x] `navratri-siddhidatri` · Ashwin Shukla Navami · ~Oct 19 ✓ reviewed
+- [ ] `vijayadashami` · Ashwin Shukla Dashami · ~Oct 20 *(hi.md written · pending Phase 6 review → en.md)*
+- [ ] `papankusha-ekadashi` · Ashwin Shukla Ekadashi · ~Oct 22 *(hi.md written · pending Phase 6 review → en.md)*
+- [ ] `sharad-purnima` · Ashwin Purnima · ~Oct 25–26 *(hi.md written · pending Phase 6 review → en.md)*
+- [ ] `karwa-chauth` · Kartik Krishna Chaturthi · ~Oct 29 *(hi.md written · pending Phase 6 review → en.md)*
 
 ---
 
