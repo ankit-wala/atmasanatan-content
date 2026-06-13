@@ -1,0 +1,25 @@
+slug: aja-ekadashi
+type: ekadashi
+order: 19
+category: major
+deity:
+  - Vishnu
+panchang:
+  month: Bhadrapada
+  paksha: Krishna
+  tithi: Ekadashi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ekadashi
+  - vishnu
+  - bhadrapada
+sources:
+  - "Brahma Vaivarta Purana, Krishna Janma Khanda, Chapter 26 (adhyaya TODO-VERIFY) — Aja Ekadashi mahatmya; King Harishchandra katha; frame: Krishna narrates to Yudhishthira; presiding deity: Hrishikesha"
+  - "Padma Purana, Uttara Khanda, Chapter 56 (TODO-VERIFY) — Ekadashi mahatmya cycle (Gita Press canonical collection)"
+  - "DrikPanchang — Aja Ekadashi"
+scripture_ref: "Brahma Vaivarta Purana, Krishna Janma Khanda, Chapter 26 (adhyaya TODO-VERIFY)"
+status: reviewed

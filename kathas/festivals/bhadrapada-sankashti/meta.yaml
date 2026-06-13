@@ -1,0 +1,26 @@
+slug: bhadrapada-sankashti
+type: vrat
+order: 201
+category: major
+deity:
+  - Ganesha
+panchang:
+  month: Bhadrapada
+  paksha: Krishna
+  tithi: Chaturthi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - sankashti
+  - ganesha
+  - bhadrapada
+  - chaturthi
+  - angarika
+sources:
+  - "Ganesha Purana — Dhumravarna swaroop katha"
+  - "DrikPanchang — Bhadrapada Sankashti Chaturthi"
+scripture_ref: "Ganesha Purana"
+status: draft

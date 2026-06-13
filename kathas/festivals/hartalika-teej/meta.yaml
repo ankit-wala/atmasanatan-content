@@ -1,0 +1,29 @@
+slug: hartalika-teej
+type: festival
+order: 20
+category: major
+deity:
+  - Shiva
+  - Parvati
+panchang:
+  month: Bhadrapada
+  paksha: Shukla
+  tithi: Tritiya
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - teej
+  - shiva
+  - parvati
+  - bhadrapada
+  - vrat
+sources:
+  - "Shiva Purana, Rudra Samhita, Parvati-Khanda, Ch. 21–24 — Parvati's tapas (progressive austerities across seasons: fire, rain, cold water); sakhis Jaya and Vijaya; Shiva's consent to marry Parvati; Aparna name"
+  - "Bhavishyottar Purana, Hargauri Samvade (adhyaya TODO-VERIFY) — Hartalika vrat katha and mahatmya; Narada's Vishnu suggestion; sakhi's 'haran'; sand Shivalinga on Ganga bank; Bhadrapada Shukla Tritiya under Hasta Nakshatra; nirjal vrat"
+  - "Vratraj (puja vidhi; secondary procedural authority)"
+  - "DrikPanchang — Hartalika Teej"
+scripture_ref: "Bhavishyottar Purana, Hargauri Samvade (adhyaya TODO-VERIFY)"
+status: reviewed

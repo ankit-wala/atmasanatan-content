@@ -22,16 +22,18 @@ panchang:
   paksha: Krishna         # Shukla | Krishna
   tithi: Amavasya
   date_2026: TODO-VERIFY  # YYYY-MM-DD — VERIFY against DrikPanchang before publishing
-region: pan-india         # pan-india | north | west | east | south | <state>
+  date_2027: TODO-VERIFY  # second-year occurrence; same katha, different calendar date
+region: pan-india         # pan-india | north-india | south-india | east-india | west-india | <state>
 related_shlokas: []       # ids into a future verses corpus (leave [] for now)
 related_bhajans: []       # ids into a future bhajans corpus
 tags:
   - diwali
   - deepavali
   - lakshmi-puja
-sources:                  # every factual claim should trace to one of these
+sources:                  # every factual/scriptural claim must trace to one of these
   - "DrikPanchang — Diwali"
   - "Valmiki Ramayana — return of Rama to Ayodhya"
+scripture_ref: "Valmiki Ramayana, Yuddha Kanda"   # primary source: Purana/text + khanda + chapter
 status: draft             # draft | reviewed | published
 ```
 

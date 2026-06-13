@@ -1,0 +1,29 @@
+slug: vat-savitri-vrat
+type: vrat
+order: 96
+category: major
+deity:
+  - Savitri
+  - Satyavan
+  - Yama
+panchang:
+  month: Jyeshtha
+  paksha: Krishna
+  tithi: Amavasya
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - vat-savitri
+  - savitri
+  - satyavan
+  - yama
+  - jyeshtha
+  - vrat
+sources:
+  - "Mahabharata, Vana Parva, Ch. 293-299 — Savitri-Satyavan katha"
+  - "DrikPanchang — Vat Savitri Vrat"
+scripture_ref: "Mahabharata, Vana Parva"
+status: draft

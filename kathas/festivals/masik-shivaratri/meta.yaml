@@ -1,0 +1,26 @@
+slug: masik-shivaratri
+type: vrat
+order: 234
+category: minor
+deity:
+  - Shiva
+panchang:
+  month: Shravan
+  paksha: Krishna
+  tithi: Chaturdashi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - masik-shivaratri
+  - shiva
+  - chaturdashi
+  - monthly
+  - krishna-paksha
+sources:
+  - "Skanda Purana — Masik Shivaratri vrat katha (monthly, every Krishna Chaturdashi)"
+  - "DrikPanchang — Masik Shivaratri"
+scripture_ref: "Skanda Purana"
+status: draft

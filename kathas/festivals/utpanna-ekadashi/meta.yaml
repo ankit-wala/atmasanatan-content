@@ -1,0 +1,26 @@
+slug: utpanna-ekadashi
+type: ekadashi
+order: 61
+category: major
+deity:
+  - Vishnu
+  - Ekadashi Devi
+panchang:
+  month: Margashirsha
+  paksha: Krishna
+  tithi: Ekadashi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ekadashi
+  - vishnu
+  - margashirsha
+  - ekadashi-devi-birth
+sources:
+  - "Padma Purana — Birth of Ekadashi Devi from Vishnu"
+  - "DrikPanchang — Utpanna Ekadashi"
+scripture_ref: "Padma Purana"
+status: draft

@@ -1,0 +1,26 @@
+slug: ahoi-ashtami
+type: vrat
+order: 44
+category: major
+deity:
+  - Ahoi Mata
+panchang:
+  month: Kartik
+  paksha: Krishna
+  tithi: Ashtami
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: north-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ahoi-ashtami
+  - vrat
+  - kartik
+  - mother
+  - son
+sources:
+  - "Folk tradition — Ahoi Mata vrat katha (oral tradition, no single Puranic source)"
+  - "DrikPanchang — Ahoi Ashtami"
+scripture_ref: "Folk tradition (oral)"
+status: draft

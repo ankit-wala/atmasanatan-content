@@ -1,0 +1,28 @@
+slug: sheetala-satam
+type: festival
+order: 16
+category: major
+deity:
+  - Sheetala
+panchang:
+  month: Bhadrapada
+  paksha: Krishna
+  tithi: Saptami
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: gujarat
+related_shlokas: []
+related_bhajans: []
+tags:
+  - sheetala
+  - bhadrapada
+  - gujarat
+  - cold-food
+  - randhan-chhath
+sources:
+  - "Skanda Purana, Avantya-khanda, Chapter 12 — Sheetala mahatmya passage (indexed on wisdomlib)"
+  - "Skanda Purana (khanda and adhyaya TODO-VERIFY) — cosmological origin katha: Brahma yajna, Sheetala's birth, Jvarasura, King Birat episode"
+  - "Bhavishyottara Purana, Uttara Parva (adhyaya TODO-VERIFY) — Sheetala Saptami vrat katha: King Indralumna / Shubhakari"
+  - "DrikPanchang — Sheetala Saptami"
+scripture_ref: "Skanda Purana (Avantya-khanda + adhyaya TODO-VERIFY)"
+status: reviewed

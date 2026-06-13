@@ -1,0 +1,25 @@
+slug: kartik-sankashti
+type: vrat
+order: 203
+category: major
+deity:
+  - Ganesha
+panchang:
+  month: Kartik
+  paksha: Krishna
+  tithi: Chaturthi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - sankashti
+  - ganesha
+  - kartik
+  - chaturthi
+sources:
+  - "Ganesha Purana — Saumya/Trimurti swaroop katha"
+  - "DrikPanchang — Kartik Sankashti Chaturthi"
+scripture_ref: "Ganesha Purana"
+status: draft

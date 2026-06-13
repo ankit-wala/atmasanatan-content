@@ -1,0 +1,27 @@
+slug: mahalaya-pitru-paksha
+type: festival
+order: 28
+category: major
+deity:
+  - Pitru
+  - Yama
+panchang:
+  month: Ashwin
+  paksha: Krishna
+  tithi: Amavasya
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - mahalaya
+  - pitru-paksha
+  - shraddha
+  - ashwin
+  - karna
+sources:
+  - "Mahabharata — Karna's shraddha katha (why he gives gold in afterlife)"
+  - "DrikPanchang — Mahalaya Amavasya / Sarva Pitru Amavasya"
+scripture_ref: "Mahabharata"
+status: draft

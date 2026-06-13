@@ -1,0 +1,28 @@
+slug: jaya-parvati-vrat
+type: vrat
+order: 5
+category: minor
+deity:
+  - Shiva
+  - Parvati
+panchang:
+  month: Ashadha
+  paksha: Shukla
+  tithi: Trayodashi   # 5-day vrat: Ashadha Shukla Trayodashi → Shravan Krishna Tritiya
+  date_2026: 2026-07-27    # verified DrikPanchang — vrat begins Jul 27, ends Aug 1; Pradosh puja 7:15–9:20 PM Jul 27
+  date_2027: TODO-VERIFY
+region: gujarat
+related_shlokas: []
+related_bhajans: []
+tags:
+  - vrat
+  - shiva
+  - parvati
+  - ashadha
+  - gujarat
+sources:
+  - "Shiva Purana, Rudra Samhita, Parvati Khanda — Parvati's tapasya, Aparna name, Saptarishi test, Shiva's Brahmin disguise"
+  - "Skanda Purana — Jaya Parvati vrat katha (specific chapter TODO-VERIFY)"
+  - "DrikPanchang — Jaya Parvati Vrat"
+scripture_ref: "Shiva Purana, Rudra Samhita, Parvati Khanda; Skanda Purana (chapter TODO-VERIFY)"
+status: reviewed

@@ -1,0 +1,27 @@
+slug: masik-satyanarayan
+type: vrat
+order: 239
+category: minor
+deity:
+  - Vishnu
+  - Satyanarayan
+panchang:
+  month: Shravan
+  paksha: Shukla
+  tithi: Purnima
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - satyanarayan
+  - vishnu
+  - purnima
+  - masik
+  - monthly
+sources:
+  - "Skanda Purana, Reva Khanda — Satyanarayan Puja significance on any Purnima"
+  - "DrikPanchang — Purnima"
+scripture_ref: "Skanda Purana, Reva Khanda"
+status: draft

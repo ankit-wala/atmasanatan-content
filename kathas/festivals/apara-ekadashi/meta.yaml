@@ -1,0 +1,24 @@
+slug: apara-ekadashi
+type: ekadashi
+order: 95
+category: major
+deity:
+  - Vishnu
+panchang:
+  month: Jyeshtha
+  paksha: Krishna
+  tithi: Ekadashi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ekadashi
+  - vishnu
+  - jyeshtha
+sources:
+  - "Brahma Vaivarta Purana — Mahidhvaja katha"
+  - "DrikPanchang — Apara Ekadashi"
+scripture_ref: "Brahma Vaivarta Purana"
+status: draft

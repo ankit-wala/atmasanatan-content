@@ -1,0 +1,28 @@
+slug: shani-pradosh
+type: vrat
+order: 215
+category: major
+deity:
+  - Shiva
+  - Shani
+panchang:
+  month: Margashirsha
+  paksha: Krishna
+  tithi: Trayodashi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - pradosh
+  - shani-pradosh
+  - shiva
+  - shani
+  - saturday
+  - trayodashi
+sources:
+  - "Skanda Purana — Shani Pradosh vrat katha (Saturday Pradosh)"
+  - "DrikPanchang — Shani Pradosh"
+scripture_ref: "Skanda Purana"
+status: draft

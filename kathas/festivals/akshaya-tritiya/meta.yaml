@@ -1,0 +1,28 @@
+slug: akshaya-tritiya
+type: festival
+order: 89
+category: major
+deity:
+  - Vishnu
+  - Lakshmi
+  - Kubera
+panchang:
+  month: Vaishakha
+  paksha: Shukla
+  tithi: Tritiya
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - akshaya-tritiya
+  - vishnu
+  - sudama
+  - akshaya-patra
+  - vaishakha
+sources:
+  - "Mahabharata — Sudama katha / Akshaya Patra katha"
+  - "DrikPanchang — Akshaya Tritiya"
+scripture_ref: "Mahabharata / Bhagavata Purana"
+status: draft

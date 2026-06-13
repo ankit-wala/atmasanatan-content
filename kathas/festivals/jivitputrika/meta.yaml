@@ -1,0 +1,27 @@
+slug: jivitputrika
+type: vrat
+order: 29
+category: major
+deity:
+  - Jivit
+  - Surya
+panchang:
+  month: Ashwin
+  paksha: Krishna
+  tithi: Ashtami
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: east-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - jivitputrika
+  - jitiya
+  - vrat
+  - ashwin
+  - son
+sources:
+  - "Skanda Purana — Jimutavahana katha"
+  - "DrikPanchang — Jivitputrika / Jitiya Vrat"
+scripture_ref: "Skanda Purana"
+status: draft

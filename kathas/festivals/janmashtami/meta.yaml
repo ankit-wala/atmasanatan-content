@@ -1,0 +1,25 @@
+slug: janmashtami
+type: festival
+order: 18
+category: major
+deity:
+  - Krishna
+panchang:
+  month: Bhadrapada
+  paksha: Krishna
+  tithi: Ashtami
+  date_2026: 2026-09-04    # verified DrikPanchang — Ashtami 2:25 AM Sep 4 to 12:13 AM Sep 5; Nishita puja 11:57 PM–12:43 AM
+  date_2027: 2027-08-25    # verified DrikPanchang — Ashtami 8:24 PM Aug 24 to 7:19 PM Aug 25; Nishita puja 12:01–12:45 AM
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - janmashtami
+  - krishna
+  - bhadrapada
+  - birth
+sources:
+  - "Bhagavata Purana, Skandha 10, Ch. 1-3 — Krishna janma, Devaki-Kansa arc, transfer to Gokul"
+  - "DrikPanchang — Janmashtami"
+scripture_ref: "Bhagavata Purana, Skandha 10, Ch. 1-3"
+status: reviewed

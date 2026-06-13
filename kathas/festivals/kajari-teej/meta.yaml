@@ -1,0 +1,26 @@
+slug: kajari-teej
+type: festival
+order: 15
+category: minor
+deity:
+  - Shiva
+  - Parvati
+panchang:
+  month: Bhadrapada
+  paksha: Krishna
+  tithi: Tritiya
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: north-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - teej
+  - shiva
+  - parvati
+  - bhadrapada
+sources:
+  - "Folk tradition (North India) — Parvati-Shiva reunion narrative; Shiva-Parvati mud-idol worship; no specific classical Purana chapter confirmed — scripture_ref TODO-VERIFY"
+  - "DrikPanchang — Kajari Teej"
+scripture_ref: "TODO-VERIFY (folk tradition; Shiva Purana / Skanda Purana general Parvati-Shiva corpus)"
+status: reviewed

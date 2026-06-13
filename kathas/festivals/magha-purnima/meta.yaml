@@ -1,0 +1,27 @@
+slug: magha-purnima
+type: festival
+order: 77
+category: minor
+deity:
+  - Vishnu
+  - Ganga
+panchang:
+  month: Magha
+  paksha: Shukla
+  tithi: Purnima
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - magha-purnima
+  - ganga
+  - snan
+  - vishnu
+  - magha
+sources:
+  - "Padma Purana — Magha snan Mahatmya katha"
+  - "DrikPanchang — Magha Purnima"
+scripture_ref: "Padma Purana"
+status: draft

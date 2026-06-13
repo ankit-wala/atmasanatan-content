@@ -80,13 +80,21 @@ Full schema is in `CONTENT_FORMAT.md` — read it before creating or editing ent
 
 ## Common tasks
 
-### Add a new festival / vrat
+### Write a katha entry (stub → reviewed)
+**Read `WRITING_GUIDE.md` first** — it is the complete 5-phase procedure with checklist.
+Short version:
+1. Read `scripture_ref` in `meta.yaml`. Find the source at wisdomlib.org or Gita Press.
+2. Verify `date_2026` + `date_2027` on DrikPanchang. Fill both fields in `meta.yaml`.
+3. Write `hi.md` first (Gita Press Hindi source; Katha 300–700w · Significance · Vidhi · Observance · Mantras). English (`en.md`) is translated from Hindi, not written independently.
+4. Pass the quality checklist in `WRITING_GUIDE.md`.
+5. `python3 build/to_book_manuscript.py --lang hi --include-drafts` — confirm it renders.
+6. Set `status: reviewed`. Translate hi.md → en.md → mr.md → gu.md → set `status: published`.
+
+### Add a brand-new entry (not already stubbed)
 1. `cp -r kathas/_template/festival-slug kathas/festivals/<slug>` (rename to the real slug).
-2. Fill `meta.yaml`; leave the date as `TODO-VERIFY` until checked against DrikPanchang.
-3. Write `en.md` first (canonical), then translate to `hi.md`, `mr.md`, `gu.md` — keeping the
-   section headings identical.
-4. Preview: `python build/to_book_manuscript.py --lang en --include-drafts`.
-5. Verify the date on DrikPanchang → set `status: reviewed` (then `published`).
+2. Fill `meta.yaml` completely including `scripture_ref`.
+3. Add the entry to `KATHA_CALENDAR.md` in the correct month block.
+4. Then follow the write procedure above.
 
 ### Build commands
 ```bash
@@ -106,7 +114,11 @@ then invoke the format skill.
 
 ## Languages
 `en` · `hi` · `mr` · `gu`. Each is its own `.md` with identical structure so any single language
-can be built independently. English is the canonical draft; others are translations of it.
+can be built independently.
+
+**Primary language is Hindi** (`hi.md`) for almost all entries — Gita Press Hindi editions are
+the working source text. Translation order: `hi.md` → `en.md` → `mr.md` → `gu.md`. Translate
+`mr.md` and `gu.md` from `hi.md`, not from `en.md`.
 
 ## First deliverable
 The **Festival & Vrat Companion** book (KDP paperback-first) — each festival folder is one

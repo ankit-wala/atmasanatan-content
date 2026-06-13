@@ -1,0 +1,27 @@
+slug: mangala-gauri-vrat
+type: vrat
+order: 9
+category: major
+deity:
+  - Gauri
+  - Parvati
+panchang:
+  month: Shravan
+  paksha: Shukla
+  tithi: Mangalvar
+  date_2026: TODO-VERIFY   # ~2026-08-04 (first Shravan Tuesday); 4 Mangalvars: Aug 4, 11, 18, 25 — verify DrikPanchang
+  date_2027: TODO-VERIFY
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - vrat
+  - gauri
+  - parvati
+  - shravan
+  - tuesday
+sources:
+  - "Skanda Purana — Mangala Gauri vrat katha; merchant couple katha; son born; serpent threat on 7th wedding night; akshat from Gauri puja protects (chapter TODO-VERIFY)"
+  - "DrikPanchang — Mangala Gauri Vrat"
+scripture_ref: "Skanda Purana (chapter TODO-VERIFY)"
+status: reviewed

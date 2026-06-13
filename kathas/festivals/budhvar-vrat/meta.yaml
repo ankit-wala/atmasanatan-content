@@ -1,0 +1,28 @@
+slug: budhvar-vrat
+type: vrat
+order: 217
+category: minor
+deity:
+  - Budha
+  - Ganesha
+panchang:
+  month: Ashwin
+  paksha: Shukla
+  tithi: Budhvar
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - budhvar
+  - wednesday
+  - budha
+  - ganesha
+  - vrat
+  - weekday
+sources:
+  - "Folk tradition — Budhvar vrat katha"
+  - "DrikPanchang — Budhvar Vrat"
+scripture_ref: "Folk tradition (oral)"
+status: draft

@@ -1,0 +1,26 @@
+slug: ganesh-chaturthi-janma
+type: festival
+order: 21
+category: major
+deity:
+  - Ganesha
+panchang:
+  month: Bhadrapada
+  paksha: Shukla
+  tithi: Chaturthi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ganesh-chaturthi
+  - ganesha
+  - bhadrapada
+  - birth
+sources:
+  - "Shiva Purana, Rudra Samhita, Kumara Khanda, Ch. 13 (Ganesha created from Parvati's ubtan/body paste), Ch. 16 (beheading by Shiva), Ch. 17 (Shiva's ganas go north; single-tusked elephant; elephant head transplanted), Ch. 18 (Agrapuja declaration: 'तुम्हारी पूजा सबसे पहले होगी'; Ganapati title)"
+  - "Brahma Vaivarta Purana, Ganesha Khanda 10.8–37 (alternate birth: Vishnu mounts Garuda, goes to Pushpa-Bhadra river for elephant head); Ch. 21 (Vishnu performs Pratham Puja, bestows eight names: Vighnesha, Ganesha, Heramba, Gajānana, Lambodara, Ekadanta, Shurpakarna, Vinayaka)"
+  - "DrikPanchang — Ganesh Chaturthi"
+scripture_ref: "Shiva Purana, Rudra Samhita, Kumara Khanda, Ch. 13–18"
+status: reviewed

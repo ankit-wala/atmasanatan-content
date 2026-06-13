@@ -1,0 +1,26 @@
+slug: sheetala-ashtami
+type: festival
+order: 82
+category: minor
+deity:
+  - Sheetala
+panchang:
+  month: Chaitra
+  paksha: Krishna
+  tithi: Ashtami
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: north-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - sheetala-ashtami
+  - sheetala
+  - chaitra
+  - cold-food
+  - north-india
+sources:
+  - "Skanda Purana — Sheetala Mata katha (North India Chaitra version)"
+  - "DrikPanchang — Sheetala Ashtami"
+scripture_ref: "Skanda Purana"
+status: draft

@@ -1,0 +1,28 @@
+slug: gudi-padwa
+type: festival
+order: 221
+category: minor
+deity:
+  - Brahma
+  - Rama
+panchang:
+  month: Chaitra
+  paksha: Shukla
+  tithi: Pratipada
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: maharashtra
+related_shlokas: []
+related_bhajans: []
+tags:
+  - gudi-padwa
+  - ugadi
+  - hindu-new-year
+  - chaitra
+  - maharashtra
+sources:
+  - "Brahma Purana — creation of the world on Chaitra Shukla Pratipada"
+  - "Valmiki Ramayana — Rama's return to Ayodhya (one tradition)"
+  - "DrikPanchang — Gudi Padwa / Ugadi"
+scripture_ref: "Brahma Purana"
+status: draft

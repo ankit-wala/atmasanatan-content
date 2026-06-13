@@ -1,0 +1,28 @@
+slug: mokshada-ekadashi
+type: ekadashi
+order: 64
+category: major
+deity:
+  - Vishnu
+  - Gita
+panchang:
+  month: Margashirsha
+  paksha: Shukla
+  tithi: Ekadashi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ekadashi
+  - vishnu
+  - gita-jayanti
+  - margashirsha
+  - moksha
+sources:
+  - "Brahma Vaivarta Purana — Mokshada Ekadashi katha"
+  - "Mahabharata, Bhishma Parva — Gita Jayanti context"
+  - "DrikPanchang — Mokshada Ekadashi / Gita Jayanti"
+scripture_ref: "Brahma Vaivarta Purana"
+status: draft

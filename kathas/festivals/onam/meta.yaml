@@ -1,0 +1,29 @@
+slug: onam
+type: festival
+order: 238
+category: major
+deity:
+  - Vamana
+  - Vishnu
+  - Bali
+panchang:
+  month: Bhadrapada
+  paksha: Shukla
+  tithi: Shravan-Nakshatra
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: kerala
+related_shlokas: []
+related_bhajans: []
+tags:
+  - onam
+  - vamana
+  - bali
+  - vishnu
+  - kerala
+  - harvest
+sources:
+  - "Bhagavata Purana, Skandha 8 — Bali-Vamana katha (Kerala Onam tradition)"
+  - "DrikPanchang — Onam / Thiruvonam"
+scripture_ref: "Bhagavata Purana, Skandha 8"
+status: draft

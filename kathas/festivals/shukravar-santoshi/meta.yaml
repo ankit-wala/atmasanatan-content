@@ -1,0 +1,25 @@
+slug: shukravar-santoshi
+type: vrat
+order: 107
+category: major
+deity:
+  - Santoshi Mata
+panchang:
+  month: Ashwin
+  paksha: Shukla
+  tithi: Shukravar
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - santoshi-mata
+  - friday
+  - shukravar
+  - vrat
+  - weekday
+sources:
+  - "Folk tradition — Santoshi Mata vrat katha (20th c. oral tradition; no Puranic source)"
+scripture_ref: "Folk tradition (oral, 20th century)"
+status: draft

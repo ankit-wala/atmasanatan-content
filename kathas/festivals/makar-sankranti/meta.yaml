@@ -1,0 +1,29 @@
+slug: makar-sankranti
+type: festival
+order: 67
+category: major
+deity:
+  - Surya
+  - Shani
+panchang:
+  month: Pausha
+  paksha: Shukla
+  tithi: Sankranti
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - makar-sankranti
+  - surya
+  - shani
+  - uttarayan
+  - pongal
+  - lohri
+sources:
+  - "Bhavishya Purana — Surya-Shani reconciliation katha"
+  - "Mahabharata — Bhishma's choice of death on Uttarayan"
+  - "DrikPanchang — Makar Sankranti"
+scripture_ref: "Bhavishya Purana / Mahabharata"
+status: draft

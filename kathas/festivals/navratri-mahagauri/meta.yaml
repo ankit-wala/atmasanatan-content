@@ -1,0 +1,26 @@
+slug: navratri-mahagauri
+type: festival
+order: 38
+category: major
+deity:
+  - Mahagauri
+  - Durga
+panchang:
+  month: Ashwin
+  paksha: Shukla
+  tithi: Ashtami
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - navratri
+  - durga
+  - mahagauri
+  - ashwin
+sources:
+  - "Markandeya Purana, Devi Mahatmya — Mahagauri swaroop"
+  - "DrikPanchang — Sharad Navratri Day 8"
+scripture_ref: "Markandeya Purana, Devi Mahatmya"
+status: draft

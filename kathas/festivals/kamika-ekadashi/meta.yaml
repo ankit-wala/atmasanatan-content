@@ -1,0 +1,25 @@
+slug: kamika-ekadashi
+type: ekadashi
+order: 6
+category: major
+deity:
+  - Vishnu
+panchang:
+  month: Shravan
+  paksha: Krishna
+  tithi: Ekadashi
+  date_2026: TODO-VERIFY   # ~2026-08-08 or 09 (Shravan Krishna Ekadashi) — verify DrikPanchang
+  date_2027: TODO-VERIFY
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ekadashi
+  - vishnu
+  - shravan
+  - tulsi
+sources:
+  - "Padma Purana, Uttara Khanda, Chapter 54 — Kamika Ekadashi; Krishna-Yudhishthira dialogue; Tulsi significance; phala-shruti"
+  - "DrikPanchang — Kamika Ekadashi"
+scripture_ref: "Padma Purana, Uttara Khanda, Chapter 54"
+status: reviewed

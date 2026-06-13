@@ -1,0 +1,24 @@
+slug: yogini-ekadashi
+type: ekadashi
+order: 1
+category: major
+deity:
+  - Vishnu
+panchang:
+  month: Ashadha
+  paksha: Krishna
+  tithi: Ekadashi
+  date_2026: 2026-07-10    # verified DrikPanchang — Ekadashi begins 8:16 AM Jul 10, ends 5:22 AM Jul 11
+  date_2027: 2027-06-30    # verified DrikPanchang — Ekadashi begins 10:03 PM Jun 29, ends 8:30 PM Jun 30
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ekadashi
+  - vishnu
+  - ashadha
+sources:
+  - "Padma Purana, Uttara Khanda, Chapter 52 — Hemamālin katha, Kubera's curse, Markandeya's remedy; ashtadasha kushtha (18 types of leprosy) verified from Chapter 52 text"
+  - "DrikPanchang — Yogini Ekadashi"
+scripture_ref: "Padma Purana, Uttara Khanda, Chapter 52"
+status: reviewed

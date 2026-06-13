@@ -1,0 +1,27 @@
+slug: shani-jayanti
+type: festival
+order: 97
+category: major
+deity:
+  - Shani
+  - Surya
+panchang:
+  month: Jyeshtha
+  paksha: Krishna
+  tithi: Amavasya
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - shani-jayanti
+  - shani
+  - surya
+  - chhaya
+  - jyeshtha
+sources:
+  - "Brahma Purana — Shani's birth from Surya-Chhaya"
+  - "DrikPanchang — Shani Jayanti"
+scripture_ref: "Brahma Purana"
+status: draft

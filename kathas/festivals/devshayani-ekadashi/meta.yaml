@@ -1,0 +1,25 @@
+slug: devshayani-ekadashi
+type: ekadashi
+order: 3
+category: major
+deity:
+  - Vishnu
+panchang:
+  month: Ashadha
+  paksha: Shukla
+  tithi: Ekadashi
+  date_2026: 2026-07-25    # verified DrikPanchang — Ekadashi begins 9:12 AM Jul 24, ends 11:34 AM Jul 25; Udaya tithi on Jul 25 → fast observed Jul 25
+  date_2027: 2027-07-14    # verified DrikPanchang
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ekadashi
+  - vishnu
+  - chaturmas
+  - ashadha
+sources:
+  - "Brahma Vaivarta Purana, Shri Krishna Janma Khanda, Adhyaya 26 — Ekadasi-vrata; Mandata–Angiras katha, Shankhasura, Vishnu yoganidra"
+  - "DrikPanchang — Devshayani Ekadashi"
+scripture_ref: "Brahma Vaivarta Purana, Shri Krishna Janma Khanda, Adhyaya 26"
+status: reviewed

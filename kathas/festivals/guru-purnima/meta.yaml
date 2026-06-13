@@ -1,0 +1,27 @@
+slug: guru-purnima
+type: festival
+order: 4
+category: major
+deity:
+  - Vyasa
+  - Vishnu
+panchang:
+  month: Ashadha
+  paksha: Shukla
+  tithi: Purnima
+  date_2026: 2026-07-29    # verified DrikPanchang — Purnima begins 6:18 PM Jul 28, ends 8:05 PM Jul 29; Udaya tithi Jul 29
+  date_2027: 2027-07-18    # verified DrikPanchang — Purnima begins 6:48 PM Jul 17, ends 9:14 PM Jul 18
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - guru-purnima
+  - vyasa
+  - purnima
+  - ashadha
+sources:
+  - "Mahabharata, Adi Parva, Ch. 60-63 — Parashara-Satyavati, Vyasa's birth and lineage"
+  - "Devi Bhagavata, Skandha 2 — Vyasa's birth"
+  - "DrikPanchang — Guru Purnima"
+scripture_ref: "Mahabharata, Adi Parva, Ch. 60-63"
+status: reviewed

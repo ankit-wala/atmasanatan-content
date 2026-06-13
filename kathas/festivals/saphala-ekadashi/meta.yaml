@@ -1,0 +1,24 @@
+slug: saphala-ekadashi
+type: ekadashi
+order: 66
+category: major
+deity:
+  - Vishnu
+panchang:
+  month: Pausha
+  paksha: Krishna
+  tithi: Ekadashi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ekadashi
+  - vishnu
+  - pausha
+sources:
+  - "Brahma Vaivarta Purana — Lumpaka / Kalimasa katha"
+  - "DrikPanchang — Saphala Ekadashi"
+scripture_ref: "Brahma Vaivarta Purana"
+status: draft

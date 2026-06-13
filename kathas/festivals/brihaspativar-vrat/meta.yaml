@@ -1,0 +1,29 @@
+slug: brihaspativar-vrat
+type: vrat
+order: 218
+category: major
+deity:
+  - Vishnu
+  - Brihaspati
+panchang:
+  month: Kartik
+  paksha: Shukla
+  tithi: Brihaspativar
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - brihaspativar
+  - thursday
+  - vishnu
+  - brihaspati
+  - vrat
+  - weekday
+  - guruvar
+sources:
+  - "Skanda Purana — Brihaspativar vrat katha (yellow clothing, banana puja)"
+  - "DrikPanchang — Brihaspativar / Guruvar Vrat"
+scripture_ref: "Skanda Purana (folk tradition)"
+status: draft

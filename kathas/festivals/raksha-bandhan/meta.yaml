@@ -1,0 +1,28 @@
+slug: raksha-bandhan
+type: festival
+order: 14
+category: major
+deity:
+  - Indra
+  - Vishnu
+panchang:
+  month: Shravan
+  paksha: Shukla
+  tithi: Purnima
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - raksha-bandhan
+  - shravan
+  - purnima
+  - brother-sister
+sources:
+  - "Bhavishya Purana, Uttara Parva, Adhyaya 137 — Shachi ties raksha-sutra on Indra's wrist; Devasura war; Brihaspati prescribes ritual; Indra wins; asuras learn reason from Shukracharya. Frame: Krishna tells Yudhishthira."
+  - "Skanda Purana, Shravana Mahatmya, Adhyaya 21 — Raksha Vidhan; Bhadra nakshatra timing caution"
+  - "Bhagavata Purana / Vishnu Purana — Vishnu-Bali-Lakshmi katha; Lakshmi ties thread on Bali as brother; Vishnu freed (exact skandha/chapter TODO-VERIFY)"
+  - "DrikPanchang — Raksha Bandhan"
+scripture_ref: "Bhavishya Purana, Uttara Parva, Adhyaya 137"
+status: reviewed

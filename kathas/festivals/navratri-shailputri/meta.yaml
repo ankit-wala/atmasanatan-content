@@ -1,0 +1,26 @@
+slug: navratri-shailputri
+type: festival
+order: 31
+category: major
+deity:
+  - Shailputri
+  - Durga
+panchang:
+  month: Ashwin
+  paksha: Shukla
+  tithi: Pratipada
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - navratri
+  - durga
+  - shailputri
+  - ashwin
+sources:
+  - "Markandeya Purana, Devi Mahatmya — Shailputri swaroop"
+  - "DrikPanchang — Sharad Navratri Day 1"
+scripture_ref: "Markandeya Purana, Devi Mahatmya"
+status: draft

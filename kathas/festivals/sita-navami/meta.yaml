@@ -1,0 +1,27 @@
+slug: sita-navami
+type: festival
+order: 91
+category: minor
+deity:
+  - Sita
+  - Rama
+panchang:
+  month: Vaishakha
+  paksha: Shukla
+  tithi: Navami
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - sita-navami
+  - sita
+  - rama
+  - vaishakha
+  - janaka
+sources:
+  - "Valmiki Ramayana — Sita janma katha (Janaka finds Sita in furrow)"
+  - "DrikPanchang — Sita Navami"
+scripture_ref: "Valmiki Ramayana"
+status: draft

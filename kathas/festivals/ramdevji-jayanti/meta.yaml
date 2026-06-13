@@ -1,0 +1,27 @@
+slug: ramdevji-jayanti
+type: festival
+order: 236
+category: minor
+deity:
+  - Ramdevji
+  - Vishnu
+panchang:
+  month: Bhadrapada
+  paksha: Shukla
+  tithi: Dwitiya
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: rajasthan
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ramdevji
+  - ramdev-baba
+  - bhadrapada
+  - rajasthan
+  - folk-deity
+sources:
+  - "Ramdev Purana (regional) — Ramdevji's life and miracles (Rajasthan folk tradition)"
+  - "DrikPanchang — Ramdevji Jayanti"
+scripture_ref: "Ramdev Purana (Rajasthan regional tradition)"
+status: draft

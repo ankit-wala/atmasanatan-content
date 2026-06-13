@@ -1,0 +1,25 @@
+slug: hal-shashthi
+type: festival
+order: 17
+category: minor
+deity:
+  - Balarama
+panchang:
+  month: Bhadrapada
+  paksha: Krishna
+  tithi: Shashthi
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: north-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - hal-shashthi
+  - balarama
+  - bhadrapada
+sources:
+  - "Bhagavata Purana (Srimad Bhagavatam), Skandha 10, Adhyaya 2, verses 6-15 — Balarama embryo transfer from Devaki to Rohini via Yogamaya; Sankarshana naming"
+  - "Vishnu Purana, Book IV, Chapter XV — Balarama/Sankarshana naming (corroborating)"
+  - "DrikPanchang — Hal Shashthi / Balarama Jayanti"
+scripture_ref: "Bhagavata Purana, Skandha 10, Adhyaya 2"
+status: reviewed

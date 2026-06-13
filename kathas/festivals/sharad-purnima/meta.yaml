@@ -1,0 +1,27 @@
+slug: sharad-purnima
+type: festival
+order: 42
+category: major
+deity:
+  - Lakshmi
+  - Krishna
+panchang:
+  month: Ashwin
+  paksha: Shukla
+  tithi: Purnima
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - sharad-purnima
+  - kojagari
+  - lakshmi
+  - ashwin
+  - moon
+sources:
+  - "Devi Bhagavata Purana — Lakshmi's night walk katha"
+  - "DrikPanchang — Sharad Purnima / Kojagari"
+scripture_ref: "Devi Bhagavata Purana"
+status: draft

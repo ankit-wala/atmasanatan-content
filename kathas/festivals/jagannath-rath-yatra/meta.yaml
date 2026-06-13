@@ -1,0 +1,26 @@
+slug: jagannath-rath-yatra
+type: festival
+order: 2
+category: major
+deity:
+  - Krishna
+  - Jagannath
+panchang:
+  month: Ashadha
+  paksha: Shukla
+  tithi: Dwitiya
+  date_2026: 2026-07-16    # verified DrikPanchang — Dwitiya begins 11:50 AM Jul 15, ends 8:52 AM Jul 16; Udaya tithi Jul 16
+  date_2027: 2027-07-05    # verified DrikPanchang — Dwitiya begins 4:50 AM Jul 5
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - rath-yatra
+  - krishna
+  - jagannath
+  - ashadha
+sources:
+  - "Skanda Purana, Vaishnava Khanda, Section 2 (Purushottama-kshetra-mahatmya) — Indradyumna katha (Ch. 10), Rath Yatra mahatmya (Ch. 34)"
+  - "DrikPanchang — Jagannath Rath Yatra"
+scripture_ref: "Skanda Purana, Vaishnava Khanda, Section 2, Ch. 10 & 34"
+status: reviewed

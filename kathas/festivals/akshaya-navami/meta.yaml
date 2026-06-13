@@ -1,0 +1,27 @@
+slug: akshaya-navami
+type: festival
+order: 56
+category: minor
+deity:
+  - Vishnu
+  - Amla
+panchang:
+  month: Kartik
+  paksha: Shukla
+  tithi: Navami
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - akshaya-navami
+  - amla-navami
+  - vishnu
+  - kartik
+  - amla
+sources:
+  - "Skanda Purana — Amla tree and Vishnu katha"
+  - "DrikPanchang — Akshaya Navami / Amla Navami"
+scripture_ref: "Skanda Purana"
+status: draft

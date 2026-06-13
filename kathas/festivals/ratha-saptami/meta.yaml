@@ -1,0 +1,25 @@
+slug: ratha-saptami
+type: festival
+order: 74
+category: minor
+deity:
+  - Surya
+panchang:
+  month: Magha
+  paksha: Shukla
+  tithi: Saptami
+  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+region: pan-india
+related_shlokas: []
+related_bhajans: []
+tags:
+  - ratha-saptami
+  - surya
+  - magha
+  - chariot
+sources:
+  - "Bhavishya Purana — Surya's chariot and Yashovarma katha"
+  - "DrikPanchang — Ratha Saptami"
+scripture_ref: "Bhavishya Purana"
+status: draft
