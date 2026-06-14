@@ -97,12 +97,18 @@ Short version:
 4. Then follow the write procedure above.
 
 ### Build commands
-```bash
-pip install -r build/requirements.txt        # PyYAML only
 
-python build/to_book_manuscript.py --lang en        # KDP manuscript (published/reviewed only)
-python build/to_book_manuscript.py --lang hi --include-drafts   # preview incl. drafts
-python build/to_backend_seed.py                      # app seed JSON for every entry
+> **Python note (macOS):** Use `/usr/bin/python3` (system Python 3.9.6) — it has PyYAML
+> pre-installed and the build scripts work reliably with it. Do NOT use Homebrew Python
+> (`/opt/homebrew/bin/python3`, currently 3.14) — it lacks PyYAML and has a libexpat ABI
+> mismatch that breaks the XML parser. Subagents should use `/usr/bin/python3` explicitly.
+
+```bash
+/usr/bin/pip3 install -r build/requirements.txt     # if PyYAML ever needs reinstalling
+
+/usr/bin/python3 build/to_book_manuscript.py --lang en        # KDP manuscript (published/reviewed only)
+/usr/bin/python3 build/to_book_manuscript.py --lang hi --include-drafts   # preview incl. drafts
+/usr/bin/python3 build/to_backend_seed.py                      # app seed JSON for every entry
 python build/to_reel_script.py --slug diwali --lang hi          # one reel script
 ```
 
