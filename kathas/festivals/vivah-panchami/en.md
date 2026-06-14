@@ -1,28 +1,133 @@
 ---
 slug: vivah-panchami
 lang: en
-title: "Vivah Panchami — Shri Ram aur Sita ka Vivah"
-subtitle: "TODO"
-summary: "TODO — one to two sentences."
-reel_hook: "TODO — scroll-stopping question."
+title: "Vivah Panchami — The Divine Wedding of Shri Ram and Sita"
+subtitle: "When Shiva's Pinaka shattered in Mithila — and the union of Ram and Sita was accomplished in the world"
+summary: "Vivah Panchami falls on Margashirsha Shukla Panchami. As narrated in the Bala Kanda of the Valmiki Ramayana — Shri Ram, who had come to Mithila with Maharshi Vishwamitra, fulfilled King Janak's seemingly impossible vow: he lifted Shiva's Pinaka bow, drew its string, and the great bow broke into two pieces. Mother Sita placed the jaya-mala around his neck, and the wedding of Ram and Sita was solemnised according to Vedic rites."
+reel_hook: "A bow that thousands of kings could not lift — a young prince broke it."
 ---
 
 ## Katha
 
-TODO — tell the story. Source: Valmiki Ramayana, Bala Kanda
+### The Vow of Mithila
+
+This katha is narrated in the Bala Kanda of the Valmiki Ramayana.
+
+King **Janak** of Mithila had made an unwavering vow regarding the marriage of his daughter **Sita** — whichever prince could lift Shiva's Pinaka bow and string it would be Sita's husband. The Pinaka was no ordinary bow — it was Shiva's divine weapon, one that even Ravana, conqueror of the three worlds, had been unable to move. Countless kings and emperors came, made their attempt, and departed in shame.
+
+In those same days, Maharshi **Vishwamitra** had taken King Dasharath's eldest son **Ram** and **Lakshman** into the forest to protect his yagna. After subduing the demons, Vishwamitra brought both young princes to Mithila — to witness Janak's yagna.
+
+When Janak learned that King Dasharath's sons had arrived with Maharshi Vishwamitra, he received them with all due honour. Vishwamitra gestured toward Ram and said — "O King, may these boys see that bow?"
+
+Janak's heart stirred. He had the Pinaka brought out.
+
+### The Breaking of the Bow
+
+The Pinaka lay inside a great iron chest. Hundreds of men pulled that chest into the hall. Ram rose. Vishwamitra gave silent assent in his heart. A deep stillness settled over the assembly.
+
+**Ram lifted that bow — as though doing some simple, everyday thing.**
+
+He then began to string it. The moment he drew the string taut — there arose a tremendous roar, as though lightning had struck, as though a mountain had split. The great bow broke apart into two pieces.
+
+The three worlds trembled. The assembled kings, seized with fear, fell to the ground. The earth of Mithila shook.
+
+Only Ram and Lakshman stood unmoved. And Vishwamitra smiled.
+
+### Sita's Jaya-Mala
+
+When the roar subsided, Janak's eyes filled with tears. That vow of his which all had believed impossible — it was fulfilled today.
+
+**Sita** was inside the palace. She was returning after worshipping Mother Gauri — with a single prayer in her heart: that the Ram she had glimpsed in the garden near the place of worship would become her husband.
+
+When the great roar of the bow breaking rang out, Sita understood.
+
+She came forward. In her hands was the jaya-mala.
+
+She stood before Ram. Ram looked at Sita. Sita looked at Ram.
+
+The union that happened in that moment — it was not merely the meeting of two persons. It was the meeting of dharma and shakti, of dignity and beauty, of Brahman and Prakriti.
+
+Sita placed the jaya-mala around Ram's neck.
+
+### The Fourfold Wedding
+
+Janak immediately sent word to Ayodhya. King Dasharath arrived in Mithila with his priest Vasishtha and the entire family. Maharshi Vishwamitra and Maharshi Vasishtha together planned the wedding ceremony.
+
+The wedding was not Ram and Sita's alone. All four brothers were wed together:
+
+- **Ram** to **Sita**
+- **Lakshman** to **Urmila**
+- **Bharat** to **Mandavi**
+- **Shatrughna** to **Shrutakirti**
+
+With the chanting of Vedic mantras, taking Agni as witness, the **saptapadi** — the seven sacred steps — was completed. Blessed by Brahmarshi Vishwamitra and Vasishtha, this wedding became renowned throughout all three worlds.
+
+Mithila was in celebration. Janakpur rang with joyful cries. The gods showered flowers from above.
+
+This was the day — **Margashirsha Shukla Panchami.**
+
+---
+
+In the tradition of the Valmiki Ramayana it is said — devotees who hear or recount this katha of the Ram-Sita wedding with devotion find that love and harmony dwell in their homes, their married life becomes as blissful as that of Ram and Sita, and the grace of both Shri Ram and Mother Sita remains with them always.
 
 ## Significance
 
-TODO — spiritual and cultural meaning.
+- **The union of dharma and shakti:** Ram is the embodiment of dharma — propriety, truth, and duty. Sita is the avatara of shakti — surrender, steadfastness, and compassion. Their wedding is not merely a royal ceremony — it is the joining of two foundational principles of creation. This is why this marriage is not merely worldly but cosmic.
+
+- **The breaking of the Pinaka — the impossible made real:** Thousands of kings had conceded defeat. Yet when the moment and the person are both right, the impossible shatters. Vivah Panchami reminds us that when a devotee's resolve and the Lord's grace come together, no obstacle endures.
+
+- **Festival at Janakpur and Ayodhya:** On this day, grand wedding celebrations are held at Janakpur Dham in Nepal and at Ayodhya in Uttar Pradesh. Images of Ram and Sita are adorned with finery and the wedding is conducted according to Vedic rites. Lakhs of devotees become witnesses to this divine marriage.
+
+- **A festival of blessings for newly-wed couples:** On this day, newly married couples go to the feet of Ram and Sita to seek their blessings. It is believed that hearing the katha of Ram and Sita's wedding brings an increase of love, devotion, and patience to married life.
+
+- **The especial sanctity of the month of Margashirsha:** In the Gita, the Lord has said — "māsānāṃ mārgaśīrṣo'ham" (Among months, I am Margashirsha). This Vivah Panchami, falling in this divine month, is considered all the more auspicious.
 
 ## Vidhi
 
-TODO — puja / vrat steps in order.
+The traditional puja-vidhi for Vivah Panchami:
+
+1. **Morning bath:** Rise at brahma-muhurta and bathe. Wear clean yellow or red clothing.
+
+2. **Installation of Ram and Sita:** Place an image or picture of Shri Ram and Mother Sita in the home puja room. If visiting a temple, be sure to take darshan of Ram and Sita.
+
+3. **Shodashopachara puja:** Bathe Ram and Sita with panchamrit. Offer yellow, red, and white flowers. Tulsi leaves must be offered — Ram holds tulsi especially dear.
+
+4. **Offering of suhaag articles:** Offer suhaag items — sindur, bangles, bindi, and a red chunari — to Mother Sita as symbolic offerings. This is considered especially auspicious for married women.
+
+5. **Hearing the Ram-Sita wedding katha:** Sit together as a family and hear the katha from the Bala Kanda of the Valmiki Ramayana or from the wedding passage of the Bala Kanda of the Ramcharitmanas. This is the very heart of this festival.
+
+6. **Wedding songs and bhajans:** On this day traditional wedding songs, sohars, and bhajans of Ram and Sita are sung. Create an atmosphere of celebration in the home.
+
+7. **Distribution of prasad:** Prepare panjiri, mishri, and prasad mixed with tulsi, and distribute it among family and neighbours.
 
 ## Observance
 
-TODO — fasting rules, timing, parana. (Required for vrats; optional for festivals.)
+- **Day:** Margashirsha Shukla Panchami.
+- **Special places:** Janakpur (Nepal) — a grand wedding celebration is held here, continuing for several days. Special events are also held in Ayodhya on this day.
+- **For newly-wed couples:** On this day newly married couples should worship Ram and Sita and receive their blessings. It is believed that this brings happiness and long life to married life.
+- **Married women:** Offer suhaag articles to Mother Sita and pray for devotion to one's husband and happiness as she had.
+- **Fasting:** There is no injunction for strict fasting on this day, but devotees who observe ekasana (one meal) out of devotion are said to receive special merit.
+- **What to do:** Read from the Ramcharitmanas or Valmiki Ramayana. Light a lamp near the tulsi plant. Chant the name of Ram.
+- **What to avoid:** Avoid quarrels and disputes on this day. This is a day of union and love.
 
 ## Mantras
 
-TODO — key shloka in Devanagari + transliteration + one-line meaning.
+**Sitaram Namaskar Mantra:**
+
+> सीतारामाभ्यां नमः
+
+sītārāmābhyāṃ namaḥ
+
+Meaning: Salutation to Lord Ram and Mother Sita.
+
+---
+
+**Shri Ram Namashtaka Shloka:**
+
+> रामाय रामभद्राय रामचन्द्राय वेधसे ।
+> रघुनाथाय नाथाय सीतायाः पतये नमः ॥
+
+rāmāya rāmabhadrāya rāmacandrāya vedhase |
+raghunāthāya nāthāya sītāyāḥ pataye namaḥ ||
+
+Meaning: Salutation to Ram, to Ramabhadra, to Ramachandra, to the creator, to Raghunatha, to the Lord of all, to the husband of Sita.
