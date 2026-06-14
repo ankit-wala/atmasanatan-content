@@ -23,4 +23,10 @@ sources:
   - "Devi Bhagavata Purana — Saraswati's manifestation katha"
   - "DrikPanchang — Vasant Panchami"
 scripture_ref: "Devi Bhagavata Purana"
-status: draft
+status: reviewed
+# reviewed 2026-06-14: fixed etymology (सर+स्व+ती → सार+स्व); clarified Vishnu-origin
+# (Devi Bhagavata) as primary manifestation tradition. Iconography verified (veena+pustaka+
+# akshamala+kamandalu). Pronouns correct (वे/उन्होंने for Brahma/Vishnu/Saraswati throughout).
+# IAST for Saraswati Vandana verified clean. Phala-shruti cites Devi Bhagavata Purana.
+# Mantra format correct (no italics, plain अर्थ:). date_2026/2027 still TODO-VERIFY — do not
+# promote to published until DrikPanchang dates confirmed.

@@ -23,4 +23,5 @@ sources:
   - "Mahabharata, Anushasana Parva — Bhishma's departure on Uttarayan"
   - "DrikPanchang — Bhishma Ashtami"
 scripture_ref: "Mahabharata"
-status: draft
+status: reviewed
+review_notes: "2026-06-14 — quality review passed. Facts verified: shara-shaiya, iccha-mrityu from Shantanu, Shanti/Anushasana Parva teaching, Magha Shukla Ashtami departure, 12 Mahajanas (Bhagavata), tarpan for those without male heirs. Pronoun check clean (all वे/उन्होंने for Bhishma/Yudhishthira/Krishna/Shantanu; demonstrative वह correctly left). All 5 sections present. Phala-shruti cites Mahabharata. IAST matches vaiyāghrapadya/sāṃkṛti/gaṃgāputrāya/ājanma-brahmacāriṇe exactly. Mantra format correct (no italics, no IAST: prefix, plain अर्थ:). date_2026/date_2027 still TODO-VERIFY — must be confirmed on DrikPanchang before publishing."

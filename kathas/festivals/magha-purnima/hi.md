@@ -23,7 +23,7 @@ reel_hook: "एक राजा ने अपना प्राण देकर
 
 तब दिलीप ने क्षण भर भी न सोचा। वे नन्दिनी और सिंह के बीच आ खड़े हुए और बोले — "हे सिंह, इस गाय की रक्षा करना मेरा धर्म है। यदि तुझे भोजन चाहिए तो मेरा यह शरीर ले ले। नन्दिनी को मत छूना।"
 
-उसी क्षण सिंह अदृश्य हो गया। वह सिंह स्वयं भगवान शिव की लीला थी — यह दिलीप की भक्ति और समर्पण की परीक्षा थी।
+उसी क्षण सिंह अदृश्य हो गया। वह सिंह भगवान शिव द्वारा भेजी गई परीक्षा था — दिलीप की भक्ति और समर्पण को जाँचने के लिए।
 
 नन्दिनी प्रसन्न हो गईं। उन्होंने कहा — "राजन्, तुमने सत्य में धर्म की रक्षा की। माँगो — क्या वर चाहते हो?" दिलीप ने हाथ जोड़कर कहा — "माता, एक तेजस्वी, धर्मात्मा पुत्र दीजिए।"
 
@@ -84,6 +84,8 @@ oṃ namo bhagavate vāsudevāya
 
 > माघे निमग्नाः सलिले सुशीते विमुक्तपापास्त्रिदिवं प्रयान्ति।
 
-māghe nimagnaḥ salile suśīte vimuktapāpāstridivam prayānti
+māghe nimagnāḥ salile suśīte vimuktapāpāstridivam prayānti
 
 अर्थ: माघ मास के शीतल जल में स्नान करने वाले पापों से मुक्त होकर स्वर्ग को जाते हैं।
+
+<!-- review: 2026-06-14 — 3 issues fixed: (1) gender mismatch on सिंह/लीला sentence restructured; (2) Kalidasa Raghuvamsha Sarga 2 added to sources and scripture_ref in meta.yaml (katha is drawn from that text, not only Padma Purana); (3) IAST nimagnaḥ → nimagnāḥ (long ā before visarga to match Devanagari निमग्नाः). Pronoun audit: Nandini वे/उन्होंने throughout — correct; Vasishtha वे/उन्होंने — correct; lion वह — correct. Facts verified against Raghuvamsha narrative. Dates remain TODO-VERIFY (DrikPanchang check required before publishing). status: reviewed. -->
