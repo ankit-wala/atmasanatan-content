@@ -84,10 +84,10 @@ Verify dates: drikpanchang.com → October 2026
 - [x] `navratri-kalaratri` · Ashwin Shukla Saptami · ~Oct 17 ✓ reviewed
 - [x] `navratri-mahagauri` · Ashwin Shukla Ashtami · ~Oct 18 ✓ reviewed
 - [x] `navratri-siddhidatri` · Ashwin Shukla Navami · ~Oct 19 ✓ reviewed
-- [ ] `vijayadashami` · Ashwin Shukla Dashami · ~Oct 20 *(hi.md written · pending Phase 6 review → en.md)*
-- [ ] `papankusha-ekadashi` · Ashwin Shukla Ekadashi · ~Oct 22 *(hi.md written · pending Phase 6 review → en.md)*
-- [ ] `sharad-purnima` · Ashwin Purnima · ~Oct 25–26 *(hi.md written · pending Phase 6 review → en.md)*
-- [ ] `karwa-chauth` · Kartik Krishna Chaturthi · ~Oct 29 *(hi.md written · pending Phase 6 review → en.md)*
+- [x] `vijayadashami` · Ashwin Shukla Dashami · ~Oct 20 ✓ reviewed *(en.md pending)*
+- [x] `papankusha-ekadashi` · Ashwin Shukla Ekadashi · ~Oct 22 ✓ reviewed *(en.md pending)*
+- [x] `sharad-purnima` · Ashwin Purnima · ~Oct 25–26 ✓ reviewed *(en.md pending)*
+- [x] `karwa-chauth` · Kartik Krishna Chaturthi · ~Oct 29 ✓ reviewed *(en.md pending)*
 
 ---
 
