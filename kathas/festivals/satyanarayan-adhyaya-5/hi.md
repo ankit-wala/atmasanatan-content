@@ -129,7 +129,7 @@ oṃ namo bhagavate vāsudevāya
 > क्षण में दूर करे। ॐ जय जगदीश हरे।
 
 oṃ jaya jagadīśa hare, svāmī jaya jagadīśa hare।
-bhakta janon ke saṃkaṭa, dāsa janon ke saṃkaṭa,
+bhakta janoṃ ke saṃkaṭa, dāsa janoṃ ke saṃkaṭa,
 kṣaṇa meṃ dūra kare। oṃ jaya jagadīśa hare।
 
 अर्थ: हे जगदीश (संसार के स्वामी), हे हरि — आपकी जय हो। भक्तों और दासों के संकट आप क्षण-भर में दूर कर देते हैं। यह आरती परंपरागत रूप से सत्यनारायण कथा की समाप्ति पर गाई जाती है और पूरे पूजन-वृत्त को पूर्ण करती है।
