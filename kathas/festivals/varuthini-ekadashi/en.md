@@ -1,28 +1,90 @@
 ---
 slug: varuthini-ekadashi
 lang: en
-title: "Varuthini Ekadashi — Raja Mandhata ki Katha"
-subtitle: "TODO"
-summary: "TODO — one to two sentences."
-reel_hook: "TODO — scroll-stopping question."
+title: "Varuthini Ekadashi"
+subtitle: "The armour of dharma against all sin — the liberation of King Mandhata"
+summary: "Varuthini Ekadashi falls on the Ekadashi of the Krishna Paksha of Vaishakh. 'Varuthini' means armour — this Ekadashi is an impenetrable shield against all sins and sorrows. In the Brahma Vaivarta Purana, Lord Krishna narrated to Yudhishthira the story of the chakravarti king Mandhata, who through the power of this vrat was freed from the sins of countless lifetimes and attained Vishnuloka."
+reel_hook: "A chakravarti emperor — who had everything — stood at a sage's door carrying the weight of sins from many births. One Ekadashi lifted that burden entirely."
 ---
 
 ## Katha
 
-TODO — tell the story. Source: Brahma Vaivarta Purana
+The Ekadashi of the Krishna Paksha of Vaishakh month is known as Varuthini Ekadashi. Once, King Yudhishthira asked Lord Krishna, "O Janardana, what is the name of the Ekadashi of Vaishakh Krishna Paksha, and what is its glory?" Krishna replied, "O King, the name of this Ekadashi is Varuthini Ekadashi. Varuthini means armour — it becomes an impenetrable varuthini for the devotee against all sins and sorrows. Hear its katha."
+
+In ancient times, in the lineage of Ikshvaku, there lived a supremely mighty king — Mandhata. He was a chakravarti emperor whose fame spread across all three worlds. The people of his kingdom were prosperous, his storehouses overflowed with grain and wealth, and every yajna was performed in accordance with the scriptures. To all appearances, his life was complete.
+
+Yet within, Mandhata was restless. The burden of karma accumulated across many lifetimes weighed upon his soul. The grandeur of his kingdom could not lighten that load. One day, leaving behind his priests and ministers, he set out alone for the ashram of Maharshi Vasishtha.
+
+Arriving at the ashram, he prostrated at the sage's feet and laid everything before him: "O Gurudeva, I have everything — a kingdom, renown, wealth. Yet my soul is heavy. Show me a path that destroys the sins of many lifetimes and grants this being the highest destination."
+
+Maharshi Vasishtha regarded him carefully, then spoke with tenderness: "O King, the answer lies within your own question. You have yourself experienced that worldly splendour, however vast, cannot quench the soul's thirst. There is one sure remedy. The Ekadashi of Vaishakh Krishna Paksha is called Varuthini Ekadashi. It is like a shield of dharma that burns all sins to ash, just as fire purifies gold by passing it through heat. Observe this vrat with complete devotion — nirjala fasting, night-vigil, and worship of Lord Madhusudana. This will be your varuthini."
+
+King Mandhata received his guru's instruction as a command upon his own head. On the day of Vaishakh Krishna Ekadashi, he rose at dawn, bathed, and put on white garments, and seated himself before the image of Lord Vishnu. That day he renounced not only food but even water — a complete nirjala vrat. Throughout the day he continued the japa of the Lord's name. At dusk he performed worship with flowers, tulasi, and sandal paste. Through the night he kept vigil — singing bhajans, reciting Vishnu Sahasranama, and meditating on the Lord's form.
+
+At dawn on Dvadashi, he performed the parana with tulasi leaves and water. The moment he broke his fast, a strange sensation came over him — as though the weight of years had lifted all at once. There was an extraordinary lightness in his heart, a divine peace. He knew then that the sins of many births had been reduced to ash.
+
+From that day onwards, even greater prosperity came to his kingdom. The people grew happier still. And at the end of his reign, King Mandhata attained the supreme abode of Lord Vishnu.
+
+It is declared in the tradition of the Brahma Vaivarta Purana that the merit of performing a shraddha at Gaya, making a pilgrimage to Kashi, or conducting a thousand Ashvamedha yajnas — none of these can equal the merit of a single vrat of Varuthini Ekadashi. This Ekadashi is the armour of dharma that no weapon can cut through, that no blow of time can pierce.
 
 ## Significance
 
-TODO — spiritual and cultural meaning.
+The root of the word "varuthini" is "varutha" — meaning armour. This Ekadashi is an impenetrable spiritual shield against all sins and sorrows. Just as a warrior dons armour before entering battle and the enemy's blows fall harmless, so too do the blows of sin and sorrow become ineffective upon the devotee who observes this Ekadashi.
+
+The katha of King Mandhata holds a profound philosophy. He was a chakravarti — one who possessed a kingdom, renown, power, everything. Yet his soul was restless. The message is this: external splendour, however immense, cannot grant the soul its peace. That peace comes only through devotion to God and the conduct of dharma. When Mandhata humbly sought the shelter of his guru and kept the vrat, only then did he receive that lightness which the wealth of all three worlds could not provide.
+
+The month of Vaishakh is itself supremely sacred — it is Lord Vishnu's beloved month. The Krishna Ekadashi falling within this month holds special glory. This is the time when summer is arriving — the influence of fire is growing. Just as the fierce heat of Vaishakh purifies metals, so too does this Ekadashi burn away the accumulated impurities of the soul.
 
 ## Vidhi
 
-TODO — puja / vrat steps in order.
+**Dashami (the day before Ekadashi):**
+- Take a single sattvic meal in the evening.
+- Renounce urad dal, meat, garlic, onion, and all tamasic substances.
+- Observe brahmacharya; keep the mind calm and focused.
+
+**On the day of Ekadashi:**
+1. Rise at Brahma Muhurta, bathe, and put on clean white or yellow garments.
+2. Light a ghee lamp before an image, shaligram, or picture of Lord Vishnu.
+3. Offer tulasi leaves, yellow flowers, sandal paste, incense, and naivedya.
+4. Perform shodashopachara worship while chanting "Om Namo Bhagavate Vasudevaya."
+5. Read or listen to the katha of Varuthini Ekadashi.
+6. Observe nirjala fast throughout the day; those unable due to health may take fruits and milk.
+7. In the evening, worship the Lord again and recite Vishnu Sahasranama.
+8. Keep night-vigil — bhajan-kirtan, Hari Nama japa, and meditation.
+
+**On Dvadashi:**
+- Perform parana after sunrise, within the Dvadashi tithi.
+- Begin parana with tulasi leaves and water.
+- Offer food and dakshina to a Brahmin to complete the vrat sankalpa.
 
 ## Observance
 
-TODO — fasting rules, timing, parana. (Required for vrats; optional for festivals.)
+**Fasting:** A complete nirjala vrat is most excellent and yields the highest fruit. Those who cannot observe nirjala for reasons of health may take fruits, milk, and water. Grain-food is prohibited on this day.
+
+**Prohibited:** Grain, urad dal, masoor dal, brinjal, garlic, onion, meat, falsehood, anger, speaking ill of others, and casting an improper glance upon another — all of these are forbidden during the Ekadashi vrat.
+
+**Parana:** On Dvadashi, perform parana after sunrise and before the Dvadashi tithi ends. Begin parana by taking tulasi leaves first. At the time of parana, offer this prayer: "O Madhusudana, this vrat is now complete — destroy all my sins and sorrows."
+
+**Night-vigil:** The night-vigil is an indispensable and especially fruitful part of this vrat. Spend the entire night in bhajans, kirtan, japa of Vishnu's name, or recitation of the Ekadashi Mahatmya. The vigil multiplies the fruit of the vrat many times over.
 
 ## Mantras
 
-TODO — key shloka in Devanagari + transliteration + one-line meaning.
+> ॐ नमो भगवते वासुदेवाय
+
+oṃ namo bhagavate vāsudevāya
+
+Meaning: O Lord Vasudeva, I bow to You.
+
+---
+
+> त्वमेव माता च पिता त्वमेव।
+> त्वमेव बन्धुश्च सखा त्वमेव।
+> त्वमेव विद्या द्रविणं त्वमेव।
+> त्वमेव सर्वं मम देव देव॥
+
+tvam eva mātā ca pitā tvam eva |
+tvam eva bandhuś ca sakhā tvam eva |
+tvam eva vidyā draviṇaṃ tvam eva |
+tvam eva sarvaṃ mama deva deva ||
+
+Meaning: O Lord, You alone are my mother, You alone are my father, You alone are my kinsman and my friend. You alone are my learning, You alone are my wealth. O God of gods, You alone are my everything.
