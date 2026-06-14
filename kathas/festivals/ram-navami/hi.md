@@ -80,7 +80,7 @@ Sri Rama jaya Rama jaya jaya Rama.
 
 tato yajñe samāpte tu ṛtūnāṃ ṣaṭ samatyayuḥ.
 tataśca dvādaśe māse caitre nāvamike tithau.
-nakṣatreʼditidevye svoccasaṃstheṣu pañcasu.
+nakṣatre 'ditidaivatye svoccasaṃstheṣu pañcasu.
 graheṣu karkaṭe lagne vākpatāv indunā saha.
 prodyamāne jagannāthaṃ sarvalokanamaskṛtam.
 kausalyājanayad rāmaṃ divyalakṣaṇasaṃyutam.
