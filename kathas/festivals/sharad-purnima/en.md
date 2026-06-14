@@ -1,28 +1,106 @@
 ---
 slug: sharad-purnima
 lang: en
-title: "Sharad Purnima — Kojagari Lakshmi Puja"
-subtitle: "TODO"
-summary: "TODO — one to two sentences."
-reel_hook: "TODO — scroll-stopping question."
+title: "Sharad Purnima (Kojagari)"
+subtitle: "The night Lakshmi asks — Ko Jaagar? Who is awake?"
+summary: "Sharad Purnima falls on the full moon of Ashwin Shukla Paksha. It is also called 'Kojagari Purnima' — on this night Goddess Lakshmi walks the earth and asks, 'Ko Jaagrati?' — who is awake? Those who keep vigil and worship her receive her blessings."
+reel_hook: "One night a year, Lakshmi herself goes from door to door — and the house that is asleep, she passes by empty-handed."
 ---
 
 ## Katha
 
-TODO — tell the story. Source: Devi Bhagavata Purana
+The full-moon night of the month of Ashwin. Autumn has arrived in her fullness — the sky is clear, the air is cool, and the moon has risen complete in all sixteen of its phases. This is the night when the distance between heaven and earth grows smallest.
+
+The tradition of the Devi Bhagavata Purana tells us — on this night, Goddess Lakshmi descends from Vaikuntha to walk among us on earth.
+
+Clad in white, a lotus in her hand, she moves through the moonlight — city to city, village to village, lane to lane. She pauses at every doorstep. And she asks — *"Ko Jaagrati?"* — who is awake?
+
+Where she finds devotees keeping watch — a lamp burning, kheer laid out as offering, the name of Lord Vishnu on their lips, gratitude alive in their hearts — there she lingers. Her grace falls upon that household. Wealth, health, children, prosperity — whatever is asked for, she gives.
+
+But the house where everyone lies asleep — she passes by in silence.
+
+This is why the night is called "Kojagari Purnima." *Ko Jaagrati* — to the one who is awake, it is given.
+
+This night carries another tradition — kheer. Rice pudding made with milk and mishri is placed outdoors overnight, open to the sky, directly under the moon's gaze. Both scripture and Ayurveda hold that the moonbeams of Sharad Purnima are no ordinary light — they carry amrita, the nectar of life, a cooling and life-giving force. Bathed in those rays through the night, the kheer becomes prasad equal to amrit itself.
+
+---
+
+And this night holds yet another mystery — the mystery of Vrindavan.
+
+For this is the very night on which Lord Sri Krishna performed the Maharaas in Vrindavan.
+
+On the banks of the Yamuna, in the soft silver light of the full moon, the gopis came out of their homes — drawn by the call of Sri Krishna's flute. Every gopi carried the same longing in her heart: let Krishna be mine alone. Each love was solitary, each longing was singular.
+
+And then Sri Krishna's yogamaya wove that wondrous lila — he was present with each of them, all at once. Every gopi felt that Krishna stood before her alone, held only her hand, looked only into her eyes. The circle of the Raas was formed — and within that circle, the Lord answered every soul with the fullness of his own being.
+
+The Raas was not merely a dance — it was the union of the atma with the Paramatma. The answer to the lonely longing of the jiva, in which the Lord says — *"I am with you. I always was. I always will be."*
+
+The night of Sharad Purnima holds both these traditions together — Lakshmi's vigil and Krishna's Raas.
+
+The tradition of the Devi Bhagavata Purana says: whoever stays awake on this night and worships Goddess Lakshmi with devotion, and receives the blessed kheer as prasad — that person shall want for nothing in this life, and as a devotee of Sri Hari shall at last attain Vaikuntha.
 
 ## Significance
 
-TODO — spiritual and cultural meaning.
+**"Ko Jaagrati?" — to the one who is awake, it is given.**
+
+The very name Kojagari captures the essence of this festival — it is a celebration of wakefulness. Lakshmi's question is not merely about staying physically awake; it is a question about spiritual awakening. The one who has roused themselves from the sleep of worldly attachment and rests in the remembrance of God — that is true wakefulness.
+
+**The Moon of Sharad Purnima — complete in all sixteen phases.**
+
+In Indian tradition, the moon is said to possess sixteen kalas, or phases of fullness. On the night of Sharad Purnima, the moon is complete in all sixteen — this night is considered the most luminous of the entire year. Ayurveda regards the moon's rays as cooling, medicinal, and infused with amrita. This is why the kheer kept in the open air on this night is held to carry healing significance.
+
+**Krishna's Maharaas — the union of the atma with the Paramatma.**
+
+Sharad Purnima is the setting for the Raas Panchadhyayi of the Bhagavata Purana — the passage in which Sri Krishna performed the Maharaas in Vrindavan. In Indian spirituality, this Raas is the supreme metaphor for the union of the jiva with Brahman.
+
+**Regional expressions:**
+- In **Bengal and Odisha**, this night is observed as "Kojagari Lakshmi Puja" — a special worship of Lakshmi in every household.
+- In **Maharashtra**, there is the tradition of "Kothi" — making kheer (kothi) and distributing it as prasad.
+- In **North India**, it is also called "Raas Purnima" — in Vrindavan and Mathura, special living tableaux of the Maharaas are arranged.
+- **Kaumudi Mahotsav** — the scriptures call the night of Sharad Purnima "Kaumudi" — a festival celebrated in the soft radiance of the moon.
 
 ## Vidhi
 
-TODO — puja / vrat steps in order.
+The worship of Sharad Purnima is performed at night — this is a festival of the night.
+
+1. **Bathe at dusk.** Wear clean, white or light yellow clothing.
+2. **Prepare the kheer.** Make rice pudding with milk, rice, and mishri (or sugar). Place the kheer in an earthen or silver vessel.
+3. **Arrange the place of worship in the evening.** Place an image or murti of Goddess Lakshmi and Lord Vishnu. Light a ghee lamp, and offer flowers, tulsi, and akshat.
+4. **Place the kheer under the open sky.** After the moon rises, set the vessel of kheer in the courtyard, on the roof, or on a windowsill — wherever the moonbeams fall directly upon it.
+5. **Perform Lakshmi puja.** Offer kheer, fruit, and flowers to Goddess Lakshmi. Chant the Lakshmi mantra.
+6. **Keep the vigil.** Stay awake through the whole night, or for as long as possible — with bhajans, kirtan, remembrance of Lord Vishnu, or recitation of the Ramayana or Bhagavata.
+7. **At dawn — offer salutations to the moon, then receive the kheer as prasad.**
+
+**Date (2026):** Ashwin Shukla Purnima — confirm on DrikPanchang. (In October 2026 — TODO-VERIFY.)
 
 ## Observance
 
-TODO — fasting rules, timing, parana. (Required for vrats; optional for festivals.)
+**Fasting:** Sharad Purnima is primarily a festival of vigil and worship, not of fasting. In most traditions, observing a strict fast on this day is not required. It is, however, appropriate to eat light and sattvic food during the day, so that the mind remains steady for the night's devotions.
+
+**Night vigil:** This is the central act of the festival. The longer the vigil, the greater the merit — so the tradition holds. Staying awake until midnight, or through the entire night, is considered the highest observance.
+
+**Kheer prasad:** The kheer that has rested in the moonlight through the night should be distributed among the entire family as prasad the following morning. It is held to be both medicinal and meritorious.
+
+**Arghya to the moon:** On the full-moon night, offering water as arghya to the full moon is auspicious.
 
 ## Mantras
 
-TODO — key shloka in Devanagari + transliteration + one-line meaning.
+**Lakshmi worship mantra — for the vigil and puja:**
+
+> ॐ श्रीं महालक्ष्म्यै नमः
+
+Oṃ Śrīṃ Mahālakṣmyai Namaḥ
+
+Meaning: "Salutations to Goddess Mahalakshmi."
+
+---
+
+**Lakshmi shloka — at the close of worship:**
+
+> नमस्ते सर्वदेवानां वरदासि हरिप्रिये ।
+> या गतिस्त्वत्प्रपन्नानां सा मे भूयात् त्वदर्चनात् ॥
+
+Namaste sarvadevānāṃ varadāsi haripriye |
+yā gatistvat-prapannānāṃ sā me bhūyāt tvadarchanāt ||
+
+Meaning: "O Beloved of Hari, you who grant boons to all the gods — may I, through my worship of you, attain the same destination that those who take refuge in you are granted."
