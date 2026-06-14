@@ -114,3 +114,24 @@ sarvadharmān parityajya māmekaṃ śaraṇaṃ vraja |
 ahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ ||
 
 अर्थ: सभी धर्मों को छोड़कर केवल मेरी शरण में आ जाओ — मैं तुम्हें सभी पापों से मुक्त करूँगा, शोक मत करो। (गीता 18.66)
+
+<!-- REVIEW 2026-06-14
+Reviewer: Claude Code quality pass
+
+FACTS: All core facts verified against Brahma Vaivarta Purana tradition.
+- Vaikhanasa's dream of father in naraka — present and correct.
+- Parvata Muni (not another rishi) — correct.
+- Remedy: Mokshada Ekadashi vrat + punya transfer to father — correct.
+- Divine light then chariot carrying father to Vishnu-loka — present (line "दिव्य प्रकाश-पुष्प ... दिव्य रथ ... विष्णु-लोक"). Minor note: "प्रकाश-पुष्प" is an uncommon coinage; standard tellings describe a divine radiance/light, not a flower-of-light. The chariot and Vishnu-loka destination are intact. Not a factual error; acceptable as literary rendering.
+- Gita Jayanti = Margashirsha Shukla Ekadashi — correct.
+- Gita 18.66 as second mantra — correct verse, IAST verified character-by-character.
+- No invented scriptural events found.
+
+PRONOUNS: All named characters (Vaikhanasa, his father, Parvata Muni, Arjuna, Krishna) consistently use वे/उन्होंने. No violations found.
+
+MANTRA FORMAT: Both mantras — Devanagari blockquote, plain IAST (no italics, no "IAST:" prefix), plain अर्थ. Correct.
+
+STRUCTURE: All five sections present in order (Katha · Significance · Vidhi · Observance · Mantras). Both narrative threads woven throughout. Phala-shruti citing Brahma Vaivarta Purana present at end of Katha (line beginning "ब्रह्म वैवर्त पुराण की परंपरा में...").
+
+ACTION REQUIRED BEFORE PUBLISHING: Verify date_2026 and date_2027 on DrikPanchang and fill meta.yaml fields. Then set status: published.
+-->

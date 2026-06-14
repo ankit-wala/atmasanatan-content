@@ -24,4 +24,9 @@ sources:
   - "Skanda Purana — Khandoba katha (Maharashtra regional)"
   - "DrikPanchang — Champa Shashthi"
 scripture_ref: "Skanda Purana"
-status: draft
+status: reviewed
+# reviewed 2026-06-14 — three issues fixed in hi.md:
+# 1. Katha panchang: "कृष्ण प्रतिपदा" → "शुक्ल प्रतिपदा" (festival is Margashirsha Shukla Shashthi; 6-day battle runs Shukla Pratipada→Shashthi)
+# 2. Vidhi panchang: "कृष्ण चतुर्दशी" → "शुक्ल प्रतिपदा" (same paksha fix + wrong starting tithi corrected)
+# 3. Narrative fix: Mani-Malla were NOT killed then made servants — they surrendered before the killing blow and were spared as doorkeepers; text rewritten to match the traditional version
+# date_2026 / date_2027 remain TODO-VERIFY pending DrikPanchang lookup before publishing

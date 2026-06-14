@@ -131,3 +131,5 @@ rāmāya rāmabhadrāya rāmacandrāya vedhase |
 raghunāthāya nāthāya sītāyāḥ pataye namaḥ ||
 
 अर्थ: राम को, रामभद्र को, रामचंद्र को, विधाता को, रघुनाथ को, सभी के नाथ को, सीता के पति को नमन।
+
+<!-- reviewed 2026-06-14: facts verified against Valmiki Ramayana Bala Kanda — Vishwamitra's escort to Mithila, Pinaka as Shiva's bow, correct lift-string-break sequence, Sita's jaya-mala, all four marriages correct, both Vishwamitra and Vasishtha present. Pronoun audit: no वह/उसने applied to any named character; all वह/उस occurrences refer to inanimate objects (bow, vow, moment). Structure: all 5 sections present, phala-shruti cites Valmiki Ramayana. Mantra format: plain IAST, no italics, अर्थ present. No issues found. status set to reviewed. -->
