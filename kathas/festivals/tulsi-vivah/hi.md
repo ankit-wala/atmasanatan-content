@@ -111,7 +111,7 @@ reel_hook: "विष्णु ने एक भक्त पत्नी को
 > तुलसीं विवाहयामि विष्णुना सह शोभने ।
 > मया कृतं पुण्यकर्म सर्वदोषं व्यपोहतु ॥
 
-*Tulasīṃ vivāhayāmi viṣṇunā saha śobhane | mayā kṛtaṃ puṇyakarma sarvadoṣaṃ vyapohatu ||*
+Tulasīṃ vivāhayāmi viṣṇunā saha śobhane | mayā kṛtaṃ puṇyakarma sarvadoṣaṃ vyapohatu ||
 
 अर्थ: "मैं शोभना तुलसी का विवाह विष्णु के साथ संपन्न करता/करती हूँ — मेरा यह पुण्य कर्म सब दोषों को हरे।"
 
@@ -122,6 +122,9 @@ reel_hook: "विष्णु ने एक भक्त पत्नी को
 > तुलस्यमृतजन्मासि सदा त्वं विष्णुवल्लभा ।
 > नमस्तुभ्यं देवदेवि पापं हर हरिप्रिये ॥
 
-*Tulasyamṛtajanmāsi sadā tvaṃ viṣṇuvallabhā | namastubhyaṃ devadevi pāpaṃ hara haripriye ||*
+Tulasyamṛtajanmāsi sadā tvaṃ viṣṇuvallabhā | namastubhyaṃ devadevi pāpaṃ hara haripriye ||
 
 अर्थ: "हे तुलसी, तुम अमृत से उत्पन्न हो, सदा विष्णुप्रिया हो — हे देवदेवी, हरिप्रिये, हमारे पाप हरो।"
+
+<!-- REVIEW 2026-06-14: Facts verified against Padma Purana Uttara Khanda — sequence correct (Vrinda pativrata → Vishnu deception → chastity broken → Jalandhara defeated by Shiva → Shaligrama curse → Tulsi boon). No invented events. All named-character pronouns correctly वे/उन्होंने throughout; demonstrative "वह" (line 18 "वह रहस्य", line 44 "वह काली शिला") correctly left unchanged. All 5 sections present; phala-shruti cites Padma Purana. Fix applied: IAST transliterations on both mantras stripped of *italics* wrapper. date_2026/date_2027 remain TODO-VERIFY — do not publish until verified on DrikPanchang. status set to reviewed. -->
+

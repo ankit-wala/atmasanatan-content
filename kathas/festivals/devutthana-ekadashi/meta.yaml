@@ -23,4 +23,5 @@ sources:
   - "Brahma Vaivarta Purana — Vishnu wakes from yoganidra"
   - "DrikPanchang — Devutthana / Dev Prabodhini Ekadashi"
 scripture_ref: "Brahma Vaivarta Purana"
-status: draft
+status: reviewed
+review_note: "Reviewed 2026-06-14. Facts correct (Devshayani sleep, Shankhasura, Tulsi first wake, Chaturmas end, Tulsi Vivah Ekadashi/Dwadashi). All 5 sections present, phala-shruti in Katha. Pronouns correct throughout (वे/उन्होंने for Vishnu/Tulsi/Sheshnag; वह used only demonstratively). Fixed: removed italics (*) from both IAST transliterations. date_2026/date_2027 remain TODO-VERIFY — must be set before publishing."

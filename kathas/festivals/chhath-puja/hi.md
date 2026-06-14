@@ -3,7 +3,7 @@ slug: chhath-puja
 lang: hi
 title: "छठ पूजा (सूर्य षष्ठी)"
 subtitle: "उगते और डूबते सूर्य को अर्घ्य — और द्रौपदी ने जो व्रत किया, उससे पांडवों का भाग्य बदला"
-summary: "छठ पूजा कार्तिक शुक्ल षष्ठी को है। 'छठ' = षष्ठी (6th day)। यह सूर्यदेव और छठी मैया (सूर्य की षष्ठ पत्नी/शक्ति) की आराधना है। स्कंद पुराण में वर्णित द्रौपदी की कथा इस व्रत का आधार है — वनवास में पांडवों ने जब धूमिल मुनि के शाप से सब कुछ खोया, द्रौपदी ने सूर्य षष्ठी व्रत किया।"
+summary: "छठ पूजा कार्तिक शुक्ल षष्ठी को है। 'छठ' = षष्ठी (6th day)। यह सूर्यदेव और छठी मैया (सूर्य की षष्ठ पत्नी/शक्ति) की आराधना है। स्कंद पुराण में वर्णित द्रौपदी की कथा इस व्रत का आधार है — वनवास में पांडवों ने जब संकट में सब कुछ खोया, कुलगुरु धौम्य ऋषि के मार्गदर्शन में द्रौपदी ने सूर्य षष्ठी व्रत किया।"
 reel_hook: "वनवास में पांडवों के पास खाना नहीं था। द्रौपदी चार दिन खड़ी रहीं पानी में — डूबते और उगते सूर्य को अर्घ्य देती रहीं। सूर्यदेव ने सब लौटाया।"
 ---
 
@@ -87,3 +87,25 @@ Oṃ jaya chaṭhī maiyā, chaṭhī maiyā jaya ho |
 sūrya ṣaṣṭhī vrata terā, santāna sukhī sadā ho ||
 
 अर्थ: "छठी मैया की जय हो। तुम्हारे इस सूर्य षष्ठी व्रत से संतान सदा सुखी रहे।"
+
+<!--
+REVIEW — 2026-06-14
+Reviewer: Claude (quality pass)
+Status set: draft → reviewed
+
+Issues found and fixed:
+1. [hi.md summary, front-matter] "धूमिल मुनि" was a corruption of the advisor's name.
+   Fixed to "कुलगुरु धौम्य ऋषि" — consistent with the body of the katha (lines 14, 18).
+
+All other checks passed:
+- Facts: Draupadi/vanvas katha correct per Skanda Purana tradition; Dhaumya Rishi as advisor
+  is consistent in katha body; Akshaya Patra connection to Surya blessing correct; four-day
+  structure (nahay-khay → kharna → sandhya arghya → usha arghya) accurate; setting-sun
+  worship correctly described and theologically explained.
+- Pronouns: All named characters (Draupadi, Dhaumya Rishi, Suryadev) use वे/उन्होंने throughout.
+  All "वह/उस" occurrences are demonstrative (referring to objects or places), not personal pronouns.
+- Structure: All 5 sections present in order. Phala-shruti present at end of Katha. Mantras intact.
+- Mantra format: No italics, no "IAST:" prefix. Plain IAST + plain अर्थ. Correct.
+- date_2026/date_2027 remain TODO-VERIFY — do not publish until verified on DrikPanchang.
+-->
+

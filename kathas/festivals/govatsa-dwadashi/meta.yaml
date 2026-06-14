@@ -24,4 +24,8 @@ sources:
   - "Skanda Purana — Govatsa / Vasu Baras katha"
   - "DrikPanchang — Govatsa Dwadashi / Vasu Baras"
 scripture_ref: "Skanda Purana"
-status: draft
+status: reviewed
+# Reviewed 2026-06-14. Two fixes applied to hi.md:
+# 1. Removed incorrect Nandī/"gau-parivar" conflation (Nandī is Shiva's bull, not of the cow lineage).
+# 2. Replaced approximate "~Nov 5" date with TODO-VERIFY per policy (DrikPanchang not yet confirmed).
+# Pronoun audit clean. Mantra format clean. All 5 sections present. Phala-shruti cites Skanda Purana.

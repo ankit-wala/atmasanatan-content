@@ -24,4 +24,5 @@ sources:
   - "Shiva Purana — Tripurasura vadh katha"
   - "DrikPanchang — Dev Diwali / Kartik Purnima"
 scripture_ref: "Shiva Purana"
-status: draft
+status: reviewed
+# reviewed 2026-06-14 — fixed शेषनाग→वासुकि (bowstring), removed *italics* from IAST, fixed reel_hook intransitive-ने construction; pronouns clean, structure complete, phala-shruti present

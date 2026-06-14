@@ -24,4 +24,5 @@ sources:
   - "Bhagavata Purana, Skandha 10 — Govardhan Dhari Krishna lila"
   - "DrikPanchang — Govardhan Puja / Annakut"
 scripture_ref: "Bhagavata Purana, Skandha 10"
-status: draft
+status: reviewed
+review_notes: "hi.md reviewed 2026-06-14. Facts verified against Bhagavata 10.25: kanishtha ungali correct, 7-day storm correct, Indra's apology correct, local-nature theology faithfully represented. No invented events. Pronoun rule (वे/उन्होंने for all named characters) followed throughout. Structure complete (all 5 sections, phala-shruti present). Fixed: removed *italics* from both IAST transliterations; corrected diacritic š→ś in praṇataklešanāśanāya (Mantra 1). Dates remain TODO-VERIFY — must confirm Kartik Shukla Pratipada 2026 + 2027 on DrikPanchang before publishing."

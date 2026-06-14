@@ -23,4 +23,5 @@ sources:
   - "Padma Purana — Chitragupta's creation katha"
   - "DrikPanchang — Chitragupta Puja"
 scripture_ref: "Padma Purana"
-status: draft
+status: reviewed
+review_notes: "2026-06-14 — reviewed hi.md. Fixed internal inconsistency: Chitragupta's origin in his direct speech was 'चित्त' (mind) while the subtitle, summary, and Kayastha paragraph all correctly said 'काया' (body), per Padma Purana kaya origin. Changed speech line to 'काया' and 'संकल्प' to align all four places. Pronouns correct throughout (वे/उन्होंने for all named characters). All 5 sections present; phala-shruti present; mantra IAST plain (no italics/prefix); Kayastha etymology correct. date_2026/date_2027 remain TODO-VERIFY — must confirm Kartik Shukla Dwitiya date on DrikPanchang before publishing."

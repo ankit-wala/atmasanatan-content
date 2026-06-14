@@ -24,4 +24,5 @@ sources:
   - "Skanda Purana — Yama visits Yamuna katha"
   - "DrikPanchang — Bhai Dooj / Yama Dwitiya"
 scripture_ref: "Skanda Purana"
-status: draft
+status: reviewed
+# reviewed 2026-06-14 — facts correct (Yama-Yamuna as Surya twins, Kartik Shukla Dwitiya visit, boon per Skanda Purana); pronouns correct (all named chars वे/उन्होंने); all 5 sections present; phala-shruti present; mantras plain IAST + अर्थ. date_2026/date_2027 still TODO-VERIFY — do not publish until DrikPanchang check.

@@ -89,8 +89,8 @@ reel_hook: "चार महीने से भगवान विष्णु 
 > उत्तिष्ठ गोविंद त्यज निद्रां जगत्पते ।
 > त्वयि सुप्ते जगत् सुप्तं उत्थिते चोत्थितं भवेत् ॥
 
-*Uttiṣṭha Govinda tyaja nidrāṃ jagatpate |
-tvayi supte jagat suptaṃ utthite cottithaṃ bhavet ||*
+Uttiṣṭha Govinda tyaja nidrāṃ jagatpate |
+tvayi supte jagat suptaṃ utthite cottithaṃ bhavet ||
 
 अर्थ: "उठिए, गोविंद, निद्रा त्यागिए, जगत्पते — आपके सोने पर जगत सोया था, आपके उठने पर जगत उठेगा।"
 
@@ -101,7 +101,7 @@ tvayi supte jagat suptaṃ utthite cottithaṃ bhavet ||*
 > तुलस्यमृतजन्मासि सदा त्वं विष्णुवल्लभा ।
 > नमस्तुभ्यं देवदेवि पापं हर हरिप्रिये ॥
 
-*Tulasyamṛtajanmāsi sadā tvaṃ viṣṇuvallabhā |
-namastubhyaṃ devadevi pāpaṃ hara haripriye ||*
+Tulasyamṛtajanmāsi sadā tvaṃ viṣṇuvallabhā |
+namastubhyaṃ devadevi pāpaṃ hara haripriye ||
 
 अर्थ: "हे तुलसी, तुम अमृत से उत्पन्न हो, सदा विष्णुप्रिया हो — हे देवदेवी, हरिप्रिये, हमारे पाप हरो।"

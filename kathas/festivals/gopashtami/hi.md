@@ -113,6 +113,6 @@ gopālāya govardhanadharāya namo namaḥ ||
 > सुरभे सर्वदेवानां माता रुद्राणां नमोस्तु ते ॥
 
 Kṣīrodārṇavasambhūte surāsuranamaskṛte |
-surabhe sarvdevānāṃ mātā rudrāṇāṃ namostu te ||
+surabhe sarvadevānāṃ mātā rudrāṇāṃ namostu te ||
 
 अर्थ: "क्षीर-सागर से प्रकट, देव-असुरों द्वारा पूजित, समस्त देवताओं की और रुद्रों की माता — सुरभि गाय को नमस्कार।"

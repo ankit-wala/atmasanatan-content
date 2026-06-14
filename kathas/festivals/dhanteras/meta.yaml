@@ -26,4 +26,7 @@ sources:
   - "Skanda Purana — King Hima's son katha"
   - "DrikPanchang — Dhanteras"
 scripture_ref: "Bhagavata Purana, Skandha 8"
-status: draft
+status: reviewed
+# Phase 6 review: PASS (2 fixes applied) — 2026-06-14
+# Fixes: (1) phala-shruti added at end of Katha; (2) IAST typo trailokyhanāthāya → trailokyānāthāya
+# Note: date_2026 / date_2027 still TODO-VERIFY — verify on DrikPanchang before setting published
