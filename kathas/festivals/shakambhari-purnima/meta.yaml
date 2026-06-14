@@ -23,4 +23,16 @@ sources:
   - "Devi Bhagavata Purana — Shakambhari Devi katha"
   - "DrikPanchang — Shakambhari Purnima"
 scripture_ref: "Devi Bhagavata Purana"
-status: draft
+status: reviewed
+review_notes: |
+  Reviewed 2026-06-14. Two issues found and fixed in hi.md:
+  1. FABRICATED DETAIL REMOVED — Durvasa Muni had been inserted into the rishis' prayer scene; this
+     character does not appear in the Devi Bhagavata Shakambhari episode and was an unsourced
+     interpolation. The sentence was deleted.
+  2. PHALA-SHRUTI ADDED — Katha now ends with a merit-of-hearing sentence attributed to Devi
+     Bhagavata Purana, as required by the format spec.
+  Facts verified: 100-year drought ✓, vegetables from Devi's body ✓, etymology ✓,
+  principal shrine (Shakambhara near Sambhar, Rajasthan) ✓, Shakambhari Navaratri dates ✓.
+  Hindi pronouns: no violations found (all named characters already use वे/उन्होंने/उनके).
+  Mantra IAST format: correct (no italics, no "IAST:" prefix).
+  date_2026 and date_2027 remain TODO-VERIFY — do not publish until verified on DrikPanchang.

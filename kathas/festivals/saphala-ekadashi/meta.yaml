@@ -21,4 +21,5 @@ sources:
   - "Brahma Vaivarta Purana — Lumpaka / Kalimasa katha"
   - "DrikPanchang — Saphala Ekadashi"
 scripture_ref: "Brahma Vaivarta Purana"
-status: draft
+status: reviewed
+review_notes: "2026-06-14 — Reviewed hi.md. Fixed: (1) reel_hook pronoun उसने→उन्होंने, भटक रहा था→भटक रहे थे (Lumpaka = named/revered character, must use वे/उन्होंने); (2) IAST mantra 2: non-standard ė→e in pippale and pūjite. Facts verified against Brahma Vaivarta Purana source: exile, accidental Ekadashi observance, pipal tree, divine chariot, liberation — all correct. All 5 sections present. Phala-shruti present. Pronoun usage in Katha body was already correct (वे/उनके throughout). date_2026/date_2027 remain TODO-VERIFY — do not publish until DrikPanchang check."

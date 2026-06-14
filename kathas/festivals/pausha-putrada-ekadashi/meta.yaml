@@ -22,4 +22,14 @@ sources:
   - "Bhavishya Purana — King Suketuman katha (distinct from Shravana Putrada)"
   - "DrikPanchang — Pausha Putrada Ekadashi"
 scripture_ref: "Bhavishya Purana"
-status: draft
+status: reviewed
+review:
+  date: 2026-06-14
+  reviewer: Claude (quality-review pass)
+  notes: >
+    hi.md passes all checks. Facts (Suketuman/Shaibya/Bhadravati/Bhavishya Purana) correct.
+    All 5 sections present. Phala-shruti cites Bhavishya Purana at katha end.
+    Pausha/Shravana distinction explicitly noted in Significance.
+    All वह uses are demonstrative-before-noun — no pronoun violations.
+    Mantra IAST plain (no italics, no prefix). date_2026/date_2027 still TODO-VERIFY —
+    must be verified on DrikPanchang before status → published.
