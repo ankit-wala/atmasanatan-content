@@ -64,10 +64,10 @@ Om namo bhagavate vasudevaya
 **२. नरसिंह-मंत्र**
 
 > ॐ उग्रं वीरं महाविष्णुं ज्वलन्तं सर्वतोमुखम् ।
-> नृसिंहं भीषणं भद्रं मृत्यु-मृत्युं नमाम्यहम् ॥
+> नृसिंहं भीषणं भद्रं मृत्युमृत्युं नमाम्यहम् ॥
 
 Om ugram viram mahavishnum jvalantam sarvatomukham,
-nrisimham bhishanam bhadram mrityu-mrityum namamyaham
+nrisimham bhishanam bhadram mrityumrityum namamyaham
 
 अर्थ: मैं उन महाविष्णु नृसिंह को प्रणाम करता हूँ जो उग्र हैं, वीर हैं, सर्वत्र प्रज्ज्वलित हैं, सबकी ओर मुख किए हुए हैं, भयंकर हैं, कल्याणकारी हैं और मृत्यु के भी मृत्यु हैं।
 
