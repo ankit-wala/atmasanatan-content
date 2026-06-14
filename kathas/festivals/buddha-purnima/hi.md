@@ -102,8 +102,8 @@ Om kurmaaya namah
 > कच्छपाय नमस्तुभ्यं सुरासुरनमस्कृत।
 > मन्दरस्य धरित्रे च नमो मन्दरधारिणे॥
 
-Kachchhapaaya namastubhyam suraasuranamaskhrita।
-Mandarasya dharitren cha namo mandaradhaarinne॥
+Kachchhapaaya namastubhyam suraasura-namaskrite।
+Mandarasya dharitre cha namo mandaradhaarine॥
 
 अर्थ: हे कच्छप (कूर्म) स्वरूप, देवों और असुरों द्वारा नमस्कृत, मंदर पर्वत को धारण करने वाले आपको नमस्कार है।
 
@@ -114,7 +114,7 @@ Mandarasya dharitren cha namo mandaradhaarinne॥
 > क्षीरोदार्णवसंभूते सुरासुरनमस्कृते।
 > रूपेण लोकमोहिन्यै नमो लक्ष्म्यै नमो नमः॥
 
-Kshiroudaarnava-sambhoote suraasura-namaskrite।
+Kshirodaarnava-sambhoote suraasura-namaskrite।
 Ruupena lokamohinyai namo lakshmyai namo namah॥
 
 अर्थ: क्षीरसागर से उत्पन्न, देव और असुर दोनों द्वारा नमस्कृत, अपने रूप से संसार को मोहित करने वाली माँ लक्ष्मी को बारंबार नमस्कार है।
