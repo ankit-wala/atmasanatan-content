@@ -108,8 +108,8 @@ reel_hook: "पड़ोसन ने बताया — सात शुक्
 > ॐ श्रीं ह्रीं श्रीं कमले कमलालये प्रसीद प्रसीद ।
 > ॐ श्रीं ह्रीं श्रीं महालक्ष्म्यै नमः ॥
 
-Oṃ śrīṃ hrīṃ śrīṃ kamale kamalālaye prasīda prasīda |
-Oṃ śrīṃ hrīṃ śrīṃ mahālakṣmyai namaḥ ||
+oṃ śrīṃ hrīṃ śrīṃ kamale kamalālaye prasīda prasīda |
+oṃ śrīṃ hrīṃ śrīṃ mahālakṣmyai namaḥ ||
 
 अर्थ: "हे कमल पर विराजमान कमला लक्ष्मी, प्रसन्न हों, प्रसन्न हों — हे महालक्ष्मी, आपको नमस्कार।"
 
@@ -120,7 +120,7 @@ Oṃ śrīṃ hrīṃ śrīṃ mahālakṣmyai namaḥ ||
 > ॐ महालक्ष्म्यै च विद्महे विष्णुपत्न्यै च धीमहि ।
 > तन्नो लक्ष्मीः प्रचोदयात् ॥
 
-Oṃ mahālakṣmyai ca vidmahe viṣṇupatnyai ca dhīmahi |
+oṃ mahālakṣmyai ca vidmahe viṣṇupatnyai ca dhīmahi |
 tanno lakṣmīḥ pracodayāt ||
 
 अर्थ: "हम महालक्ष्मी को जानें, विष्णुपत्नी का ध्यान करें — वे लक्ष्मी हमें प्रेरित करें।"

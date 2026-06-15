@@ -106,7 +106,7 @@ reel_hook: "गाँव वालों ने उसकी मूर्ति 
 
 > ॐ गं गणपतये नमः
 
-Oṃ gaṃ gaṇapataye namaḥ
+oṃ gaṃ gaṇapataye namaḥ
 
 अर्थ: हे गणपति, मैं आपको नमन करता हूँ।
 
@@ -117,7 +117,7 @@ Oṃ gaṃ gaṇapataye namaḥ
 > वक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ ।
 > निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥
 
-Vakratuṇḍa mahākāya sūryakoṭisamaprabha |
+vakratuṇḍa mahākāya sūryakoṭisamaprabha |
 nirvighnaṃ kuru me deva sarvakāryeṣu sarvadā ||
 
 अर्थ: हे वक्रतुण्ड, विशाल काय, करोड़ों सूर्यों के समान तेजस्वी — हे देव, मेरे सभी कार्यों में सदा विघ्नों को दूर करें।

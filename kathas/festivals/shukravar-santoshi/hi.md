@@ -116,7 +116,7 @@ reel_hook: "सोलह शुक्रवार — बस इतना कर
 
 > ॐ संतोषी मातायै नमः
 
-Oṃ saṃtoṣī mātāyai namaḥ
+oṃ saṃtoṣī mātāyai namaḥ
 
 अर्थ: "हे संतोषी माता, आपको नमस्कार।"
 
@@ -127,7 +127,7 @@ Oṃ saṃtoṣī mātāyai namaḥ
 > जय संतोषी माता जय जय माता ।
 > अपने भक्तों को सुख-संपत्ति देती माता ॥
 
-Jaya saṃtoṣī mātā jaya jaya mātā |
+jaya saṃtoṣī mātā jaya jaya mātā |
 apane bhaktoṃ ko sukha-sampatī detī mātā ||
 
 अर्थ: "संतोषी माता की जय हो — वे अपने भक्तों को सुख और सम्पत्ति देती हैं।"
