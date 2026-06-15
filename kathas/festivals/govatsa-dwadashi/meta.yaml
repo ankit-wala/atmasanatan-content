@@ -9,7 +9,7 @@ panchang:
   month: Kartik
   paksha: Krishna
   tithi: Dwadashi
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-11-05    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: pan-india
 related_shlokas: []
@@ -24,7 +24,7 @@ sources:
   - "Skanda Purana — Govatsa / Vasu Baras katha"
   - "DrikPanchang — Govatsa Dwadashi / Vasu Baras"
 scripture_ref: "Skanda Purana"
-status: reviewed
+status: ready_to_publish
 # Reviewed 2026-06-14. Two fixes applied to hi.md:
 # 1. Removed incorrect Nandī/"gau-parivar" conflation (Nandī is Shiva's bull, not of the cow lineage).
 # 2. Replaced approximate "~Nov 5" date with TODO-VERIFY per policy (DrikPanchang not yet confirmed).

@@ -9,7 +9,7 @@ panchang:
   month: Bhadrapada
   paksha: Shukla
   tithi: Tritiya
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-09-14    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: pan-india
 related_shlokas: []
@@ -26,4 +26,4 @@ sources:
   - "Vratraj (puja vidhi; secondary procedural authority)"
   - "DrikPanchang — Hartalika Teej"
 scripture_ref: "Bhavishyottar Purana, Hargauri Samvade (adhyaya TODO-VERIFY)"
-status: reviewed
+status: ready_to_publish

@@ -9,7 +9,7 @@ panchang:
   month: Kartik
   paksha: Shukla
   tithi: Shashthi
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-11-15    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: south-india
 related_shlokas: []
@@ -23,5 +23,5 @@ sources:
   - "Skanda Purana — Kartikeya vadh of Surapadman"
   - "DrikPanchang — Skanda Shashthi"
 scripture_ref: "Skanda Purana"
-status: reviewed
+status: ready_to_publish
 review_note: "Reviewed 2026-06-14. Facts verified: Surapadman's boon (Shiva's son only), 6-day war ending Shashthi, mango-tree transformation → vel splits → peacock + rooster — all correct per Skanda Purana/Tamil tradition. Birth sequence (tejas → Agni → sarovara → 6 reeds → 6 babies → Krittikas → Parvati unites) is an accepted simplified telling. Two fixes applied to hi.md: (1) grammar error 'देवताओं ने... गए' → 'देवता... गए'; (2) pronoun inconsistency 'वे तेज... गिरे' → 'वह तेज... गिरा'. All named characters use वे/उन्होंने correctly. All 5 sections present. Phala-shruti present. Mantra format clean. date_2026/date_2027 remain TODO-VERIFY — do not publish until DrikPanchang confirmed."

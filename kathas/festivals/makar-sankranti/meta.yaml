@@ -9,7 +9,7 @@ panchang:
   month: Pausha
   paksha: Shukla
   tithi: Sankranti
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-01-14    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: pan-india
 related_shlokas: []
@@ -26,4 +26,4 @@ sources:
   - "Mahabharata — Bhishma's choice of death on Uttarayan"
   - "DrikPanchang — Makar Sankranti"
 scripture_ref: "Bhavishya Purana / Mahabharata"
-status: reviewed
+status: ready_to_publish

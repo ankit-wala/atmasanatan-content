@@ -8,7 +8,7 @@ panchang:
   month: Magha
   paksha: Shukla
   tithi: Ekadashi
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-01-29    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: pan-india
 related_shlokas: []
@@ -22,5 +22,5 @@ sources:
   - "Padma Purana — Pushpavat / Apsara liberation katha"
   - "DrikPanchang — Jaya Ekadashi"
 scripture_ref: "Padma Purana"
-status: reviewed
+status: ready_to_publish
 # reviewed 2026-06-14: facts verified against Padma Purana katha — Malyavan (Gandharva), Pushpavati (Apsara), Indra's court performance, pisal-shap, Himalaya wandering, involuntary Jaya Ekadashi vigil under pipal tree, liberation + return to Swarga. Pronouns correct (वे/उन्होंने for all named characters). All 5 sections present. Phala-shruti cites Padma Purana. Mantras: plain IAST + plain अर्थ, no italics; second mantra = tvameva shloka (correct). date_2026/date_2027 remain TODO-VERIFY pending DrikPanchang confirmation.

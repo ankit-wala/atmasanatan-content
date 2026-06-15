@@ -41,7 +41,7 @@ BOOK_TITLE = {
 def build(lang: str, include_drafts: bool) -> str:
     entries = load_entries("festivals")
     if not include_drafts:
-        entries = [e for e in entries if e.status in ("reviewed", "published")]
+        entries = [e for e in entries if e.status in ("reviewed", "ready_to_publish", "published")]
 
     labels = SECTION_LABELS.get(lang, SECTION_LABELS["en"])
     out: list[str] = []

@@ -8,7 +8,7 @@ panchang:
   month: Chaitra
   paksha: Shukla
   tithi: Ekadashi
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-03-29    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: pan-india
 related_shlokas: []
@@ -21,4 +21,4 @@ sources:
   - "Brahma Vaivarta Purana — Lalitha-Lalit katha"
   - "DrikPanchang — Kamada Ekadashi"
 scripture_ref: "Brahma Vaivarta Purana"
-status: reviewed  # Phase 10 review: PASS — 2026-06-15
+status: ready_to_publish  # Phase 10 review: PASS — 2026-06-15

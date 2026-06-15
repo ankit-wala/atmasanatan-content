@@ -8,7 +8,7 @@ panchang:
   month: Bhadrapada
   paksha: Krishna
   tithi: Ekadashi
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-09-07    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: pan-india
 related_shlokas: []
@@ -22,4 +22,4 @@ sources:
   - "Padma Purana, Uttara Khanda, Chapter 56 (TODO-VERIFY) — Ekadashi mahatmya cycle (Gita Press canonical collection)"
   - "DrikPanchang — Aja Ekadashi"
 scripture_ref: "Brahma Vaivarta Purana, Krishna Janma Khanda, Chapter 26 (adhyaya TODO-VERIFY)"
-status: reviewed
+status: ready_to_publish

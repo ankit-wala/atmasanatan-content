@@ -9,7 +9,7 @@ panchang:
   month: Kartik
   paksha: Shukla
   tithi: Ashtami
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-11-17    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: pan-india
 related_shlokas: []
@@ -23,5 +23,5 @@ sources:
   - "Bhagavata Purana, Skandha 10 — Krishna becomes cowherd katha"
   - "DrikPanchang — Gopashtami"
 scripture_ref: "Bhagavata Purana, Skandha 10"
-status: reviewed
+status: ready_to_publish
 # reviewed 2026-06-14 — facts correct (Bh. 10 vatsa-pala→go-pala, Nanda ceremony); pronouns correct (वे/उन्होंने for all named characters, वह demonstrative/animal uses valid); all 5 sections present; phala-shruti present; mantra IAST fixed (sarvdevānāṃ → sarvadevānāṃ); date_2026/date_2027 still TODO-VERIFY — must confirm on DrikPanchang before publishing

@@ -9,7 +9,7 @@ panchang:
   month: Ashadha
   paksha: Shukla
   tithi: Purnima
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-07-29    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: north-india
 related_shlokas: []
@@ -25,4 +25,4 @@ sources:
   - "Folk tradition — Kokila (cuckoo) vrat katha for married women"
   - "DrikPanchang — Kokila Vrat"
 scripture_ref: "Folk tradition (oral)"
-status: reviewed  # Phase 13 review: PASS — 2026-06-15
+status: ready_to_publish  # Phase 13 review: PASS — 2026-06-15

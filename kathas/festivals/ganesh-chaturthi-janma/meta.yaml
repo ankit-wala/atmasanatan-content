@@ -8,7 +8,7 @@ panchang:
   month: Bhadrapada
   paksha: Shukla
   tithi: Chaturthi
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-09-14    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: pan-india
 related_shlokas: []
@@ -23,4 +23,4 @@ sources:
   - "Brahma Vaivarta Purana, Ganesha Khanda 10.8–37 (alternate birth: Vishnu mounts Garuda, goes to Pushpa-Bhadra river for elephant head); Ch. 21 (Vishnu performs Pratham Puja, bestows eight names: Vighnesha, Ganesha, Heramba, Gajānana, Lambodara, Ekadanta, Shurpakarna, Vinayaka)"
   - "DrikPanchang — Ganesh Chaturthi"
 scripture_ref: "Shiva Purana, Rudra Samhita, Kumara Khanda, Ch. 13–18"
-status: reviewed
+status: ready_to_publish

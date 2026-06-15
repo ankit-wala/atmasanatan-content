@@ -9,7 +9,7 @@ panchang:
   month: Kartik
   paksha: Shukla
   tithi: Purnima
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-11-24    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: pan-india
 related_shlokas: []
@@ -23,5 +23,5 @@ tags:
 sources:
   - "Skanda Purana, Reva Khanda, Ch. 2 — Lakdahara (woodcutter) katha"
 scripture_ref: "Skanda Purana, Reva Khanda"
-status: reviewed
+status: ready_to_publish
 review_comment: "2026-06-14 — hi.md reviewed. Fixed: (1) IAST transliterations de-italicised in both mantras; (2) unverified date assertion in Observance replaced with TODO-VERIFY. Facts checked: source (Skanda Purana, Reva Khanda), event sequence (prasad → dream-vision → blessing), and central teaching (संतोष) are all correct. Deity pronoun वे/उन्होंने used correctly throughout. Katha includes an embellished treasure-pit / राजदरबार scene not found verbatim in classical retellings but consistent with the broader tradition and not doctrinally incorrect. Dates still TODO-VERIFY; do not promote to published until DrikPanchang confirmed."

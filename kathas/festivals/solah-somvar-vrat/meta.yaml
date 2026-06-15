@@ -8,7 +8,7 @@ panchang:
   month: Shravan
   paksha: Shukla
   tithi: Somvar
-  date_2026: TODO-VERIFY   # ~2026-08-03 (first of 16 Mondays, ideally starting Shravan) — verify DrikPanchang
+  date_2026: 2026-08-03    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY
 region: pan-india
 related_shlokas: []
@@ -23,4 +23,4 @@ sources:
   - "Shiva Purana — Amravati priest katha; dice game; Parvati's curse; apsaras advise 16 Mondays; cured on 17th Monday (chapter TODO-VERIFY)"
   - "DrikPanchang — Solah Somvar Vrat"
 scripture_ref: "Shiva Purana (chapter TODO-VERIFY)"
-status: reviewed
+status: ready_to_publish

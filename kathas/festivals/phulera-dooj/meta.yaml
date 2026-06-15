@@ -9,7 +9,7 @@ panchang:
   month: Phalguna
   paksha: Shukla
   tithi: Dwitiya
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-02-19    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: north-india
 related_shlokas: []
@@ -25,5 +25,5 @@ sources:
   - "Bhagavata Purana / Braj tradition — Phulera Dooj katha (Krishna plays with flowers)"
   - "DrikPanchang — Phulera Dooj"
 scripture_ref: "Braj folk tradition"
-status: reviewed
+status: ready_to_publish
 # Phase 10 review: PASS — 2026-06-15

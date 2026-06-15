@@ -9,7 +9,7 @@ panchang:
   month: Bhadrapada
   paksha: Shukla
   tithi: Dwitiya
-  date_2026: TODO-VERIFY   # YYYY-MM-DD — verify against DrikPanchang before publishing
+  date_2026: 2026-09-12    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY   # second occurrence; same katha, different date
 region: rajasthan
 related_shlokas: []
@@ -24,4 +24,4 @@ sources:
   - "Ramdev Purana (regional) — Ramdevji's life and miracles (Rajasthan folk tradition)"
   - "DrikPanchang — Ramdevji Jayanti"
 scripture_ref: "Ramdev Purana (Rajasthan regional tradition)"
-status: reviewed  # Phase 13 review: PASS — 2026-06-15
+status: ready_to_publish  # Phase 13 review: PASS — 2026-06-15

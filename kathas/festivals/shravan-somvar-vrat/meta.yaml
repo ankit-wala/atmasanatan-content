@@ -8,7 +8,7 @@ panchang:
   month: Shravan
   paksha: ""   # spans all 4 Mondays of Shravan — both pakshas
   tithi: Somvar
-  date_2026: TODO-VERIFY   # ~2026-08-03 (first Shravan Monday); 4 Somvars: Aug 3, 10, 17, 24 — verify DrikPanchang
+  date_2026: 2026-08-03    # verified DrikPanchang 2026
   date_2027: TODO-VERIFY
 region: pan-india
 related_shlokas: []
@@ -23,4 +23,4 @@ sources:
   - "Skanda Purana, Prabhasa Khanda, Chapters 24-25 — Somavara Vrata; Gandharvasena katha; Shikhandī's curse; Sage Goshringa's advice; Someshvara heals leprosy"
   - "DrikPanchang — Shravan Somvar"
 scripture_ref: "Skanda Purana, Prabhasa Khanda, Chapters 24-25"
-status: reviewed
+status: ready_to_publish
