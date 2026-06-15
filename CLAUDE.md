@@ -64,9 +64,12 @@ Full schema is in `CONTENT_FORMAT.md` — read it before creating or editing ent
   [DrikPanchang](https://www.drikpanchang.com/) before an entry's `status` becomes `published`.
   Unverified dates are written literally as `TODO-VERIFY`. The book builder injects a warning
   comment whenever it sees an unverified date — never silence that warning by faking a date.
-- **Status lifecycle:** `draft` → `reviewed` → `published`. The book builder ships only
-  `reviewed`/`published` entries by default (`--include-drafts` is preview-only). Do not mark an
-  entry `published` until its facts are sourced and its date verified.
+- **Status lifecycle:** `draft` → `reviewed` → `ready_to_publish` → `published`. The book
+  builder ships `reviewed`/`ready_to_publish`/`published` entries by default (`--include-drafts`
+  is preview-only). `ready_to_publish` means content is fully reviewed AND all `TODO-VERIFY`
+  date fields have been confirmed against DrikPanchang — it is the final holding state before
+  flipping to `published`. Do not mark an entry `published` until its facts are sourced and its
+  date verified.
 - **Sources required.** Every factual/scriptural claim should trace to an entry in `meta.yaml`
   `sources:`. Prefer primary scripture (Valmiki Ramayana, Padma Purana, etc.) + DrikPanchang.
 - **Never hand-edit `build/output/`.** It is generated and gitignored. Change the canonical
@@ -88,7 +91,9 @@ Short version:
 3. Write `hi.md` first (Gita Press Hindi source; Katha 300–700w · Significance · Vidhi · Observance · Mantras). English (`en.md`) is translated from Hindi, not written independently.
 4. Pass the quality checklist in `WRITING_GUIDE.md`.
 5. `python3 build/to_book_manuscript.py --lang hi --include-drafts` — confirm it renders.
-6. Set `status: reviewed`. Translate hi.md → en.md → mr.md → gu.md → set `status: published`.
+6. Set `status: reviewed`. Translate hi.md → en.md → mr.md → gu.md.
+7. Verify `date_2026` + `date_2027` on DrikPanchang → set `status: ready_to_publish`.
+8. Owner final check → set `status: published`.
 
 ### Add a brand-new entry (not already stubbed)
 1. `cp -r kathas/_template/festival-slug kathas/festivals/<slug>` (rename to the real slug).

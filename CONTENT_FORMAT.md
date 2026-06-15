@@ -34,12 +34,14 @@ sources:                  # every factual/scriptural claim must trace to one of 
   - "DrikPanchang — Diwali"
   - "Valmiki Ramayana — return of Rama to Ayodhya"
 scripture_ref: "Valmiki Ramayana, Yuddha Kanda"   # primary source: Purana/text + khanda + chapter
-status: draft             # draft | reviewed | published
+status: draft             # draft | reviewed | ready_to_publish | published
 ```
 
 Rules:
 - `date_2026` (and any tithi time) **must** be verified against DrikPanchang before `status:
   published`. Until then use `TODO-VERIFY`.
+- `ready_to_publish` means content is fully reviewed and all `TODO-VERIFY` date fields have been
+  confirmed against DrikPanchang — ready to flip to `published` once the final check is done.
 - `slug` is the join key across the book, the backend seed, and reel outputs. Never reuse.
 
 ---
