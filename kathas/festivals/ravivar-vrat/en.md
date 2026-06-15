@@ -1,28 +1,144 @@
 ---
 slug: ravivar-vrat
 lang: en
-title: "Ravivar Vrat — Surya Dev ki Aradhana"
-subtitle: "TODO"
-summary: "TODO — one to two sentences."
-reel_hook: "TODO — scroll-stopping question."
+title: "Sunday Fast — Ravivar Vrat"
+subtitle: "There was illness in the house, trade was sinking. A neighbour told her of one vrat — and everything changed."
+summary: "The Sunday fast is dedicated to Lord Surya — the manifest Brahman, the source of all life. The story of Shiv-bhavati as described in the tradition of the Bhavishya Purana is the foundation of this vrat — through the power of the Surya vrat, she recovered her family's happiness, prosperity, and the health of her children."
+reel_hook: "The children kept falling ill, poverty was in the home. The neighbour's house was well and thriving. What was her secret?"
 ---
 
 ## Katha
 
-TODO — tell the story. Source: Bhavishya Purana (folk tradition)
+In a certain town lived a woman named Shiv-bhavati.
+
+Her husband was a merchant, they had a home, but there was little joy in life. The children fell ill again and again. Her husband's trade was taking blow after blow. There was a sense of want in the home — not as though they could not eat twice a day, but there was no progress, no health, no happiness.
+
+There was a question in Shiv-bhavati's mind — why is this so?
+
+---
+
+Looking at the house of her neighbour made her more unsettled still.
+
+Her neighbour's children were sturdy and healthy, her husband's trade was flourishing. There was happiness in the home. The circumstances of the two households were much the same — so why was there such a difference?
+
+One day Shiv-bhavati gathered her courage and asked —
+
+"Sister, how is there such prosperity and good health in your home? Is there some special means?"
+
+The neighbour said with a smile — "Sister, I observe the Sunday fast. That is my means."
+
+---
+
+Shiv-bhavati wanted to know more.
+
+The neighbour explained — "Every Sunday I rise before sunrise. I bathe, put on red garments, and offer arghya to Surya Dev — water in a copper vessel, with red flowers and roli mixed in. Then I fast all day. One meal after sunset. Through the power of this very vrat, my children are well and Lakshmi has come to my home."
+
+She continued — "It is said in the Bhavishya Purana — Surya Dev is the manifest deity. He is visible, he is felt. From him comes life. One who pleases him on Sunday has no illness lingering in the home, one's children are protected, and the sins of seven days are destroyed."
+
+Faith stirred in Shiv-bhavati's heart.
+
+---
+
+She took the sankalpa for the vrat from the following Sunday.
+
+She rose before sunrise. She bathed, wore red garments. She stood in the courtyard facing east.
+
+She took water in a copper vessel. She added red flowers — javaakusum (red hibiscus), which is dearest to Surya Dev. She mixed in a little roli.
+
+At the first ray of Surya Dev, lifting the vessel in both hands, she offered arghya — a stream of water toward the sun —
+
+"O Lord Surya, O Aditya, O manifest Brahman — have mercy on my family. Grant health to my children. Grant success to my husband's trade."
+
+---
+
+The first month — no great miracle.
+
+The second month — the youngest child, who had been falling ill again and again, remained well.
+
+The third month — one long-stuck piece of work in the husband's trade was suddenly completed.
+
+The months passed. Shiv-bhavati did not break the vrat's rule — not in the heat, not in the rain, not on a festival day.
+
+Gradually the home was transformed.
+
+The children grew healthier. The trade came back on track. Happiness entered the home. Shiv-bhavati's eyes filled with tears — it was Surya Dev's grace.
+
+---
+
+In the tradition of the Bhavishya Purana, it is said —
+
+The Sunday fast destroys the sins of the entire week. Through Surya Dev, one is freed from disease — for he is the giver of health and vitality. A mother who observes this vrat for the protection of her children will have the grace of Surya upon them. A householder who observes it regularly will have Lakshmi dwelling in the home.
 
 ## Significance
 
-TODO — spiritual and cultural meaning.
+Surya Dev is **manifest Brahman** — the only deity who is perpetually visible, who can be seen and felt.
+
+In the Vedas, Surya is called **Savitri** — the one who generates and inspires all things. The Gayatri mantra is addressed to him alone. His worship is the most ancient, the most universal — beyond all caste and sect.
+
+**Giver of health:** In Ayurveda, Surya is regarded as the source of health. Surya Namaskar, beholding the sunrise, and drinking water from a copper vessel each morning — these are all practical forms of Surya worship. The folk belief is that the Sunday vrat brings health to children and prosperity to the family.
+
+**Basis of time-keeping:** The Hindu panchanga is a harmony of sun and moon — without Surya, time cannot be reckoned. The first day of the week — Sunday — is named after him.
+
+**Bhavishya Purana:** The basis of the Sunday vrat is in the Bhavishya Purana — which gives a detailed account of Surya's glory and Surya worship. This Purana extensively discusses the Sunday fast, its procedure, and its fruits.
 
 ## Vidhi
 
-TODO — puja / vrat steps in order.
+1. **Rise before sunrise:** On Sunday, rise during Brahma-muhurta and bathe. Wear red garments — red is the colour of Surya.
+
+2. **Arghya:** Take water in a copper lota. Add red flowers (hibiscus / javaakusum), a little roli, and akshata. At sunrise, facing east, offer arghya to Surya Dev — the stream of water is given so that it touches the rays of the sun.
+
+3. **Puja of Surya Dev:** Before a Surya yantra or picture of Surya — offer red flowers, roli, akshata, incense, and a lamp. As naivedya, offer something made from jaggery and wheat (jaggery roti, halwa).
+
+4. **Katha listening:** Listen to or read the Sunday vrat katha (the story of Shiv-bhavati). The vrat katha is an indispensable part of the puja.
+
+5. **Fasting:** Ekahara or fruit only through the day. Abstain from salt and fried foods. Take one meal after sunset — in the meal, red fruit, jaggery, and wheat roti in sattvic form.
+
+6. **Dana:** On Sunday, give copper vessels, red cloth, jaggery, and wheat in dana. All of these are dear to Surya Dev.
+
+7. **Breaking the fast:** After sunset, after a final salutation to Surya Dev, break the fast.
 
 ## Observance
 
-TODO — fasting rules, timing, parana. (Required for vrats; optional for festivals.)
+**Timing of the vrat:** On Sunday, from sunrise to sunset. This is an ekahara vrat — no food during the day, one sattvic meal after sunset.
+
+**Abstaining from salt and oil:** Giving up salt in the Sunday fast is traditional. Avoid fried and tamasic food. Observe brahmacharya on the day of the vrat.
+
+**For whom:** The Sunday fast is described primarily for mothers who observe the vrat with a desire for the health of their children. But this vrat is also observed for household prosperity, cure of disease, and the pacification of the Surya graha. For those whose Surya is weak in their horoscope, this vrat is considered beneficial from an astrological perspective as well.
+
+**Regular vrat:** Observed regularly every Sunday, or with a special sankalpa for seven, twenty-one, or twelve (all Sundays of a year) Sundays.
+
+**Ratha Saptami:** Magha Shukla Saptami — Ratha Saptami — is the most important festival of Surya Dev. The fruit of performing special puja along with the Sunday fast on that day is held to be multiplied many times over.
 
 ## Mantras
 
-TODO — key shloka in Devanagari + transliteration + one-line meaning.
+**Surya Salutation Mantra:**
+
+> ॐ सूर्याय नमः । ॐ आदित्याय नमः । ॐ भास्कराय नमः ॥
+
+oṃ sūryāya namaḥ | oṃ ādityāya namaḥ | oṃ bhāskarāya namaḥ ||
+
+Meaning: Salutation to Surya, salutation to Aditya, salutation to Bhaskara. (Pronounce all three names while offering arghya.)
+
+---
+
+**Surya Arghya Mantra:**
+
+> ॐ एहि सूर्य सहस्रांशो तेजोराशे जगत्पते ।
+> अनुकम्पय मां भक्त्या गृहाणार्घ्यं दिवाकर ॥
+
+oṃ ehi sūrya sahasrāṃśo tejorāśe jagatpate |
+anukampaya māṃ bhaktyā gṛhāṇārghyaṃ divākara ||
+
+Meaning: O Surya of a thousand rays, treasury of brilliance, lord of the world — have compassion on me in my devotion and accept this arghya, O Divakar.
+
+---
+
+**Gayatri Mantra (associated with Surya):**
+
+> ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यम् ।
+> भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् ॥
+
+oṃ bhūr bhuvaḥ svaḥ tatsaviturvareṇyam |
+bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt ||
+
+Meaning: We meditate on the supreme radiance of that divine Savita (Surya) — may he inspire and guide our intellect. (This is the most celebrated mantra of the Vedas — its japa at sunrise is held to be exceedingly fruitful.)
