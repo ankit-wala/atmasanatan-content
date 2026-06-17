@@ -92,4 +92,4 @@ Meaning: "Salutations to Uma (Parvati)."
 *Gaurī Śaṃkara Girijā Maheśa Śambho namaste namaste |
 Saubhāgya-dāyini sarveśvari jagad-ambe namaste namaste ||*
 
-Meaning: "Gauri, Shankara, Girija, Mahesh, Shambho — salutations again and again. O bestower of good fortune, O sovereign of all, O Mother of the world — salutations, salutations."
+Meaning: "Gauri, Shankara, Girija, Mahesh, Shambho — salutations again and again. O giver of good fortune, O sovereign of all, O Mother of the world — salutations, salutations."

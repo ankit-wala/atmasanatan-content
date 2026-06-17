@@ -41,7 +41,7 @@ Astika entered and praised the yagna — the quality of the rituals, the proper 
 
 Janmejaya said: *"Young brahmin, you have delighted me. Ask — what do you want?"*
 
-Astika said: *"Rajana, stop the yagna."*
+Astika said: *"Rajan, stop the yagna."*
 
 Janmejaya paused. He looked. Then he bowed his head.
 

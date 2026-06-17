@@ -29,7 +29,7 @@ The citizens were stunned. A sin no one remembered. A lapse that seemed small �
 
 Sage Lomasha said: *"There is. Shravana Shukla Ekadashi — Putrada Ekadashi. Let the king and queen observe this fast together. Fast through the day, keep vigil through the night. On Dvadashi, make a pavitraka — a sacred cord of gold, silver, silk, or lotus — and give it to brahmins. The merit of this vrat will wash away that sin from a former life."*
 
-King Mahijit and his queen observed the vrat with full devotion together. Through the night of that Ekadashi they kept vigil, holding Vishnu in their hearts. On Dvadashi they broke their fast.
+King Mahijit and his queen observed the vrat with full ritual observance together. Through the night of that Ekadashi they kept vigil, holding Vishnu in their hearts. On Dvadashi they broke their fast.
 
 Time passed — and the queen gave birth to a son. Mahijit's joy had no limit. The son for whom he had been longing for years — he had come as the gift of Putrada Ekadashi.
 
@@ -47,6 +47,7 @@ Ekadashi takes up that weight.
 
 ## Vidhi
 
+**Fasting procedure:**
 1. Take sattvic food the night of Dashami.
 2. On Ekadashi morning, bathe and take the sankalpa (vow).
 3. Worship Vishnu with tulsi, flowers, unbroken rice (akshat), and a diya.

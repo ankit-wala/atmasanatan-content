@@ -11,7 +11,7 @@ reel_hook: "The most powerful king in Mathura had just one fear — and that fea
 
 In the city of Mathura, King Kansa ruled with an iron hand. He was feared by all — nobles, merchants, farmers alike. Yet for all his power, one thing filled him with dread: a voice he had heard on the day his own sister Devaki was married.
 
-Kansa himself had driven the wedding chariot that day, proudly escorting Devaki and her husband Vasudeva. Then came the voice — sudden and vast, shaking the sky: *"Kansa, the eighth child of this very woman will be your death."*
+Kansa himself had driven the wedding chariot that day, escorting Devaki and her husband Vasudeva. Then came the voice — sudden and vast, shaking the sky: *"Kansa, the eighth child of this very woman will be your death."*
 
 He stopped the chariot right there. He drew his sword. He might have killed Devaki in that moment, but Vasudeva fell at his feet and begged: take my life, spare your sister. After long pleading, Kansa made a different choice. He could not bring himself to kill Devaki — but he imprisoned them both. Every child she bore, he would take at birth and dash against the stone wall.
 
@@ -19,7 +19,7 @@ Six children were born. Kansa killed all six.
 
 The seventh pregnancy was different. Yogamaya — the divine power that moves unseen — acted before Kansa could. She transferred the unborn child quietly from Devaki's womb to the womb of Rohini, Vasudeva's other wife, who lived safely across the Yamuna in Gokul. Devaki appeared to have lost the child. Kansa heard only that it was a miscarriage and paid no further attention. But the child lived — born to Rohini in Gokul, he was Balarama, the one who would become Krishna's elder brother and closest companion.
 
-Now there would be an eighth. As Devaki and Vasudeva sat in their chains, a light filled the dark cell. The Lord himself appeared to them — four-armed, radiant, holding his conch and discus. He spoke to them softly: *"I have heard you. I am coming as your eighth child. Do not be afraid."*
+Now there would be an eighth. As Devaki and Vasudeva sat in their chains, a light filled the dark cell. The Lord himself appeared to them — four-armed, radiant, bearing his conch, discus, mace, and lotus. He spoke to them: *"I have heard you. I am coming as your eighth child. Do not be afraid."*
 
 The night of Bhadrapada Krishna Ashtami arrived. Rain beat down without stopping. Lightning cracked the sky open. At the hour called Nishita — the deep center of midnight — Devaki gave birth. The child was dark as a rain cloud and glowed with a quiet, inexplicable light. The prison felt, for a moment, like a temple.
 
@@ -33,9 +33,9 @@ In Gokul, on the other bank, the cowherd Nanda's wife Yashoda had just given bir
 
 The doors swung shut. The shackles returned. The guards woke as if nothing had happened.
 
-When dawn came and Kansa strode into the cell to seize the eighth child, the baby girl slipped from his grip, rose into the air above his head, laughed — and spoke: *"Fool. The one you fear is already out of your reach. He lives, and he will come for you."* Then she was gone.
+When dawn came and Kansa strode into the cell to kill the eighth child, the baby girl slipped from his grip, rose into the air above his head, laughed — and spoke: *"Fool. The one you fear is already out of your reach. He lives, and he will come for you."* Then she was gone.
 
-Krishna grew up in the green forests of Vrindavan, in the love of Yashoda and Nanda, waiting for the day he would cross back to Mathura and close the circle that had begun at a wedding chariot.
+Krishna grew up in the green forests of Vrindavan, in the love of Yashoda and Nanda, waiting for the day he would return to Mathura and fulfill the prophecy that had been spoken from a wedding chariot.
 
 The Bhagavata Purana says of this story: whoever hears the birth of Krishna with a devoted and attentive heart is freed from the weight of accumulated sin, as a fire clears dry grass. They will not take birth again into the chain of suffering. This is the promise that every generation has carried — in every home that has kept the fast and welcomed the Lord at midnight.
 

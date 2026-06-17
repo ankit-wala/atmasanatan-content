@@ -19,7 +19,7 @@ When Kubera learned of it, his anger blazed up. He summoned Hemamali before him 
 
 In that moment, Hemamali's radiant body was covered with disease. He was cast out from Alaka. Separated from his wife, filled with sores and suffering, he wandered through forests and through mountains.
 
-After years of this misery, he reached the high Himalayas — and came upon the ashrama of the great sage Markandeya. Markandeya is among the most ancient souls in all of creation; time itself could not touch him, for Shiva's grace had placed him beyond death. He saw this sick, broken yaksha before him and asked with compassion: *"Who are you? How has this come upon you?"*
+After years of this misery, he reached the high Himalayas — and came upon the ashrama of the great sage Markandeya. Markandeya was one whom time itself could not touch, for Shiva's grace had placed him beyond death. He saw this sick, broken yaksha before him and asked with compassion: *"Who are you? How has this come upon you?"*
 
 Hemamali bowed his head and told the whole story. The sage listened and then said: *"Your mistake was made in ignorance — and there is a way through it. The Ekadashi of the dark half of Ashadha is approaching — it is called Yogini Ekadashi. Observe this fast with full devotion and take the shelter of Lord Vishnu. As the sun destroys darkness, this vow burns away sin."*
 
@@ -41,28 +41,27 @@ Coming two weeks before Devshayani, this Ekadashi is a kind of preparation — a
 
 This is an Ekadashi vrat, observed with a full fast and Vishnu puja.
 
-**On the day before (Dashami):**
-1. Eat sattvik food in the evening. Avoid non-veg, onion, garlic, and excess. Sleep early.
+Begin with sattvik food on Dashami evening.
 
 **On Ekadashi:**
-2. Wake before sunrise. Bathe with clean water.
-3. Set up the puja space with an image or idol of Vishnu or Narayan.
-4. Offer tulsi leaves, yellow flowers, and a ghee diya. Tulsi is especially dear to Vishnu.
-5. Perform abhishek with panchamrit or clean water while chanting Vishnu's names.
-6. Observe the fast through the day. No grain, rice, wheat, or beans.
-7. Recite Vishnu Sahasranama or the Ekadashi Mahatmya in the evening.
-8. Stay awake in prayer if possible, especially into the night.
+1. Wake before sunrise. Bathe with clean water.
+2. Set up the puja space with an image or idol of Vishnu.
+3. Offer tulsi leaves, yellow flowers, and a ghee diya. Tulsi is especially dear to Vishnu.
+4. Perform abhishek with panchamrit or clean water.
+5. Observe the fast through the day. No grain, rice, wheat, or beans.
+6. Recite Vishnu Sahasranama or the Ekadashi Mahatmya in the evening.
+7. Stay awake in prayer if possible, singing bhajans through the night.
 
 **On Dwadashi (the next morning):**
-9. Break the fast after sunrise but before the Dwadashi tithi ends. In 2026, the Ekadashi tithi ends at 5:22 AM — before sunrise — so the parana window may be unusually narrow. Check DrikPanchang for your city's exact parana time.
+8. Break the fast after sunrise but before the Dwadashi tithi ends. In 2026, the Ekadashi tithi ends at 5:22 AM — before sunrise — so the parana window may be unusually narrow. Check DrikPanchang for your city's exact parana time.
 
 ## Observance
 
-**What to avoid:** Grain, rice, wheat, dals, and legumes are traditionally avoided. Many also avoid onion, garlic, leafy greens, and eggplant. Fruit, milk, sabudana, singhare ki roti, and sendha namak are allowed.
+**What to avoid:** Grain, rice, wheat, dals, and legumes are traditionally avoided. Many also avoid onion, garlic, and eggplant. Fruit, milk, sabudana, singhare ki roti, and sendha namak are allowed.
 
 **Special note for 2026 parana:** Ekadashi tithi ends at 5:22 AM on July 11 — before sunrise. This means the Dwadashi tithi is already running at sunrise. Check DrikPanchang carefully for the exact parana window for your location.
 
-**The spirit of this day:** Carry Hemamali's story in mind. If there is old weight — a mistake made carelessly, a duty neglected, a moment of unkindness — acknowledge it honestly and offer it to the Lord. That is the real observance of Yogini Ekadashi.
+**The spirit of this day:** Carry Hemamali's story in mind. If there is old weight — a mistake made toward someone, a duty neglected — acknowledge it honestly and offer it to the Lord. That is the real observance of Yogini Ekadashi.
 
 ## Mantras
 
@@ -72,7 +71,7 @@ This is an Ekadashi vrat, observed with a full fast and Vishnu puja.
 
 *Oṃ Namo Bhagavate Vāsudevāya*
 
-Meaning: "I bow to the Lord Vasudeva." This twelve-syllable mantra is among the most revered in the Vaishnava tradition for Ekadashi observance.
+Meaning: "I bow to the Lord Vasudeva." This is the twelve-syllable mantra — its recitation on Ekadashi is considered especially fruitful.
 
 ---
 

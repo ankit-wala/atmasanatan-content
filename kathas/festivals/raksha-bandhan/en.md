@@ -78,7 +78,7 @@ Meaning: "By the same (raksha-sutra) with which the mighty demon-king Bali was b
 
 ---
 
-**Mangalik ashirvaad — after the rakhi:**
+**Auspicious blessing — after the rakhi:**
 
 > ॐ यदायुर्वर्धनं रक्षा भ्राता त्वां परिरक्षतु ।
 > चिरायुर्भव सौभाग्यं पुत्रपौत्रप्रवर्धनम् ॥

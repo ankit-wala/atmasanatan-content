@@ -2,7 +2,7 @@
 slug: mangala-gauri-vrat
 lang: en
 title: "Mangala Gauri Vrat"
-subtitle: "That grace of Maa Gauri which changes even written fate"
+subtitle: "The grace of Maa Gauri that changes even written fate"
 summary: "The Mangala Gauri Vrat is observed on each Tuesday of the month of Shravan. It is a vrat for auspiciousness and the long life of one's husband. The Skanda Purana tells the story of a wealthy merchant couple whom Maa Gauri blessed with a son and then protected that son from the curse of a serpent's sting."
 reel_hook: "The birth chart declared — death by serpent on the seventh night of marriage. But devotion to Maa Gauri changed that writing."
 ---

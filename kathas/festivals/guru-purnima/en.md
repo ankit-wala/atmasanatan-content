@@ -25,7 +25,9 @@ Then he did something that seems impossible for any one man: he divided the sing
 
 Still, that was not enough. He gave each of the four Vedas to a disciple to carry and teach: Paila received the Rigveda, Vaishampayana the Yajurveda, Jaimini the Samaveda, and Sumantu the Atharvaveda. A fifth disciple, Romharshana, received the tradition of the Puranas.
 
-Then he composed the Mahabharata — that vast epic of a hundred thousand verses, holding within it war and dharma, love and betrayal, and most importantly the Bhagavad Gita: the answer given through Arjuna to all of humanity. Then eighteen Puranas.
+Then he composed the Mahabharata — that vast epic of a hundred thousand verses, holding within it war and dharma, love and betrayal, and most importantly the Bhagavad Gita: the answer given through Arjuna to all of humanity.
+
+Then eighteen Puranas.
 
 When he had completed all of this, he was still not at peace. There was something unfinished in him. Then Narada came to him and said: *"Vyasa ji, you have written everything — but you have not yet described the Lord's own lilas. Write what will move the listener's heart."* Only then did he compose the Srimad Bhagavatam — the text he narrated to his son Shukadeva, and which Shukadeva narrated to King Parikshit.
 
@@ -35,7 +37,7 @@ The shastra tradition says: whoever honors their guru sincerely on this day rece
 
 ## Significance
 
-Guru Purnima is perhaps the only great festival in the Hindu calendar that does not honor a deity — it honors a rishi's tapasya and what grew from it.
+Guru Purnima is the only festival in the Hindu calendar that does not honor a deity — it honors a rishi's tapasya and what grew from it.
 
 In the Indian tradition, the guru's place is held above even that of God — *"Gurur Brahma Gurur Vishnu Gurur Devo Maheshvarah."* This is not mere reverence taken too far; it is the acknowledgment of a truth: without someone showing you, nothing can be known. The one who brings light into your ignorance — that person is your guru.
 

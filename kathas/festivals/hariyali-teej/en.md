@@ -51,7 +51,7 @@ Maa Parvati is the symbol alive in every married woman's heart — one who gave 
 
 "Hariyali" means not only the green earth — it is the greenness of the mind, the greenness of saubhagya (the blessing of a husband's life).
 
-On this day, married women swing on jhulas, apply mehndi, wear new clothes, and sing folk songs. All of this is a re-enactment of the joy Parvati felt on that day — when the long waiting ended and love was victorious.
+On this day, married women swing on jhulas, apply mehndi, wear new clothes, and sing folk songs. All of this is a reliving of the joy Parvati felt on that day — when the long waiting ended and love was victorious.
 
 ## Vidhi
 

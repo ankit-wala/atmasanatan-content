@@ -43,7 +43,7 @@ In the tradition of the Bhagavata Purana, Tenth Canto, it is said that the mothe
 
 Balarama — avatar of Shesha, elder brother of Krishna.
 
-The name Hal Shashthi comes from the plough — the weapon that is Balarama's mark. Shashthi is his birthday. Therefore, on this day, it is considered inauspicious to plough the earth — for on the birthday of the one whose symbol is the plough, that symbol should not be put to labour.
+The name Hal Shashthi comes from the plough — the weapon that is Balarama's mark. Shashthi is his birthday. Therefore, on this day, ploughing the earth is considered forbidden — for on the birthday of the one whose symbol is the plough, that symbol should not be put to labour.
 
 This is a special fast for mothers. He who received the love of two mothers is worshipped by mothers seeking protection for their own sons.
 

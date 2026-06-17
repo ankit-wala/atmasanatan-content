@@ -23,7 +23,7 @@ One day the sage Vishwamitra came to him and said: "O King, in a dream you gave 
 
 Harishchandra did not remember the dream. But he did not hesitate for a moment. To protect truth, he gave away his entire kingdom — throne, treasury, land — all of it to Vishwamitra.
 
-There was still a balance of dakshina due.
+More dakshina was still owed.
 
 Harishchandra had nothing left. He sold his wife Taramati as a servant to a brahmin's household. He gave his son Rohitashva to that same brahmin. And finally he sold himself — to a Dom who ran a cremation ground at Kashi.
 

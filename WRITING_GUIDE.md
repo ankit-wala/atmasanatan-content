@@ -456,17 +456,116 @@ or structural issue must be fixed and re-reviewed.
 
 ---
 
+## Phase 7 — Translation Review Agent
+
+After `en.md`, `mr.md`, and `gu.md` are written, run an independent review agent that reads
+all three translations against `hi.md` and **fixes issues inline** (not just reports them).
+
+**Why this exists:** A translation agent works entry-by-entry in a single pass. It can silently
+drop a paragraph, introduce complex vocabulary, apply pronoun register incorrectly, or produce
+prose that sounds like translated Hindi rather than natural target-language prose. An independent
+agent reads all three translations cold against the Hindi source and catches what the translation
+agent missed.
+
+**How to run it:**
+
+Spawn a fresh agent (via the Agent tool) with the following prompt for each entry:
+
+```
+You are a translation quality reviewer for a devotional Hindu katha corpus.
+Your job is to read hi.md (source) and then check en.md, mr.md, and gu.md against it.
+Find issues AND fix them by editing the files directly.
+
+Entry: kathas/festivals/<slug>/
+Read all four files: hi.md, en.md, mr.md, gu.md.
+
+For EACH translated file (en, mr, gu), check every item below. Fix all issues found.
+
+──────────────────────────────────────────────
+FAITHFULNESS (compare against hi.md paragraph by paragraph)
+──────────────────────────────────────────────
+□ Every paragraph in hi.md has a corresponding paragraph in the translation.
+  No paragraph is missing. No paragraph is combined with another.
+□ No content is added that is not in hi.md.
+□ All named characters, places, numbers, and sequence of events match hi.md exactly.
+□ The phala-shruti (closing merit statement) is present and faithful.
+□ The panchang date note in Observance (if present) is translated, not omitted.
+
+──────────────────────────────────────────────
+VOCABULARY SIMPLICITY
+──────────────────────────────────────────────
+□ No literary or archaic words — every word should be one a non-literary reader
+  uses in daily speech.
+  - English: no "bestowed", "propitiated", "manifested", "celestial realm",
+    "auspicious grace", "commenced", "verily", "thus did he speak"
+  - Marathi: no overly Sanskritised forms; prefer common spoken Marathi
+  - Gujarati: prefer everyday Gujarati a grandmother would use, not textbook Gujarati
+□ If a simpler equivalent exists, use it. Flag and fix any complex word found.
+
+──────────────────────────────────────────────
+PRONOUN REGISTER
+──────────────────────────────────────────────
+Marathi:
+□ ALL named characters (deities, sages, kings, named devotees, named women,
+  named brahmins — even if they sin or err) must use ते/त्यांनी/त्यांना/त्यांचा throughout.
+□ Only truly unnamed background figures ("एक व्यापारी", unnamed guards) use तो/त्याने.
+□ Named demons (Kansa, Hiranyakashipu, Ravana) use तो/त्याने — they are not revered.
+
+Gujarati:
+□ ALL named characters must use તેઓ/તેઓએ/તેઓના/તેઓને throughout.
+□ Only truly unnamed figures use તેણે/તેને.
+□ Named demons use તેણે — they are not revered.
+
+English:
+□ Deities addressed with "Lord", "Devi", "Shri" or equivalent.
+□ Sages addressed as "Sage", "Maharshi", or by full name with title.
+□ No colloquial informality for deities or revered figures.
+
+──────────────────────────────────────────────
+STRUCTURE
+──────────────────────────────────────────────
+□ All section headings are in English exactly: ## Katha, ## Significance, ## Vidhi,
+  ## Observance (if present), ## Mantras (if present). No translated headings.
+□ All sections present in the translation that are present in hi.md.
+□ `---` separators appear in the same positions as in hi.md.
+□ Devanagari mantra text is verbatim (not paraphrased or abbreviated).
+□ IAST transliteration lines are verbatim.
+□ Only the meaning lines (अर्थ / meaning) are translated.
+
+──────────────────────────────────────────────
+LANGUAGE NATURALNESS
+──────────────────────────────────────────────
+□ Marathi prose reads like natural Marathi — not Hindi sentence structure
+  written in Marathi script.
+□ Gujarati prose reads like natural Gujarati — same test.
+□ English prose reads as devotional narrative, not a literal gloss of the Hindi.
+
+──────────────────────────────────────────────
+AFTER FIXING:
+Report a one-line summary per language: what was fixed (or "PASS — no issues").
+```
+
+**Pass criteria:** All three translations pass all checklist items. Any issue must be fixed
+before the entry proceeds to `status: published`.
+
+**Record the outcome:** Add a comment to meta.yaml:
+```yaml
+# Phase 7 review: en/mr/gu PASS — <date>
+```
+
+---
+
 ## Translation workflow (hi, mr, gu)
 
 After `en.md` is `reviewed`:
 
 1. Copy `en.md` → `hi.md` (same front matter structure, `lang: hi`).
-2. Translate the prose sections. Keep the heading names in each language:
-   - `## Katha` → `## कथा` (hi) / `## कथा` (mr) / `## કથા` (gu)
-   - `## Significance` → `## महत्व` (hi) / `## महत्त्व` (mr) / `## મહત્વ` (gu)
-   - `## Vidhi` → `## विधि` (hi) / `## विधी` (mr) / `## વિધિ` (gu)
-   - `## Observance` → `## व्रत नियम` (hi) / `## व्रत नियम` (mr) / `## વ્રત નિયમ` (gu)
-   - `## Mantras` → `## मंत्र` (hi/mr) / `## મંત્ર` (gu)
+2. Translate the prose sections. **Section headings MUST stay in English in every language file** — do not translate them. The corpus parser (`_corpus.py`) reads sections by their English heading names; translated headings will break the build silently.
+   - `## Katha` — keep as-is in hi, mr, gu
+   - `## Significance` — keep as-is in hi, mr, gu
+   - `## Vidhi` — keep as-is in hi, mr, gu
+   - `## Observance` — keep as-is in hi, mr, gu
+   - `## Mantras` — keep as-is in hi, mr, gu
 3. The Devanagari in Mantras stays exactly the same across all languages.
    Translate only the one-line meaning.
 4. Translate `title`, `subtitle`, `summary`, `reel_hook` naturally — not word-for-word.
@@ -494,14 +593,15 @@ optional — getting it wrong feels immediately wrong to any native reader and b
 |---|---|---|---|
 | Deity (Vishnu, Shiva, Devi, Krishna…) | वे | उन्होंने / उनसे / उन्हें | वे वहाँ प्रकट हुए। उन्होंने कहा… |
 | Divine beings (Garuda, Nandi, Narada, Hanuman) | वे | उन्होंने | नारद जी वहाँ पहुँचे। उन्होंने पूछा… |
-| Rishis, Sadhus, Gurus, Elders | वे | उन्होंने | महर्षि ने कहा… / वे बोले… |
-| Kings, Queens, respected adults | वे OR वह (context) | उन्होंने OR उसने | Named kings: वे; unnamed commoner: वह |
-| Ordinary people, young characters | वह | उसने / उसे | वह डरा हुआ था। उसने प्रार्थना की। |
-| Demons, villains (Kansa, Hiranyakashipu…) | वह | उसने | उसने सैनिकों को आदेश दिया। |
+| Rishis, Sadhus, Gurus | वे | उन्होंने | महर्षि ने कहा… / वे बोले… |
+| **Any named character** — kings, queens, brahmins, devotees, pativrata women, even sinning/repenting named characters | वे | उन्होंने | Named king राजा हरिश्चन्द्र: वे बोले। Named devotee सत्राजित: उन्होंने कहा। |
+| Truly unnamed background figures ("एक व्यापारी", "एक स्त्री", unnamed guards) | वह | उसने / उसे | वह घबरा गया। उसने द्वार खोला। |
+| Demons / villains (Kansa, Hiranyakashipu, Ravana…) | वह | उसने | उसने सैनिकों को आदेश दिया। |
 
-> **Note on demons:** Even prominent demon characters like Ravana or Hiranyakashipu use
-> **वह/उसने** — they are not revered. Some readers will be familiar with Gita Press
-> following this convention; stay consistent with it.
+> **The key rule:** The pronoun tier is decided by whether the character has a **name**, not by
+> whether they are good or bad. Named brahmin, named king, named devotee, named queen — all get
+> वे/उन्होंने. Only truly anonymous figures ("a merchant", "a woman", "the guards") get वह/उसने.
+> Demons who are named and prominent (Kansa, Ravana) stay at वह/उसने — they are not revered.
 
 **The specific test for Hindi:** whenever you write a sentence about a deity or a sage,
 ask — would you say *"Krishna ne kaha"* or *"Krishna ji ne kaha"* in conversation?
@@ -513,15 +613,15 @@ character through the paragraph.
 
 | Character type | Pronoun/verb |
 |---|---|
-| Deity / Sage / Elder | त्यांनी (tyanni), त्यांना (tyanna), त्यांचे (tyanche) |
-| Ordinary person / villain | त्याने (tyane), त्याला (tyala), त्याचे (tyache) |
+| Deity / Sage / Any named character (king, devotee, brahmin, woman) | ते/त्यांनी/त्यांना/त्यांचा/त्यांच्या |
+| Truly unnamed background figure / demon | तो/त्याने/त्याला (m) or ती/तिने/तिला (f) |
 
 **Gujarati equivalents:**
 
 | Character type | Pronoun/verb |
 |---|---|
-| Deity / Sage / Elder | તેઓ (teo), તેઓએ (teoe), તેઓને (teone) |
-| Ordinary person / villain | તેણે (tene), તેને (tene) |
+| Deity / Sage / Any named character (king, devotee, brahmin, woman) | તેઓ/તેઓએ/તેઓના/તેઓને |
+| Truly unnamed background figure / demon | તેણે/તેને (m/f) |
 
 ### Translate in blocks, not sentence by sentence
 

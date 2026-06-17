@@ -37,7 +37,7 @@ Devshayani Ekadashi is one of the most important Ekadashis of the year. It opens
 
 Vishnu's yoganidra is not mere sleep. It is a cosmic settling — as if the universe itself pauses to breathe. During these four months, no new auspicious events are started: no weddings, no thread ceremonies, no house-warmings. Wandering ascetics observe *shibir* — they stop moving and stay in one place, making it a period of intensive spiritual practice.
 
-At a personal level, Chaturmas is an invitation to strip away what is unnecessary. Less travel, simpler food, more prayer. The fast of Devshayani Ekadashi is the door into that space.
+At a personal level, Chaturmas is an invitation to slow down. Less travel, simpler food, more japa. The fast of Devshayani Ekadashi is the first step toward that simplicity.
 
 Vishnu wakes from his rest on Devutthana Ekadashi (also called Prabodhini Ekadashi) in Kartik. The day he wakes, the auspicious activities of the year resume — which is why so many weddings happen in Kartik month.
 

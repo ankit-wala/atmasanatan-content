@@ -15,7 +15,7 @@ Her life was simple. Rising early, morning worship, the work of the home, servic
 
 And Goddess Lakshmi knew her.
 
-The month of Shravan came. It was a Thursday, the night before the Friday preceding the full moon. Charumati was sleeping deeply.
+The month of Shravan came. It was a Thursday before the full moon. Charumati was sleeping deeply.
 
 Then a divine light descended into her dream.
 

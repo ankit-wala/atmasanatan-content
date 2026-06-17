@@ -29,7 +29,9 @@ When Yudhishthira had heard this account of Kamika Ekadashi, every sorrow in his
 
 ## Significance
 
-Kamika Ekadashi is a meeting of two sanctities — the month of Shravan and the Ekadashi fast. By tradition, Kamika means the one that fulfills all desires (kāma).
+Kamika Ekadashi means the Ekadashi that fulfills all desires (kāma). This name has come down through tradition.
+
+Kamika Ekadashi is a meeting of two sanctities — the month of Shravan and the Ekadashi fast.
 
 In Shravan, Vishnu is in Yoganidra. This month is the time of his deepest grace. And Ekadashi — the tithi that is most dear to the Lord in any month — becomes even more luminous within this month.
 
@@ -39,6 +41,7 @@ This Ekadashi is especially for those weighed down by heavy sins — the scriptu
 
 ## Vidhi
 
+**Fasting procedure:**
 1. Take sattvic food the night of Dashami.
 2. On Ekadashi morning, bathe and take the sankalpa (vow).
 3. Offer tulsi, flowers, and a ghee diya before an image of Vishnu or a Shalagrama.

@@ -33,7 +33,7 @@ The seven sages left. Then Shiva himself came to her — disguised as a young br
 
 Parvati grew angry — *"Enough, Brahmin. The one I worship will not be spoken ill of in my presence. You must leave."*
 
-In that instant the young brahmin vanished — and standing there was Mahadeva himself. Trident, the crescent moon, the Ganga at his matted locks, Nandi — all present.
+In that instant the young brahmin vanished — and standing there was Mahadeva himself. Trident, the crescent moon, the Ganga, Nandi — all present.
 
 He said: *"Parvati, your test is complete. Your love, your resolve, your tapasya — all held firm. I accept you."*
 

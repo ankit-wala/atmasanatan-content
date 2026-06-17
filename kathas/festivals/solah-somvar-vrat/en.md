@@ -9,7 +9,7 @@ reel_hook: "Parvati's curse, and the apsaras showed the way — sixteen Mondays,
 
 ## Katha
 
-Amravati — that city of the divine realm where Indra holds sway and the gods roam. In that city stood a Shiva temple, and that temple's priest was a Brahmin — calm, devoted, a Shiva-bhakta.
+Amravati — that city of the heavens where Indra holds sway and the gods roam. In that city stood a Shiva temple, and that temple's priest was a Brahmin — calm, devoted, a Shiva-bhakta.
 
 One day Lord Shiva and Goddess Parvati came to that temple. There they sat down to play a game of dice — that game which has been played among the gods since ancient times.
 
@@ -29,7 +29,7 @@ Much later, one day some apsaras came to that temple — descended from the heav
 
 The priest told them everything.
 
-The apsaras said: *"There is a way. The vrat of sixteen Mondays — that sadhana of Shiva which can melt even the hardest curse. Sixteen consecutive Mondays, fasting, night vigil, Shiva worship. On the seventeenth Monday, perform a special puja — prepare prasad from wheat flour, offer it to Shiva, and distribute it among family and guests. Lord Shiva will be pleased."*
+The apsaras said: *"There is a way. The vrat of sixteen Mondays — that sadhana of Shiva which can melt even the hardest curse. Sixteen consecutive Mondays, fasting, night vigil, Shiva worship. On the seventeenth Monday, perform a special puja — prepare prasad from wheat flour, offer it to Shiva, and distribute it among family members. Lord Shiva will be pleased."*
 
 The priest observed sixteen Mondays with complete devotion. One by one — fast, puja, Shiva's remembrance. With feeling, with faith, without lapse.
 
@@ -69,7 +69,7 @@ The sixteen Mondays ideally begin from the first Monday of Shravan and continue 
 
 ## Observance
 
-**Fast type:** Full fast like Ekadashi — no rice or grains. Fruits (fresh fruit, milk, sabudana) may be taken once. Some traditions observe a complete waterless fast — according to one's strength.
+**Fast type:** Full fast like Ekadashi — no rice or grains. Fruits (fruit, milk, sabudana) may be taken once. Some traditions observe a complete waterless fast — according to one's strength.
 
 **Breaking the fast:** Each Monday — break the fast on the following Tuesday after sunrise. Before breaking, Shiva's remembrance and water offering.
 

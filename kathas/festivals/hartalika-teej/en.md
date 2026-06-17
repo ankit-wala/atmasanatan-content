@@ -15,7 +15,7 @@ Even as a young girl she had one unwavering vow — "Shiva. No one else." She wo
 
 One day, the divine sage Narada arrived at Himalaya's palace.
 
-Narada said — "O Lord of Mountains, I have studied Parvati's birth chart. There is a most worthy match for her — Lord Vishnu himself. He is the protector of all creation, sovereign of the three worlds. What greater fortune could there be?"
+Narada said — "O Lord of Mountains, I have studied Parvati's birth chart. There is a most worthy match for her — Lord Vishnu himself. He is all-sufficient, the protector of all creation. What greater fortune could there be?"
 
 Himalaya was delighted. He agreed at once.
 
@@ -101,7 +101,7 @@ This vrat is **nirjal** — its defining characteristic is that even water is fo
 
 *Oṃ Namaḥ Śivāya*
 
-Meaning: "Salutation to Lord Shiva." This five-syllable mantra was the one Parvati chanted through her tapas. It is the central mantra of Hartalika Teej puja of the sand Shivalinga.
+Meaning: "Salutation to Lord Shiva." This five-syllable mantra was the one Parvati chanted through her tapas. It is chanted during the Hartalika Teej puja of the sand Shivalinga.
 
 ---
 

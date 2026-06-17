@@ -51,9 +51,9 @@ In the tradition of the Skanda Purana, it is said that the devotee who worships 
 
 Neem is Mother Sheetala's beloved tree — cooling, astringent, disease-dispelling. This is why neem branches and leaves are essential in her worship.
 
-**A mother's fast — for her children:** This fast is observed especially by mothers for the health and wellbeing of their children. Mother Sheetala presides over the diseases that afflict children most — smallpox, fever, and skin ailments. A mother keeps this fast praying that Mother Sheetala show grace upon her children and protect them from these diseases. Taking cold food is the outward symbol of this prayer — just as the mother "cools" herself, so she prays that Mother Sheetala cool the fever and burning in her children.
-
 The most distinctive tradition of Sheetala Saptami is **not lighting the hearth**. Heat, fire, the smell of cooking — these are contrary to Mother Sheetala's nature. So on the sixth day (Shashthi — Randhan Chhath), all food is cooked ahead. On Saptami, that cold, day-old food is offered to the Goddess, and the family eats it too.
+
+**A mother's fast — for her children:** This fast is observed especially by mothers for the health and wellbeing of their children. Mother Sheetala presides over the diseases that afflict children most — smallpox, fever, and skin ailments. A mother keeps this fast praying that Mother Sheetala show grace upon her children and protect them from these diseases. Taking cold food is the outward symbol of this prayer — just as the mother "cools" herself, so she prays that Mother Sheetala cool the fever and burning in her children.
 
 This festival is observed primarily in Gujarat on Bhadrapada Krishna Saptami. In North India, Sheetala Ashtami (Chaitra Krishna Ashtami — Basoda) is more common. In both traditions, the Goddess and her offering are the same, and in both a mother's fast is centered on protecting her children — only the date and region differ.
 
