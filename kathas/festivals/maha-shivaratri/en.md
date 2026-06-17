@@ -27,7 +27,7 @@ For Lord Shiva, this was enough.
 
 At the first light of dawn the danger below passed. Lubdhaka climbed down from the tree and came to the lake. Just then a doe arrived to drink. Lubdhaka raised his bow, drew the arrow — and at that very moment, a divine radiance flooded the entire forest with light.
 
-Lord Shiva appeared before him — the Ganga flowing from his matted locks, a serpent coiled about his neck, the Trishula (trident) in his hand — and he spoke to Lubdhaka: "This night you worshipped me without knowing it — the fast, the vigil, and the offering of bilva leaves — all three were fulfilled. Your unknowing surrender has touched my heart. Go now; you are free from the bondage of birth and death."
+Lord Shiva appeared before him — the Ganga flowing from his matted locks, a serpent coiled about his neck, the Trishula in his hand — and he spoke to Lubdhaka: "This night you worshipped me without knowing it — the fast, the vigil, and the offering of bilva leaves — all three were fulfilled. Your unknowing surrender has touched my heart. Go now; you are free from the bondage of birth and death."
 
 Tears streamed from Lubdhaka's eyes. He who had never even known Shiva's name was now worthy of moksha. He bowed his head at the Lord's feet.
 
