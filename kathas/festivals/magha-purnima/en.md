@@ -3,7 +3,7 @@ slug: magha-purnima
 lang: en
 title: "Magha Purnima — The Great Festival of Sacred Bathing and Merit"
 subtitle: "When King Dilipa's Surrender Gave Rise to the Raghuvamsha"
-summary: "A bath at the Prayagraj Sangam on Magha Purnima destroys the sins of seven lifetimes. The Padma Purana's katha recounts King Dilipa's service to the divine cow and the birth of his son Raghu — the dynasty in which Lord Rama himself took birth."
+summary: "A bath at the Prayagraj Sangam on Magha Purnima destroys the sins of seven lifetimes. The Padma Purana's katha recounts King Dilipa's service to Nandini, Kamadhenu's divine daughter, and the birth of his son Raghu — the dynasty in which Lord Rama himself took birth."
 reel_hook: "A king offered his own life to protect a cow — and from that act of surrender was born the dynasty in which Lord Rama himself came."
 ---
 
@@ -17,7 +17,7 @@ Vasishtha said — "O King, once as you were returning from the celestial realm,
 
 Both Dilipa and Sudakshina were filled with sorrow. They asked humbly — "Gurudeva, what must we do?" Vasishtha showed them the path — "Nandini is here in the ashrama. Serve her with complete devotion and sincerity for twenty-one days. Do whatever she asks of you. Your well-being lies in her happiness."
 
-Maharaja Dilipa and Maharani Sudakshina began serving Nandini with humility. Each day they went with her into the forest, brought her fresh grass and water, and cleared every obstacle from her path. Nandini was a divine cow — her service was no ordinary task; it was a tapasya.
+Maharaja Dilipa and Maharani Sudakshina began serving Nandini with humility. Each day they went with her into the forest, brought her fresh grass and water, and cleared every obstacle from her path. Nandini, Kamadhenu's divine daughter — her service was no ordinary task; it was a tapasya.
 
 The twenty-first day arrived. That day was the Purnima of the month of Magha. Suddenly, a fearsome lion appeared in the forest and readied itself to spring upon Nandini. King Dilipa reached for his bow, but his body seemed to turn to stone — he could not move.
 

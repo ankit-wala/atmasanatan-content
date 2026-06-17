@@ -41,7 +41,7 @@ The woodcutter extended both hands. Prasad was placed in them. He received it wi
 
 That very night, Lord Satyanarayan appeared to him in a dream.
 
-Clad in yellow silk, bearing the conch, discus, mace, and lotus — a radiant form.
+Clad in yellow silk, bearing the Panchajanya (his conch), his Sudarshan Chakra (the spinning disc of light), the Kaumodaki (his mace), and a lotus — a radiant form.
 
 He said — *"You received my prasad with devotion. That is enough. Now tell me — what do you desire?"*
 

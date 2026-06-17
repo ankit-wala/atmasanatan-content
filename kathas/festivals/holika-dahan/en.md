@@ -3,7 +3,7 @@ slug: holika-dahan
 lang: en
 title: "Holika Dahan — The Triumph of Devotion"
 subtitle: "When fire consumed arrogance, not the devotee"
-summary: "Holika Dahan keeps alive that immortal episode from the Bhagavata Purana in which the child Prahlada's unshakeable bhakti reduced the bonfire of demonic arrogance to ash, and Lord Narasimha manifested to prove His boundless love for His devotee."
+summary: "Holika Dahan keeps alive that immortal episode from the Bhagavata Purana in which the child Prahlada's unshakeable bhakti reduced the bonfire of demonic arrogance to ash, and Lord Narasimha manifested to prove his boundless love for his devotee."
 reel_hook: "The child whom fire, poison, elephants, and the ocean could not touch — what was his secret?"
 ---
 
@@ -23,7 +23,7 @@ Then the Lord's lila unfolded. A divine wind arose. That protective garment flew
 
 Hiranyakashipu's rage now reached its peak. He seized Prahlada and roared, "Where is your Vishnu?" Prahlada answered with perfect composure: "He is everywhere. He is in this stambha too." Hiranyakashipu struck that pillar with his mace — and from that stambha, with a thunderous roar, emerged Lord Narasimha: neither fully human, nor fully lion.
 
-It was dusk — neither day nor night. He stood at the threshold of the doorway — neither inside the dwelling nor outside. He placed Hiranyakashipu across His thighs — neither on the earth nor in the sky. And with His nails — neither a forged weapon nor an unformed one — He slew him. Not a single condition of Brahma's boon was violated, yet the Lover of His devotees protected His devotee completely.
+It was dusk — neither day nor night. He stood at the threshold of the doorway — neither inside the dwelling nor outside. He placed Hiranyakashipu across his thighs — neither on the earth nor in the sky. And with his nails — neither a forged weapon nor an unformed one — he slew him. Not a single condition of Brahma's boon was violated, yet the Lord protected his devotee completely.
 
 In the tradition of the Bhagavata Purana it is said that Lord Narasimha granted liberation even to Hiranyakashipu — for in his final moment the name "Narayana" arose in his mind. The hands that had been raised to kill his own son were, in the end, raised toward that very Vishnu. The bhakti of the devotee had accomplished the deliverance of his father as well.
 

@@ -2,7 +2,7 @@
 slug: satyanarayan-adhyaya-3
 lang: en
 title: "Satyanarayan Katha — Third Chapter (The Story of Sadhukara and Kalavati)"
-subtitle: "He scorned the prasad — and the Lord showed what it costs to refuse His grace"
+subtitle: "He scorned the prasad — and the Lord showed what it costs to refuse his grace"
 summary: "The third chapter of the Satyanarayan Vrat Katha tells the story of the merchant Sadhukara, his daughter Kalavati, and his son-in-law. Out of pride, the son-in-law refused the prasad being offered at a Satyanarayan puja on the riverbank — and the Lord's grace withdrew at once. Only when the prasad was accepted with devotion did everything return to its rightful place."
 reel_hook: "A wealthy merchant's son-in-law said — I have no need of this puja's prasad. That very moment, their ship came to a standstill. Trouble descended upon the home. The Lord made it clear — to refuse prasad is to refuse grace."
 ---

@@ -19,7 +19,7 @@ Six children were born. Kansa killed all six.
 
 The seventh pregnancy was different. Yogamaya — the divine power that moves unseen — acted before Kansa could. She transferred the unborn child quietly from Devaki's womb to the womb of Rohini, Vasudeva's other wife, who lived safely across the Yamuna in Gokul. Devaki appeared to have lost the child. Kansa heard only that it was a miscarriage and paid no further attention. But the child lived — born to Rohini in Gokul, he was Balarama, the one who would become Krishna's elder brother and closest companion.
 
-Now there would be an eighth. As Devaki and Vasudeva sat in their chains, a light filled the dark cell. The Lord himself appeared to them — four-armed, radiant, bearing his conch, discus, mace, and lotus. He spoke to them: *"I have heard you. I am coming as your eighth child. Do not be afraid."*
+Now there would be an eighth. As Devaki and Vasudeva sat in their chains, a light filled the dark cell. The Lord himself appeared to them — four-armed, radiant, bearing his Panchajanya (the conch), Sudarshan Chakra (the spinning disc of light), Kaumodaki (the mace), and lotus. He spoke to them: *"I have heard you. I am coming as your eighth child. Do not be afraid."*
 
 The night of Bhadrapada Krishna Ashtami arrived. Rain beat down without stopping. Lightning cracked the sky open. At the hour called Nishita — the deep center of midnight — Devaki gave birth. The child was dark as a rain cloud and glowed with a quiet, inexplicable light. The prison felt, for a moment, like a temple.
 
@@ -29,7 +29,7 @@ Vasudeva picked up his newborn son. He placed the child in a flat wicker basket,
 
 Above them, Sheshanaga — the great divine serpent — spread his wide hoods like an umbrella, shielding the newborn from the rain all the way across.
 
-In Gokul, on the other bank, the cowherd Nanda's wife Yashoda had just given birth that same night. Her child was a daughter — no ordinary girl, but Yogamaya, the goddess of illusion, born there for exactly this purpose. Vasudeva laid his son gently beside Yashoda and took her sleeping daughter in the basket. He crossed the Yamuna again, returned to the prison, and placed the girl in Devaki's arms.
+In Gokul, on the other bank, the cowherd Nanda's wife Yashoda had just given birth that same night. Her child was a daughter — no ordinary girl, but Yogamaya, the Goddess of illusion, born there for exactly this purpose. Vasudeva laid his son gently beside Yashoda and took her sleeping daughter in the basket. He crossed the Yamuna again, returned to the prison, and placed the girl in Devaki's arms.
 
 The doors swung shut. The shackles returned. The guards woke as if nothing had happened.
 

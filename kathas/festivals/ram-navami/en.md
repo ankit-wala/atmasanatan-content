@@ -23,7 +23,7 @@ In time the queens conceived. And then came that sacred moment for which not onl
 
 But this was no ordinary child.
 
-Kaushalya beheld before her a divine presence. Dark as a rain-filled cloud, eyes wide as blooming lotus flowers, four arms bearing the conch, the discus, the mace, and the lotus — this was Vishnu himself, the Sustainer of all worlds, who had descended in human form, having heard the cry of the earth and of the gods, suffering under the tyranny of Ravana. Kaushalya was overwhelmed. Tears of joy streamed from her eyes.
+Kaushalya beheld before her a divine presence. Dark as a rain-filled cloud, eyes wide as blooming lotus flowers, four arms bearing the Panchajanya (the divine conch), the Sudarshan Chakra (the spinning disc of light), the Kaumodaki (the mace), and the lotus — this was Vishnu himself, the Sustainer of all worlds, who had descended in human form, having heard the cry of the earth and of the gods, suffering under the tyranny of Ravana. Kaushalya was overwhelmed. Tears of joy streamed from her eyes.
 
 Then, in an instant, that divine splendour was absorbed — and the sweet, enchanting cry of a tender infant filled the air.
 

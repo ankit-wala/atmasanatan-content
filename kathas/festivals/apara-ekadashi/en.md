@@ -39,13 +39,13 @@ Sage Dhaumya listened. He knew — this death had been unjust. This bondage was 
 
 He said — "Rajan, hear me. Your death was untimely, it was unjust. But this does not mean your journey has ended. No prana lies beyond the compassion of the Lord."
 
-"The Ekadashi of Jyeshtha Krishna Paksha is called **Apara Ekadashi** — 'Apara,' she who has no shore. Keep this fast — a full day of upavasa, a night of vigil, meditation upon Lord Vishnu and the remembrance of His name. The power of this Ekadashi is without limit. It severs every bondage — the bondage of sin, of untimely death, of incomplete rites. It can free even a soul from preta-yoni."
+"The Ekadashi of Jyeshtha Krishna Paksha is called **Apara Ekadashi** — 'Apara,' she who has no shore. Keep this fast — a full day of upavasa, a night of vigil, meditation upon Lord Vishnu and the remembrance of his name. The power of this Ekadashi is without limit. It severs every bondage — the bondage of sin, of untimely death, of incomplete rites. It can free even a soul from preta-yoni."
 
 The preta listened. And for the first time, he felt hope.
 
 ---
 
-Mahidhvaja's soul observed that Ekadashi fast. All day in meditation on Vishnu, all night repeating His name — "Narayana… Narayana…"
+Mahidhvaja's soul observed that Ekadashi fast. All day in meditation on Vishnu, all night repeating his name — "Narayana… Narayana…"
 
 The night passed. The first ray of light broke in the eastern sky.
 
@@ -96,7 +96,7 @@ The katha of Mahidhvaja also tells us that a life lived by dharma is never spent
 
 Oṃ Namo Bhagavate Vāsudevāya
 
-Meaning: "O Lord Vasudeva (Krishna/Vishnu), I bow to You." This twelve-syllable dvadasakshari mantra is regarded as the supreme mantra of Vishnu-bhakti. Its japa during the fast of Apara Ekadashi is held to be especially fruitful.
+Meaning: "O Lord Vasudeva (Krishna/Vishnu), I bow to you." This twelve-syllable dvadasakshari mantra is regarded as the supreme mantra of Vishnu-bhakti. Its japa during the fast of Apara Ekadashi is held to be especially fruitful.
 
 ---
 

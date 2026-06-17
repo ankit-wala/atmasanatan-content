@@ -35,7 +35,7 @@ Ravana's ten heads are regarded in Hindu tradition as symbols of ten inner vices
 
 On this day, the worship of Devi Aparajita is especially important. "Aparajita" means the one who has never been defeated — that very form of Maa Durga whom Rama worshipped throughout Navaratri. The Shami tree is also worshipped on this day; it is the tree beneath whose branches the Pandavas concealed their weapons during their year of incognito exile — and so the tree became a symbol of power and victory.
 
-The celebration of Vijayadashami takes a different form in every corner of India. In northern India, enormous effigies of Ravana, Kumbhakarna, and Meghnada are set ablaze. In Bengal, this same day marks the immersion of Durga — after ten days of the Mother's presence, She departs, and the air rings with the cry "Ashe bachhar abar hobe" (may it happen again next year). In Mysore, the Dussehra festival is renowned across the country and beyond for the grand royal procession of the Maharaja. In southern India, it is celebrated as "Ayudha Puja" or "Shastra Puja" — on this day, one's tools, vehicles, and craft are all worshipped.
+The celebration of Vijayadashami takes a different form in every corner of India. In northern India, enormous effigies of Ravana, Kumbhakarna, and Meghnada are set ablaze. In Bengal, this same day marks the immersion of Durga — after ten days of the Mother's presence, she departs, and the air rings with the cry "Ashe bachhar abar hobe" (may it happen again next year). In Mysore, the Dussehra festival is renowned across the country and beyond for the grand royal procession of the Maharaja. In southern India, it is celebrated as "Ayudha Puja" or "Shastra Puja" — on this day, one's tools, vehicles, and craft are all worshipped.
 
 ## Vidhi
 
@@ -80,4 +80,4 @@ Meaning: To the Goddess who abides in all living beings in the form of Shakti �
 
 Śamī śamayate pāpaṃ śamī śatruvinā́śinī | arjunasya dhanurdhārī rāmasya priyadarśinī ||
 
-Meaning: Shami destroys sin; Shami destroys enemies. She who bore Arjuna's bow and is dear to Rama — that is the Shami tree.
+Meaning: Shami destroys sin; Shami destroys enemies. She who bore Arjuna's Gandiva (bow) and is dear to Rama — that is the Shami tree.

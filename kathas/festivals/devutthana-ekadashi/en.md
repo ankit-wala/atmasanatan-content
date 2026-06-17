@@ -4,7 +4,7 @@ lang: en
 title: "Devutthana Ekadashi (Dev-Prabodhini)"
 subtitle: "Vishnu awakens after four months of divine sleep — and Chaturmas comes to an end"
 summary: "Devutthana Ekadashi falls on Kartik Shukla Ekadashi. It is also called 'Dev-Prabodhini' — the Ekadashi of the awakening of the gods. As described in the Brahma Vaivarta Purana, Lord Vishnu, who had entered Yoga-nidra on Ashadha Shukla Ekadashi (Devshayani), awakens on this day. Chaturmas, the four-month divine sleep period, ends. Marriages and auspicious ceremonies resume."
-reel_hook: "For four months, Lord Vishnu had been asleep. Today is the day He awakened — and the conch resounded. Tulsi called to Him first."
+reel_hook: "For four months, Lord Vishnu had been asleep. Today is the day he awakened — and the conch resounded. Tulsi called to him first."
 ---
 
 ## Katha
@@ -25,13 +25,13 @@ That call, rising from beside the Tulsi, reaches straight to the Kshirsagar.
 
 Lord Vishnu's Yoga-nidra breaks.
 
-He slowly opens His eyes. Shesha-naga too awakens. The gods, who had been waiting for four months, cry out in unison with joyful proclamation. Celebration fills the heavens.
+He slowly opens his eyes. Shesha-naga too awakens. The gods, who had been waiting for four months, cry out in unison with joyful proclamation. Celebration fills the heavens.
 
 And in that very moment — on earth too, the doors are thrown open.
 
 The auspicious ceremonies that had been paused during Chaturmas — marriages, mundan, griha-pravesh, yajnopavita — may all resume. This is why so many shehnais are heard in the month of Kartik — this month is filled with auspicious moments for weddings.
 
-After the Lord's awakening, the first sacred rite is His marriage to Tulsi. Beginning from this very Ekadashi, or on the Dwadashi that follows, the Tulsi Vivah ceremony takes place. This is no symbolic occasion — it is the repayment of the debt that Vishnu feels toward the love of Tulsi.
+After the Lord's awakening, the first sacred rite is his marriage to Tulsi. Beginning from this very Ekadashi, or on the Dwadashi that follows, the Tulsi Vivah ceremony takes place. This is no symbolic occasion — it is the repayment of the debt that Vishnu feels toward the love of Tulsi.
 
 It is said in the Brahma Vaivarta Purana — whoever observes the fast on this Ekadashi, participates in the Vishnu-jagaran, and worships Tulsi — receives the accumulated merit of all the fasts of Chaturmas. This one Ekadashi equals four months of spiritual practice.
 

@@ -41,7 +41,7 @@ And from that combined radiance a divine form appeared — *a woman's form*, bla
 
 Each god gave her their finest weapon.
 
-Shiva gave the trident. Vishnu gave the Sudarshana Chakra. Indra gave the thunderbolt. Agni gave the shakti. Vayu gave the bow and arrows. Surya gave armour. The ocean gave lotuses and ornaments. The Himalayas gave a lion as her mount.
+Shiva gave the trident. Vishnu gave the Sudarshana Chakra. Indra gave the Vajra (the thunderbolt). Agni gave the shakti. Vayu gave the bow and arrows. Surya gave armour. The ocean gave lotuses and ornaments. The Himalayas gave a lion as her mount.
 
 The Goddess was adorned. Four-armed, golden of form, seated upon a lion.
 

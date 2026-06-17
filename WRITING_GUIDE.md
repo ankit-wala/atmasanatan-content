@@ -533,6 +533,34 @@ STRUCTURE
 □ Only the meaning lines (अर्थ / meaning) are translated.
 
 ──────────────────────────────────────────────
+NAMED OBJECTS AND WEAPONS (English only)
+──────────────────────────────────────────────
+□ No divine weapon, vehicle, jewel, or sacred item has been genericised.
+  Check every occurrence of: discus, wheel, conch, mace, bow, sword, trident,
+  thunderbolt, chariot, divine cow, jewel/gem, flying vehicle.
+  Replace with the specific Sanskrit name:
+  - discus/wheel → Sudarshan Chakra (Vishnu/Krishna)
+  - conch → Panchajanya (Krishna/Vishnu's conch)
+  - mace → Kaumodaki (Vishnu's mace)
+  - bow → Gandiva (Arjuna), Pinaka (Shiva/Rama), Sharanga (Vishnu)
+  - thunderbolt → Vajra (Indra)
+  - flying chariot → Pushpaka Vimana (Kubera/Ravana)
+  - divine cow → Kamadhenu or Nandini
+  On first use, add a brief parenthetical: "his Sudarshan Chakra (the spinning disc)".
+
+──────────────────────────────────────────────
+CAPITALISATION (English only)
+──────────────────────────────────────────────
+□ Deity names and titles capitalised: Lord Vishnu, Goddess Parvati, Devi, Mahadev,
+  Bhagavan, the Lord, the Goddess.
+□ Named divine weapons capitalised: Sudarshan Chakra, Gandiva, Vajra, Panchajanya, etc.
+□ Sacred rivers as proper names: the Ganga, the Yamuna (not "the ganges").
+□ Sacred mountains: Mount Kailash, Mount Meru.
+□ Named texts: the Bhagavata Purana, the Mahabharata, the Ramayana.
+□ No pronoun capitalisation for deities (He/His) — not the convention in Hindu devotional English.
+□ Generic devotional nouns NOT capitalised: the vrat, the puja, the festival.
+
+──────────────────────────────────────────────
 LANGUAGE NATURALNESS
 ──────────────────────────────────────────────
 □ Marathi prose reads like natural Marathi — not Hindi sentence structure
@@ -674,6 +702,67 @@ necessarily the best base for Indic-language translations.
 
 5. Repeat for `mr.md` (Marathi) and `gu.md` (Gujarati).
 6. After all four language files are done → set `status: published` in meta.yaml.
+
+---
+
+### English translation — named objects, weapons, and sacred items
+
+**Never genericise a named divine object.** When a deity's weapon, vehicle, jewel, or sacred
+item has a specific Sanskrit name that devotees know, use that name in the English text. A
+generic English word erases the identity of the object and loses the story's devotional weight.
+
+| Generic (avoid) | Use instead | Context |
+|---|---|---|
+| discus / wheel | Sudarshan Chakra | Vishnu/Krishna's spinning weapon |
+| conch | Panchajanya | Krishna's / Vishnu's specific conch |
+| mace | Kaumodaki | Vishnu's mace |
+| sword | Nandaka | Vishnu's sword |
+| bow | Gandiva | Arjuna's specific bow |
+| bow | Pinaka | Shiva's bow; also the bow Rama broke at Sita's swayamvar |
+| bow | Sharanga | Vishnu's bow |
+| trident | trishul (or Trishul) | Shiva's weapon — "trishul" is the common English form |
+| thunderbolt / lightning bolt | Vajra | Indra's weapon |
+| divine chariot | Pushpaka Vimana | Kubera's / Ravana's flying palace-chariot |
+| divine cow | Kamadhenu (or Nandini) | The wish-fulfilling cow |
+| divine tree | Parijata | The wish-fulfilling tree from the ocean churning |
+| jewel / gem | Kaustubha | Vishnu's gem from the ocean churning |
+| jewel / gem | Syamantaka | Satrajit's / Krishna's jewel (ganesh-chaturthi-syamantaka) |
+| flying vehicle / mount | Garuda | Vishnu's eagle-vehicle (already a proper name — use it) |
+| bull vehicle / mount | Nandi | Shiva's bull (already a proper name — use it) |
+
+**Rule:** If a first-time reader of the English text would not know which specific object is
+meant from context, keep the Sanskrit name and add a brief parenthetical on first use only:
+*"his Sudarshan Chakra (the spinning disc of light)"*. After that first use, drop the parenthetical.
+
+**Tip for Ekadashi and vrat kathas:** these often mention weapons in passing during battle
+scenes. Do not genericise incidentally — check each weapon reference in the katha.
+
+---
+
+### English translation — capitalisation
+
+Consistent capitalisation signals respect and helps readers distinguish divine from mortal.
+
+**Always capitalise:**
+- Deity names and titles: Lord Vishnu, Lord Shiva, Goddess Parvati, Devi, Mahadev,
+  Bhagavan, the Lord (when referring to a specific deity), the Goddess
+- Divine epithets used as names: the Preserver, the Destroyer, the Supreme
+- Named divine weapons and objects: Sudarshan Chakra, Gandiva, Vajra, Panchajanya,
+  Kaumodaki, Pinaka, Pushpaka Vimana, Kamadhenu, Parijata
+- Sacred rivers when used as proper names: the Ganga, the Yamuna, the Saraswati
+  (not "the ganges" — always "the Ganga")
+- Sacred mountains used as proper names: Mount Kailash, Mount Meru, Mount Mandara
+- Named sacred texts: the Bhagavata Purana, the Mahabharata, the Ramayana
+- Divine concepts when personified as characters: Dharma (when it means the deity or
+  cosmic principle as an actor), Maya, Shakti
+
+**Do not over-capitalise:**
+- Do not capitalise generic nouns that happen to be devotional: "the vrat", "the puja",
+  "the festival", "the tradition" — these are common nouns
+- Do not capitalise "heaven" or "the heavens" (generic); capitalise only when using
+  the Sanskrit proper name: "Svarga", "Vaikuntha", "Kailash"
+- Do not capitalise pronouns for deities (He/His/She/Her) — this is a Christian convention
+  not used in Hindu devotional English writing
 
 ---
 

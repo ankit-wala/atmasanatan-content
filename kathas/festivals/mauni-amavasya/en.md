@@ -2,7 +2,7 @@
 slug: mauni-amavasya
 lang: en
 title: "Mauni Amavasya — The Holiest Bath of Magh and the Glory of Silence"
-subtitle: "When the Sages' Tapas Caused Lord Vishnu Himself to Appear"
+subtitle: "When the Sages' Tapas Caused Lord Vishnu himself to Appear"
 summary: "Mauni Amavasya is the most sacred new-moon day of the month of Magh. In the Magh Mahatmya of the Padma Purana, Maharshi Lomash narrated this katha to King Yudhishthira — that a tirtha bath, mauna, and meditation on Vishnu on the Magh Amavasya yields the merit of a thousand Ashvamedha yajnas."
 reel_hook: "Crores of people observe silence and bathe on a single day — what is the rule of Magh Amavasya, and why does it exist?"
 ---

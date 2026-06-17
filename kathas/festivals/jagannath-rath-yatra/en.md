@@ -15,7 +15,7 @@ Indradyumna sent his trusted priest Vidyapati to find it. After great effort, Vi
 
 Indradyumna was broken. He sat on that very ground and began to fast and pray.
 
-Then came the dream. The Lord spoke to him: *"Do not despair. Tomorrow the waves will carry a great piece of sacred wood to shore — a divine log bearing the marks of the conch, the discus, the mace, and the lotus. Have my image, Balabhadra's image, and Subhadra's image carved from that wood."*
+Then came the dream. The Lord spoke to him: *"Do not despair. Tomorrow the waves will carry a great piece of sacred wood to shore — a divine log bearing the marks of Panchajanya (the conch), the Sudarshan Chakra (the spinning disc of light), Kaumodaki (the mace), and the lotus. Have my image, Balabhadra's image, and Subhadra's image carved from that wood."*
 
 And the Lord added: *"A divine craftsman will come to do this work. He has one condition — keep the door closed. Do not watch, do not disturb him."*
 

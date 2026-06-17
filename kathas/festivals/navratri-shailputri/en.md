@@ -84,7 +84,7 @@ Wherever the pieces of Sati's body fell, a Shakti Peetha was formed — 51 peeth
 
 ## Observance
 
-**Navratri Vrat:** The nine-day fast begins from Pratipada — fruit diet or one meal a day.
+**Navratri vrat:** The nine-day fast begins from Pratipada — fruit diet or one meal a day.
 
 **Colour:** The colour of Pratipada is **red** — symbol of power, courage, and energy.
 

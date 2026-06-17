@@ -2,8 +2,8 @@
 slug: parivartini-ekadashi
 lang: en
 title: "Parivartini Ekadashi (Parsva Ekadashi / Vamana Ekadashi)"
-subtitle: "At the midpoint of Chaturmas, the Lord turned on His side — and Bali received the gift of Sutala"
-summary: "Parivartini Ekadashi falls on Bhadrapada Shukla Ekadashi. On this day, Lord Vishnu turns from His left side to His right during Yoga Nidra on the Shesha serpent in the Kshira Sagara — hence it is called 'Parivartini' (the turning) or Parsva Ekadashi. On this day, the katha of Vamana and Bali is heard. The presiding deity is Lord Vamana / Trivikrama."
+subtitle: "At the midpoint of Chaturmas, the Lord turned on his side — and Bali received the gift of Sutala"
+summary: "Parivartini Ekadashi falls on Bhadrapada Shukla Ekadashi. On this day, Lord Vishnu turns from his left side to his right during Yoga Nidra on the Shesha serpent in the Kshira Sagara — hence it is called 'Parivartini' (the turning) or Parsva Ekadashi. On this day, the katha of Vamana and Bali is heard. The presiding deity is Lord Vamana / Trivikrama."
 reel_hook: "King Bali thought — what is it to give three feet of land to a small brahmin boy? Then that brahmin grew so vast that all three worlds fit within a single step."
 ---
 
@@ -11,7 +11,7 @@ reel_hook: "King Bali thought — what is it to give three feet of land to a sma
 
 Dharmaraja Yudhishthira asked Lord Sri Krishna — "Madhava, what is the name of the Bhadrapada Shukla Ekadashi? What is special about this day?"
 
-The Lord said — "O King, this Ekadashi is called **Parivartini** — or Parsva Ekadashi. On Ashadha Shukla Ekadashi I enter Yoga Nidra, resting on Shesha in the Kshira Sagara. On this Bhadrapada Ekadashi, at the midpoint of Chaturmas, I change My side — from the left to the right. That is why it is Parsva Ekadashi. Now hear an ancient katha connected to this day."
+The Lord said — "O King, this Ekadashi is called **Parivartini** — or Parsva Ekadashi. On Ashadha Shukla Ekadashi I enter Yoga Nidra, resting on Shesha in the Kshira Sagara. On this Bhadrapada Ekadashi, at the midpoint of Chaturmas, I change my side — from the left to the right. That is why it is Parsva Ekadashi. Now hear an ancient katha connected to this day."
 
 ---
 
@@ -31,7 +31,7 @@ In those days, Bali was performing the Vishvajit Mahayajna on the banks of the N
 
 Vamana Bhagavan arrived at the yajna ground. Small in stature, luminous face, with an umbrella and a kamandal in hand.
 
-Bali saw him — "Who is this? Such radiance is not found in an ordinary boy." His guru Shukracharya gave a warning: "Bali, this is no ordinary brahmin. This is Vishnu Himself. Give nothing."
+Bali saw him — "Who is this? Such radiance is not found in an ordinary boy." His guru Shukracharya gave a warning: "Bali, this is no ordinary brahmin. This is Vishnu himself. Give nothing."
 
 But Bali did not heed his guru's words.
 
@@ -60,16 +60,16 @@ The Lord saw — in Bali there was no deceit, no remorse. He had given his word 
 
 The Lord was pleased.
 
-He granted Bali a boon — "Bali, you shall be the sovereign of **Sutala loka**. And I Myself — Vishnu — shall remain as your doorkeeper. Sutala shall be protected by My hands."
+He granted Bali a boon — "Bali, you shall be the sovereign of **Sutala loka**. And I myself — Vishnu — shall remain as your doorkeeper. Sutala shall be protected by my hands."
 
-And He said — "On this Bhadrapada Ekadashi, I turn on My side in Sutala — while dwelling close to you."
+And he said — "On this Bhadrapada Ekadashi, I turn on my side in Sutala — while dwelling close to you."
 
 In the tradition of the Brahma Vaivarta Purana, it is said that the devotee who observes the Parivartini Ekadashi vrat, hears this katha, and meditates on Lord Vamana receives the combined merit of all Ekadashis of Chaturmas.
 
 ## Significance
 
 **The meaning of Parivartini / Parsva:**
-"Parsva" = side, flank. On this day the Lord turns on His side during Yoga Nidra — this is the midpoint of Chaturmas. Ashadha Ekadashi = He lies down (Shayana). Bhadrapada Ekadashi = He turns (Parivartini). Kartika Ekadashi = He awakens (Prabodhini).
+"Parsva" = side, flank. On this day the Lord turns on his side during Yoga Nidra — this is the midpoint of Chaturmas. Ashadha Ekadashi = he lies down (Shayana). Bhadrapada Ekadashi = he turns (Parivartini). Kartika Ekadashi = he awakens (Prabodhini).
 
 **Vamana and Trivikrama:**
 This Ekadashi is also called "Vamana Ekadashi" because the Vamana-Bali katha is specially recited on this day. The actual birthday of Lord Vamana (janmotsava) is celebrated on Bhadrapada Shukla Dwadashi, not on Ekadashi.

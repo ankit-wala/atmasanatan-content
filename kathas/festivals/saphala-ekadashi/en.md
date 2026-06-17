@@ -3,7 +3,7 @@ slug: saphala-ekadashi
 lang: en
 title: "Saphala Ekadashi"
 subtitle: "When an Unwitting Fast Washed Away a Mountain of Sin"
-summary: "The katha of Saphala Ekadashi is the story of Prince Lumpak, who — without any vow or intention — unknowingly observed this Ekadashi, and all his sins were destroyed. This Ekadashi is a testament to Lord Vishnu's boundless compassion: that His grace falls even upon the one who does not know he is being blessed."
+summary: "The katha of Saphala Ekadashi is the story of Prince Lumpak, who — without any vow or intention — unknowingly observed this Ekadashi, and all his sins were destroyed. This Ekadashi is a testament to Lord Vishnu's boundless compassion: that his grace falls even upon the one who does not know he is being blessed."
 reel_hook: "A sinful prince was wandering lost in the forest — and unknowingly he kept the very fast that washed away every one of his sins."
 ---
 
@@ -25,7 +25,7 @@ The tradition of the Brahma Vaivarta Purana declares: if an Ekadashi whose fruit
 
 ## Significance
 
-"Saphala" means fruitful, successful. This Ekadashi is called Saphala precisely because its fast never goes without fruit. The katha of Lumpak teaches that there is no limit to Lord Vishnu's compassion — He showers His mercy even upon the one who serves Him without knowing it.
+"Saphala" means fruitful, successful. This Ekadashi is called Saphala precisely because its fast never goes without fruit. The katha of Lumpak teaches that there is no limit to Lord Vishnu's compassion — he showers his mercy even upon the one who serves him without knowing it.
 
 The pipal tree is beloved of Vishnu, and its worship on the day of Ekadashi is considered especially fruitful. The scriptures declare that Vishnu Himself dwells in the pipal. To keep a night vigil beneath that tree on Ekadashi is an act of great merit.
 

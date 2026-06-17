@@ -13,7 +13,7 @@ In the primordial age of creation, Brahma grew deeply proud of his five heads. H
 
 In that very moment, Shiva recalled his infinite power. He manifested as Kala Bhairava — Kala meaning time itself, Bhairava meaning the one who is the terror of all terror. His form was fearsome: blazing eyes, sacred ash of the cremation ground smeared upon his body, a trident in his hand. With the nail of his left hand he severed Brahma's fifth head. At that instant a terrible sound rang through the universe — as though Time had turned its wheel.
 
-But Brahma is a Brahmin — the progenitor of the entire Brahmin lineage. And so that severed head, which came to be called the brahma-kapala, clung fast to Kala Bhairava's hand. The sin of brahma-hatya was laid upon him. Even the lord of Time himself had to perform penance for brahma-hatya — such is the depth of dharma.
+But Brahma is a Brahmin — the progenitor of the entire Brahmin lineage. And so that severed head, which came to be called the brahma-kapala, clung fast to Kala Bhairava's hand. The sin of brahma-hatya was laid upon him. Even the Lord of Time himself had to perform penance for brahma-hatya — such is the depth of dharma.
 
 For ages Kala Bhairava wandered the earth. Carrying that skull like the begging-bowl of a wandering ascetic, he roamed from sacred tirtha to tirtha. Wherever he went, the sin of brahma-hatya followed close behind. Even the gods could not free him.
 

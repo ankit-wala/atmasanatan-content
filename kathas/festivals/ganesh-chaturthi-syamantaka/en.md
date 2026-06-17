@@ -75,7 +75,7 @@ Slowly, Jambavan began to feel something was different. This was no ordinary man
 
 He looked more carefully — and recognized him.
 
-He said: **"You are He for whom I crossed the ocean. You are Raghunath. You are Vishnu himself."**
+He said: **"You are he for whom I crossed the ocean. You are Raghunath. You are Vishnu himself."**
 
 Jambavan fell at Shri Krishna's feet. He brought out the Syamantaka jewel and offered it. And he gave his daughter **Jambavanti** in marriage to Shri Krishna.
 

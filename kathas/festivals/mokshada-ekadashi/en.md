@@ -47,7 +47,7 @@ That day was Margashirsha Shukla Ekadashi.
 
 This is why this ekadashi is also called Gita Jayanti — the birthday of the Gita.
 
-The tradition of the Brahma Vaivarta Purana holds that the devotee who observes the Mokshada Ekadashi vrat receives the merit of having visited every sacred pilgrimage. And one who listens to or recites the Bhagavad Gita on this day receives directly that knowledge which the Lord Himself imparted at Kurukshetra.
+The tradition of the Brahma Vaivarta Purana holds that the devotee who observes the Mokshada Ekadashi vrat receives the merit of having visited every sacred pilgrimage. And one who listens to or recites the Bhagavad Gita on this day receives directly that knowledge which the Lord himself imparted at Kurukshetra.
 
 ## Significance
 

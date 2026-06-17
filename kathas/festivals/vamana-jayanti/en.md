@@ -13,7 +13,7 @@ Heaven stood empty.
 
 King Bali, the asura lord, had seized all three worlds through his austerities and might. The gods were expelled from heaven. Indra wandered homeless. The mother of the gods, Aditi, was heartbroken.
 
-Maharishi Kashyapa told her a way — "Devi, Lord Vishnu alone is the refuge. Observe the Payovrata for twelve days — surviving only on cow's milk, meditating on Him with complete devotion."
+Maharishi Kashyapa told her a way — "Devi, Lord Vishnu alone is the refuge. Observe the Payovrata for twelve days — surviving only on cow's milk, meditating on him with complete devotion."
 
 Aditi observed that vrat.
 
@@ -45,7 +45,7 @@ But here, the essence of Vamana Jayanti is simply this —
 
 **Today is the day a mother's devotion was answered.**
 
-The pain in Aditi's eyes — for her sons, for the gods — was heard by the Lord. And He said: "I shall come Myself."
+The pain in Aditi's eyes — for her sons, for the gods — was heard by the Lord. And he said: "I shall come Myself."
 
 In the tradition of the Bhagavata Purana, it is said that the devotee who observes the Vamana Jayanti vrat, hears the katha of Vamana's birth, and meditates on Vamana-Trivikrama receives the special grace of Lord Vishnu.
 

@@ -73,7 +73,7 @@ Navami of Navratri — the nine-day journey reaches its fullness here.
 
 We had set out from Shailaputri — from the root of the mountain. And now we have arrived at Maa Siddhidatri — at that summit from which there is nothing further to seek.
 
-The form of Maa Siddhidatri: enthroned upon a lotus, four arms — the right hands holding a chakra and a mace, the left hands holding a conch and a lotus. Around her, the siddhas, gandharvas, yakshas, nagas, and even the asuras bow in her worship.
+The form of Maa Siddhidatri: enthroned upon a lotus, four arms — the right hands holding her Sudarshan Chakra (the spinning disc of light) and Kaumodaki (the mace), the left hands holding the Panchajanya (the conch) and a lotus. Around her, the siddhas, gandharvas, yakshas, nagas, and even the asuras bow in her worship.
 
 In the tradition of the Devi Bhagavata Purana, it is said that a devotee who worships Maa Siddhidatri with devotion on Navami attains all siddhis from Anima to Vashitva, and their Navratri journey is fulfilled.
 

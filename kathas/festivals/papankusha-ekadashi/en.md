@@ -29,7 +29,7 @@ That night, a wandering sadhu stopped near that same tree. He was chanting the n
 
 A few days later, Krodhana died.
 
-The messengers of Yamaraja came to claim his soul. But at that very moment, the attendants of Lord Vishnu — the **Vishnudutas** — also appeared. Their forms were radiant, clad in yellow silk, bearing conch and discus in their hands.
+The messengers of Yamaraja came to claim his soul. But at that very moment, the attendants of Lord Vishnu — the **Vishnudutas** — also appeared. Their forms were radiant, clad in yellow silk, bearing the Panchajanya (conch) and Sudarshan Chakra (discus) in their hands.
 
 The messengers of Yama said — "This soul is ours to take. He has sinned throughout his life. These are the orders of Yamaraja."
 
@@ -37,7 +37,7 @@ The Vishnudutas replied — "Wait. This man observed a waterless fast on Ashwin 
 
 The messengers of Yama hesitated. The argument grew.
 
-In the end, the reasoning of the Vishnudutas stood unshaken. The compassion of the Lord is boundless — He does not let even a single moment of merit in a sinner go to waste.
+In the end, the reasoning of the Vishnudutas stood unshaken. The compassion of the Lord is boundless — he does not let even a single moment of merit in a sinner go to waste.
 
 Krodhana was not sent to Yamaloka. He was carried instead toward Vaikuntha.
 

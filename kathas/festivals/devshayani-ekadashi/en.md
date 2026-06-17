@@ -19,7 +19,7 @@ The sage then told the king a story from an ancient time.
 
 Long ago, a demon named Shankhasura rose to great power through years of fierce tapasya. The boon he received made him nearly impossible to defeat. Drunk on this strength, he drove the devas out of their heavens and filled the three worlds with fear and disorder. The gods fled to Vaikuntha and stood before Vishnu, who lay at ease on Sheshanaga in the Ocean of Milk. They cried out: "Lord, the worlds cannot carry this anymore. There is no one else to turn to."
 
-Vishnu heard them. He took up his Sudarshana chakra and his Kaumodaki mace, and went to battle against Shankhasura. The fight was long and terrible — it shook the earth and stirred the sea. But in the end, Vishnu destroyed the demon and the three worlds breathed again.
+Vishnu heard them. He took up his Sudarshan Chakra (the spinning disc of light) and his Kaumodaki mace, and went to battle against Shankhasura. The fight was long and terrible — it shook the earth and stirred the sea. But in the end, Vishnu destroyed the demon and the three worlds breathed again.
 
 When the battle was done, the gods returned to their heavens. Vishnu returned to the Ocean of Milk — his eternal abode. He lay upon Sheshanaga, closed his divine eyes, and entered yoganidra — the deep, cosmic stillness that is not born of exhaustion but is part of his own eternal play. That day was Ashadha Shukla Ekadashi.
 
