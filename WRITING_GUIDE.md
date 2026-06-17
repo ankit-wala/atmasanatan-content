@@ -730,9 +730,17 @@ generic English word erases the identity of the object and loses the story's dev
 | flying vehicle / mount | Garuda | Vishnu's eagle-vehicle (already a proper name — use it) |
 | bull vehicle / mount | Nandi | Shiva's bull (already a proper name — use it) |
 
-**Rule:** If a first-time reader of the English text would not know which specific object is
-meant from context, keep the Sanskrit name and add a brief parenthetical on first use only:
-*"his Sudarshan Chakra (the spinning disc of light)"*. After that first use, drop the parenthetical.
+**Rule:** Only add a parenthetical for words that are genuinely not obvious to the reader.
+If a first-time reader of the text would not know what an object is from context, add a brief
+parenthetical on first use only: *"his Sudarshan Chakra (the spinning disc of light)"*.
+After that first use, drop the parenthetical.
+
+**Do NOT add parentheticals for widely-known terms** — if a Gujarati or Marathi reader
+in any village would instantly recognise the word, leave it bare:
+- Trishula, Tulsi, Tilak, Puja, Aarti, Prasad, Diya, Shankha, Rudraksha, Maala, Modak —
+  all universally known; no explanation needed.
+- Add parentheticals only for less-familiar items: Kamadhenu, Shara-Shayya, Parijata,
+  Kaumodaki, Panchajanya (recognisable but not everyone knows the name), Pushpaka Vimana.
 
 **Tip for Ekadashi and vrat kathas:** these often mention weapons in passing during battle
 scenes. Do not genericise incidentally — check each weapon reference in the katha.
