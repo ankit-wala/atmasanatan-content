@@ -91,27 +91,15 @@ The katha also teaches that honouring prasad is itself an act of devotion. Whoev
 
 ## Vidhi
 
-The Satyanarayan Vrat may be performed on Purnima, Ekadashi, or any auspicious occasion.
-
-1. **Sankalpa:** Take a bath in the morning and make a resolve — "I am observing the vrat and puja of Lord Satyanarayan."
-2. **Vishnu Sthapana:** Place an image or idol of Lord Satyanarayan (Vishnu) on a pure seat.
-3. **Panchamrit Abhishek:** Perform abhishek with milk, curd, ghee, honey, and sugar. Offer tulsi leaves, flowers, yellow cloth, and a lamp.
-4. **Katha Shravan:** Recite or have recited all five chapters of the Satyanarayan Katha — let the family and those present listen together.
-5. **Aarti:** After the katha, perform the Lord's aarti.
-6. **Prasad Distribution:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana). Give prasad to all those present — let no one leave without it.
-7. **Paran:** Break the fast after the katha and prasad.
-
-## Observance
-
-**Fast:** Keep a fast before the katha — fruits may be consumed. Break the fast after the katha and prasad.
-
-**Rule of Prasad:** This is the most important rule in Satyanarayan puja — whoever is present must receive prasad. No one should leave without it. Leaving or refusing prasad is considered inauspicious — the fifth chapter describes in detail the consequence of this very error.
-
-**With Family:** This vrat is communal — listen to the katha together with family, neighbours, and friends.
-
-**Five Chapters:** For the complete fruit, listen to all five chapters in a single sitting.
-
-**2026 Date:** TODO-VERIFY — confirmation on DrikPanchang required.
+- **When:** Any Purnima, Ekadashi, or auspicious occasion.
+- **Sankalpa:** Bathe in the morning and make the resolve — "I am observing the vrat and puja of Lord Satyanarayan."
+- **Fasting:** Keep the fast before the katha — fruits may be consumed; break the fast only after the katha and prasad.
+- **Setup:** Place an image or idol of Lord Satyanarayan (Vishnu) on a pure seat; perform panchamrit abhishek (milk, curd, ghee, honey, sugar); offer tulsi leaves, flowers, yellow cloth, and a lamp.
+- **Katha shravan:** Recite or have recited all five chapters — the family and those present should listen together in a single sitting.
+- **Aarti:** Perform the Lord's aarti after the katha.
+- **Prasad:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana); give prasad to every person present — no one should leave without it; leaving or refusing prasad is inauspicious.
+- **Paran:** Break the fast after receiving prasad.
+- **2026 Date:** TODO-VERIFY — confirmation on DrikPanchang required.
 
 ## Mantras
 

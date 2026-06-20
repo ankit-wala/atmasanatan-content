@@ -43,39 +43,15 @@ Somvati Amavasya comes only three or four times a year — its rarity makes it a
 
 ## Vidhi
 
-**Early morning — before dawn:**
-1. Bath — in a sacred river or tank, or at home.
-2. Materials for pitru-tarpan — water, black sesame, barley, kusha grass.
-3. Face south and perform the tarpan.
-
-**Pitru-tarpan procedure:**
-1. Mix black sesame, barley, and kusha into the water.
-2. Offer the jalanjali with the right hand — pour the water from the thumb side (pitru-tirtha).
-3. Recall each ancestor by name and offer water — three times each.
-4. Offer tarpan to father, mother, paternal grandfather, paternal grandmother, maternal grandfather, maternal grandmother — all of them.
-5. Offer one collective jalanjali for unknown ancestors as well.
-
-**Peepal puja:**
-1. Offer a mixture of water and milk at the root of the peepal tree.
-2. Offer yellow flowers, turmeric, and sandalwood.
-3. Light a lamp.
-4. Tie a red or yellow thread around the trunk of the tree — with the prayer for the peace of the ancestors.
-5. Perform 108 circumambulations — or at minimum 11 or 21.
-
-**Brahmin bhoj:**
-Feeding a Brahmin on this day is of great significance — it is the most direct means of satisfying the ancestors.
-
-## Observance
-
-**Upavasa:** The observance calls for a fast or single meal on this day. Grains are avoided; fruits are appropriate.
-
-**Paran:** The following morning after bath.
-
-**Special note:** The importance of sesame in tarpan — tarpan without sesame is considered incomplete. Black sesame is most dear to the ancestors.
-
-**For women:** Married women also worship the peepal on this day for their husband's long life, and circumambulate it in the spirit of Vat Savitri.
-
-**What to avoid:** Auspicious rites (weddings, graha-pravesh) do not take place on this day — Amavasya belongs to the ancestors.
+- **Fasting:** Fast or single meal on this day; grains are avoided; fruits are appropriate.
+- **At dawn:** Bathe in a sacred river, tank, or at home; gather materials for pitru-tarpan — water, black sesame, barley, kusha grass.
+- **Pitru-tarpan:** Face south; mix black sesame, barley, and kusha into the water; offer jalanjali with the right hand pouring from the thumb side (pitru-tirtha); recall each ancestor by name and offer water three times — father, mother, paternal grandfather, paternal grandmother, maternal grandfather, maternal grandmother; offer one collective jalanjali for unknown ancestors. Note: tarpan without black sesame is considered incomplete — sesame is most dear to the ancestors.
+- **Peepal puja:** Offer water and milk at the root of the peepal tree; offer yellow flowers, turmeric, and sandalwood; light a lamp; tie a red or yellow thread around the trunk with a prayer for ancestral peace; perform 108 circumambulations (minimum 11 or 21).
+- **For women:** Married women circumambulate the peepal for their husband's long life, in the spirit of Vat Savitri.
+- **Brahmin bhoj:** Feed a Brahmin on this day — it is the most direct means of satisfying the ancestors.
+- **Breaking the fast:** The following morning after bath.
+- **Note:** Auspicious rites (weddings, graha-pravesh) do not take place on Amavasya — this day belongs to the ancestors.
+- **2026 date:** TODO-VERIFY (Amavasya falling on Monday)
 
 ## Mantras
 

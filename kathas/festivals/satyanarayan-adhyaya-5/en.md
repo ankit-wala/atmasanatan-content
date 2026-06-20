@@ -81,34 +81,16 @@ The fifth adhyaya is the key that closes all five doors of the Satyanarayan Kath
 
 ## Vidhi
 
-The complete method of Satyanarayan puja is given here — it follows the procedure described in the fifth adhyaya.
-
-1. **Sankalpa:** After bathing in the morning, call Lord Satyanarayan to mind. Make a resolve inwardly: "I am performing the puja and hearing the katha of Lord Satyanarayan."
-2. **Purification of the space:** Clean the place of worship. Spread banana leaves or a yellow cloth.
-3. **Establishment of the deity:** Place an image or murti of Lord Satyanarayan (Vishnu) on a consecrated seat. Offer yellow flowers and tulsi leaves.
-4. **Panchamrit abhisheka:** Perform abhisheka with milk, curd, ghee, honey, and sugar.
-5. **Shodashopachara puja:** Offer a lamp, incense, akshata, flowers, and naivedhya (fruit).
-6. **Katha path:** Invite a brahmin or an elder to read all five adhyayas. The family and all present should listen together — do not leave in the middle.
-7. **Purnahuti:** When all five adhyayas are complete, offer pranams to the Lord.
-8. **Aarti:** Perform the aarti of "Om Jai Jagadish Hare."
-9. **Prasad distribution:** Distribute suji halwa (semolina roasted in ghee, mixed with sugar and banana) as prasad to everyone present. **No one should leave without receiving prasad.**
-10. **Paran:** Receive the prasad and conclude the vrat.
-
-**Note:** Once the puja has begun — do not leave the home until after the prasad has been distributed. This instruction is drawn from the lesson of Kalavati's story in the fourth adhyaya.
-
-## Observance
-
-**Katha path:** Complete all five adhyayas in a single sitting. Do not break the katha midway. If this is not possible on a single day, fix a definite time and ensure all are gathered.
-
-**Prasad:** Suji (rawa) halwa is the traditional prasad. Roast the semolina in ghee until golden, then add sugar syrup and stir in pieces of banana. Simple, sattvic, and accessible — this is the very nature of this puja.
-
-**Distribution:** Prasad must be given to every person present — family, guests, neighbours, and visitors. Do not defer it; do not hesitate in giving it. In the third and fourth adhyayas, it was precisely the neglect of prasad that gave rise to calamity.
-
-**Purnima:** This puja may be performed on any auspicious tithi — but performing it regularly on every Purnima brings special fruit. Those who observe this vrat every Purnima will not know want in their home — this is the word of the phalashruti.
-
-**Bhav first:** The most important message of the fifth adhyaya is this — the puja must be done not merely as ritual, but with genuine bhav. The Lord comes where there is shraddha.
-
-**2026 date:** TODO-VERIFY — confirmation on DrikPanchang is required.
+- **When:** Any auspicious tithi; Purnima is traditional and brings special fruit — observing on every Purnima ensures the home never knows want (phalashruti).
+- **Sankalpa:** After bathing, call Lord Satyanarayan to mind and resolve inwardly: "I am performing the puja and hearing the katha of Lord Satyanarayan."
+- **Setup:** Clean the place of worship; spread banana leaves or yellow cloth; place an image or murti of Lord Satyanarayan (Vishnu) on a consecrated seat; offer yellow flowers and tulsi leaves; perform panchamrit abhisheka (milk, curd, ghee, honey, sugar); offer a lamp, incense, akshata, and naivedhya (fruit).
+- **Katha path:** Invite a brahmin or elder to read all five adhyayas aloud; family and all present should listen together — do not leave or break the katha midway; a single sitting is required.
+- **Bhav first:** Perform the puja with genuine shraddha, not merely as ritual — the Lord comes where there is sincere bhav; this is the central teaching of the fifth adhyaya.
+- **Purnahuti and aarti:** When all five adhyayas are complete, offer pranams; perform the aarti of "Om Jai Jagadish Hare."
+- **Prasad:** Suji halwa is the traditional prasad — roast semolina in ghee until golden, add sugar syrup, stir in pieces of banana; distribute to every person present without exception; do not defer or hesitate; neglect of prasad was the root of calamity in the third and fourth adhyayas.
+- **Special:** Once the puja begins, do not leave the home until after prasad has been distributed — the lesson of Kalavati's story in the fourth adhyaya.
+- **Paran:** Receive the prasad and conclude the vrat.
+- **2026 date:** TODO-VERIFY — confirmation on DrikPanchang is required.
 
 ## Mantras
 

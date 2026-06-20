@@ -81,25 +81,15 @@ The fair held at Ramdevra from Bhadrapada Shukla Dvitiya to Dashami is one of Ra
 
 ## Vidhi
 
-1. Bathe in the morning and wear clean clothes.
-2. Install an image or picture of Ramdevji at the place of worship.
-3. **Panchrang Dhvaja:** Place a five-coloured flag outside the house or in the puja room — these five colours symbolise the five elements and Ramdevji's vision of universal dharma.
-4. Light a ghee lamp. Offer fresh flowers, gulal, sandalwood paste, and incense.
-5. **Sing Ramdevji's bhajans** — folk bhajans like 'Balo re balo, Babo Ramdev balo' are especially beloved among devotees.
-6. Read or listen to the Ramdev Purana (the life-story of Ramdevji).
-7. Give food, clothing, or money in donation to the marginalised, the poor, and those in need — this is the most direct form of Ramdevji's seva.
-8. Perform the aarati in the evening and distribute prasad.
-9. Those who can travel to Ramdevra should certainly make the pilgrimage — it is considered a tirtha where the heartfelt wishes of many generations of a family are fulfilled.
-
-## Observance
-
-**Panchrang Dhvaja:** On this day, Ramdevji's devotees hoist a five-coloured flag (orange, green, red, blue, yellow) on their home, shop, or field. This flag is a symbol of his presence and protection.
-
-**Worship:** The worship of Ramdevji is simple — no elaborate ritual. Devotion and surrender are the essence. Gulal, a ghee lamp, flowers, and as naivedya a sweet churma offering are especially presented.
-
-**Bhajan-Kirtan:** **Jagaran and bhajan-sandhya** are considered essential in Ramdevji's worship. Rajasthani folk bhajans — traditionally sung by singers of the Meghwal and Thori communities — resound through the entire village on this night.
-
-**Ramdevra Pilgrimage:** Those who travel to this tirtha generally go on foot — many cover hundreds of kilometres walking. This journey is itself a tapasya.
+- **At dawn:** Bathe and wear clean clothes; install an image or picture of Ramdevji at the place of worship.
+- **Panchrang Dhvaja:** Hoist a five-coloured flag (orange, green, red, blue, yellow) on the home, shop, or field — a symbol of Ramdevji's presence and protection representing the five elements.
+- **Offerings:** Light a ghee lamp; offer fresh flowers, gulal, sandalwood paste, and incense; present sweet churma as naivedya — the worship is simple, devotion and surrender are the essence.
+- **Bhajan-Kirtan:** Sing Rajasthani folk bhajans (e.g. 'Balo re balo, Babo Ramdev balo') — a jagaran and bhajan-sandhya are considered essential; songs traditionally sung by Meghwal and Thori community singers.
+- **Katha reading:** Read or listen to the Ramdev Purana (Ramdevji's life-story).
+- **Seva:** Give food, clothing, or money to the marginalised, the poor, and those in need — this is the most direct form of Ramdevji's seva and the essence of his teaching.
+- **Evening aarti:** Perform the aarti and distribute prasad.
+- **Pilgrimage (optional):** Those who can travel to Ramdevra should make the pilgrimage — devotees often go on foot, covering hundreds of kilometres; the journey itself is a tapasya.
+- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Dvitiya)
 
 ## Mantras
 

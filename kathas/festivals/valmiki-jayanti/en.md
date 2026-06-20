@@ -94,34 +94,14 @@ The Vālmīki Rāmāyaṇa is not merely a story — it is a mirror of Rāma's c
 
 ## Vidhi
 
-**Bath and Saṅkalpa:**
-Rise at brahma-muhūrta, bathe, and wear clean clothes. Place an image or portrait of Maharṣi Vālmīki at the place of worship. Take the saṅkalpa — "On this auspicious occasion of Vālmīki Jayanti, I shall worship Ādi-kavi Vālmīki and recite the Rāmāyaṇa."
-
-**Vālmīki Pūjana:**
-Offer flowers, sandalwood paste, akṣata, incense, and a lamp. Offer banana as naivedya. Perform abhiṣeka with pañcāmṛta. Chant "Oṃ Vālmīkaye Namaḥ" 108 times.
-
-**Rāmāyaṇa Recitation:**
-On this day it is especially meritorious to recite the opening verses of the Bāla Kāṇḍa of the Vālmīki Rāmāyaṇa — particularly the passage in which the first verse arises from the slaying of the Krauñca bird. Those who cannot recite the full Rāmāyaṇa may recite the Sundar Kāṇḍa.
-
-**Lamp Lighting:**
-In the evening, light lamps at the entrance of the home and at the place of worship. Lighting lamps in the moonlight of Śarad Pūrṇimā night is a special element of this festival.
-
-**Dāna:**
-On this day, donating books — especially the Rāmāyaṇa or other scriptures — carries special significance. Offer food to the poor.
-
-## Observance
-
-**Rāmāyaṇa Recitation:**
-Reciting or listening to the Rāmāyaṇa on Vālmīki Jayanti is the highest act of devotion. Sit together with family and listen to the Rāma-kathā, or recite the Krauñca episode and the first verse from the Bāla Kāṇḍa. In Vālmīki communities, an unbroken (akhaṇḍa) Rāmāyaṇa recitation is held throughout the entire day.
-
-**Lamp Lighting:**
-On the night of Śarad Pūrṇimā, light lamps at home, in the temple, and in the street. This night is regarded as the night of the moon's amṛta-shower — lighting lamps in memory of Maharṣi Vālmīki is a remembrance of the light of his transformation.
-
-**Procession / Śobhāyātrā:**
-In Vālmīki communities, grand processions are taken out on this day. A decorated image of Vālmīki is placed on a chariot and a procession moves through the streets; people walk chanting "Jai Vālmīki," "Jai Śrī Rāma."
-
-**Bhajan-Kīrtana:**
-Programmes of Rāma-bhajans and Vālmīki-stutis are held on this day. The story of how 'Mara Mara' became 'Rāma Rāma' is sung in kīrtana — these bhajans remind devotees of Ratnakar's transformation.
+- **At dawn:** Rise at brahma-muhūrta, bathe, wear clean clothes; place an image or portrait of Maharṣi Vālmīki at the place of worship; take the saṅkalpa — "On this auspicious occasion of Vālmīki Jayanti, I shall worship Ādi-kavi Vālmīki and recite the Rāmāyaṇa."
+- **Vālmīki Pūjana:** Offer flowers, sandalwood paste, akṣata, incense, and a lamp; offer banana as naivedya; perform abhiṣeka with pañcāmṛta; chant "Oṃ Vālmīkaye Namaḥ" 108 times.
+- **Rāmāyaṇa recitation:** Recite or listen to the Rāmāyaṇa — especially the Krauñca episode and first verse from the Bāla Kāṇḍa; those who cannot recite the full text may recite the Sundar Kāṇḍa; in Vālmīki communities, an unbroken (akhaṇḍa) Rāmāyaṇa recitation is held throughout the day.
+- **Evening lamps:** At sunset, light lamps at the entrance of the home, at the place of worship, in the temple, and in the street; Śarad Pūrṇimā night is regarded as the moon's amṛta-shower — lighting lamps in memory of Maharṣi Vālmīki honours the light of his transformation.
+- **Bhajan-Kīrtana:** Hold programmes of Rāma-bhajans and Vālmīki-stutis; sing kīrtana on the story of how 'Mara Mara' became 'Rāma Rāma.'
+- **Śobhāyātrā:** In Vālmīki communities, a decorated image of Vālmīki is placed on a chariot and a procession moves through the streets with chants of "Jai Vālmīki" and "Jai Śrī Rāma."
+- **Dāna:** Donate books — especially the Rāmāyaṇa or other scriptures; offer food to the poor.
+- **2026 date:** TODO-VERIFY (Āśvina Śukla Pūrṇimā / Śarad Pūrṇimā)
 
 ## Mantras
 

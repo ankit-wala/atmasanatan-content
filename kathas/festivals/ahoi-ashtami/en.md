@@ -95,31 +95,15 @@ This vrat is observed primarily in **North India** — in Uttar Pradesh, Haryana
 
 ## Vidhi
 
-1. **Waterless fast from sunrise:** On Kartik Krishna Ashtami, rise before sunrise, bathe, and take the vow — "I observe the vrat of Ahoi Mata for the long life of my son." Through the entire day, neither water nor food.
-
-2. **Drawing Ahoi Mata:** Before the evening puja, draw the image of Ahoi Mata on the wall of the home (or on paper) — Ahoi Mata with her seven cubs. Use ochre, turmeric, or red colour.
-
-3. **Puja materials:** Roli, akshat, a lamp, sindoor. For bhog — chori (a smaller form of puri), halwa, and puri. Place a water-filled kalash.
-
-4. **Hearing the katha:** Sit with the women of the household and listen to the Ahoi Ashtami katha. This is an essential part of the vrat.
-
-5. **Sighting the stars:** In the evening when the stars appear — sight them through a sieve (as in Karva Chauth — in some regions the moon is also awaited).
-
-6. **Arghya and prayer:** Offer water as arghya to the stars. Pray to Ahoi Mata for the long life, health, and protection of your son.
-
-7. **Breaking the fast:** After sighting the stars, drink water and take food. This is the paran of the vrat.
-
-**2026 date:** Confirm on DrikPanchang (Kartik Krishna Ashtami — ~November 2, 2026).
-
-## Observance
-
-**Waterless fast:** From sunrise until sighting the stars — neither water nor food. This is the core rule of this vrat.
-
-**A vrat for mothers only:** Ahoi Ashtami is observed specifically by mothers — for the long life and wellbeing of their sons. A mother who does not yet have sons may also observe this vrat with the prayer for a son in the future.
-
-**Breaking the fast by the stars:** In Karva Chauth, the moon is sighted; in Ahoi Ashtami, in many regions the fast is broken after sighting the stars — because on Kartik Krishna Ashtami, the moonrise is late into the night.
-
-**The spirit of repentance:** Repentance is at the heart of this vrat's katha. Accepting a mistake made knowingly or unknowingly, and seeking forgiveness before Ahoi Mata with a true heart — this is the very soul of this vrat.
+- **For whom:** Observed by mothers — for the long life and wellbeing of their sons. A mother without sons may also observe this vrat with the prayer for a son in the future.
+- **Waterless fast:** On Kartik Krishna Ashtami, rise before sunrise, bathe, and take the vow — "I observe the vrat of Ahoi Mata for the long life of my son." Through the entire day, neither water nor food (nirjal — this is the core rule).
+- **Drawing Ahoi Mata:** Before the evening puja, draw the image of Ahoi Mata on the wall of the home (or on paper) — Ahoi Mata with her seven cubs. Use ochre, turmeric, or red colour.
+- **Offerings:** Roli, akshat, a lamp, sindoor, and a water-filled kalash. For bhog — chori (a smaller form of puri), halwa, and puri.
+- **Hearing the katha:** Sit with the women of the household and listen to the Ahoi Ashtami katha — this is an essential part of the vrat.
+- **Sighting the stars:** In the evening when the stars appear, sight them through a sieve (in some regions the moon is also awaited, as the moonrise on this tithi is late into the night).
+- **Breaking the fast:** Offer water as arghya to the stars; pray to Ahoi Mata for the long life, health, and protection of your son; then drink water and take food.
+- **The spirit of repentance:** Accepting a mistake made knowingly or unknowingly, and seeking forgiveness before Ahoi Mata with a true heart — this is the very soul of this vrat.
+- **2026 date:** TODO-VERIFY (Kartik Krishna Ashtami)
 
 ## Mantras
 

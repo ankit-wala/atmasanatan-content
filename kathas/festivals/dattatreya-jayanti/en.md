@@ -53,23 +53,15 @@ Worshipping Lord Dattatreya on Dattatreya Jayanti destroys ignorance, bestows kn
 
 ## Vidhi
 
-**Puja materials:** A three-faced image of Dattatreya (or portrait), flowers, incense, lamp, naivedya, panchamrita.
-
-**Method of worship:**
-1. Bathe early in the morning and wear clean clothing.
-2. Bathe the image of Dattatreya with panchamrita.
-3. Offer flowers, incense, and a lamp.
-4. Chant **ॐ दत्तात्रेयाय नमः** — a minimum of 108 times.
-5. Recite the Dattatreya Stotra or a chapter of the Avadhuta Gita.
-6. Feed wandering sadhus and sannyasis — this is the special tradition of this Jayanti.
-7. Accumulate merit by offering food, clothing, or dakshina to the poor.
-
-## Observance
-
-- There is a tradition of keeping a night-long vigil (jagaran) on the night of Margashirsha Purnima.
-- Devotees who wish to fast may observe a single meal (ekabhukta) during the day; strict waterless fasting is not especially prescribed.
-- In the evening, light a lamp in the home and chant "Digambara Digambara Shripad Vallabha Digambara."
-- On this day, reading the Avadhuta Gita, Gurucharitra, or Datta Mahatmya is considered greatly meritorious.
+- **Materials:** A three-faced image of Dattatreya (or portrait), flowers, incense, lamp, naivedya, panchamrita.
+- **At dawn:** Bathe early in the morning and wear clean clothing; bathe the image of Dattatreya with panchamrita, then offer flowers, incense, and a lamp.
+- **Japa:** Chant **ॐ दत्तात्रेयाय नमः** — a minimum of 108 times.
+- **Scripture recitation:** Recite the Dattatreya Stotra or a chapter of the Avadhuta Gita; reading the Avadhuta Gita, Gurucharitra, or Datta Mahatmya on this day is considered greatly meritorious.
+- **Feeding sadhus:** Feed wandering sadhus and sannyasis — this is the special tradition of this Jayanti; also offer food, clothing, or dakshina to the poor.
+- **Fasting:** Strict waterless fasting is not prescribed; devotees who wish to fast may observe a single meal (ekabhukta) during the day.
+- **Evening:** Light a lamp in the home and chant "Digambara Digambara Shripad Vallabha Digambara."
+- **Night vigil (jagaran):** There is a tradition of keeping a night-long vigil on the night of Margashirsha Purnima.
+- **2026 date:** TODO-VERIFY (Margashirsha Purnima)
 
 ## Mantras
 

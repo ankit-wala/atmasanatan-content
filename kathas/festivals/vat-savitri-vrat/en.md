@@ -145,35 +145,16 @@ Vat Savitri Vrat is the vrat of married women — for the long life, health, and
 
 ## Vidhi
 
-1. **The day before Amavasya:** Gather the materials — soot (red-yellow thread), a bamboo basket, bel leaves, flowers, akshat, sindoor, bangles, paan, and fruit.
-2. **Morning of Amavasya:** Bathe and dress in the colours of saubhagya — red or yellow.
-3. **Sankalp:** Holding water, akshat, and flowers in your hands, take the vow — "For the protection of my husband's long life and good fortune."
-4. **Go to the Vat tree.** If you cannot go to the forest, worship at a temple, or place a Vat branch in your home and perform the puja there.
-5. **Worship of the Vat tree:** Offer water, apply turmeric and kumkum, and present flowers, fruit, and naivedya.
-6. **Thread wrapping:** While circumambulating the Vat tree seven times, wind raw thread (soot) around it — with each round, offering a prayer for the husband's long life. This thread symbolises the bond that even death cannot sever.
-7. **Establish an image of Savitri and Satyavan** (in clay, painting, or on paper) beneath the Vat tree.
-8. **Listen to the Vat Savitri Vrat Katha** — together with family, after the puja.
-9. **Dakshina and food:** Offer dakshina to Brahmins; present gifts to the mother-in-law or elder women.
-10. **Parana (breaking the vrat):** On the evening of Amavasya or the following morning, after completing the final puja, break the fast with fruits or a light sattvic meal.
-
-## Observance
-
-**Fasting:**
-The tradition of this vrat calls for a full-day fast — either without water or on fruits only. According to regional custom, some women also observe a single meal (ekahara).
-
-**Vat tree worship:**
-This is the heart of the vrat. Offering water at the roots of the Vat tree and circumambulating it while winding raw thread — this is the principal rite. In the absence of a Vat tree, a tradition of worshipping the Peepal tree also exists.
-
-**Thread wrapping:**
-In seven circumambulations, the thread is wound seven times — with each round, holding the wish for the husband's long life in the heart. This thread is the symbol of the bond that death itself cannot break.
-
-**Katha listening:**
-Listening to the complete story of Savitri and Satyavan after the puja is considered essential — the puja is incomplete without the vrat katha.
-
-**Parana:**
-On the evening of Amavasya or the following morning, after concluding the puja, take parana with sattvic food or fruit.
-
-**2026 date:** Confirm on DrikPanchang (Jyeshtha Krishna Amavasya — TODO-VERIFY).
+- **For whom:** Observed by married women for the long life, health, and prosperity of their husbands.
+- **Fasting:** Full-day fast — nirjal or fruits only; regional custom permits a single meal (ekahara).
+- **The day before Amavasya:** Gather materials — soot (raw thread), a bamboo basket, flowers, akshat, sindoor, bangles, paan, turmeric, kumkum, and fruit.
+- **Morning of Amavasya:** Bathe and dress in colours of saubhagya (red or yellow); take sankalp holding water, akshat, and flowers — "For the protection of my husband's long life and good fortune."
+- **Vat tree worship:** Go to the Vat tree (or a temple, or place a Vat branch at home); offer water at the roots; apply turmeric and kumkum; present flowers, fruit, and naivedya. In the absence of a Vat tree, worshipping the Peepal tree is also traditional.
+- **Thread wrapping:** Circumambulate the Vat tree seven times while winding raw thread (soot) around it — with each round, hold the prayer for the husband's long life in the heart. This thread is the symbol of the bond that death itself cannot break.
+- **Image and katha:** Establish an image of Savitri and Satyavan beneath the Vat tree; listen to the complete Vat Savitri Vrat Katha with family — the puja is incomplete without the katha.
+- **Dakshina:** Offer dakshina to Brahmins; present gifts to the mother-in-law or elder women.
+- **Breaking the fast:** On the evening of Amavasya or the following morning, after the final puja, take parana with sattvic food or fruit.
+- **2026 date:** TODO-VERIFY (Jyeshtha Krishna Amavasya)
 
 ## Mantras
 

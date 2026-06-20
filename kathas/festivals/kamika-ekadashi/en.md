@@ -41,26 +41,15 @@ This Ekadashi is especially for those weighed down by heavy sins — the scriptu
 
 ## Vidhi
 
-**Fasting procedure:**
-1. Take sattvic food the night of Dashami.
-2. On Ekadashi morning, bathe and take the sankalpa (vow).
-3. Offer tulsi, flowers, and a ghee diya before an image of Vishnu or a Shalagrama.
-4. Chant *Oṃ Namo Bhagavate Vāsudevāya*.
-5. Keep vigil through the night — this is the special rule of Kamika Ekadashi.
-6. Break the fast after sunrise on Dvadashi.
-
-**Special rules:**
-- Offer tulsi leaves without fail — this is the central act of this Ekadashi.
-- Do not pluck tulsi leaves on Ekadashi itself — pluck them the day before.
-- Do not eat rice (general Ekadashi rule).
-
-## Observance
-
-**Parana:** On Dvadashi, break the fast after sunrise, within the Dvadashi tithi. Begin with tulsi-water.
-
-**Tulsi service:** On Kamika Ekadashi, circumambulating the tulsi plant and offering it water is considered especially meritorious.
-
-**This Ekadashi within Shravan:** Shravan brings four Mondays, four Tuesdays — and this Ekadashi. All three together complete the devotional architecture of Shravan.
+- **Dashami eve:** Take sattvic food the night before; pluck tulsi leaves on Dashami (do not pluck on Ekadashi itself).
+- **At dawn:** Bathe and take the sankalpa (vow) to observe the fast.
+- **Puja:** Offer tulsi leaves, flowers, and a lit ghee diya before an image of Vishnu or a Shalagrama; chant *Oṃ Namo Bhagavate Vāsudevāya*.
+- **Tulsi service:** Circumambulate the tulsi plant and offer it water — this is considered especially meritorious on Kamika Ekadashi.
+- **Special:** Tulsi offering is the central act of this Ekadashi — do not omit it; do not eat rice (general Ekadashi rule).
+- **Vigil:** Keep vigil through the night — this is the special requirement of Kamika Ekadashi.
+- **Breaking the fast (Parana):** On Dvadashi, break the fast after sunrise within the Dvadashi tithi; begin with tulsi-water.
+- **Note:** Shravan brings four Mondays, four Tuesdays — and this Ekadashi; all three together complete the devotional architecture of Shravan.
+- **2026 date:** TODO-VERIFY (Shravan Krishna Ekadashi)
 
 ## Mantras
 

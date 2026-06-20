@@ -87,19 +87,13 @@ Sundarkand — which is recited with special devotion on this day — is the acc
 
 ## Vidhi
 
-Worship on Hanuman Jayanti begins at sunrise. Bathe in the early morning and put on red or saffron clothes. Offer flowers, akshat, roli, and chandan before Hanuman's image or portrait. **Sindoor chola** — offering pure sindoor mixed with a little ghee upon Hanuman's image — is this day's most distinctive act of worship. Light a **sesame-oil lamp**. Recite **Sundarkand** — read the complete chapter or listen to it in a satsang. Recite the Hanuman Chalisa. Offer boondi, panjiri, or seasonal fruit as prasad. Perform aarti again in the evening.
-
----
-
-## Observance
-
-**Upavasa:** On Hanuman Jayanti the practice is to observe a nirjala or fruit-only fast. Those who cannot observe a complete fast should abstain from grain and take only fruit. Break the fast after sunset.
-
-**Sundarkand Path:** This day is regarded as the most auspicious for the recitation of Sundarkand. Recite it alone or in a group. Those who cannot complete the full recitation should at minimum recite the Hanuman Chalisa eleven times.
-
-**Sindoor Chola:** The tradition of offering pure sindoor mixed with a little ghee on Hanuman's image is deeply rooted. The belief is that in Rama's court Hanuman once saw Mother Sita applying sindoor — and when asked the reason, he covered his entire body with sindoor, declaring that if such a small thing gives Rama joy, he would apply it to his whole body. From that day sindoor chola became an indispensable tradition in Hanuman worship.
-
-**Sesame-Oil Lamp:** A lamp of sesame oil is especially dear to Hanuman. Keep a lamp burning both during worship and through the night.
+- **At sunrise:** Bathe early; wear red or saffron clothes; offer flowers, akshat, roli, and chandan before Hanuman's image or portrait.
+- **Sindoor chola:** Apply pure sindoor mixed with a little ghee on Hanuman's image — this is the day's most distinctive act of worship, rooted in the tradition of Hanuman covering his whole body with sindoor in Rama's court.
+- **Sesame-oil lamp:** Light a sesame-oil lamp during worship and keep it burning through the night, as sesame-oil lamps are especially dear to Hanuman.
+- **Sundarkand path:** Recite the complete Sundarkand alone or in a group — this day is regarded as its most auspicious occasion. Those unable to complete the full text should at minimum recite the Hanuman Chalisa eleven times.
+- **Offerings:** Offer boondi, panjiri, or seasonal fruit as prasad; perform aarti again in the evening.
+- **Fasting:** Observe a nirjala or fruit-only fast; those unable to fast completely should abstain from grain and take only fruit; break the fast after sunset.
+- **2026 date:** TODO-VERIFY (Chaitra Shukla Purnima)
 
 ---
 

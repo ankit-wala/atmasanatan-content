@@ -49,25 +49,13 @@ This is a special fast for mothers. He who received the love of two mothers is w
 
 ## Vidhi
 
-This procedure follows the North Indian regional tradition:
-
-1. Bathe at dawn and take the vow to fast — for the long life and protection of a son.
-2. Install an idol or image of Lord Balarama.
-3. Offer white flowers, sesame, milk, and curd — white is Balarama's beloved colour.
-4. Perform Panchamrita abhisheka.
-5. Offer aarti with lamp and incense.
-6. In the North Indian tradition, do not eat vegetables grown in tilled earth — consume only those grown in water or without ploughing (water chestnuts, milk, curd).
-7. Break the fast in the evening or the following morning.
-
-## Observance
-
-**Mothers' fast:** This fast is observed primarily by mothers for the long life of their sons.
-
-**Plough observance:** In the North Indian tradition, do not till the earth with a plough on this day.
-
-**Food:** In the North Indian regional tradition, vegetables grown from tilled earth are avoided.
-
-**2026 date:** Verify on DrikPanchang (Bhadrapada Krishna Shashthi — approximately September 3, 2026).
+- **For whom:** This fast is observed primarily by mothers for the long life and protection of their sons.
+- **At dawn:** Bathe and take the vow to fast.
+- **Puja:** Install an idol or image of Lord Balarama; offer white flowers, sesame, milk, and curd (white is Balarama's beloved colour); perform Panchamrita abhisheka; offer aarti with lamp and incense.
+- **Plough observance:** In the North Indian tradition, do not till the earth with a plough on this day — the birthday of the one whose symbol is the plough, that symbol should not be put to labour.
+- **Food:** Avoid vegetables grown from tilled earth; consume only those grown in water or without ploughing — water chestnuts, milk, and curd are permitted.
+- **Breaking the fast:** Break the fast in the evening or the following morning.
+- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Shashthi)
 
 ## Mantras
 

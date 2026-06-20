@@ -67,28 +67,15 @@ The greatest feature of this vrat is the katha-shravan — this five-chapter kat
 
 ## Vidhi
 
-The Satyanarayan Vrat can be performed on any Purnima or any auspicious occasion.
-
-1. Rise at dawn, bathe, and take the vow of the vrat.
-2. Install an image or picture of Lord Satyanarayan (Vishnu).
-3. Perform abhishek with panchamrita (milk, curd, ghee, honey, sugar).
-4. Offer flowers, tulsi, yellow cloth, and a lamp.
-5. Recite or hear the Satyanarayan Katha — all five chapters.
-6. Perform the aarti.
-7. Prepare prasad — panjiri (flour, ghee, sugar, banana) — and distribute it among the family and those present.
-8. Break the fast.
-
-## Observance
-
-**Fasting:** Keep the fast before the katha — break it after the katha and prasad.
-
-**Prasad:** Panjiri or sheera (wheat flour, ghee, sugar) — this is the special prasad. Bananas are used.
-
-**With the family:** This vrat is not performed alone — it is for the family and neighbours together, with the katha before them and prasad offered to all.
-
-**Five chapters:** For the complete fruit, hear all five chapters. If possible in one sitting, that is best.
-
-**2026 date:** Confirm on DrikPanchang (~August 28, 2026, Shravan Purnima).
+- **When:** Any Purnima or auspicious occasion; Shravan Purnima is the most traditional day.
+- **At dawn:** Bathe and take the vow — "I am observing the Satyanarayan Vrat and puja today."
+- **Fasting:** Keep the fast before the katha begins; break it only after the katha and prasad.
+- **Setup:** Install an image or picture of Lord Satyanarayan (Vishnu) on a clean seat; perform abhishek with panchamrita (milk, curd, ghee, honey, sugar); offer flowers, tulsi, yellow cloth, and a lamp.
+- **Katha shravan:** Recite or hear all five chapters of the Satyanarayan Katha — the family and those present should listen together; a single sitting is ideal.
+- **Aarti:** Perform the aarti after the katha.
+- **Prasad:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana); distribute to every person present — this is not optional, no one should leave without prasad.
+- **Breaking the fast:** Receive the prasad and break the fast.
+- **2026 date:** Confirm on DrikPanchang (~August 28, 2026, Shravan Purnima).
 
 ## Mantras
 

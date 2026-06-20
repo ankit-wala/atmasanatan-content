@@ -57,36 +57,14 @@ Vaibhav Lakshmi Vrat is not a vrata propounded in any ancient Purana — it is a
 
 ## Vidhi
 
-**Taking the sankalpa:**
-On the first Friday, take the sankalpa — "By the grace of Mother Lakshmi, I shall observe this vrata for eleven (or twenty-one) consecutive Fridays." Once the sankalpa is taken, the sequence must not be broken.
-
-**The procedure for each Friday:**
-1. Bathe in the morning and wear clean clothes (red or yellow).
-2. At the place of worship, install Mother Lakshmi's picture or idol on a red cloth.
-3. Offer red flowers (hibiscus) — this is the special worship-flower of this vrata.
-4. Offer white rice, a coconut, a red chunari.
-5. Light a ghee lamp. Burn incense and agarbatti.
-6. Offer sweet rice (kheer) or jaggery-coconut as bhog.
-7. Read or listen to the katha of Vaibhav Lakshmi Vrat.
-8. Perform Lakshmi aarati.
-9. Fast throughout the day — take fruit or food after the evening puja.
-
-**Udyapan (the eleventh Friday):**
-Invite eleven women (neighbours, relatives, those in need). Feed them sweet rice. Gift each one a piece of blouse cloth, turmeric-kumkum, and prasad. This udyapan is an essential part of the vrata — without it the vrata is considered incomplete.
-
-## Observance
-
-**Duration of the vrata:** Eleven consecutive Fridays (twenty-one in some traditions). According to one's sankalpa.
-
-**Fasting:** Nirahoma or fruit throughout the day. Avoid salty and tamasic food.
-
-**Colour of the puja:** Red — flowers, chunari, rice with the colour red — this is the colour of Lakshmi's energy and auspicious mangalya.
-
-**Purity of the home:** Keep the home clean on Fridays. Mother Lakshmi does not stay where there is impurity and laziness. Draw a swastika or footprints at the doorstep.
-
-**The spirit:** The foremost requirement of this vrata is a true heart. Not greed, but devotion. Not gold, but stability. And the spirit of giving to others in the udyapan — this is the soul of this vrata.
-
-**2026 dates:** This is a weekly vrata — it may be begun on any Friday. Beginning on the Friday of the Shukla Paksha is considered especially auspicious.
+- **Sankalpa:** On the first Friday, take the sankalpa — "By the grace of Mother Lakshmi, I shall observe this vrata for eleven (or twenty-one) consecutive Fridays." Once taken, the sequence must not be broken.
+- **Each Friday morning:** Bathe and wear clean clothes (red or yellow); keep the home clean — draw a swastika or footprints at the doorstep; Mother Lakshmi does not stay where there is impurity or laziness.
+- **Puja setup:** Install Mother Lakshmi's picture or idol on a red cloth; offer red hibiscus flowers (the special worship-flower of this vrata), white rice, a coconut, and a red chunari.
+- **Worship:** Light a ghee lamp; burn incense; offer sweet rice (kheer) or jaggery-coconut as bhog; read or listen to the katha; perform Lakshmi aarati; recite the Lakshmi Bija Mantra 108 times.
+- **Fasting:** Throughout the day on fruit or light food; avoid salty and tamasic food; take the full meal only after the evening puja.
+- **Udyapan (eleventh Friday):** Invite eleven women (neighbours, relatives, or those in need); feed them sweet rice; gift each one a piece of blouse cloth, turmeric-kumkum, and prasad — the udyapan is essential and without it the vrata is considered incomplete.
+- **Special:** The foremost requirement is a true heart — not greed but devotion; beginning the vrata on a Shukla Paksha Friday is considered especially auspicious.
+- **2026 dates:** Weekly vrata — may be begun on any Friday; no single fixed date.
 
 ## Mantras
 

@@ -80,33 +80,14 @@ In shraddha, food is set aside for all three. Tradition holds that ancestors com
 
 ## Vidhi
 
-**Pitru Tarpan:**
-1. Bathe at dawn and wear white or clean dhoti.
-2. Fill a copper vessel with Gangajal or clean water.
-3. Add black sesame (kala til), kusha grass, and barley.
-4. Stand facing south.
-5. Saying the ancestor's name, gotra, and relationship, slowly pour the water from the ring finger and thumb.
-6. Offer tarpan three times.
-
-**Shraddha meal:**
-1. Feed brahmins — according to one's capacity.
-2. Set aside food for crow, cow, and dog.
-3. Give anna-dan to the poor and needy.
-
-**Mahalaya Amavasya 2026 date:** Confirm on DrikPanchang (Ashwin Krishna Amavasya — ~October 2, 2026).
-
-## Observance
-
-**Diet during Pitru Paksha:**
-- Meat, liquor, and tamasic food are forbidden.
-- Avoid garlic and onion.
-- Sattvic food — dal, rice, khichdi, sesame-based preparations.
-
-**Crow feeding first:**
-During Pitru Paksha, every day before the family eats, set aside a portion for the crow.
-
-**What not to do:**
-Auspicious events — marriage, griha-pravesh, new ventures — are avoided during this period.
+- **At dawn:** Bathe and wear white or clean dhoti before beginning any rite.
+- **Tarpan vessel:** Fill a copper vessel with Gangajal or clean water; add black sesame (kala til), kusha grass, and barley.
+- **Tarpan posture:** Stand facing south; saying the ancestor's name, gotra, and relationship, slowly pour the water from the ring finger and thumb — offer three times.
+- **Shraddha meal:** Feed brahmins according to one's capacity; set aside food for crow, cow, and dog; give anna-dan to the poor and needy.
+- **Crow feeding daily:** Throughout Pitru Paksha, before the family eats each day, set aside a portion for the crow — tradition holds that ancestors come in the crow's form to accept it.
+- **Diet during Pitru Paksha:** Meat, liquor, tamasic food, garlic, and onion are forbidden; eat sattvic food — dal, rice, khichdi, sesame-based preparations.
+- **Restrictions:** Auspicious events — marriage, griha-pravesh, new ventures — are avoided for the entire sixteen-day period.
+- **2026 date:** TODO-VERIFY (Ashwin Krishna Amavasya — Mahalaya Amavasya)
 
 ## Mantras
 

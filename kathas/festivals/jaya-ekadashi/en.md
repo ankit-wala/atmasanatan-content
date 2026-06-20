@@ -39,23 +39,14 @@ Magha Shukla Ekadashi is considered particularly fruitful for those who are stru
 
 ## Vidhi
 
-The fast of Jaya Ekadashi begins on the evening of Dashami. On that day eat sattvic food, keep the mind at peace, and stay away from worldly desires.
-
-On the day of Ekadashi, bathe at dawn and meditate upon Lord Vishnu. Offer tulsi leaves, yellow flowers, akshat, incense, and a lamp in worship. Tulsi is especially dear to Lord Vishnu — worship is considered incomplete without tulsi.
-
-Throughout the day keep the mind engaged in bhajan, kirtan, and remembrance of Vishnu. Recitation of the Vishnu Sahasranama or the Ekadashi Mahatmya is especially meritorious.
-
-Night vigil holds special importance on this Ekadashi — in the katha itself, it was the vigil that became the cause of liberation.
-
-## Observance
-
-**Fasting:** On Ekadashi observe a complete nirjala fast or a fruit-based fast. Those who cannot observe a complete fast may sustain themselves on fruit, milk, and water.
-
-**Prohibited:** Rice, urad dal, and tamasic food are forbidden on Ekadashi. Keep the mind away from quarrelling, anger, and falsehood as well.
-
-**Parana:** On Dwadashi, after sunrise, break the fast within the appointed muhurta for parana. Before breaking the fast, offer bhog to the Lord and receive tulsi water.
-
-**Night Vigil:** Night vigil on Jaya Ekadashi is especially fruitful. Continue with bhajan, kirtan, or chanting of Vishnu's name through the night.
+- **On Dashami evening:** eat sattvic food; keep the mind at peace; stay away from worldly desires.
+- **At dawn on Ekadashi:** bathe and meditate upon Lord Vishnu; offer tulsi leaves, yellow flowers, akshat, incense, and a lamp — tulsi is especially dear to the Lord and worship is considered incomplete without it.
+- **Fasting:** complete nirjala fast preferred; those unable may sustain on fruit, milk, and water.
+- **Prohibited:** rice, urad dal, and all tamasic food are forbidden; also avoid quarrelling, anger, and falsehood.
+- **Through the day:** keep the mind in bhajan, kirtan, and Vishnu-smarana; recitation of the Vishnu Sahasranama or Ekadashi Mahatmya is especially meritorious.
+- **Night vigil:** remain awake through the night in bhajan, kirtan, or chanting of Vishnu's name — in the katha itself, it was the unwitting vigil that became the direct cause of liberation; this night is especially fruitful.
+- **Breaking the fast:** on Dwadashi after sunrise, break the fast within the appointed parana muhurta; offer bhog to the Lord and receive tulsi water first.
+- **2026 date:** TODO-VERIFY (Magha Shukla Ekadashi)
 
 ## Mantras
 

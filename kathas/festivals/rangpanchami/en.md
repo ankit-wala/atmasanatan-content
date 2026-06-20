@@ -33,15 +33,13 @@ The second significance of Rang Panchami is that it reminds us of the five rasas
 
 ## Vidhi
 
-On the day of Rang Panchami, rise early, bathe, and put on clean clothes. Before the image or deity of Shri Krishna and Radharani in the home, offer a lamp, flowers, and gulal. Use natural color made from Tesu flowers — the traditional color of Braj — and avoid chemical dyes. Play with color lovingly among family and friends. On this day, hold no ill will toward anyone — the meaning of Rang Panchami is that whatever distance or misunderstanding arose in five days of celebration should be washed away with this final color. The Rangji temple and the Banke Bihari temple in Vrindavan hold a special celebration on this day — take darshan if possible.
-
-## Observance
-
-**Rangotsav:** After offering gulal to Radha-Krishna in the morning, play with color among family and loved ones. Give preference to natural colors made from Tesu, rose, and marigold flowers.
-
-**Puja:** Perform an abhishek of the Radha-Krishna deity with panchamrita and offer flowers and gulal. Perform the aarti with the invocations "Radhe-Radhe" and "Jai Shri Krishna."
-
-**Bhajan-Kirtan:** On this day there is a tradition of singing verses of Holi and the phag-songs of Braj — "Holi Khele Raghuvira Avadh Mein," "Barse Bhige Chunarwali," or "Aaj Biraj Mein Holi Re Rasiya." In the evening, sit with family and sing the lila-bhajans of Krishna.
+- **At dawn:** Rise early, bathe, and put on clean clothes.
+- **Morning puja:** Before the image of Shri Krishna and Radharani, offer a lamp, flowers, and gulal; perform an abhishek with panchamrita; perform the aarti with invocations "Radhe-Radhe" and "Jai Shri Krishna."
+- **Colors:** Use only natural colors made from Tesu, rose, and marigold flowers — avoid chemical dyes; offer gulal to Radha-Krishna first, then play with color among family and loved ones.
+- **Spirit of the day:** Hold no ill will toward anyone — any distance or misunderstanding from the five days of celebration should be washed away with this final color.
+- **Bhajan-Kirtan:** Sing phag-songs and Holi verses of Braj — "Holi Khele Raghuvira Avadh Mein," "Barse Bhige Chunarwali," or "Aaj Biraj Mein Holi Re Rasiya"; in the evening, sit with family and sing Krishna's lila-bhajans.
+- **Special:** If possible, take darshan at the Rangji temple and the Banke Bihari temple in Vrindavan — both hold a special celebration on this day.
+- **2026 date:** TODO-VERIFY (Phalgun Krishna Panchami)
 
 ## Mantras
 

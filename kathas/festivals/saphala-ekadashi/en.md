@@ -33,29 +33,13 @@ However deep the sins may be, the fast of Ekadashi can sever them — this is th
 
 ## Vidhi
 
-**Dashami (the day before Ekadashi):**
-- Take food only once in the evening.
-- Avoid urad dal, masoor lentils, brinjal, and all tamasic foods.
-- Observe brahmacharya.
-
-**On the day of Ekadashi:**
-1. Bathe at dawn and wear clean clothes.
-2. Offer a lamp, tulsi, flowers, and incense before Lord Vishnu.
-3. Worship the pipal tree — offer water, wrap sacred thread around it, and bow before it.
-4. Observe a fast throughout the day (complete nirjala, or fruit-only).
-5. In the evening, perform Vishnu kirtan and keep a night vigil.
-
-**On Dwadashi:**
-- Break the fast (paran) after sunrise.
-- Conclude the vrat by offering food and dakshina to a Brahmin.
-
-## Observance
-
-- **Fast:** A complete fast (nirjala) is ideal; those unable may take fruit, milk, and water.
-- **Pipal worship:** Worship of the pipal tree holds special importance on this Ekadashi — in Lumpak's katha, that very spot is the center of the mahatmya.
-- **Night vigil:** Stay awake through the night chanting or singing in the name of Vishnu — this is an essential part of the vrat.
-- **Time of paran:** On Dwadashi, break the fast after sunrise while remembering Hari. Be sure to take tulsi leaves during paran.
-- **The night of Dashami:** The true beginning of Ekadashi is from the evening of Dashami itself — from that evening onward, keep a restrained diet and a pure mind.
+- **Dashami (eve of Ekadashi):** Take food only once in the evening; avoid urad dal, masoor, brinjal, and all tamasic foods; observe brahmacharya; from this evening onward, keep a restrained diet and a pure mind.
+- **At dawn on Ekadashi:** Bathe and wear clean clothes; offer a lamp, tulsi, flowers, and incense before Lord Vishnu.
+- **Pipal worship:** Offer water to the pipal tree, wrap sacred thread around it, and bow before it — this holds special importance on this Ekadashi, as the pipal is the center of Lumpak's mahatmya.
+- **Fasting:** Observe a complete nirjala fast through the day; those unable may take fruit, milk, and water.
+- **Night vigil:** In the evening perform Vishnu kirtan and stay awake through the night chanting or singing Hari's name — this is an essential part of the vrat.
+- **Breaking the fast (paran):** On Dwadashi, break the fast after sunrise while remembering Hari; be sure to take tulsi leaves during paran; conclude by offering food and dakshina to a Brahmin.
+- **2026 date:** TODO-VERIFY (Pausha Krishna Ekadashi)
 
 ## Mantras
 

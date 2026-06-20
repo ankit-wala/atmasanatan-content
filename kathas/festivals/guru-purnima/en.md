@@ -45,22 +45,14 @@ Guru Purnima is for all teachers: the teacher of scripture, the teacher of life,
 
 ## Vidhi
 
-The central observance of Guru Purnima is the Guru Puja. If your guru is living, seek their darshan and offer puja. If your guru is distant or has passed on, honor Vyasa ji and the lineage.
-
-1. Bathe in the morning and wear clean clothes.
-2. Set up an image of Vyasa ji — or of your own guru.
-3. Offer flowers, tulsi, unbroken rice (akshat), and a ghee diya.
-4. Recite the Vyasa Stotra or the Guru Stotram.
-5. Offer dakshina to your guru — cloth, fruit, or whatever is available.
-6. If possible, take a sacred dip in a river on this day.
-
-## Observance
-
-**Fasting:** Many devotees observe a fast on this day, but it is not required. This is a festival, not a vrat — eat simply and sattvik if you choose to eat.
-
-**A study commitment:** Taking on a learning commitment on Guru Purnima is a beautiful practice — one text, one chapter, to be read through all of Chaturmas. This is real reverence to the guru.
-
-**Connection to Chaturmas:** Guru Purnima falls just four days before Devshayani Ekadashi and the beginning of Chaturmas. The commitment taken on Guru Purnima becomes the foundation of the four months of practice that follow.
+- **Morning:** Bathe, wear clean clothes; if your guru is living, seek their darshan and offer puja; if your guru is distant or has passed on, honor Vyasa ji and the lineage.
+- **Puja setup:** Place an image of Vyasa ji or your own guru; offer flowers, tulsi, unbroken rice (akshat), and a ghee diya; recite the Vyasa Stotra or the Guru Stotram.
+- **Dakshina:** Offer dakshina to your guru — cloth, fruit, or whatever is available.
+- **Sacred dip:** Take a dip in a river if possible.
+- **Fasting (optional):** A fast on this day is not required — this is a festival, not a vrat; eat simply and sattvic if you choose to eat.
+- **Study commitment:** Taking on a learning commitment on Guru Purnima is a cherished practice — one text or one chapter to be read through all of Chaturmas. This is real reverence to the guru.
+- **Note:** Guru Purnima falls just four days before Devshayani Ekadashi and the beginning of Chaturmas; the commitment taken here becomes the foundation of the four months of practice that follow.
+- **2026 date:** TODO-VERIFY (Ashadha Purnima)
 
 ## Mantras
 

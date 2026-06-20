@@ -81,31 +81,15 @@ Dhanteras is the first day of Diwali — yet it carries two distinct spiritual c
 
 ## Vidhi
 
-1. **Morning — Dhanvantari Puja:** After bathing at sunrise, perform puja to Lord Dhanvantari. Offer yellow flowers, turmeric, incense, and a lamp before his image or idol. Chant the Dhanvantari mantra. This puja is for the health and wellbeing of the family.
-
-2. **Buying gold and silver:** During an auspicious muhurta, purchase gold, silver, or new copper or brass utensils — by tradition, this invites prosperity and auspiciousness into the home.
-
-3. **New broom and utensils:** Buying a new broom on Dhanteras is a symbol of Lakshmi's arrival. New kitchen vessels are also brought home on this day.
-
-4. **Evening — preparation for Lakshmi Puja:** Clean the house, make rangoli, and hang a torana garland at the door. Arrange the puja thali for Diwali.
-
-5. **Pradosh kaal — Yama Deepam:** After sunset, during pradosh kaal — light a clay lamp outside the main entrance of the house and place it facing **south**, toward the direction of Yama. This is the Yama Deepam, the south-facing lamp for Yama — lit to please him and to protect the family from untimely death. Recite the Yama Deepam mantra.
-
-6. **Evening — Lakshmi Puja:** Light lamps inside the house. Perform puja of Lakshmi and Ganesha in the prayer room. Offer incense, a lamp, and naivedya.
-
-7. **Deepadan:** Light lamps in every corner of the house, at the tulsi platform, and at the main entrance. Let the whole home be filled with light — just as the young bride made it on that night.
-
-## Observance
-
-**Fasting:** A full fast is not obligatory on Dhanteras. Some devotees observe a fruit-only fast until the Dhanvantari puja and take their meal afterward.
-
-**Importance of pradosh kaal:** For both the Yama Deepam and the Lakshmi Puja, the pradosh kaal — roughly one and a half hours after sunset — is especially auspicious.
-
-**Rule for the Yama Deepam:** The Yama Deepam must always be placed outside the house, facing south. Do not keep it inside the home.
-
-**Intention in buying:** Whatever you bring home — gold, silver, utensils, or a broom — as you bring it in, hold Lakshmi in your heart and carry the intention that this prosperity is for the wellbeing of the family.
-
-**2026 date:** Confirm on DrikPanchang (Kartik Krishna Trayodashi — TODO-VERIFY).
+- **Fasting:** A full fast is not obligatory. Some devotees observe a fruit-only fast until the Dhanvantari puja and take their meal afterward.
+- **At dawn:** Bathe at sunrise; perform puja to Lord Dhanvantari — offer yellow flowers, turmeric, incense, and a lamp before his image; chant the Dhanvantari mantra. This puja is for the health and wellbeing of the family.
+- **Buying gold and silver:** During an auspicious muhurta, purchase gold, silver, or new copper or brass utensils. As you bring them home, hold Lakshmi in your heart with the intention that this prosperity is for the family's wellbeing.
+- **New broom:** Buying a new broom on Dhanteras is a symbol of Lakshmi's arrival; new kitchen vessels are also brought home.
+- **Evening preparation:** Clean the house, make rangoli, and hang a torana garland at the door; arrange the puja thali for Diwali.
+- **Pradosh kaal — Yama Deepam:** After sunset, during pradosh kaal (roughly one and a half hours after sunset), light a clay lamp outside the main entrance facing **south** — the direction of Yama. This is the Yama Deepam; it must always remain outside, never inside the home. Recite the Yama Deepam mantra. This protects the family from untimely death.
+- **Evening — Lakshmi Puja:** Light lamps inside the house; perform puja of Lakshmi and Ganesha in the prayer room; offer incense, a lamp, and naivedya.
+- **Deepadan:** Light lamps in every corner of the house, at the tulsi platform, and at the main entrance — let the whole home blaze with light.
+- **2026 date:** TODO-VERIFY (Kartik Krishna Trayodashi)
 
 ## Mantras
 

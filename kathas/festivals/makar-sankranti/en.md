@@ -57,34 +57,15 @@ Til-gud holds special significance. Til is Shani's symbol — dark and deep; jag
 
 ## Vidhi
 
-**Sunrise Worship**
-
-Rise before sunrise and bathe. If possible, bathing in the Ganga, Yamuna, or any sacred river is especially fruitful. When bathing at home, add til to the water.
-
-**Surya Arghya**
-
-Take water in a copper vessel and offer arghya to Suryadev. Mix til, red flowers, and jaggery into the water. While offering arghya, stand facing east and recite oṃ sūryāya namaḥ.
-
-**Til-Gud Bhog and Dana**
-
-Prepare laddus of til and jaggery. Distribute them within the family and offer them as dana to brahmins and the poor. Donating til oil, til khichdi, blankets, and warm clothing is considered especially meritorious on this day.
-
-**Worship of Shanidev**
-
-Go to a Shani temple and light a lamp of mustard oil. Offer black til. Chant oṃ śaṃ śanaiścarāya namaḥ.
-
-**Kite-Flying (Gujarat Tradition)**
-
-In Gujarat and Rajasthan there is a tradition of flying kites to celebrate Uttarayan. It is a symbol of festivity, energy, and new beginnings.
-
-## Observance
-
-- This is a festival, not a vrat — strict fasting is not required. However, eat sattvic food on this day.
-- Avoid tamasic food (meat, alcohol).
-- In Uttar Pradesh and Bihar there is a tradition of eating and donating khichdi (made of rice and urad dal) — which is why the festival is called "Khichdi" there.
-- Dana performed on this day is especially fruitful. Donating til, jaggery, blankets, and grain on a riverbank or at a sacred place is most auspicious.
-- Bathing and dana after sunset are considered forbidden — the Sankranti punya-kala ends at sunset.
-- Tarpan for the ancestors is also performed on this day — with water mixed with til.
+- **At dawn:** Rise before sunrise and bathe; if possible, bathe in the Ganga, Yamuna, or any sacred river — when bathing at home, add til to the water.
+- **Surya arghya:** Take water in a copper vessel; mix in til, red flowers, and jaggery; stand facing east and offer arghya to Suryadev while reciting oṃ sūryāya namaḥ.
+- **Til-gud bhog and dana:** Prepare laddus of til and jaggery; distribute within the family and offer as dana to brahmins and the poor; donating til oil, til khichdi, blankets, and warm clothing is especially meritorious.
+- **Shanidev worship:** Go to a Shani temple; light a lamp of mustard oil; offer black til; chant oṃ śaṃ śanaiścarāya namaḥ.
+- **Pitru tarpan:** Offer tarpan to the ancestors on this day with water mixed with til.
+- **Fasting:** This is a festival, not a strict vrat — fasting is not required; eat sattvic food and avoid tamasic food (meat, alcohol).
+- **Regional observance:** In Uttar Pradesh and Bihar, khichdi (rice and urad dal) is eaten and donated — giving rise to the name "Khichdi"; in Gujarat and Rajasthan, kite-flying marks the celebration of Uttarayan.
+- **Timing:** Bathing and dana after sunset are forbidden — the Sankranti punya-kala ends at sunset.
+- **2026 date:** TODO-VERIFY (Makar Sankranti — Surya's entry into Makar Rashi)
 
 ## Mantras
 

@@ -49,31 +49,14 @@ For devotees, Janmashtami is not only a birthday. It is a reminder that when dar
 
 ## Vidhi
 
-Janmashtami is observed with a day-long fast and midnight puja to welcome the newborn Krishna.
-
-**Preparation:**
-1. Clean the puja space. Set up an image or small idol of Bal Gopal (baby Krishna / Laddu Gopal).
-2. Arrange a small cradle (*jhula*) if available — rocking it at midnight is an expression of love.
-3. Prepare panchamrit for abhishek: milk, curd, ghee, honey, and sugar, in five separate small bowls.
-4. Keep tulsi leaves, fresh flowers, butter, and *makhan* (fresh cream) as offerings.
-
-**Through the day:**
-5. Begin the fast at sunrise. Sing bhajans or listen to the Bhagavata katha through the day and evening.
-
-**At midnight:**
-6. Perform abhishek — pour each of the five panchamrit items over the idol one by one, reciting Krishna's name. Then bathe the idol with clean water.
-7. Dress the idol in fresh clothes and ornaments. Offer flowers and tulsi.
-8. Place butter and makhan before the idol — his most beloved offering.
-9. Light a ghee diya. Ring a bell. Sing the aarti.
-10. Rock the cradle gently. Announce: *"Nand Ghar Anand Bhayo, Jai Kanhaiya Lal Ki."*
-
-## Observance
-
-**Fasting:** Most devotees fast the full day of Ashtami. Some keep a nirjala fast (without water); others allow fruits, milk, and sendha namak. Fast according to your health and family tradition — the intention counts.
-
-**Parana (breaking the fast):** The fast is properly broken after the midnight puja, and ideally after sunrise on Navami. Verify the exact Ashtami and Navami timing for the year on DrikPanchang — if Ashtami ends before midnight in a given year, parana rules may shift.
-
-**Rohini nakshatra:** Some families observe Janmashtami on whichever day carries Rohini nakshatra rather than Ashtami tithi. Both practices are valid. Follow your family's tradition or your sampradaya's calendar.
+- **Preparation:** clean the puja space; set up an image or small idol of Bal Gopal (baby Krishna / Laddu Gopal); arrange a small cradle (*jhula*) if available; prepare panchamrit (milk, curd, ghee, honey, sugar); keep tulsi leaves, fresh flowers, butter, and *makhan* as offerings.
+- **Fasting:** fast from sunrise on Ashtami; some keep nirjala (waterless), others allow fruits, milk, and sendha namak — follow your health and family tradition; the intention counts.
+- **Through the day:** sing bhajans or listen to the Bhagavata katha through the day and evening.
+- **At midnight — abhishek:** pour each of the five panchamrit items over the idol one by one reciting Krishna's name, then bathe with clean water; dress in fresh clothes and ornaments; offer flowers and tulsi.
+- **Midnight offerings:** place butter and makhan before the idol (his most beloved offering); light a ghee diya, ring a bell, sing the aarti; rock the cradle and announce: *"Nand Ghar Anand Bhayo, Jai Kanhaiya Lal Ki."*
+- **Breaking the fast:** properly after the midnight puja and ideally after sunrise on Navami; verify exact Ashtami/Navami timing on DrikPanchang — if Ashtami ends before midnight in a given year, parana rules may shift.
+- **Rohini nakshatra:** some families observe on whichever day carries Rohini nakshatra rather than Ashtami tithi — both practices are valid; follow your family or sampradaya's calendar.
+- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Ashtami)
 
 ## Mantras
 

@@ -71,34 +71,14 @@ In the tradition of the Ganesha Purana, it is said that by hearing this katha of
 
 ## Vidhi
 
-**Puja materials:**
-- Modak or laddus (Ganesha's beloved naivedya)
-- Durva grass (21 durva)
-- Red flowers
-- Sindura
-- Ghee lamp
-
-**Puja procedure:**
-1. Bathe in the morning and install the image or picture of Kriti Ganesha.
-2. Perform panchopachara puja — water, fragrance, flowers, incense, lamp.
-3. Offer durva grass to Ganesha — 21 or 3 durva.
-4. Offer modak or laddus as bhoga.
-5. Hear the katha of Ballal.
-6. In the evening, await moonrise.
-7. Upon sighting the moon — offer arghya to the moon with water and Ganesha's name.
-8. After that, break the fast.
-
-## Observance
-
-**Fast:** From sunrise to moonrise. No parana before sighting the moon.
-
-**Diet:** Abstain from grains on the day of the vrata. Fruit-based food (fruits, milk, sabudana) may be taken once.
-
-**Time of moonrise:** Check the moonrise time for that tithi on DrikPanchang — that is the time for parana.
-
-**Parana:** After sighting the moon, offer arghya with water, then take food.
-
-**2026 date:** Confirm on DrikPanchang.
+- **Materials:** Modak or laddus (Ganesha's beloved naivedya); durva grass (21 durva); red flowers; sindura; ghee lamp.
+- **Morning puja:** Bathe and install the image or picture of Kriti Ganesha; perform panchopachara puja — water, fragrance, flowers, incense, lamp.
+- **Offerings:** Offer 21 or 3 durva grass to Ganesha; offer modak or laddus as bhoga.
+- **Katha:** Hear the katha of Ballal.
+- **Fasting:** Observe a fast from sunrise to moonrise; abstain from grains; fruit-based food (fruits, milk, sabudana) may be taken once.
+- **Evening — moonrise:** Check the moonrise time for that tithi on DrikPanchang; await moonrise and upon sighting the moon offer arghya with water and Ganesha's name.
+- **Breaking the fast:** No parana before sighting the moon; after the moon arghya, take food.
+- **2026 date:** Confirm on DrikPanchang (Jyeshtha Krishna Chaturthi).
 
 ## Mantras
 

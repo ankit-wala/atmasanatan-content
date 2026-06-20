@@ -115,17 +115,11 @@ This is why across India, on this night, people stay indoors, close windows towa
 
 ## Vidhi
 
-This katha is read as part of the Ganesh Chaturthi puja — for the full puja procedure, see the **Ganesh Chaturthi Janma Katha** entry.
-
-**Protecting against moon-sighting — the specific practice for this entry:**
-
-1. From the evening of Bhadrapada Shukla Chaturthi, avoid going outdoors where the open sky is visible.
-2. Close windows and doors on the side where the moon rises.
-3. Worship Ganesha and hear this Syamantaka katha — this is the best protection.
-
-**If you accidentally see the moon:**
-1. Recite the Syamantaka shloka below three times.
-2. Listen to or read the full Syamantaka katha — this is the remedy Narada gave to Krishna.
+- **Note:** This katha is read as part of the Ganesh Chaturthi puja — for the full puja procedure, see the **Ganesh Chaturthi Janma Katha** entry.
+- **Protecting against moon-sighting:** From the evening of Bhadrapada Shukla Chaturthi, avoid going outdoors where the open sky is visible; close windows and doors on the side where the moon rises.
+- **Best protection:** Worship Ganesha and hear this Syamantaka katha — this is the most effective safeguard against the curse.
+- **If you accidentally see the moon:** Recite the Syamantaka shloka (given below) three times; then listen to or read the full Syamantaka katha — this is the remedy Narada gave to Krishna himself.
+- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Chaturthi)
 
 ## Mantras
 

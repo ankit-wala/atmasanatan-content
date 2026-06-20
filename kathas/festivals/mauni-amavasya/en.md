@@ -53,35 +53,15 @@ The bath at the Triveni Sangam of Ganga, Yamuna, and Saraswati on Mauni Amavasya
 
 ## Vidhi
 
-**Morning Bath**
-
-Rise at the Brahma-muhurta, before sunrise, and bathe. If possible, bathe in the Ganga, Yamuna, Narmada, Godavari, or any other sacred river. When bathing at home, add sesame seeds to the water and hold the Ganga in mind.
-
-**Taking the Vow of Mauna**
-
-After bathing, take the vow of mauna. Observe silence from sunrise to sunset — or for as long as is possible. If speech is unavoidable, speak only what is strictly necessary. Use this time for japa of the name of Lord Vishnu and for meditation.
-
-**Vishnu Puja**
-
-Light a lamp before the image or picture of Lord Vishnu. Offer tulsi leaves, yellow flowers, and panchamrita. Recite the mantra Om Namo Bhagavate Vasudevaya.
-
-**Pitru Tarpan**
-
-Offer tarpan to the ancestors with water mixed with sesame — facing south, repeating the mantra given below, offer water three times. This tarpan may be performed on a riverbank or at home.
-
-**Dana**
-
-On this day, give sesame, blankets, grain, and clothing in donation to brahmanas and to those in need. Dana given during Magh is especially meritorious.
-
-## Observance
-
-- The vow of mauna is the central observance of Mauni Amavasya. Observe silence through the day as far as possible.
-- Do not consume tamasic food on this day — meat, alcohol, garlic, or onion.
-- Take sattvic and light food. Many devotees observe a fruit-only fast on this day.
-- Avoid anger, speaking ill of others, untruth, and argument — mauna means not only silence of speech but also peace of mind.
-- Remember the pitru on this day and give dana in their name.
-- Bathing at Prayagraj, Haridwar, Kashi, Nashik, or any sacred tirtha carries special merit.
-- The auspicious period is considered to run from sunrise to sunset — perform the bath, tarpan, and dana within this window.
+- **At dawn:** Rise at the Brahma-muhurta, before sunrise, and bathe in a sacred river (Ganga, Yamuna, Narmada, Godavari) if possible; when bathing at home, add sesame seeds to the water and hold the Ganga in mind.
+- **Mauna vow:** After bathing, take the vow of mauna — observe silence from sunrise to sunset or for as long as possible; if speech is unavoidable, speak only what is strictly necessary; use this time for japa of *Om Namo Bhagavate Vasudevaya* and meditation.
+- **Fasting:** Observe a fruit-only fast or eat sattvic light food; do not consume tamasic food — meat, alcohol, garlic, or onion.
+- **Vishnu puja:** Light a lamp before the image of Lord Vishnu; offer tulsi leaves, yellow flowers, and panchamrita; recite *Om Namo Bhagavate Vasudevaya*.
+- **Pitru tarpan:** Facing south, offer tarpan to the ancestors with water mixed with sesame — repeat the tarpan mantra and offer water three times; this may be performed on a riverbank or at home; remember the pitru and give dana in their name.
+- **Dana:** Give sesame, blankets, grain, and clothing to brahmanas and those in need — dana given during Magh is especially meritorious.
+- **Conduct:** Avoid anger, speaking ill of others, untruth, and argument — mauna means not only silence of speech but also peace of mind; the auspicious window runs from sunrise to sunset.
+- **Special merit:** Bathing at Prayagraj (Triveni Sangam), Haridwar, Kashi, or Nashik on this day carries the highest merit — this is the Amrit Snan of the Kumbh and Magh Mela.
+- **2026 date:** TODO-VERIFY (Magh Amavasya)
 
 ## Mantras
 

@@ -39,35 +39,14 @@ Her principal shrine is at Shankambhara near Sambhar in Rajasthan, where on Shak
 
 ## Vidhi
 
-A simple and devout procedure for Shakambhari Purnima worship:
-
-**Worship materials:** Fresh vegetables and greens (spinach, fenugreek, coriander, bottle gourd, pumpkin), fruits, flowers, incense and lamp, roli, akshat, coconut.
-
-**Order of worship:**
-1. Bathe at dawn and wear clean clothes.
-2. Install an image or picture of Devi Shakambhari in a clean place.
-3. Light the lamp and incense.
-4. Offer fresh vegetables, greens, and fruits to the Mother — this is her most beloved naivedya.
-5. Chant oṃ śākambharyai namaḥ.
-6. Read the Shakambhari katha from the Devi Bhagavata.
-7. Perform aarti.
-8. Distribute fresh vegetables and fruits as prasad.
-
-Annadaan carries special importance on this day — giving a meal to a hungry person is considered direct worship of Ma Shakambhari.
-
-## Observance
-
-**Shakambhari Navaratri (vrat):** There is a tradition of observing an eight-day vrat from the eighth day of the bright fortnight of Paush month through to the full moon.
-
-**Rules of the vrat:**
-- Onion and garlic are forbidden.
-- During the vrat days, observe a fruit-only diet (phalahar) or eat only one meal (ekabhukta).
-- Fresh vegetables and fruits may be taken during the vrat period.
-- Meat, alcohol, and tamasic food must be avoided.
-
-**Purnima vrat paran:** Break the vrat after worship on the full moon day. Take sattvic food for the paran.
-
-**Annadaan:** On Purnima, feeding the hungry and offering fresh green fodder to cows is considered deeply meritorious.
+- **At dawn:** Bathe and wear clean clothes; install an image or picture of Devi Shakambhari in a clean, purified place.
+- **Offerings:** Light a lamp and incense; offer fresh vegetables and greens (spinach, fenugreek, coriander, bottle gourd, pumpkin), fruits, flowers, roli, akshat, and coconut — fresh vegetables and fruits are the Mother's most beloved naivedya.
+- **Worship:** Chant oṃ śākambharyai namaḥ; read the Shakambhari katha from the Devi Bhagavata; perform aarti; distribute fresh vegetables and fruits as prasad.
+- **Fasting (Shakambhari Navaratri):** A tradition of observing an eight-day vrat runs from the eighth day of Paush Shukla Paksha through to the full moon; during vrat days observe a fruit-only diet (phalahar) or eat only one meal (ekabhukta).
+- **Vrat restrictions:** Onion, garlic, meat, alcohol, and all tamasic food are forbidden; fresh vegetables and fruits may be taken during the vrat period.
+- **Breaking the fast:** Break the vrat after worship on Purnima; take sattvic food for the paran.
+- **Annadaan:** On Purnima, giving a meal to a hungry person is considered direct worship of Ma Shakambhari; offering fresh green fodder to cows is also deeply meritorious.
+- **2026 date:** TODO-VERIFY (Paush Shukla Purnima)
 
 ## Mantras
 

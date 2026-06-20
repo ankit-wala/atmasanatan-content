@@ -53,37 +53,15 @@ The paran on Dvadashi (the twelfth day) is equally important. The Ekadashi fast 
 
 ## Vidhi
 
-**The day before Ekadashi (Dashami):**
-- Give up salt in the evening meal.
-- Observe brahmacharya through the night.
-
-**On the day of Ekadashi:**
-1. Bath before sunrise.
-2. Sankalpa — *"Today on Ekadashi I observe a fast without food — for devotion to Vishnu and the removal of sin."*
-3. Offer tulsi leaves, yellow flowers, incense, and a lamp before Vishnu's image.
-4. Chant *Om Namo Bhagavate Vasudevaya* — 108 times or more.
-5. Read or listen to the Vishnu Sahasranama or the Bhagavad Gita.
-6. Hear the special story of that Ekadashi.
-7. Keep vigil through the night — in Vishnu bhajans and remembrance.
-
-**Abstention from grain:**
-Rice, wheat, lentils, and all grains are forbidden. Fruits, milk, water, sabudana, singhara flour, and kuttu may be taken.
-
-**Paran on Dvadashi:**
-- After sunrise, before Dvadashi ends.
-- First offer a tulsi leaf to Vishnu.
-- Then recite the concluding verse of the Ekadashi vrat katha and break the fast.
-- It is auspicious to take tulsi water or a tulsi leaf first at paran.
-
-## Observance
-
-**Nirjala versus sajal:** Some observe Ekadashi as nirjala (without even water) — this is the most difficult and the most meritorious. Those who cannot manage that should observe it as sajal (with water). Those who cannot do that should eat once (a single fruit meal) — but abstaining from grain is obligatory in all cases.
-
-**The importance of paran:** The Ekadashi fast is complete only when paran takes place at the correct time. A late paran — after Dvadashi has ended — breaks the vrat.
-
-**How many Ekadashis in a year:** 24 in an ordinary year, 26 in a year with an adhika masa. The story of each is given separately in this collection.
-
-**Children and all devotees:** The Ekadashi vrat is for everyone — men, women, the elderly, the young. It is appropriate to feed children grain; they are not required to fast.
+- **For whom:** The Ekadashi vrat is for everyone — men, women, the elderly, the young. Children may be fed grain; they are not required to fast.
+- **The day before (Dashami):** Give up salt in the evening meal; observe brahmacharya through the night.
+- **At dawn on Ekadashi:** Bathe before sunrise; take the sankalpa — *"Today on Ekadashi I observe a fast without food — for devotion to Vishnu and the removal of sin."*
+- **Puja:** Offer tulsi leaves, yellow flowers, incense, and a lamp before Vishnu's image; chant *Om Namo Bhagavate Vasudevaya* 108 times or more; read or listen to the Vishnu Sahasranama or the Bhagavad Gita; hear the special story of that Ekadashi.
+- **Abstention from grain:** Rice, wheat, lentils, and all grains are forbidden. Fruits, milk, water, sabudana, singhara flour, and kuttu may be taken.
+- **Fasting levels:** Nirjala (without even water) is the most difficult and most meritorious; sajal (with water) is the middle path; a single fruit meal is the minimum — but abstaining from grain is obligatory in all cases.
+- **Night vigil:** Keep vigil through the night in Vishnu bhajans and remembrance.
+- **Paran on Dvadashi:** After sunrise, before Dvadashi ends — first offer a tulsi leaf to Vishnu, recite the concluding verse of the Ekadashi vrat katha, and break the fast. A paran that falls after Dvadashi has ended breaks the vrat. It is auspicious to take tulsi water or a tulsi leaf first.
+- **Note:** There are 24 Ekadashis in an ordinary year and 26 in a year with an adhika masa. The story of each is given separately in this collection.
 
 ## Mantras
 

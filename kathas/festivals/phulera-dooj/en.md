@@ -31,15 +31,13 @@ Flowers here are not merely decoration — they are the symbol of pure devotion.
 
 ## Vidhi
 
-On Phulera Dooj, bathe in the morning and adorn Shri Radha-Krishna with flowers. Decorate their image or deity with fresh blossoms — especially champa, rose, marigold, and parijata. While performing pushpa-archana, offer a pushpanjali. Tulsi leaves and yellow flowers are dear to Krishna. On this day, no muhurta need be awaited — the entire duration from sunrise to sunset is auspicious. Visit a temple of Radha-Krishna if possible and offer flowers to them.
-
-## Observance
-
-**Puja:** Adorn the Radha-Krishna deity with flowers. Offer pushpanjali. Light incense and a lamp, and chant "Om namo bhagavate vasudevaya."
-
-**Vivaha-Muhurta:** On this day any marriage, engagement, or griha-pravesh may be performed without consulting a special muhurta. The entire tithi is a svayamsiddha muhurta.
-
-**Bhajan-Kirtan:** In the evening, sing Braj bhajans such as "Hori Khelat Nandlal" and "Phulan ki Hori." It is also considered auspicious to play Holi with flowers before the Radha-Krishna deity together with family.
+- **Morning bath and sankalpa:** Bathe at dawn; take the intention to observe Phulera Dooj with pushpa-puja to Shri Radha-Krishna.
+- **Flower decoration:** Adorn the Radha-Krishna image or deity with fresh blossoms — especially champa, rose, marigold, and parijata; tulsi leaves and yellow flowers are particularly dear to Krishna.
+- **Puja:** Offer pushpanjali; light incense and a ghee lamp; chant "Om namo bhagavate vasudevaya."
+- **Svayamsiddha muhurta:** No auspicious time need be consulted — the entire tithi from sunrise to sunset is a svayamsiddha muhurta; marriages, engagements, griha-pravesh, and new beginnings may all be commenced freely on this day.
+- **Temple visit:** Visit a Radha-Krishna temple if possible and offer flowers there.
+- **Evening bhajan-kirtan:** Sing Braj bhajans such as "Hori Khelat Nandlal" and "Phulan ki Hori"; play Holi with flowers before the Radha-Krishna deity together with family.
+- **2026 date:** TODO-VERIFY (Phalgun Shukla Dvitiya)
 
 ## Mantras
 

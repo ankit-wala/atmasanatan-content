@@ -49,24 +49,14 @@ This is Lakshmi's nature — she seeks out her devotees herself.
 
 ## Vidhi
 
-This vrat is observed on the Friday before the full moon of Shravan month.
-
-1. Rise early and bathe; wear new clothes.
-2. Fill a kalash with water, place a coconut on top with mango leaves — this is the ghata-svarupa (pot-form) of Varalakshmi.
-3. Perform the shodashopachara puja with kumkum, turmeric, flowers, fruits, and naivedyam.
-4. In the South Indian regional tradition, tie a nine-thread sacred cord (thoranam/kankana) on the right wrist.
-5. Listen to or read the Varalakshmi Vrat katha.
-6. Distribute prasad among family and neighbors.
-
-## Observance
-
-**Fast:** Full day's fast — one sattvic meal or fruits allowed.
-
-**Breaking the fast:** After the evening puja, or the following morning.
-
-**Communal worship:** This vrat has a tradition of gathering neighborhood women for the puja together — just as Charumati did.
-
-**2026 date:** Confirm on DrikPanchang — the Friday before Shravan Purnima (~August 21, 2026).
+- **For whom:** Observed primarily by married women; observed on the Friday before the full moon of Shravan month.
+- **Fasting:** Full day's fast — one sattvic meal or fruits allowed; breaking the fast after the evening puja or the following morning.
+- **At dawn:** Rise early, bathe, and wear new or clean clothes.
+- **Kalash sthapana:** Fill a kalash with water, place mango leaves and a coconut on top — this ghata-svarupa is the pot-form of Varalakshmi herself.
+- **Puja:** Perform the shodashopachara puja with kumkum, turmeric, flowers, fruits, and naivedyam; in the South Indian regional tradition, tie a nine-thread sacred cord (thoranam/kankana) on the right wrist.
+- **Katha:** Listen to or read the Varalakshmi Vrat katha.
+- **Communal worship:** This vrat has a tradition of gathering neighborhood women for the puja together — just as Charumati did; distribute prasad among family and neighbors.
+- **2026 date:** Confirm on DrikPanchang — the Friday before Shravan Purnima (~August 21, 2026).
 
 ## Mantras
 

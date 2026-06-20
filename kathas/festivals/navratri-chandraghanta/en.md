@@ -99,24 +99,13 @@ In some traditions the colour of Tritiya is **orange** — symbol of energy and 
 
 ## Vidhi
 
-1. Bathe early in the morning and wear **orange** or **grey** garments — the colour of Tritiya.
-2. Establish the image or idol of Maa Chandraghanta at a clean place.
-3. Offer **sweets made from milk** — such as kheer or mawa sweets — as bhog.
-4. Offer **white and orange flowers** — jasmine, marigold.
-5. Light a lamp of ghee and incense.
-6. Recite the dhyana shloka of Maa Chandraghanta and the Ya Devi stuti.
-7. Ring a bell in the temple or at home — this is an invocation of Maa.
-8. **2026 Date:** Confirm on DrikPanchang (Ashwin Shukla Tritiya — ~October 13, 2026).
-
-## Observance
-
-**Navratri vrat continues:** Tritiya is the third day of Navratri — devotees keeping the nine-day fast should continue with a fruit diet or one meal.
-
-**Colour:** The colour of Tritiya is **orange** (enthusiasm and energy) — in some traditions **grey** is also accepted.
-
-**The importance of the bell:** On this day there is a particular tradition of ringing the bell during worship — in remembrance of the bell on the forehead of Maa Chandraghanta.
-
-**2026 Date:** Confirm on DrikPanchang (Ashwin Shukla Tritiya — ~October 13, 2026).
+- **At dawn:** Bathe early and wear **orange** or **grey** garments — orange is the colour of Tritiya (enthusiasm and energy); in some traditions grey is also accepted.
+- **Puja setup:** Establish the image or idol of Maa Chandraghanta at a clean place; light a lamp of ghee and incense.
+- **Offerings:** Offer sweets made from milk (kheer or mawa sweets) as bhog; offer white and orange flowers (jasmine, marigold).
+- **Bell:** Ring a bell in the temple or at home — this is the specific tradition of Tritiya, in remembrance of the bell-shaped crescent on Maa's forehead; the sound drives away negative forces.
+- **Mantras:** Recite the dhyana shloka of Maa Chandraghanta and the Ya Devi stuti (see Mantras).
+- **Fasting:** The Navratri vrat continues — devotees keeping the nine-day fast should continue with a fruit diet or one meal.
+- **2026 date:** Confirm on DrikPanchang (~October 13, 2026, Ashwin Shukla Tritiya).
 
 ## Mantras
 

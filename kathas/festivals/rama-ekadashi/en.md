@@ -81,26 +81,16 @@ In some traditions this Ekadashi is also called **Rambha Ekadashi** — 'Rambha'
 
 ## Vidhi
 
-1. On **Dashami**, eat only once — a sattvic, single meal. Onion, garlic, and meat are to be avoided.
-2. On **Ekadashi**, take a bath in the brahma muhurta before dawn and take the vow of the fast.
-3. Establish an image of Lord **Vishnu** or a shaligram. Place a picture of **Lakshmi** alongside — this is the combined Ekadashi of Lakshmi and Vishnu.
-4. Perform panchamrita abhisheka — milk, curd, ghee, honey, sugar.
-5. Offer tulsi, lotus or yellow flowers, yellow cloth, a lamp, and incense.
-6. Hear or read the katha of Rama Ekadashi.
-7. **Night vigil** — remembrance of Vishnu's name, kirtan of "Hari-Hari."
-8. On **Dwadashi**, break the fast after sunrise, between the end of Rahu-kalam and the close of Dwadashi.
-
-## Observance
-
-**Fasting:** Waterless or on fruits — until the Dwadashi paran. Remember Shobhan's katha — the true strength of the fast lies in devotion; it is right to choose the form of the fast according to one's own capacity.
-
-**Diwali context:** Diwali comes two days after this Ekadashi — so cleaning the home, lighting lamps, and taking a resolve of Lakshmi's invocation on this day is considered auspicious.
-
-**Offering merit:** In the tradition of Chandrabhaga — the merit of this Ekadashi can be offered in the name of a beloved one who has departed.
-
-**Paran:** On Dwadashi morning, before Rahu-kalam.
-
-**2026 date:** Please confirm on DrikPanchang (Kartik Krishna Ekadashi — two days before Diwali).
+- **Dashami (day before):** Eat only once — a sattvic meal; avoid onion, garlic, and meat.
+- **Fasting:** Observe a waterless or fruit-only fast on Ekadashi until the Dwadashi paran; choose the form of fast according to one's own capacity — devotion is the true strength of the vow.
+- **At dawn:** Bathe in the brahma muhurta; take the vow of the fast.
+- **Puja:** Establish an image of Vishnu or a shaligram alongside a picture of Lakshmi; perform panchamrita abhisheka (milk, curd, ghee, honey, sugar); offer tulsi, lotus or yellow flowers, yellow cloth, lamp, and incense.
+- **Katha:** Hear or read the katha of Rama Ekadashi.
+- **Night vigil:** Keep vigil with remembrance of Vishnu's name and kirtan of "Hari-Hari."
+- **Diwali context:** Diwali falls two days after this Ekadashi — clean the home, light lamps, and take a resolve of Lakshmi's invocation on this day; it is considered auspicious preparation.
+- **Offering merit:** Following Chandrabhaga's tradition, the merit of this Ekadashi may be offered in the name of a beloved one who has departed.
+- **Breaking the fast (Paran):** On Dwadashi morning, break the fast after sunrise before Rahu-kalam ends, within the Dwadashi tithi.
+- **2026 date:** TODO-VERIFY (Kartik Krishna Ekadashi — two days before Diwali)
 
 ## Mantras
 

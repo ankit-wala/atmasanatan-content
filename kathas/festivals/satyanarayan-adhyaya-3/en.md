@@ -101,29 +101,16 @@ This katha also teaches that the concluding rites of a vow are as important as t
 
 ## Vidhi
 
-The Satyanarayan Vrat may be observed on Purnima, Ekadashi, or any auspicious occasion.
-
-1. **Sankalpa:** Bathe in the morning and take the resolve — "I am performing the vrat and puja of Lord Satyanarayan."
-2. **Vishnu Sthapana:** Place an image or idol of Lord Satyanarayan (Vishnu) on a consecrated seat.
-3. **Panchamrit Abhishek:** Perform the ritual bathing with milk, yoghurt, ghee, honey, and sugar. Offer tulsi leaves, flowers, yellow cloth, and a lamp.
-4. **Katha Shravan:** Recite or have recited all five chapters of the Satyanarayan Katha — family and those gathered should listen together.
-5. **Arati:** After the katha, perform the arati of the Lord.
-6. **Prasad Distribution:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana). Offer prasad to every person present — **no one should leave without prasad.** This is the most important rule of this puja.
-7. **Paran:** Break the fast after the katha and prasad.
-
-## Observance
-
-**Fasting:** Keep a fast before the katha — fruit may be taken. Break the fast after the katha and prasad.
-
-**The rule of prasad:** Everyone present at the place of worship — family, guests, visitors — must be given prasad without exception. To skip prasad, to refuse it, or to receive it carelessly is considered inauspicious according to the teaching of this third chapter.
-
-**Completing a manauti:** If one has made a manauti to Lord Satyanarayan, the vrat and puja must be performed in good time once the boon is received. Delay is not appropriate.
-
-**Together as a family:** This vrat is communal — listen to the katha together with family, neighbours, and friends.
-
-**All five chapters:** For the full fruit of the vrat, hear all five chapters in a single sitting.
-
-**2026 Date:** TODO-VERIFY — confirmation on DrikPanchang is required.
+- **When:** Any Purnima, Ekadashi, or auspicious occasion.
+- **Sankalpa:** Bathe in the morning and take the resolve — "I am performing the vrat and puja of Lord Satyanarayan."
+- **Fasting:** Keep a fast before the katha — fruit may be taken; break the fast only after the katha and prasad.
+- **Setup:** Place an image or idol of Lord Satyanarayan (Vishnu) on a consecrated seat; perform panchamrit abhishek (milk, yoghurt, ghee, honey, sugar); offer tulsi leaves, flowers, yellow cloth, and a lamp.
+- **Katha shravan:** Recite or have recited all five chapters — family and those gathered should listen together in a single sitting.
+- **Arati:** Perform the arati of the Lord after the katha.
+- **Prasad:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana); offer prasad to every person present without exception — to skip, refuse, or receive prasad carelessly is inauspicious (the direct teaching of this third chapter).
+- **Completing a manauti:** If a manauti was made to Lord Satyanarayan, perform the vrat and puja in good time once the boon is received — delay is not appropriate.
+- **Paran:** Break the fast after the katha and prasad.
+- **2026 Date:** TODO-VERIFY — confirmation on DrikPanchang is required.
 
 ## Mantras
 

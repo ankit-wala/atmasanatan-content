@@ -39,34 +39,15 @@ The merit of til-daan lightens the burden of karmas accumulated across many life
 
 ## Vidhi
 
-**Dashami (the day before Ekadashi):**
-- Take only one meal.
-- Avoid urad dal.
-- Observe brahmacharya.
-- Sleep at night while meditating on Lord Vishnu.
-
-**Ekadashi:**
-- Rise early in the morning and bathe in water mixed with til (til-bath).
-- Apply til as ubtana on the body.
-- Perform a homa with til before an image of Lord Vishnu or a Shaligram.
-- Give til in daan to a Brahmin or a worthy recipient.
-- If possible, eat til laddus or til-jaggery (til-bhojan).
-- Worship Lord Vishnu with til — offer sesame and chant "Oṃ Namo Bhagavate Vāsudevāya."
-- Observe a waterless fast or a fruit-only fast throughout the day (according to one's capacity).
-- Recite Bhagavata Katha or Vishnu Sahasranama.
-
-**Dwadashi (breaking the fast):**
-- Break the fast during the paran-kala after sunrise.
-- Offer til and other items in daan to a Brahmin.
-- Feed the Brahmin a meal and receive his blessings.
-
-## Observance
-
-- Throughout this vrat, completely abstain from urad dal, meat, intoxicants, and tamasic foods.
-- Of the six acts with til — til-bath, ubtana, homa, daan, bhojan, puja — perform as many as possible. Performing all six together yields the complete fruit of the vrat.
-- Those who cannot observe a full fast may take one meal (ekahara), but the six til-acts are essential.
-- Break the fast on Dwadashi within the paran-kala for that tithi. It is proper to feed a Brahmin first before eating oneself.
-- In the cold of Magha, bathing and applying ubtana with til also provide warmth to the body — this vrat is perfectly in harmony with the season.
+- **Dashami prep:** Take only one meal; avoid urad dal; observe brahmacharya; sleep while meditating on Lord Vishnu.
+- **Fasting:** Observe a waterless (nirjal) fast or fruit-only fast on Ekadashi according to one's capacity; those unable to fast fully may take one meal (ekahara), but the six til-acts are essential regardless.
+- **Avoid:** Urad dal, meat, intoxicants, and all tamasic foods throughout the vrat.
+- **At dawn:** Rise early; bathe in water mixed with til (til-bath); apply til as ubtana on the body.
+- **Six til-acts (Shattila):** Perform all six — til-bath, ubtana, til-homa before Lord Vishnu or a Shaligram, til-daan to a Brahmin, til-bhojan (til laddus or til-jaggery), and worship of Lord Vishnu with til; performing all six together yields the complete fruit of the vrat.
+- **Puja:** Chant *Oṃ Namo Bhagavate Vāsudevāya*; recite Bhagavata Katha or Vishnu Sahasranama.
+- **Breaking the fast (Dwadashi):** Break the fast within the paran-kala after sunrise; offer til in daan to a Brahmin and feed him a meal first before eating oneself.
+- **Special:** In the cold of Magha, bathing and applying ubtana with til also provide bodily warmth — this vrat is perfectly in harmony with the season.
+- **2026 date:** TODO-VERIFY (Magha Krishna Ekadashi)
 
 ## Mantras
 

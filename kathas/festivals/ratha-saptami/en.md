@@ -37,30 +37,15 @@ Suryadev is the lord of health, longevity, and radiance. Worship performed on th
 
 ## Vidhi
 
-**Abhyanga Snan (before sunrise):**
-- Rise in the brahma muhurta and perform abhyanga with sesame oil.
-- Place seven arka leaves (Calotropis/swallow-wort) on the head — this is the distinctive practice of Ratha Saptami.
-- Bathe with the leaves in place and allow them to float away with the water.
-
-**Surya Arghya (at sunrise):**
-- Take clean water in a copper vessel.
-- Add red flowers, akshata (unbroken rice), and kumkum.
-- Facing the rising Sun, pour a steady stream of water from both hands while reciting "oṃ sūryāya namaḥ."
-
-**Pujan:**
-- Install an image of Suryadev or a depiction of the seven-horsed solar chariot.
-- Offer red flowers, jaggery, sesame, and naivedya.
-- Recite the Aditya Hridayam.
-- Perform arati with a lamp and incense.
-
-## Observance
-
-- On this day the practice is to observe **upavasa or ekahara** (one meal only).
-- Use **sesame and jaggery** in the meal — these are dear to Suryadev.
-- Wearing red clothing is considered auspicious.
-- Donate sesame, jaggery, and cloth to a brahmin.
-- Break the fast (parana) after sunset.
-- Recitation of the **Aditya Hridayam** on this day is held to be especially fruitful.
+- **At dawn:** Rise in the brahma muhurta; place seven arka leaves (Calotropis/swallow-wort) on the head — this is the distinctive practice of Ratha Saptami — and perform abhyanga with sesame oil; bathe with the leaves in place and allow them to float away with the water.
+- **Surya Arghya:** Take clean water in a copper vessel; add red flowers, akshata (unbroken rice), and kumkum; facing the rising Sun, pour a steady stream from both hands while reciting "oṃ sūryāya namaḥ."
+- **Pujan:** Install an image of Suryadev or a depiction of the seven-horsed solar chariot; offer red flowers, jaggery, sesame, and naivedya; perform arati with a lamp and incense.
+- **Fasting:** Observe upavasa or ekahara (one meal only); use sesame and jaggery in the meal — these are dear to Suryadev.
+- **Attire:** Wearing red clothing is considered auspicious.
+- **Donation:** Donate sesame, jaggery, and cloth to a brahmin.
+- **Breaking the fast:** Parana after sunset.
+- **Special:** Recitation of the Aditya Hridayam on this day is held to be especially fruitful.
+- **2026 date:** TODO-VERIFY (Magha Shukla Saptami)
 
 ## Mantras
 

@@ -79,27 +79,14 @@ The colour of the fifth day is green — a symbol of nature, life, and new begin
 
 ## Vidhi
 
-1. Bathe in the morning and wear green garments — green is the colour of the fifth day.
-2. Install an image or idol of Maa Skandamata on a clean seat.
-3. Offer a garland of white flowers — jasmine or kunda flowers are especially preferred.
-4. Place bananas, green offerings (raw coconut, green grapes), and mishri as bhog.
-5. Light incense and a lamp; apply yellow sandalwood.
-6. Chant the mantra of Maa Skandamata 108 times.
-7. Recite the fifth chapter of the Durga Saptashati.
-8. Conclude with aarti and distribute prasad.
-
-**Ashwin Shukla Panchami 2026 date:** Confirm on DrikPanchang (~October 15, 2026).
-
-## Observance
-
-**Navratri vrat — fifth day:**
-Devotees observing the nine-day Navratri fast should remain without food or on a fruit diet on the fifth day as well. A single sattvik meal — kuttu, sabudana, or fruit — may be taken.
-
-**The colour of the fifth day is green:**
-Wear green garments on this day — it is a sign of gratitude towards nature and new life.
-
-**Special devotion:**
-Worship of Maa Skandamata is considered especially fruitful for the blessing of children and the welfare of the family. On this day, meditate while beholding the image of the Goddess with the infant Skanda in her arms.
+- **At dawn:** Bathe in the morning and wear green garments — green is the colour of the fifth day, a sign of gratitude towards nature and new life.
+- **Puja setup:** Install an image or idol of Maa Skandamata on a clean seat; light incense and a lamp; apply yellow sandalwood.
+- **Offerings:** Garland of white flowers (jasmine or kunda preferred); bananas, green offerings (raw coconut, green grapes), and mishri as bhog.
+- **Recitation:** Chant the mantra of Maa Skandamata 108 times; recite the fifth chapter of the Durga Saptashati.
+- **Fasting:** Devotees observing the nine-day fast should remain without food or on a fruit diet; a single sattvik meal — kuttu, sabudana, or fruit — may be taken.
+- **Special devotion:** Worship on this day is especially fruitful for the blessing of children and the welfare of the family; meditate while beholding the image of the Goddess with infant Skanda in her arms.
+- **Conclude:** Perform aarti and distribute prasad.
+- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Panchami — ~15 October 2026).
 
 ## Mantras
 

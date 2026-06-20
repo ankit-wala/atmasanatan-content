@@ -53,34 +53,16 @@ And Devutthana Ekadashi is the celebration of that inward journey's completion �
 
 ## Vidhi
 
-This is an Ekadashi fast. It is observed with complete fasting and the Vishnu-jagaran puja.
-
-**The day before (on Dashami):**
-1. In the evening, take a light sattvic meal. Have grains and lentils in moderate quantity. Sleep early that night.
-
-**On the day of Ekadashi — the jagaran vidhi:**
-2. Wake before sunrise. Bathe and wear clean clothes.
-3. Clean the Tulsi plant. Light lamps around it — oil or ghee diyas. Keep a conch and bell nearby.
-4. Adorn Tulsi with a garland, drape a red or yellow cloth, and decorate with sindoor and kumkum.
-5. Sound the conch and recite the Vishnu awakening mantra — "Uttiṣṭha Govinda…" (given below). Perform the jagaran-song accompanied by the ringing of bells and the sounding of the conch.
-6. Offer Tulsi leaves, yellow flowers, and panchamrit to the image or idol of Vishnu.
-7. Observe a fast throughout the day. Grains and lentils are prohibited.
-8. In the evening, light lamps beside the Tulsi plant again. Perform Vishnu-sahasranama or Vishnu bhajans.
-9. If possible, stay awake through the night in kirtan of the Lord — this jagaran is the special essence of this Ekadashi.
-
-**On the morning of Dwadashi:**
-10. Break the fast after sunrise and within the Dwadashi tithi. Be sure to check the precise parana time for that year on DrikPanchang.
-11. Before breaking the fast, feed a brahmin or someone in need.
-
-## Observance
-
-**What is prohibited:** On Ekadashi, grains, rice, wheat, lentils, and legumes are forbidden. Onion, garlic, and leafy vegetables are also avoided in many traditions. Fruits, milk, sabudana, water chestnut flour, and rock salt may be consumed.
-
-**The rule of parana:** Breaking the fast too early (before sunrise) or too late (after the Dwadashi tithi has ended) is considered a breach of the fast. Be sure to check the parana time for that year on DrikPanchang.
-
-**Tulsi Vivah:** On this day or on Dwadashi, arrange the Tulsi-Shaligram wedding at home, or participate in a Tulsi Vivah being held at a temple.
-
-**Completion of the Chaturmas sankalpa:** Devotees who had taken a Chaturmas sankalpa on Devshayani — a vow to give up something, daily recitation, simple eating — should on this day consider that sankalpa fulfilled, release it formally, and offer thanks to the Lord.
+- **Day before (Dashami):** In the evening, take a light sattvic meal with grains and lentils in moderate quantity; sleep early.
+- **At dawn (Ekadashi):** Wake before sunrise; bathe and wear clean clothes.
+- **Tulsi jagaran:** Clean the Tulsi plant; light oil or ghee diyas around it; keep a conch and bell nearby; adorn Tulsi with a garland, drape a red or yellow cloth, and decorate with sindoor and kumkum.
+- **Awakening the Lord:** Sound the conch and recite the Vishnu awakening mantra "Uttiṣṭha Govinda…" (given below); perform the jagaran-song accompanied by bells and conch.
+- **Vishnu puja:** Offer Tulsi leaves, yellow flowers, and panchamrit to the image or idol of Vishnu; perform Vishnu Sahasranama or Vishnu bhajans in the evening; if possible, stay awake through the night in kirtan — this jagaran is the special essence of this Ekadashi.
+- **Fasting:** Observe a full fast throughout the day; grains, rice, wheat, lentils, and legumes are forbidden; onion, garlic, and leafy vegetables are also avoided in many traditions; fruits, milk, sabudana, water chestnut flour, and rock salt may be consumed.
+- **Breaking the fast (Dwadashi parana):** Break the fast after sunrise and within the Dwadashi tithi; check the precise parana time on DrikPanchang; feed a brahmin or someone in need before breaking the fast yourself.
+- **Tulsi Vivah:** On this day or on Dwadashi, arrange the Tulsi-Shaligram wedding at home, or participate in a Tulsi Vivah at a temple.
+- **Completion of Chaturmas sankalpa:** Devotees who took a Chaturmas sankalpa on Devshayani — a vow to give up something, daily recitation, simple eating — should consider that sankalpa fulfilled today, release it formally, and offer thanks to the Lord.
+- **2026 date:** TODO-VERIFY (Kartik Shukla Ekadashi)
 
 ## Mantras
 

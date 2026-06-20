@@ -55,23 +55,14 @@ Surabhi emerged from the churning of the ocean — born through the grace of Lor
 
 ## Vidhi
 
-1. Rise early, bathe, and take the **sankalpa** (sacred resolve) for the Govatsa Dwadashi vrat.
-2. Bathe the cow and her calf, apply a **turmeric-kumkum** tilak, and garland them with **flowers**.
-3. Light an **earthen lamp** before them.
-4. Offer them **fresh grass, jaggery, and grain** (especially wheat, sesame, or chickpeas).
-5. Light incense and walk around them in **three pradakshinas** (circumambulations).
-6. Listen to the **katha of Govatsa Dwadashi** — together with the family.
-7. On this day, avoid **foods made from wheat and milk** (the traditional observance) — take barley, rice, and fruit instead.
-
-**2026 Date:** TODO-VERIFY (Confirm the Kartik Krishna Dwadashi tithi on DrikPanchang).
-
-## Observance
-
-**Partial Fast:** On this day, foods made from wheat (roti, puri, etc.) and from cow's milk (curd, ghee, paneer) are considered forbidden. Barley, rice, fruit, and vegetables are taken instead. This rule exists because on this day the cow is honoured as mother — and one does not drink a mother's milk.
-
-**A Woman's Festival:** By tradition, this festival is observed especially by women — for the long life of their children and the happiness and prosperity of the family. The whole family, however, may take part in the Gopuja.
-
-**At Dusk:** Light a lamp at the doorstep of the home and near the Tulsi plant — this is the first lamp of the Diwali festival sequence.
+- **Sankalpa:** Rise early, bathe, and take the sankalpa (sacred resolve) for the Govatsa Dwadashi vrat.
+- **Gopuja:** Bathe the cow and her calf; apply a turmeric-kumkum tilak and garland them with flowers; light an earthen lamp and incense before them.
+- **Offerings:** Offer fresh grass, jaggery, and grain (especially wheat, sesame, or chickpeas) to the cow and calf; walk around them in three pradakshinas.
+- **Katha:** Listen to the katha of Govatsa Dwadashi together with the family.
+- **Fasting:** Foods made from wheat (roti, puri, etc.) and from cow's milk (curd, ghee, paneer) are forbidden on this day — take barley, rice, fruit, and vegetables instead. This rule exists because the cow is honoured as mother, and one does not consume a mother's milk.
+- **For whom:** This festival is observed especially by women — for the long life of their children and the happiness and prosperity of the family; the whole family may participate in the Gopuja.
+- **At dusk:** Light a lamp at the doorstep and near the Tulsi plant — this is the first lamp of the Diwali festival sequence.
+- **2026 date:** TODO-VERIFY (Kartik Krishna Dwadashi)
 
 ## Mantras
 

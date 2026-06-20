@@ -35,31 +35,16 @@ From a social perspective, Pola is the **midpoint of the agricultural calendar**
 
 ## Vidhi
 
-The ritual of Pola is simple and wholehearted. Preparations begin at dawn.
-
-**Bullock Bath:** In the morning, bullocks are bathed in a river, pond, or the home courtyard. Turmeric and neem leaves are added to the water at this time.
-
-**Adornment:** After the bath, sindoor is applied to the bullock's horns, and a tilak of turmeric and kumkum is marked on the forehead. Colourful garlands of flowers, cowries, and bells are placed around the neck. A new jhool (coloured cloth) is draped over the back. Colourful dhajiyāñ (pennants) are tied on the horns. In some regions, brass horn-caps (tin-caps) are also fitted onto the horns.
-
-**Naivedya:** Special food — jaggery, soaked black chickpeas, bread, sorghum, and pearl millet — is placed before the bullocks. The women of the household also prepare urad lentil vadas (along with puran poli), which are offered to the bullocks.
-
-**Worship:** The elders of the household light a lamp and incense before the bullock, touch his feet, and bow. The plough, yoke, and other farming tools are also worshipped.
-
-**Procession:** The decorated bullocks are taken in a procession through the entire village. Accompanied by drums, dhol-tasha, songs, and nagadas, this procession passes before every home in the village. Along the route, women wave the aarati lamp before the bullocks and apply a black tikka to ward off the evil eye.
-
-**Clay Pola:** Clay bullocks (pola) appear in the market for children. Children buy them, play with them, and perform their own little worship — this tradition is a way of connecting the next generation to the festival.
-
-## Observance
-
-**Bullock Rest:** On the day of Pola, no work is taken from the bullocks — neither ploughing nor pulling loads. This is their day of rest. The folk belief holds that the farmer who observes this rule will have bullocks that remain healthy throughout the year.
-
-**Worship:** The auspicious time for worship is the morning, though the procession generally takes place between midday and evening. Before the puja, the women of the house smear the courtyard with cow-dung and draw rangoli.
-
-**Procession:** All the farmers of the village come together for a collective procession. This communal spirit is the hallmark of Pola — not alone, but together.
-
-**Food:** Special dishes are prepared for Pola — puran poli, karanji, and jaggery-rice. Along with the family, the labourers who work in the fields and the neighbours are also invited to share the meal. This festival is one of sharing.
-
-**Vrat:** Pola is principally a festival of worship, not of strict fasting. Some devotees, in their devotion to Shiva-Nandi, observe ekāhāra (eating only once that day).
+- **Bullock rest:** No work is taken from the bullocks on this day — neither ploughing nor pulling loads; the folk belief holds that the farmer who observes this rule will have bullocks that remain healthy throughout the year.
+- **Morning bath:** Bathe the bullocks in a river, pond, or courtyard with water mixed with turmeric and neem leaves; women smear the courtyard with cow-dung and draw rangoli before worship.
+- **Adornment:** Apply sindoor to the horns and a tilak of turmeric and kumkum on the forehead; place colourful garlands of flowers, cowries, and bells around the neck; drape a new jhool (coloured cloth) over the back; tie dhajiyāñ (pennants) on the horns; in some regions, fit brass horn-caps as well.
+- **Naivedya:** Offer jaggery, soaked black chickpeas, bread, sorghum, and pearl millet; women also prepare urad lentil vadas and puran poli as offerings.
+- **Puja:** Elders of the household light a lamp and incense before the bullock, touch his feet, and bow; the plough, yoke, and other farming tools are also worshipped; auspicious time for worship is the morning.
+- **Procession:** All farmers gather for a collective procession through the village (generally midday to evening), accompanied by dhol-tasha, songs, and nagadas; women wave the aarati lamp and apply a black tikka along the route.
+- **Clay Pola:** Children purchase and worship clay bullocks — connecting the next generation to the festival's spirit.
+- **Shared meal:** Puran poli, karanji, and jaggery-rice are prepared; field labourers and neighbours are invited to share the meal.
+- **Fasting:** Pola is principally a festival of worship, not strict fasting; some devotees observing Shiva-Nandi bhakti keep ekāhāra (eating only once).
+- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Paksha Amavasya)
 
 ## Mantras
 

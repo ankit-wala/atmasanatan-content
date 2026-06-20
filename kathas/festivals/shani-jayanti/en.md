@@ -95,28 +95,15 @@ Jyeshtha Krishna Amavasya is also the tithi on which Vat Savitri Vrat is observe
 
 ## Vidhi
 
-1. Rise before sunrise and bathe.
-2. Wear black or dark blue clothing — the colors of Shani.
-3. **Sesame-oil lamp:** Fill an iron lamp with sesame oil and light it. This is the most central act of Shani worship.
-4. Before an image or picture of Shanidev, offer black sesame seeds, a small iron vessel, a piece of black cloth, and blue lotus flowers (if available).
-5. **Urad offering:** Place black urad lentils, black sesame seeds, and mustard oil in a vessel — these are especially dear to Shani.
-6. **Peepal circumambulation:** Circumambulate the Peepal tree seven times. With each round, offer a little water and sesame seeds.
-7. **Shani Stotra recitation:** Recite the Dasharatha-composed Shani Stuti or the Shani Chalisa.
-8. Chant **Oṃ Śaṃ Śanaiścarāya Namaḥ** at least one mala (108 times).
-9. At sunset in the evening, light an oil lamp and meditate on Shani.
-10. Donate black sesame seeds, urad lentils, and iron vessels to Brahmins or those in need.
-
-## Observance
-
-**Fast/Charity:** Fasting on Shani Jayanti holds special importance. Take only fruit during the day. Break the fast after sunset. If a complete fast is not possible, eat salt-free food — salt is not offered to Shani.
-
-**Oil Lamp:** Offering a lamp made by mixing mustard oil and black sesame seeds in an iron vessel to Shanidev is the most widely practiced ritual of Shani Jayanti. Light this lamp at dusk and recite the Shani Stotra.
-
-**Shani Stotra:** The Dasharatha-composed Shani Stuti — which King Dasharatha recited to seek release from Sade Sati — is considered especially fruitful on this day. Its recitation brings Shani's grace and protection from his displeasure.
-
-**Peepal Worship:** The Peepal tree is considered a dwelling place of Shani and the ancestors. On Shani Jayanti, light a lamp at the foot of the Peepal, perform seven circumambulations, and pour water mixed with raw milk at its roots.
-
-**Iron Charity:** An iron vessel, a black blanket, black footwear — these are Shani-related gifts. Donating these to someone poor or to a laborer on this day is a direct path to Shani's grace.
+- **At dawn:** Rise before sunrise, bathe, and wear black or dark blue clothing (Shani's colours).
+- **Fasting:** Observe a fast on Shani Jayanti — take only fruit during the day and break the fast after sunset; if a complete fast is not possible, eat salt-free food (salt is not offered to Shani).
+- **Sesame-oil lamp:** Fill an iron lamp with sesame oil (mixed with black sesame seeds) and light it at dusk — this is the most central act of Shani Jayanti worship; recite the Shani Stotra alongside it.
+- **Offerings:** Before Shanidev's image or picture offer black sesame seeds, black urad lentils, mustard oil, a small iron vessel, a piece of black cloth, and blue lotus flowers (if available).
+- **Peepal worship:** Circumambulate the Peepal tree seven times; with each round offer a little water and sesame seeds; at the foot of the tree light a lamp and pour water mixed with raw milk at its roots — the Peepal is considered a dwelling place of Shani and the ancestors.
+- **Shani Stotra:** Recite the Dasharatha-composed Shani Stuti or the Shani Chalisa — this stuti, which King Dasharatha recited during Sade Sati, is considered especially fruitful on this day.
+- **Mantra japa:** Chant Oṃ Śaṃ Śanaiścarāya Namaḥ at least one mala (108 times); at sunset light an oil lamp and meditate on Shani.
+- **Donation:** Give an iron vessel, a black blanket, black footwear, black sesame seeds, and urad lentils to someone poor or to a labourer — donating Shani-related items on this day is a direct path to his grace.
+- **2026 date:** TODO-VERIFY (Jyeshtha Krishna Amavasya)
 
 ## Mantras
 

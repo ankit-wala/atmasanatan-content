@@ -136,24 +136,14 @@ Onam falls in the Malayalam month of Chingam (Bhadrapada) — this is the time o
 
 ## Vidhi
 
-1. **Pookalam:** Make a rangoli of fresh flowers in the courtyard of the home. Through the ten days of Onam, add one more ring each day — on the tenth day (Thiruvonam) the largest pookalam is completed.
-2. **Vamana/Vishnu Puja:** After bathing in the morning, place an image or picture of Lord Vamana or Vishnu. Perform abhisheka with panchamrita. Offer yellow flowers, tulasi, a lamp.
-3. **Bali Puja:** Place a symbolic image or picture of Mahabali at the centre of the pookalam. Welcome him — offer flowers, a lamp, akshata.
-4. **Bali-Vamana Katha:** On the day of Thiruvonam, read or listen to the Bali-Vamana katha from Bhagavata Purana, Skandha 8.
-5. **Onam Sadya:** Partake of the Onam Sadya meal with the family on a banana leaf.
-6. **Deepa Dana:** In the evening, light lamps at the entrance of the home and beside the pookalam.
-
-## Observance
-
-**Pookalam (Flower Rangoli):** On Thiruvonam — and ideally every day during the ten-day Onam festival — lay a fresh-flower pookalam in the courtyard. This is the preparation for welcoming Mahabali. A traditional pookalam uses seven or more varieties of flowers.
-
-**Onam Sadya (Feast):** On Thiruvonam, partake of the Sadya on a banana leaf — including rice, sambar, avial, and payasam. The family eats together — this is a memory of Mahabali's golden reign when all were equal.
-
-**Boat Race (Vallam Kali):** Boat races on the rivers and backwaters of Kerala are the central celebration of Onam — especially on the famous Punnamada Lake in Alappuzha (Alleppey). This is a symbol of communal joy.
-
-**Vamana/Vishnu Puja:** On the day of Onam, perform special puja to Lord Vamana — he is the protagonist of this lila. Recite Vishnu Sahasranama or the Vamana Stotra.
-
-**Ten-Day Festival:** Onam is a ten-day festival — from Atham to Thiruvonam. Each day a new ring is added to the pookalam.
+- **Ten-day pookalam:** Each day from Atham to Thiruvonam, add one more ring of fresh flowers to the courtyard rangoli; on the tenth day (Thiruvonam) the largest pookalam is completed; use seven or more varieties of flowers.
+- **Bali puja:** Place a symbolic image or picture of Mahabali at the centre of the pookalam; welcome him with flowers, a lamp, and akshata.
+- **Vamana/Vishnu puja:** After bathing in the morning, place an image or picture of Lord Vamana or Vishnu; perform Panchamrita abhisheka; offer yellow flowers, tulasi, and a lamp; recite Vishnu Sahasranama or the Vamana Stotra.
+- **Bali-Vamana Katha:** On Thiruvonam, read or listen to the Bali-Vamana katha from Bhagavata Purana, Skandha 8.
+- **Onam Sadya:** Partake of the Sadya on a banana leaf with the family — rice, sambar, avial, payasam, and traditional dishes; the shared meal is a remembrance of Mahabali's golden reign when all were equal.
+- **Vallam Kali (Boat Race):** Boat races on Kerala's rivers and backwaters are the central communal celebration of Onam — a symbol of collective joy.
+- **Deepa dana:** In the evening, light lamps at the entrance of the home and beside the pookalam.
+- **2026 date:** TODO-VERIFY (Thiruvonam nakshatra in Bhadrapada / Malayalam month Chingam).
 
 ## Mantras
 

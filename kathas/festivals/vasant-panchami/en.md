@@ -49,32 +49,13 @@ On Vasant Panchami, three streams converge as one:
 
 ## Vidhi
 
-**Materials:** Yellow flowers (marigold, mustard flowers), white cloth, books, musical instruments, akshamala, yellow rice, saffron, curd, mishri (sugar crystals).
-
-**Puja Procedure:**
-
-1. Bathe in the early morning and wear yellow or white garments.
-
-2. Install an image or portrait of Ma Saraswati. Place books, pens, musical instruments, and the tools of your own craft or study at her feet as well.
-
-3. Adorn Ma with yellow flowers. Light a lamp, incense, and agarbatti.
-
-4. Offer saffron-tinged yellow rice, mishri, and curd as bhog.
-
-5. Recite the **Saraswati Vandana** ("Ya Kundendu Tushara Hara Dhavala...").
-
-6. For the **Vidyarambham** ceremony, have children write their first letter under the guidance of a teacher or elder.
-
-7. After the puja, distribute as prasad yellow foods — saffron rice, besan laddus, or sweet yellow rice.
-
-## Observance
-
-- On this day, **books, musical instruments, and implements of one's art or craft** are not placed on the floor — they rest at Ma's feet.
-- Students begin a new book or a new course of study on this day — this moment is considered especially auspicious.
-- Wearing **yellow garments** is the tradition of this festival.
-- In some families, this is also an occasion for **Ayudha Puja** — artists worship the tools of their calling.
-- After the puja of Saraswati, there is a tradition of singing **the songs of spring**.
-- Books are taken up again the following day — the single day of rest is a symbol of Ma's presence with us.
+- **At dawn:** Bathe and wear yellow or white garments.
+- **Offerings:** Yellow flowers (marigold, mustard), white cloth, books, musical instruments, akshamala; offer saffron-tinged yellow rice, mishri, and curd as bhog; light a lamp, incense, and agarbatti.
+- **Puja:** Install an image or portrait of Ma Saraswati; place books, pens, musical instruments, and the tools of your craft at her feet; recite the Saraswati Vandana ("Ya Kundendu Tushara Hara Dhavala...").
+- **Vidyarambham:** Have children write their first letter under the guidance of a teacher or elder — this is the auspicious rite of beginning new learning.
+- **Observance:** On this day books, musical instruments, and implements of one's art are not placed on the floor — they rest at Ma's feet; wearing yellow garments is the tradition of this festival.
+- **Special:** In some families this is also Ayudha Puja — artists worship the tools of their calling; after puja, sing the songs of spring; distribute yellow prasad — saffron rice, besan laddus, or sweet yellow rice; books are taken up again the following day.
+- **2026 date:** TODO-VERIFY (Magha Shukla Panchami).
 
 ## Mantras
 

@@ -93,25 +93,13 @@ In the tradition of the Bhavishya Purana, it is said that Lord Sri Krishna taugh
 
 ## Vidhi
 
-1. At dawn, bathe and take the vrat sankalpa.
-2. Install an image of Lord **Ananta** (Shesha-Shayi Vishnu).
-3. Prepare the **Anant Sutra** — a red or yellow silk thread dyed with turmeric, tied with fourteen knots.
-4. Offer **fourteen types** of fruit, grain, and lamps.
-5. Panchamrit abhisheka.
-6. Hear the Anant Chaturdashi vrat katha.
-7. Tie the Anant Sutra — men on the right arm, women on the left.
-8. Fast or take one meal (ekabhukta).
-9. **Ganesh Visarjan:** Where the Ganesh festival is being observed, immerse the Ganesha image in water in the evening.
-
-**2026 date:** Confirm on DrikPanchang (Bhadrapada Shukla Chaturdashi — ~September 25, 2026).
-
-## Observance
-
-**Anant Sutra:** Once tied, the vrat should be observed annually for fourteen years. In the fourteenth year, the final sutra is immersed in water.
-
-**Fast:** Complete fast or one meal. Hearing the katha is mandatory.
-
-**Ganesh Visarjan:** On this final day of Ganapati Utsava, the Ganesha image is immersed with a grand procession.
+- **At dawn:** Bathe and take the vrat sankalpa; install an image of Lord Ananta (Shesha-Shayi Vishnu).
+- **Anant Sutra:** Prepare a red or yellow silk thread dyed with turmeric, tied with fourteen knots; men tie it on the right arm, women on the left.
+- **Puja:** Panchamrit abhisheka; offer fourteen types of fruit, grain, and lamps; hear the Anant Chaturdashi vrat katha.
+- **Fasting:** Complete fast or one meal (ekabhukta) — hearing the katha is mandatory.
+- **Vrat commitment:** Once tied, the Anant Sutra vrat is observed annually for fourteen years; in the fourteenth year, the final sutra is immersed in water.
+- **Ganesh Visarjan:** On this final day of Ganapati Utsava, the Ganesha image is immersed with a grand procession in the evening.
+- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Chaturdashi — ~September 25, 2026)
 
 ## Mantras
 

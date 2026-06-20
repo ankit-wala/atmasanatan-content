@@ -103,28 +103,14 @@ Kanya pujan is considered mandatory on Navami. Nine girls are honoured as the ni
 
 ## Vidhi
 
-1. **Bathe in the morning** and wear light blue or purple clothing — the colour of Navami.
-2. **Install an image or idol of Maa Siddhidatri.** Meditate upon her lotus-seated, four-armed form.
-3. **Offer white and purple flowers.** The lotus flower is especially dear to her.
-4. **Light a lamp of pure ghee.** Create a fragrant atmosphere with incense and agarbatti.
-5. **Special bhog for Navami:** halwa, puri, and black chana — these three together form the traditional prasad of Navratri.
-6. **Recite the dhyana shloka and the ya devi stotra** (see mantras below). Chant "Om Siddhidatryai Namah" 108 times.
-7. **Perform kanya pujan** — invite nine young girls (under ten years of age) to the home. Honouring them as the nine forms of the nine Goddesses, wash their feet, apply tilak, offer them halwa-puri-chana, and give them dakshina.
-8. **Perform the aarti** and complete the udyapan of the Navratri vrat — the nine-day journey reaches its fulfilment here.
-
-**2026 date:** Confirm on DrikPanchang (Ashwin Shukla Navami — ~19 October 2026).
-
-## Observance
-
-**Conclusion of the Navratri vrat:** Navami is the final day of the nine-day fast. After kanya pujan, the fast is broken by receiving prasad. Devotees who have observed a complete fast until Navami perform their parana on this very day.
-
-**Kanya pujan is mandatory:** Navratri is not considered complete without kanya pujan on Navami. Worshipping nine girls yields the same merit as worshipping all nine Goddesses.
-
-**Vijayadashami tomorrow:** The day after Navami, on Dashami, is Vijayadashami (Dussehra) — the festival of Ravana-dahan and the victory of dharma. Navami night is for the Mother's worship, and the next day is the celebration of victory.
-
-**Colour:** Wear **light blue or purple** clothing on this day.
-
-**Timing:** The puja is best performed in the early morning Brahma Muhurta. The kanya pujan tradition calls for it to be completed before midday.
+- **At dawn:** Bathe in Brahma Muhurta and wear light blue or purple clothing — the colour of Navami; puja is best performed early morning and kanya pujan completed before midday.
+- **Puja setup:** Install an image or idol of Maa Siddhidatri; meditate upon her lotus-seated, four-armed form; light a lamp of pure ghee and offer incense.
+- **Offerings:** White and purple flowers (lotus is especially dear); halwa, puri, and black chana as the traditional Navratri prasad.
+- **Recitation:** Chant the dhyana shloka and Ya Devi Stotra (see Mantras); recite "Om Siddhidatryai Namah" 108 times.
+- **Kanya pujan (mandatory):** Invite nine girls under ten years of age; honour them as the nine Goddess-forms — wash their feet, apply tilak, offer halwa-puri-chana, and give dakshina; Navratri is not complete without this rite.
+- **Breaking the fast:** After kanya pujan, receive prasad to perform parana; this completes the udyapan of the nine-day vrat.
+- **Note:** Vijayadashami (Dussehra) falls the next day (Dashami) — Navami night is for the Mother's worship; the following day celebrates victory of dharma.
+- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Navami — ~19 October 2026).
 
 ## Mantras
 

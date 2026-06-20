@@ -33,24 +33,15 @@ This festival also reminds us that death need not be an accident — it can be a
 
 ## Vidhi
 
-**Bhishma Tarpan Procedure:**
-
-1. Bathe at dawn and put on clean clothes.
-2. At a river, a lake, or at home, fill a copper vessel with water.
-3. Mix black sesame seeds (til) into the water.
-4. Cup both hands together, take the water in your anjali, and slowly pour it as an offering while reciting the Bhishma tarpan mantra below (three times).
-5. Read or listen to a passage from the Anushasana Parva or Shanti Parva of the Mahabharata.
-6. Give food in charity to Brahmins; offer dakshina according to your means.
-
-**Sankalpa:** "I offer tarpan with devotion to Bhishma Pitamah — of the Vaiyaghrapadya gotra, of the Sankruti pravar, son of Ganga, and lifelong brahmachari."
-
-## Observance
-
-- Bhishma Ashtami is observed on Magha Shukla Ashtami.
-- Fasting on this day is optional; tarpan and charitable giving are the principal observances.
-- Those who are childless, or whose ancestors have no one to offer them tarpan, should perform Bhishma-panchaka tarpan on this day with particular care — through this, liberation reaches even those ancestors.
-- Reading or listening to the Mahabharata katha on this day yields great merit.
-- This festival is celebrated with special devotion in northern and central India.
+- **Observed on:** Magha Shukla Ashtami.
+- **Fasting:** Optional; tarpan and charitable giving are the principal observances.
+- **At dawn:** Bathe and put on clean clothes.
+- **Tarpan:** At a river, a lake, or at home — fill a copper vessel with water; mix in black sesame seeds (til); cup both hands, take the water in anjali, and slowly pour it while reciting the Bhishma tarpan mantra three times; sankalpa: "I offer tarpan with devotion to Bhishma Pitamah — of the Vaiyaghrapadya gotra, of the Sankruti pravar, son of Ganga, and lifelong brahmachari."
+- **For the childless / sonless lineage:** Those whose ancestors have no one to offer them tarpan should perform Bhishma-panchaka tarpan with particular care — through this, liberation reaches even those ancestors.
+- **Reading:** Read or listen to a passage from the Anushasana Parva or Shanti Parva of the Mahabharata — great merit accrues from this.
+- **Charity:** Give food to Brahmins; offer dakshina according to your means.
+- **Special:** Celebrated with special devotion in northern and central India.
+- **2026 date:** TODO-VERIFY (Magha Shukla Ashtami)
 
 ## Mantras
 

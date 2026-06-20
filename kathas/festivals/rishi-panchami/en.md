@@ -49,27 +49,13 @@ This vrat is observed primarily by women — as expiation for unknowing transgre
 
 ## Vidhi
 
-1. At dawn, bathe in a river or lake.
-2. Clean the teeth with an **apamarg** branch (achyranthes aspera / chirchira) — this is a special observance of this vrat.
-3. Wear clean clothes and prepare the worship space.
-4. Install an image or depiction of the **seven sages**. Invoke **Arundhati** alongside them.
-5. Offer sandalwood, flowers, durva grass, and fruit.
-6. Worship with incense, lamp, and naivedya.
-7. Hear the Rishi Panchami vrat katha.
-8. Take only **permitted food** — fruit, tubers, water chestnut (singhara), sabudana, milk, curd.
-9. Perform the evening aarti again.
-
-**2026 date:** Confirm on DrikPanchang (Bhadrapada Shukla Panchami — ~September 15, 2026).
-
-## Observance
-
-**Bathing:** At dawn in a river or lake.
-
-**Apamarg datan:** The special observance of this vrat.
-
-**Food:** Fruits, tubers, herbs grown without ploughing. Wheat, rice, and other field-cultivated grains are forbidden.
-
-**Night vigil / katha-listening:** Hearing the vrat katha in the evening is an essential part of this observance.
+- **At dawn:** Bathe in a river or lake.
+- **Apamarg datan:** Clean the teeth with an apamarg branch (achyranthes aspera / chirchira) — this is the special observance of this vrat.
+- **Puja:** Wear clean clothes and prepare the worship space; install an image or depiction of the seven sages; invoke Arundhati alongside them; offer sandalwood, flowers, durva grass, and fruit; worship with incense, lamp, and naivedya.
+- **Katha:** Hear the Rishi Panchami vrat katha — an essential part of the observance; perform evening aarti again.
+- **Food:** Take only permitted food — fruits, tubers, singhara (water chestnut), sabudana, milk, curd; wheat, rice, and all field-cultivated grains are forbidden.
+- **For whom:** Observed primarily by women as expiation for unknowing transgressions during menstruation; men too may observe it for the welfare of their wives.
+- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Panchami)
 
 ## Mantras
 

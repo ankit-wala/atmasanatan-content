@@ -78,24 +78,13 @@ This Ekadashi is also called "Vamana Ekadashi" because the Vamana-Bali katha is 
 
 ## Vidhi
 
-1. At dawn on Ekadashi, bathe and take the vrat sankalpa.
-2. Install an image or depiction of Lord **Vamana**.
-3. Panchamrit abhisheka — milk, curd, ghee, honey, sugar.
-4. Offer yellow flowers, tulasi, and a lamp.
-5. Observe the fast — without water or with fruit only.
-6. Hear the Parivartini Ekadashi katha — the story of Vamana and Bali.
-7. **Night vigil** — singing kirtan of the Lord's names.
-8. Break the fast (paran) on Dwadashi.
-
-## Observance
-
-**Fast:** Without water or with fruit only — completed by the Dwadashi paran.
-
-**Night vigil:** Night vigil on this Ekadashi is especially meritorious.
-
-**Paran:** On Dwadashi morning, before Rahu-kaal.
-
-**2026 date:** Confirm on DrikPanchang (Bhadrapada Shukla Ekadashi — ~September 22, 2026).
+- **At dawn:** Bathe and take the vrat sankalpa on Ekadashi morning.
+- **Puja:** Install an image or depiction of Lord Vamana; perform Panchamrit abhisheka with milk, curd, ghee, honey, and sugar; offer yellow flowers, tulasi, and a lamp.
+- **Fasting:** Observe the fast without water or with fruit only; completed by the Dwadashi paran.
+- **During the day:** Hear the Parivartini Ekadashi katha — the story of Vamana and Bali.
+- **At night:** Keep vigil through the night singing kirtan of the Lord's names — night vigil on this Ekadashi is especially meritorious.
+- **Breaking the fast:** On Dwadashi morning, before Rahu-kaal.
+- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Ekadashi)
 
 ## Mantras
 

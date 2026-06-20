@@ -61,27 +61,16 @@ At the time of Ganesh Visarjan, the turmeric image of Mother Gauri is also immer
 
 ## Vidhi
 
-This vrat is observed on Bhadrapada Shukla Tritiya.
-
-1. Rise early in the morning, bathe, and put on clean garments.
-2. Shape an image of Mother Gauri from turmeric (raw turmeric or turmeric powder) — this is the 'Swarna Gauri.'
-3. Place the image on a clean seat (asana). Establish a kalasha.
-4. Perform **Shodashopachar Pujan** — worship with the sixteen offerings: dhyana, avahana, asana, padya, arghya, achaman, snana, vastra, yajnopavita, gandha, pushpa, dhupa, dipa, naivedya, tambula, pradakshina-namaskar.
-5. Offer kumkum, turmeric, and items of suhaga (married blessings) — bangles, bindi, kajal — to the Mother.
-6. Hear the Gauri Vrat Katha.
-7. **On the following day** (after Ganesh Chaturthi or on that same evening), immerse the Gauri image in water.
-
-## Observance
-
-**Fast:** Observe a fast through the day — a single sattvic fruit meal is permitted. The vrat begins in the morning with a sankalpa (resolve).
-
-**Gauri Image:** The image made from turmeric is the hallmark of this vrat. A clay or metal idol may also be obtained from the market, but the tradition of the turmeric image is older and more beloved.
-
-**Shodashopachar Puja:** In the sixteen-offering worship, married women (suhaginan) offer items of suhaga in particular — this is a prayer for marital wellbeing and auspiciousness.
-
-**Visarjan:** After the celebrations of Ganesh Chaturthi, the turmeric image of Mother Gauri is also immersed in water. Mother and son — both depart together.
-
-**2026 Date:** Confirm on DrikPanchang — Bhadrapada Shukla Tritiya (~August 2026).
+- **Fasting:** Observe a fast through the day; a single sattvic fruit meal is permitted. Begin in the morning with a sankalpa (resolve).
+- **At dawn:** Rise early; bathe; put on clean garments.
+- **Gauri image:** Shape an image of Mother Gauri from turmeric (raw turmeric or turmeric powder) — this is the Swarna Gauri. A clay or metal idol from the market is also acceptable, but the turmeric tradition is older and more beloved.
+- **Setup:** Place the image on a clean asana; establish a kalasha beside it.
+- **Shodashopachar puja:** Worship with the sixteen offerings — dhyana, avahana, asana, padya, arghya, achaman, snana, vastra, yajnopavita, gandha, pushpa, dhupa, dipa, naivedya, tambula, pradakshina-namaskar.
+- **Offerings:** Kumkum, turmeric, and items of suhaga (bangles, bindi, kajal) — especially offered by married women as a prayer for marital wellbeing and auspiciousness.
+- **Katha:** Hear the Gauri Vrat Katha as part of the puja.
+- **Visarjan:** After Ganesh Chaturthi celebrations (the following day or that evening), immerse the turmeric Gauri image in water — mother and son depart together.
+- **For whom:** Observed especially by married women — for the health and long life of their husbands, for children, and for prosperity in the home.
+- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Tritiya, ~August 2026)
 
 ## Mantras
 

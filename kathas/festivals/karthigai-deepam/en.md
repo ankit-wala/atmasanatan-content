@@ -47,39 +47,13 @@ Karthigai Deepam is not merely a festival of lights — it is the deepest expres
 
 ## Vidhi
 
-**Evening Lamp-Lighting (main ritual):**
-- After sunset, light sesame oil lamps at the main entrance of the home, near the tulsi plant, and in the puja room.
-- Light as many lamps as possible — at all directions and doorways of the home.
-- While lighting the lamps, recite "Oṃ namaḥ śivāya."
-
-**Shiva Puja:**
-- Offer water, milk, bilvapatra, datura, and white flowers on the Shivalinga.
-- **Take note:** never offer ketaki (kevada) flowers in Shiva worship — this is a prohibition established by the Puranas.
-- Light a ghee lamp before Shiva and meditate.
-
-**Murugan/Kartikeya Puja:**
-- Light a lamp before the image or idol of Lord Murugan (Kartikeya/Skanda).
-- Offer red flowers, fruits, and peacock feathers.
-- Recite the shadakshara mantra "Oṃ Śaravaṇabhava."
-
-**Arati and Circumambulation:**
-- Perform arati for both Shiva and Murugan.
-- If there is a Shiva temple nearby, visit with the family for darshan.
-- At Tiruvannamalai, the circumambulation of Arunachala (giri-pradakshina) holds special significance — those who are able to go should certainly do so.
-
-## Observance
-
-**Lamp-Lighting:**
-Lighting a lamp in the home at the time of sunset is the central act of this festival. A sesame oil lamp is the best; a ghee lamp is also excellent. Do not let the lamp go out — keeping it burning through the night is considered auspicious.
-
-**Shiva Worship:**
-Perform Shiva puja both in the morning and at dusk. Fasting is optional — observing phalahar (fruit diet) or eating once is meritorious. On this day, speak the truth, avoid anger and falsehood — remembering Brahma's untruth, resolve to strengthen the truth in your own life.
-
-**Murugan/Kartikeya Worship:**
-On the day of the Krittika nakshatra, perform a special abhisheka and puja for Murugan. In South India, special festivals take place at Murugan temples on this day.
-
-**Vrat:**
-There is no prescription for strict fasting on this festival, but maintaining restraint and a spirit of devotion is essential. Some devotees abstain from tamasic food (meat, alcohol).
+- **Evening lamp-lighting:** After sunset, light sesame oil lamps (preferred) or ghee lamps at the main entrance, near the tulsi plant, in the puja room, and at all directions and doorways; do not let them go out — keeping them burning through the night is auspicious.
+- **While lighting:** Recite *Oṃ namaḥ śivāya* with each lamp.
+- **Shiva puja:** Offer water, milk, bilvapatra, datura, and white flowers on the Shivalinga; light a ghee lamp before Shiva and meditate; perform puja both morning and at dusk; **never offer ketaki (kevada) flowers** in Shiva worship — this prohibition was established by the Puranas.
+- **Murugan/Kartikeya puja:** Light a lamp before Murugan (Kartikeya/Skanda); offer red flowers, fruits, and peacock feathers; perform special abhisheka on the Krittika nakshatra day; recite the shadakshara mantra *Oṃ Śaravaṇabhava*.
+- **Arati and circumambulation:** Perform arati for both Shiva and Murugan; visit a nearby Shiva temple for darshan; at Tiruvannamalai, giri-pradakshina (circumambulation of Arunachala) holds special significance.
+- **Fasting:** No strict fast is prescribed; phalahar (fruit diet) or eating once is meritorious; some devotees abstain from tamasic food (meat, alcohol); maintain restraint, speak truth, and avoid anger — remembering Brahma's untruth, strengthen truth in your own life.
+- **2026 date:** TODO-VERIFY (Margashirsha Purnima, Krittika nakshatra)
 
 ## Mantras
 

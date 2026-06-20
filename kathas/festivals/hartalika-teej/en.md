@@ -72,26 +72,14 @@ This vrat is observed especially in Bihar, Jharkhand, Uttar Pradesh, Rajasthan, 
 
 ## Vidhi
 
-1. **The day before Tritiya** — gather puja materials: sand or river clay, bel leaves, datura flowers, shami leaves, white flowers, a lamp, incense. Take the sankalpa (vow) of fasting.
-2. **Tritiya morning** — bathe and wear clean clothes. The fast begins at sunrise.
-3. **Ganesh puja first** — every puja begins with Ganesha.
-4. **Shape the Shiva-Parvati forms** — with your own hands, from sand or clay, make a Shivalinga and a small image of Parvati. This is handmade, not bought.
-5. **Shodashopachara puja** — worship with the sixteen offerings: water, sandalwood paste, flowers, incense, lamp, food offering, dakshina, and so on.
-6. Offer **bel leaves, datura, shami leaves** to Shiva; offer **red and white flowers and shringar items** to Parvati.
-7. **Listen to the Hartalika Teej katha.**
-8. **All-night vigil** — sing Shiva-Parvati bhajans, do naam-jap, read or listen to the katha.
-9. **Nirjal fast** — no food, no water — from sunrise on Tritiya until paran the next morning.
-10. **Chaturthi morning** — complete the puja. Immerse the sand/clay image in a river or water source. Then break the fast (paran).
-
-## Observance
-
-This vrat is **nirjal** — its defining characteristic is that even water is forbidden. The fast runs from sunrise on Tritiya until the puja is complete on Chaturthi morning.
-
-**Night vigil is essential** — one must not sleep. The entire night should be spent in bhajans, katha-shravan, and naam-jap.
-
-**Paran:** After sunrise on Chaturthi, once the morning puja is complete.
-
-**2026 date:** Bhadrapada Shukla Tritiya — 14 September 2026 (verified on DrikPanchang).
+- **The day before (Tritiya eve):** Gather puja materials — sand or river clay, bel leaves, datura flowers, shami leaves, white flowers, a lamp, incense; take the sankalpa (vow) of fasting.
+- **Tritiya morning:** Bathe and wear clean clothes; the nirjal fast (no food, no water) begins at sunrise and runs until paran the following morning — even water is forbidden.
+- **Shaping the deity forms:** With your own hands, form a Shivalinga and a small image of Parvati from sand or clay — this is handmade, not brought from a temple or shop, replicating exactly what Parvati did at the riverbank.
+- **Puja:** Begin with Ganesh puja; then perform shodashopachara (sixteen offerings — water, sandalwood paste, flowers, incense, lamp, food offering, dakshina, etc.); offer bel leaves, datura, and shami leaves to Shiva; offer red and white flowers and shringar items to Parvati; listen to the Hartalika Teej katha.
+- **All-night vigil (essential):** One must not sleep; spend the night in Shiva-Parvati bhajans, naam-jap, and katha-shravan.
+- **Chaturthi morning — paran:** After sunrise, complete the morning puja; immerse the sand/clay image in a river or water source; then break the fast.
+- **For whom:** Observed by both unmarried women ("May I receive a husband like Shiva") and married women ("May my husband have long life; may my saubhagya remain unbroken"). Observed especially in Bihar, Jharkhand, UP, Rajasthan, Maharashtra, and Nepal.
+- **2026 date:** 14 September 2026 (Bhadrapada Shukla Tritiya — verified on DrikPanchang)
 
 ## Mantras
 

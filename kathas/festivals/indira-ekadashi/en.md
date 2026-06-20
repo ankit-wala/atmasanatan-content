@@ -54,24 +54,14 @@ Alongside shraddha and tarpan, observing this Ekadashi is another path to repayi
 
 ## Vidhi
 
-1. **Dashami** — take one sattvic meal; avoid tamasic food.
-2. **Ekadashi** — at dawn, bathe and take the vrat sankalpa.
-3. Install Lord **Vishnu**'s image or shaligram.
-4. Panchamrit abhisheka, tulsi, yellow flowers, lamp.
-5. Donate sesame and lamp in the name of ancestors.
-6. Hear the Indira Ekadashi katha.
-7. **Night vigil** — hari-kirtana.
-8. **Dwadashi** — parana before Rahu Kaal.
-
-**2026 date:** Confirm on DrikPanchang (Ashwin Krishna Ekadashi — ~October 6, 2026).
-
-## Observance
-
-**Fast:** Nirjala or fruit-only — from Dashami to Dwadashi parana.
-
-**Donation in name of ancestors:** On this day, feeding brahmins and donating sesame-lamp in the name of one's ancestors is especially meritorious.
-
-**Parana:** Dwadashi morning, before Rahu Kaal.
+- **On Dashami:** take one sattvic meal; avoid tamasic food.
+- **Fasting:** nirjala (waterless) or fruit-only fast observed from Dashami through Dwadashi parana.
+- **At dawn on Ekadashi:** bathe and take the vrat sankalpa; install Lord Vishnu's image or shaligram.
+- **Puja:** panchamrit abhisheka, tulsi, yellow flowers, lamp; hear the Indira Ekadashi katha.
+- **Donation for ancestors:** feed brahmins and donate sesame-lamp in the name of one's ancestors — especially meritorious on this day.
+- **Night vigil:** remain awake performing hari-kirtana through the night.
+- **Breaking the fast:** parana on Dwadashi morning, before Rahu Kaal.
+- **2026 date:** Confirm on DrikPanchang (Ashwin Krishna Ekadashi — ~October 6, 2026)
 
 ## Mantras
 

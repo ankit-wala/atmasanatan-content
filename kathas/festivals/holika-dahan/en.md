@@ -37,17 +37,13 @@ Prahlada's character also teaches that true devotion is not obstructed by age, b
 
 ## Vidhi
 
-Forty days before Holika Dahan — on the day of Vasanta Panchami — a symbolic post (the Holika stambha) is planted in a designated open ground in the village or neighbourhood. From that day onward, people bring dry wood, cow-dung cakes, shrubs, and old items and heap them around it day by day. On the night of Phalguna Shukla Purnima, Holika Dahan is performed at the auspicious muhurta determined after the bhadra period has ended. A neem branch or a symbolic pillar representing Prahlada is placed at the centre of the Holika pyre. Families come bearing water, roli, akshat, flowers, coconut, and new stalks of wheat. The pandit or an elder of the family kindles the fire, and all present perform seven or three pradakshinas. During each pradakshina, an offering of water is made toward the fire while the name of Narayana is remembered. New grain stalks from the harvest are offered to the fire — an act of gratitude. The following morning, on Dhulendi, colours are played — and the bhasm of Holika is applied as a tilak on the forehead, welcoming the new day.
-
-## Observance
-
-**Holika Dahan:** On the night of Phalguna Shukla Purnima — light the fire at the auspicious muhurta set by the pandit, after the bhadra period has ended. Not alone, but together with family and community.
-
-**Pradakshina:** Perform seven circumambulations of the Holika (three if seven are not possible). With each pradakshina, pour a stream of water toward the fire. Keep the name of Narayana in the mind throughout.
-
-**Dhulendi:** On the morning after Holika Dahan, apply the cooled bhasm of Holika as a tilak on the forehead. Receive it as bhasm-prasad. Then play with colours — setting aside anger and enmity, embracing everyone.
-
-**Bhajan-Kirtan:** On the night of Holika Dahan, sit around the fire and sing bhajans of Lord Narasimha and Prahlada. Spend the night in jagaran with the proclamation of "Jai Narasimha" and "Prahlada ki Jai." This is not merely celebration — it is worship.
+- **Forty days before (Vasanta Panchami):** Plant the Holika stambha (symbolic post) in designated open ground; from that day, add dry wood, cow-dung cakes, shrubs, and old items to the pyre each day.
+- **Night of Phalguna Shukla Purnima — Holika Dahan:** Light the fire at the auspicious muhurta set by the pandit after the bhadra period has ended; perform together with family and community, not alone.
+- **Pyre setup:** Place a neem branch or symbolic pillar representing Prahlada at the centre; bring water, roli, akshat, flowers, coconut, and new stalks of wheat.
+- **Pradakshina:** The pandit or family elder kindles the fire; all present perform seven circumambulations (three if seven are not possible); with each pradakshina, pour a stream of water toward the fire while keeping Narayana's name in the mind; offer new grain stalks to the fire as an act of gratitude.
+- **Bhajan-kirtan:** Sit around the fire singing bhajans of Lord Narasimha and Prahlada; spend the night in jagaran with "Jai Narasimha" and "Prahlada ki Jai" — this is worship, not merely celebration.
+- **Dhulendi (next morning):** Apply the cooled bhasm of Holika as a tilak on the forehead as bhasm-prasad; then play with colours — setting aside anger and enmity, embracing everyone.
+- **2026 date:** TODO-VERIFY (Phalguna Shukla Purnima)
 
 ## Mantras
 

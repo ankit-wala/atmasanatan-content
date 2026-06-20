@@ -44,41 +44,15 @@ Lohri is celebrated on the eve of Makar Sankranti — the night when the sun is 
 
 ## Vidhi
 
-**Place and time:** After sunset, light a bonfire in an open courtyard, rooftop, or ground. Lohri is observed on the eve of Makar Sankranti.
-
-**Setting up the bonfire:** Arrange logs and upale (dried dung cakes) in a pyramid shape. Place sesame seeds and jaggery at the centre. All members of the family light the bonfire together.
-
-**Āhuti — the harvest offering:** Offer the following into the fire —
-- **Sesame seeds and jaggery** — energy and sweetness
-- **Rewri and gajak** — the special winter confections
-- **Peanuts** — symbol of the harvest
-- **Popcorn (lāī/khīl)** — lightness and joy
-- **Sugarcane** — a wish for a full and sweet life
-
-While making the offering, remember Agni Dev and Surya Dev in your heart. *Idaṃ na mama* — this is not mine; it is offered to you.
-
-**Parikramā:** Circumambulate the bonfire in the direction of the sun (clockwise). With each round, offer into the fire and sing the folk songs of Lohri.
-
-**Singing:** While going around, sing the traditional Lohri song —
-> Sundar muṇḍariye ho! Dullā Bhaṭṭī vālā ho!
-
-**The newly-wed and newborn:** If there is a new bride or newborn child in the household, seat them in a place of honour near the bonfire. The elders of the family bless them with sesame-jaggery and sweets.
-
----
-
-## Observance
-
-**Lighting the fire:** After sunset, light the bonfire together as a family. The eldest member of the household offers the first āhuti.
-
-**Parikramā:** Circumambulating the bonfire clockwise, offer sesame seeds, rewri, peanuts, and sugarcane into the fire.
-
-**Singing:** During the circumambulation, sing the traditional Lohri folk songs — in remembrance of Dulla Bhatti and in welcome of Agni and Surya.
-
-**Prasād:** After the fire worship, distribute rewri, gajak, peanuts, and sesame-jaggery laddus as prasād among everyone present.
-
-**Community:** Lohri is a communal celebration — neighbours, friends, and relatives should gather around the same bonfire. Give special blessings to newly-wed couples and newborn children.
-
-**The next day:** The day after Lohri is Makar Sankranti — observe the tradition of sesame-donation and holy bathing.
+- **Place and time:** Observed on the eve of Makar Sankranti; after sunset, light a bonfire in an open courtyard, rooftop, or open ground.
+- **Setting up the bonfire:** Arrange logs and upale (dried dung cakes) in a pyramid shape; place sesame seeds and jaggery at the centre; the eldest member offers the first āhuti; all family members light the bonfire together.
+- **Āhuti:** Offer sesame seeds and jaggery (energy and sweetness); rewri and gajak (winter confections); peanuts (symbol of the harvest); popcorn/lāī/khīl (lightness and joy); sugarcane (wish for a full life) — while offering, hold Agni Dev and Surya Dev in heart with the spirit *Idaṃ na mama* — this is not mine, it is offered to you.
+- **Parikramā and singing:** Circumambulate the bonfire clockwise; with each round offer into the fire and sing the traditional Lohri folk song — *Sundar muṇḍariye ho! Dullā Bhaṭṭī vālā ho!* — in remembrance of Dulla Bhatti and in welcome of Agni and Surya.
+- **Newly-wed and newborn:** Seat any new bride or newborn child in a place of honour near the bonfire; elders bless them with sesame-jaggery and sweets.
+- **Prasād:** After fire worship, distribute rewri, gajak, peanuts, and sesame-jaggery laddus as prasād among everyone present.
+- **Community:** Lohri is a communal celebration — invite neighbours, friends, and relatives to gather around the same bonfire.
+- **The next day:** The day after Lohri is Makar Sankranti — observe the tradition of sesame-donation and holy bathing.
+- **2026 date:** 13 January 2026 (eve of Makar Sankranti)
 
 ---
 

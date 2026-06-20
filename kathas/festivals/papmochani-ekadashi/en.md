@@ -73,24 +73,15 @@ The presiding deity of this Ekadashi is Lord Vishnu — the boundless ocean of c
 
 ## Vidhi
 
-1. On the evening of Dashami, eat a sattvic meal and keep the mind calm and pure.
-2. On the morning of Ekadashi, bathe and take the vrat sankalpa — "For the grace of Lord Vishnu and for the release of my sins, I observe this vrat."
-3. Establish an image or portrait of Lord Vishnu. Perform panchamrita abhisheka — with milk, curd, ghee, honey, and sugar.
-4. Offer tulsi, yellow flowers, akshata, incense, and a lamp.
-5. Read or listen to the Papmochani Ekadashi katha.
-6. Chant the Vishnu Sahasranama or the mantra "Om Namo Bhagavate Vasudevaya."
-7. **Keeping vigil through the night is especially recommended** — spend the night in bhajan, kirtan, and the name of Vishnu.
-8. On Dwadashi, after sunrise, break the fast at the parana time.
-
-## Observance
-
-**Upavasa:** On Ekadashi, observe a complete nirjala fast or a phalahar fast. Those unable to fast completely may sustain themselves on fruit, milk, and water.
-
-**Prohibited:** Rice, urad dal, and tamasic food are forbidden on Ekadashi. Keep the mind free from anger, untruth, and sensory indulgence as well.
-
-**Parana:** On Dwadashi morning, at the prescribed parana muhurta, break the fast. Before parana, offer bhog to the Lord and receive tulsi-water.
-
-**Night vigil:** The night vigil holds special importance for this Ekadashi — in the katha, both Medhavi and Manjughosha kept vigil through the night. Spend the night in bhajan, remembrance of the Name, or reading of the Ekadashi mahatmya.
+- **Dashami evening:** Eat a sattvic meal and keep the mind calm and pure.
+- **At dawn:** Bathe and take the vrat sankalpa — "For the grace of Lord Vishnu and for the release of my sins, I observe this vrat."
+- **Puja:** Establish an image or portrait of Lord Vishnu; perform Panchamrita abhisheka with milk, curd, ghee, honey, and sugar; offer tulsi, yellow flowers, akshata, incense, and a lamp.
+- **Fasting:** Observe a complete nirjala fast or a phalahar fast; those unable to fast completely may sustain themselves on fruit, milk, and water. Rice, urad dal, and tamasic food are forbidden.
+- **What to avoid:** Keep the mind free from anger, untruth, and sensory indulgence throughout the day.
+- **During the day:** Read or listen to the Papmochani Ekadashi katha; chant the Vishnu Sahasranama or "Om Namo Bhagavate Vasudevaya."
+- **At night:** Keep vigil through the night — this holds special importance for this Ekadashi (both Medhavi and Manjughosha kept vigil in the katha); spend the night in bhajan, kirtan, remembrance of the Name, or reading of the Ekadashi mahatmya.
+- **Breaking the fast:** On Dwadashi morning, at the prescribed parana muhurta — offer bhog to the Lord, receive tulsi-water, then break the fast.
+- **2026 date:** TODO-VERIFY (Chaitra Krishna Ekadashi)
 
 ## Mantras
 

@@ -43,31 +43,15 @@ Vishnu wakes from his rest on Devutthana Ekadashi (also called Prabodhini Ekadas
 
 ## Vidhi
 
-This is an Ekadashi vrat, observed with a full fast and Vishnu puja.
-
-**On the day before (Dashami):**
-1. Eat sattvik food in the evening. Avoid non-veg, onion, garlic, and excess. Sleep early.
-
-**On Ekadashi:**
-2. Wake before sunrise. Bathe with clean water.
-3. Set up the puja space with an image or idol of Vishnu or Narayan. If you have a shayana (resting) image, this is the perfect occasion for it.
-4. Offer fresh flowers, tulsi leaves, and a ghee diya. Tulsi is especially dear to Vishnu — do not skip it.
-5. Perform abhishek with panchamrit or clean water while chanting Vishnu's names.
-6. Observe the fast through the day. No grain, rice, or beans (see Observance below).
-7. Sing Vishnu bhajans or recite Vishnu Sahasranama in the evening.
-8. Stay awake in prayer if possible, especially into the night.
-
-**On Dwadashi (the next morning):**
-9. Break the fast (parana) within the prescribed time window — after sunrise but before the Dwadashi tithi ends. Check DrikPanchang for the exact parana window for the year.
-10. Offer food to a Brahmin or to any hungry person before eating yourself.
-
-## Observance
-
-**What to avoid during the fast:** Grain, rice, wheat, dals, and legumes are traditionally avoided on Ekadashi. Many also avoid certain vegetables like onion, garlic, leafy greens, and eggplant. Fruit, milk, sabudana (sago), singhare ki roti, and sendha namak are allowed.
-
-**Parana window:** Breaking the fast too early (before sunrise) or too late (after the Dwadashi tithi ends) is considered a break in the vrat. Always verify the exact parana window on DrikPanchang.
-
-**Chaturmas commitments:** Many devotees use Devshayani Ekadashi as the day to take on a four-month commitment — giving up a particular food, waking earlier, doing extra japa, or reading one chapter of scripture daily. These commitments are released on Devutthana Ekadashi in Kartik.
+- **Day before (Dashami):** Eat sattvik food in the evening — avoid non-veg, onion, garlic, and excess; sleep early.
+- **At dawn (Ekadashi):** Wake before sunrise; bathe with clean water; wear clean clothes.
+- **Puja setup:** Set up the puja space with an image or idol of Vishnu or Narayan; if you have a shayana (resting) image, this is the perfect occasion for it.
+- **Offerings:** Offer fresh flowers, tulsi leaves (especially dear to Vishnu — do not skip), and a ghee diya; perform abhishek with panchamrit or clean water while chanting Vishnu's names.
+- **Fasting:** Observe the fast through the day; grain, rice, wheat, dals, and legumes are forbidden; onion, garlic, leafy greens, and eggplant are also avoided in many traditions; fruit, milk, sabudana (sago), singhare ki roti, and sendha namak are allowed.
+- **Evening prayer:** Sing Vishnu bhajans or recite Vishnu Sahasranama in the evening; stay awake in prayer if possible, especially into the night.
+- **Breaking the fast (Dwadashi parana):** Break the fast after sunrise but before the Dwadashi tithi ends — always verify the exact parana window on DrikPanchang; offer food to a Brahmin or any hungry person before eating yourself.
+- **Chaturmas sankalpa:** Many devotees use this day to take a four-month commitment — giving up a particular food, waking earlier, doing extra japa, or reading one scripture chapter daily; these commitments are released on Devutthana Ekadashi in Kartik.
+- **2026 date:** TODO-VERIFY (Ashadha Shukla Ekadashi)
 
 ## Mantras
 

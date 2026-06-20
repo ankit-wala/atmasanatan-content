@@ -84,31 +84,16 @@ In the tradition of the Valmiki Ramayana it is said — devotees who hear or rec
 
 ## Vidhi
 
-The traditional puja-vidhi for Vivah Panchami:
-
-1. **Morning bath:** Rise at brahma-muhurta and bathe. Wear clean yellow or red clothing.
-
-2. **Installation of Ram and Sita:** Place an image or picture of Shri Ram and Mother Sita in the home puja room. If visiting a temple, be sure to take darshan of Ram and Sita.
-
-3. **Shodashopachara puja:** Bathe Ram and Sita with panchamrit. Offer yellow, red, and white flowers. Tulsi leaves must be offered — Ram holds tulsi especially dear.
-
-4. **Offering of suhaag articles:** Offer suhaag items — sindur, bangles, bindi, and a red chunari — to Mother Sita as symbolic offerings. This is considered especially auspicious for married women.
-
-5. **Hearing the Ram-Sita wedding katha:** Sit together as a family and hear the katha from the Bala Kanda of the Valmiki Ramayana or from the wedding passage of the Bala Kanda of the Ramcharitmanas. This is the very heart of this festival.
-
-6. **Wedding songs and bhajans:** On this day traditional wedding songs, sohars, and bhajans of Ram and Sita are sung. Create an atmosphere of celebration in the home.
-
-7. **Distribution of prasad:** Prepare panjiri, mishri, and prasad mixed with tulsi, and distribute it among family and neighbours.
-
-## Observance
-
-- **Day:** Margashirsha Shukla Panchami.
-- **Special places:** Janakpur (Nepal) — a grand wedding celebration is held here, continuing for several days. Special events are also held in Ayodhya on this day.
-- **For newly-wed couples:** On this day newly married couples should worship Ram and Sita and receive their blessings. It is believed that this brings happiness and long life to married life.
-- **Married women:** Offer suhaag articles to Mother Sita and pray for devotion to one's husband and happiness as she had.
-- **Fasting:** There is no injunction for strict fasting on this day, but devotees who observe ekasana (one meal) out of devotion are said to receive special merit.
-- **What to do:** Read from the Ramcharitmanas or Valmiki Ramayana. Light a lamp near the tulsi plant. Chant the name of Ram.
-- **What to avoid:** Avoid quarrels and disputes on this day. This is a day of union and love.
+- **Morning:** Rise at brahma-muhurta; bathe and wear clean yellow or red clothing.
+- **Puja setup:** Place an image or picture of Shri Ram and Mother Sita in the home puja room (or take darshan at a temple); bathe them with panchamrita; offer yellow, red, and white flowers along with tulsi leaves.
+- **Offerings:** Offer suhaag items — sindur, bangles, bindi, and a red chunari — to Mother Sita; especially auspicious for married women who pray for devotion to one's husband and lasting happiness.
+- **Katha:** Sit together as a family and hear the Ram-Sita wedding katha from the Bala Kanda of the Valmiki Ramayana or the Ramcharitmanas — this is the heart of the festival.
+- **Songs and bhajans:** Sing traditional wedding songs, sohars, and bhajans of Ram and Sita; create an atmosphere of celebration in the home.
+- **Prasad:** Prepare panjiri, mishri, and prasad mixed with tulsi; distribute among family and neighbours.
+- **Fasting:** No strict fast is required; devotees who observe ekasana (one meal) out of devotion receive special merit.
+- **Special:** Light a lamp near the tulsi plant; read from the Ramayana; chant the name of Ram. Avoid quarrels — this is a day of union and love. Newly married couples should worship Ram and Sita and seek their blessings.
+- **Special places:** Janakpur (Nepal) and Ayodhya hold grand multi-day wedding celebrations — consider visiting or following the live events.
+- **2026 date:** TODO-VERIFY (Margashirsha Shukla Panchami)
 
 ## Mantras
 

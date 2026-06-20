@@ -43,34 +43,15 @@ This tithi is also the founding date of the Raghuvamsha — the root of the dyna
 
 ## Vidhi
 
-**At dawn:**
-- Rise before sunrise.
-- Go to a sacred river — if that is not possible, bathe at home with water mixed with Gangajal.
-- While bathing, keep the mind fixed in contemplation of Lord Vishnu.
-
-**Puja:**
-- Worship Lord Vishnu — offer flowers, tulasi, incense, a lamp, and naivedya.
-- Recite the japa of Oṃ namo bhagavate vāsudevāya.
-
-**Dana:**
-- Donation of sesame — to the poor or to a temple.
-- Donation of grain — feed those who are hungry.
-- As one is able, also donate cloth and money.
-
-**Tarpan:**
-- Offer tarpan with water for the ancestors.
-- While saying "Oṃ pitṛbhyaḥ namaḥ," offer the water.
-
-**Katha shravan:**
-- Recite or listen to the Satyanarayan Katha (fourth adhyaya) — it holds special significance on Magha Purnima.
-
-## Observance
-
-- Keeping a fast on this day is optional, but remaining on fruits or eating only once (ekabhukta) is considered meritorious.
-- Bathing during Brahma muhurta carries special importance — do it as early as possible.
-- Throughout the day, speak truthfully, avoid anger, and observe restraint of the senses.
-- Kalpavasi — those who have remained at the Sangam throughout the month of Magha — complete their Kalpavasa on this very Purnima.
-- In the evening, light a lamp and perform the aarti of Lord Vishnu.
+- **At dawn:** Rise before sunrise during Brahma muhurta — do the bath as early as possible; go to a sacred river (if not possible, bathe at home with water mixed with Gangajal); keep the mind fixed in contemplation of Lord Vishnu while bathing.
+- **Fasting:** Optional but meritorious — remain on fruits or eat only once (ekabhukta); a full fast is also acceptable.
+- **Vishnu puja:** Worship Lord Vishnu with flowers, tulasi, incense, a lamp, and naivedya; recite the japa of *Oṃ namo bhagavate vāsudevāya*.
+- **Dana:** Offer sesame seeds to the poor or a temple; donate grain to feed the hungry; as one is able, also donate cloth and money.
+- **Tarpan:** Offer tarpan with water for the ancestors, saying *Oṃ pitṛbhyaḥ namaḥ* while pouring.
+- **Katha shravan:** Recite or listen to the Satyanarayan Katha (fourth adhyaya) — it holds special significance on Magha Purnima.
+- **Kalpavasi:** Those who have remained at the Prayagraj Sangam throughout the month of Magha complete their Kalpavasa on this very Purnima.
+- **Throughout the day:** Speak truthfully, avoid anger, and observe restraint of the senses; in the evening, light a lamp and perform the aarti of Lord Vishnu.
+- **2026 date:** TODO-VERIFY (Magha Purnima)
 
 ## Mantras
 

@@ -64,35 +64,12 @@ Sankashti = the one who removes obstacles. The Krishna paksha Chaturthi is Ganes
 
 ## Vidhi
 
-**In the morning:**
-1. Bathe before sunrise.
-2. Take the sankalpa — "I observe the Sankashti vrata for Ekadanta Ganesha on Ashwin Krishna Chaturthi."
-3. Fast throughout the day — ideally without water; those unable may take fruit-based food.
-
-**In the evening — Ganesha puja:**
-1. Install the image or picture of Ganesha.
-2. Offer modak, durva, and red flowers.
-3. Light a lamp.
-4. Chant OM Gam Ganapataye Namah.
-5. Meditate on Ekadanta Ganesha — that form which is unmoved, serene, and single-pointed.
-6. Perform Ganesha aarti.
-
-**At night — after moonrise:**
-1. As soon as the moon is visible in the sky, offer naivedya and modak to Ganesha.
-2. Offer arghya of water to the moon.
-3. Receive prasad and break the fast.
-
-**2026 date:** Confirm on DrikPanchang — Ashwin Krishna Chaturthi.
-
-## Observance
-
-**Fast:** From sunrise to moonrise. The fast is not broken without sighting the moon — this is the binding rule of Sankashti.
-
-**Parana:** After sighting the moon, offer bhoga to Ganesha, then receive prasad yourself.
-
-**Bhoga:** Modak, durva, red flowers. Durva is most dear to Ganesha — it is best to gather and offer twenty-one or twenty-eight blades of durva.
-
-**The special spirit of Ashwin:** Amidst the celebrations of Navaratri and Dashehra, this vrata is an occasion to examine the inner ego — the resolve to maintain inner humility alongside outward victory.
+- **At dawn:** Bathe before sunrise; take the sankalpa — "I observe the Sankashti vrata for Ekadanta Ganesha on Ashwin Krishna Chaturthi."
+- **Fasting:** From sunrise to moonrise — ideally nirjal (waterless); those unable may take fruit-based food; the fast is not broken without sighting the moon — this is the binding rule of Sankashti.
+- **Evening puja:** Install the image or picture of Ganesha; offer modak, durva (21 or 28 blades), and red flowers; light a lamp; chant OM Gam Ganapataye Namah; meditate on Ekadanta Ganesha — unmoved, serene, single-pointed; perform Ganesha aarti.
+- **At moonrise:** Offer naivedya and modak to Ganesha; offer arghya of water to the moon; receive prasad and break the fast.
+- **Special spirit:** Amidst the celebrations of Navaratri and Dashehra, this vrata is an occasion to examine the inner ego — the resolve to maintain inner humility alongside outward victory.
+- **2026 date:** TODO-VERIFY (Ashwin Krishna Chaturthi)
 
 ## Mantras
 

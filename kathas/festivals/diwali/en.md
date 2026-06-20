@@ -53,26 +53,16 @@ There is another meaning that runs deep within this festival. The cleaning of th
 
 ## Vidhi
 
-The traditional rite of Lakshmi-Ganesh puja on the night of Diwali:
-
-1. **Clean the home.** Begin cleaning the house, courtyard, and shop several days before. Lakshmi enters only where there is cleanliness.
-2. **Rangoli.** On the day of Amavasya, draw rangoli at the main entrance. Keep the door open as a gesture of welcome.
-3. **Thirteen diyas.** As evening falls, light thirteen clay diyas — at the main entrance, near the Tulsi plant, in the courtyard, and in every corner of the home. Let no corner of the house remain in darkness.
-4. **Set up the altar.** On a clean red or yellow cloth, place the image of Ganesh on the left and Lakshmi on the right. Set before them a kalash, akshat, flowers, sweets, and fruit.
-5. **Ganesh puja.** First offer Ganesh water, akshat, flowers, and modak. Chant "Oṃ gaṃ gaṇapataye namaḥ."
-6. **Lakshmi puja.** Light incense and a lamp. Offer Lakshmi lotus flowers, kumkum, sweets, and lava (puffed grain). Chant the Lakshmi Gayatri Mantra (given below).
-7. **Aarti.** Perform the aarti and distribute prasad.
-8. **Night vigil.** Keep one lamp burning at the door through the night. This is the signal of welcome for Lakshmi — she comes to those who are awake.
-
-## Observance
-
-Diwali is a festival, not a vrat — there is no obligatory fast. The tradition is to take light food until the puja is complete, and then to celebrate with a festive meal.
-
-The special tradition of this night is rātri jāgaraṇ — the night vigil. Lakshmi moves through the world during Pradosh Kaal (after dusk) and Nishith Kaal (around midnight). The family that is awake at these hours, performing puja and keeping lamps burning — in their home Lakshmi stays.
-
-*Ko jāgarti?* — this is what Lakshmi asks.
-
-On this night, giving to those in need and coming together in goodwill also carry great importance. Bringing light to those who are deprived, to those who live in want — this too is the dharma of this night.
+- **Fasting:** Diwali is a festival, not a vrat — there is no obligatory fast. Take light food until the puja is complete, then celebrate with a festive meal.
+- **Cleaning:** Begin cleaning the house, courtyard, and shop several days before; Lakshmi enters only where there is cleanliness.
+- **Rangoli and welcome:** On the day of Amavasya, draw rangoli at the main entrance and keep the door open as a gesture of welcome.
+- **Lighting diyas:** As evening falls, light thirteen clay diyas — at the main entrance, near the Tulsi plant, in the courtyard, and in every corner of the home; let no corner remain in darkness.
+- **Altar setup:** On a clean red or yellow cloth, place Ganesh on the left and Lakshmi on the right; set before them a kalash, akshat, flowers, sweets, and fruit.
+- **Ganesh puja first:** Offer Ganesh water, akshat, flowers, and modak; chant "Oṃ gaṃ gaṇapataye namaḥ."
+- **Lakshmi puja:** Light incense and a lamp; offer Lakshmi lotus flowers, kumkum, sweets, and lava (puffed grain); chant the Lakshmi Gayatri Mantra (given below); perform aarti and distribute prasad.
+- **Night vigil (rātri jāgaraṇ):** Keep one lamp burning at the door through the night. Lakshmi moves through the world during Pradosh Kaal (after dusk) and Nishith Kaal (around midnight) — the family that is awake at these hours, performing puja and keeping lamps burning, is where Lakshmi stays. *Ko jāgarti?* — this is what she asks.
+- **Special:** On this night, giving to those in need and coming together in goodwill also carry great importance — bringing light to those who live in want is the dharma of this night.
+- **2026 date:** TODO-VERIFY (Kartik Amavasya)
 
 ## Mantras
 

@@ -51,31 +51,14 @@ In Gujarat, this is considered the most important vrat for unmarried girls. Five
 
 ## Vidhi
 
-Jaya Parvati Vrat begins on Ashadha Shukla Trayodashi and continues for five days through Shravan Krishna Tritiya.
-
-**Daily observance:**
-1. Rise before sunrise and bathe.
-2. Set up an image of Shiva and Parvati together.
-3. Offer white flowers (jasmine, mogra), bilva leaves, unbroken rice (akshat), and a ghee diya.
-4. The primary time for puja is pradosh — the evening twilight hour.
-5. Hear or read the Jaya Parvati Vrat katha.
-6. Chant *Oṃ Umā-Maheśvarābhyāṃ Namaḥ*.
-
-**Vrat rules:**
-- Give up salt for all five days — this is the distinctive rule of this vrat.
-- Eat once a day, phalahar only (fruits, milk, dry fruits) — or observe a full fast.
-- Sleep on the ground.
-- Perform udyapan (formal conclusion) on the fifth day.
-
-## Observance
-
-**Parana:** Break the fast on Shravan Krishna Tritiya after sunrise, after completing the day's puja and offering dakshina.
-
-**Udyapan:** On the fifth day, feed unmarried girls and offer them dakshina — this is the completion of the vrat.
-
-**The salt rule:** The most distinctive feature of this vrat. Consuming salt is said to diminish the merit of the vrat. This applies to all five days.
-
-**2026 dates:** Vrat begins Jul 27 (Ashadha Shukla Trayodashi) — parana on Aug 1 after sunrise.
+- **For whom:** observed by unmarried girls seeking a devoted husband and by married women for their husband's long life and wellbeing; a five-day vrat from Ashadha Shukla Trayodashi through Shravan Krishna Tritiya.
+- **Daily — morning:** rise before sunrise, bathe, and set up an image of Shiva and Parvati together.
+- **Daily — puja:** offer white flowers (jasmine, mogra), bilva leaves, unbroken rice (akshat), and a ghee diya; the primary puja time is pradosh (evening twilight); hear or read the Jaya Parvati Vrat katha; chant *Oṃ Umā-Maheśvarābhyāṃ Namaḥ*.
+- **No salt:** the most distinctive rule — consuming salt diminishes the vrat's merit; this applies to all five days without exception.
+- **Eating:** once a day, phalahar only (fruits, milk, dry fruits) — or observe a full fast; sleep on the ground.
+- **Breaking the fast:** on Shravan Krishna Tritiya after sunrise, after completing the day's puja and offering dakshina.
+- **Udyapan:** on the fifth day, feed unmarried girls and offer them dakshina — this is the formal completion of the vrat.
+- **2026 dates:** Vrat begins Jul 27 (Ashadha Shukla Trayodashi); parana Aug 1 after sunrise
 
 ## Mantras
 

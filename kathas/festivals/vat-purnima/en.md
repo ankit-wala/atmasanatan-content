@@ -151,35 +151,15 @@ This is not a story of submission — it is a story of power. Savitri chose, Sav
 
 ## Vidhi
 
-The vidhi of Vat Purnima in Maharashtra and Gujarat differs somewhat from the Vat Savitri Vrat of North India.
-
-1. **One day before Purnima:** Gather the materials — thread (red-yellow), five or seven kinds of grain (wheat, chana, moong, urad, jowar, bajra, rice), a bamboo basket, bel, flowers, akshata, sindur, haldi-kumkum, bangles, paan, coconut.
-2. **Purnima morning:** Bathe and dress in saubhagya attire — green, red, or yellow colours.
-3. **Gauri puja:** In Maharashtra, **Gauri (Devi Parvati) is also worshipped** alongside this vrat — she is the goddess of saubhagya and wedded bliss. The joint worship of both Savitri and Gauri carries special significance.
-4. **Sankalpa:** Holding water, akshata, and flowers in the hands, take the vrat's sankalpa — "I observe Vat Purnima vrat for the protection of my husband's long life and my saubhagya."
-5. **Go to a vat-vriksha.** If there is no vat-vriksha nearby, go to a temple, or bring a branch of vat home and establish it in a clay pot.
-6. **Five/seven kinds of grain:** Arrange five or seven kinds of grain in a thali and offer them at the root of the vat-vriksha — this rite is particularly characteristic of Maharashtra's tradition.
-7. **Vat-vriksha puja:** Water the tree, offer haldi-kumkum and flowers. Establish an image or picture of Savitri-Satyavan beneath the vat.
-8. **Tying the thread:** Walk around the vat seven times while wrapping raw thread (sutra) around it — with each circumambulation, making the wish for the husband's long life.
-9. **Listen to the Vat Purnima vrat katha** — together with family after the puja.
-10. **Dakshina and food:** Offer haldi-kumkum, coconut, and gifts to Brahmins or to suhagin women.
-11. **Parana:** On Purnima evening, after the puja visarjana, break the fast with sattvic food or fruit.
-
-## Observance
-
-**Upavasa:**
-There is a tradition of keeping a full-day nirjal or phalahara upavasa in this vrat. In Maharashtra many women fast from sunrise to moonrise — they offer arghya to the full moon on Purnima night and then break their fast.
-
-**Vat-vriksha puja:**
-This is the heart of the vrat. Offering water at the root of the vat-vriksha and making seven circumambulations with raw thread — this is the principal rite.
-
-**Tying the thread:**
-Wrapping the thread seven times in seven circumambulations — making the wish for the husband's long life with each round. This thread is the symbol of a bond that even death cannot break.
-
-**Purnima-special:**
-Compared to the Vat Savitri Vrat of North India (Amavasya), Vat Purnima carries special significance for **puja at the time of moonrise**. In the evening, after sighting the full moon, arghya is offered to it and only then the vrat is concluded. Gauri puja, the offering of five/seven grains, and going to the temple in groups of women — these are the distinctive traditions of Maharashtra.
-
-**2026 date:** Confirm on DrikPanchang (Jyeshtha Shukla Purnima — TODO-VERIFY).
+- **For whom:** Observed by married women in Maharashtra and Gujarat on Jyeshtha Shukla Purnima.
+- **Fasting:** Full-day nirjal or phalahara upavasa; in Maharashtra many women fast from sunrise to moonrise — they offer arghya to the full moon on Purnima night and then break their fast.
+- **Day before Purnima:** Gather materials — red-yellow thread, five or seven kinds of grain (wheat, chana, moong, urad, jowar, bajra, rice), bamboo basket, bel, flowers, akshata, sindur, haldi-kumkum, bangles, paan, coconut.
+- **Purnima morning:** Bathe and dress in saubhagya attire (green, red, or yellow); take the sankalpa holding water, akshata, and flowers — "I observe Vat Purnima vrat for the protection of my husband's long life and my saubhagya."
+- **Gauri puja:** In Maharashtra, Gauri (Devi Parvati) is also worshipped alongside this vrat — she is the goddess of saubhagya; the joint worship of Savitri and Gauri carries special significance.
+- **Vat-vriksha puja:** Go to a vat-vriksha (if none nearby, bring a branch home in a clay pot); offer water, haldi-kumkum, and flowers at the root; arrange five or seven kinds of grain in a thali and offer them at the root — a rite characteristic of Maharashtra's tradition; establish an image or picture of Savitri-Satyavan beneath the vat.
+- **Tying the thread:** Walk around the vat seven times wrapping raw thread (sutra) with each circumambulation — making the wish for the husband's long life; this thread is the symbol of a bond that even death cannot break; listen to the Vat Purnima vrat katha together with family after the puja.
+- **Breaking the fast:** On Purnima evening, after sighting the full moon and offering arghya, conclude the vrat; break the fast with sattvic food or fruit; offer haldi-kumkum, coconut, and gifts to Brahmins or suhagin women.
+- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Purnima).
 
 ## Mantras
 

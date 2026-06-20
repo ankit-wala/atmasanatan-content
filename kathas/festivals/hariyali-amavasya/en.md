@@ -53,38 +53,11 @@ This festival reminds humanity that dharma is not confined to the temple — mai
 
 ## Vidhi
 
-On Hariyali Amavasya, three rites are performed — tree-planting, pitṛ-tarpaṇa, and Śiva-pūjana:
-
-**Tree-Planting Procedure:**
-1. Bathe in the morning and put on clean clothes.
-2. Choose a sacred tree — pīpal, neem, vaṭa (banyan), tulasī, āmlā, or aśoka. These trees are considered worthy of veneration in the scriptures.
-3. Perform bhūmi-pūjana — bow to Dharaṇī Mātā, sprinkle a little water on the spot where the tree will be planted, and say "Oṃ Bhūmyai Namaḥ."
-4. Plant the tree and water its roots.
-5. Take the saṅkalpa — "This tree is offered to Lord Śiva and for the merit of my ancestors."
-
-**Pitṛ-Tarpaṇa Procedure:**
-1. Take water, black sesame seeds, and white flowers for the tarpaṇa.
-2. Sit facing the south direction.
-3. With both hands, pour water mixed with sesame seeds three times.
-4. Holding the thought — "May my ancestors receive this tarpaṇa, may they be satisfied, may they be liberated."
-5. At the end, offer a brāhmaṇa whatever dākṣiṇā and food you are able to give.
-
-**Śiva-Pūjana Procedure:**
-1. Perform abhiṣeka of the Śivalinga with water and milk.
-2. Offer belpatra, bhāṅg, dhatūra, and white flowers.
-3. Chant "Oṃ Namaḥ Śivāya" — 108 times in Śrāvaṇa.
-4. Recite a Śiva-stotra or the Mahāmṛtyuñjaya Mantra.
-5. Offer pañcāmṛta and fruit as prasāda.
-
-## Observance
-
-**Tree-Planting:** The most important rite of this day. Plant at least one sacred tree — pīpal, neem, vaṭa, āmlā, or tulasī. If there is no space in your garden, plant one in a temple courtyard or a public place. The scriptures call tree-donation a mahādāna.
-
-**Pitṛ-Tarpaṇa:** In the morning, facing south, offer tarpaṇa to the ancestors with black sesame and water. Families who cannot wait for the Pitṛ-pakṣa may perform their ancestral rites on this amāvasyā — according to the Padma Purāṇa, tarpaṇa on Śrāvaṇa amāvasyā is especially fruitful.
-
-**Śiva-Pūjana:** On this day in Śrāvaṇa month, be sure to perform jalābhiṣeka at a Śiva temple. If there is no Śiva temple nearby, perform abhiṣeka at home on a Śivalinga with water and milk.
-
-**Fasting:** Fasting on Hariyali Amavasya is optional. Some devotees observe a nirjalā or fruit-only fast. Abstaining from meat, alcohol, and tāmasika food on this day is especially appropriate.
+- **Tree-planting (most important rite):** Bathe in the morning and wear clean clothes; perform bhūmi-pūjana — bow to Dharaṇī Mātā, sprinkle water on the planting spot, and say "Oṃ Bhūmyai Namaḥ"; plant at least one sacred tree (pīpal, neem, vaṭa, tulasī, āmlā, or aśoka); water its roots; take the saṅkalpa — "This tree is offered to Lord Śiva and for the merit of my ancestors." If no garden space, plant in a temple courtyard or public place — the scriptures call tree-donation a mahādāna.
+- **Pitṛ-tarpaṇa:** Sit facing south; with both hands pour water mixed with black sesame seeds three times, holding the intention "May my ancestors receive this tarpaṇa, may they be satisfied, may they be liberated"; offer dākṣiṇā and food to a brāhmaṇa. Tarpaṇa on Śrāvaṇa amāvasyā is especially fruitful per the Padma Purāṇa and satisfies seven generations.
+- **Śiva-pūjana:** Perform abhiṣeka of the Śivalinga with water and milk; offer belpatra, bhāṅg, dhatūra, and white flowers; chant "Oṃ Namaḥ Śivāya" 108 times; recite a Śiva-stotra or the Mahāmṛtyuñjaya Mantra; offer pañcāmṛta and fruit as prasāda. If no Śiva temple is nearby, perform abhiṣeka at home.
+- **Fasting:** Optional — some devotees observe a nirjalā or fruit-only fast; at minimum, abstain from meat, alcohol, and tāmasika food on this day.
+- **2026 date:** TODO-VERIFY (Śrāvaṇa Kṛṣṇa Amāvasyā)
 
 ## Mantras
 

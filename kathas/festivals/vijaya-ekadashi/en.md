@@ -43,17 +43,14 @@ This Ekadashi falls in the Krishna Paksha of the Phalguna month, when spring is 
 
 ## Vidhi
 
-The fast of Vijaya Ekadashi begins from the evening of Dashami. On the night of Dashami, take sattvic food — abstain entirely from onion, garlic, and non-vegetarian food. On the day of Ekadashi, rise at Brahma Muhurta, bathe, and take the sankalpa (vow) of the fast. Bathe the image of Bhagavan Vishnu or the Shaligram with panchamrita, and offer flowers, tulasi leaves, and sandalwood. Perform aarti with incense and lamp. If a complete fast is not possible, fruits may be taken, but total abstinence from grain is best. In the evening, worship the Lord once more and spend the night in vigil, singing bhajans and kirtans to the Lord. Chant the mantra "Om Namo Bhagavate Vasudevaya" to the best of your capacity. On the morning of Dvadashi, offer charity and dakshina to a brahmin or a worthy person as far as possible, then perform parana.
-
-## Observance
-
-**Fasting:** On Ekadashi, keep a nirjala (waterless) or fruit-only fast. Grains, lentils, and all grain-based foods are forbidden. Those who cannot keep a waterless fast may consume fruits, milk, and water.
-
-**Forbidden:** Rice, wheat, lentils, onion, garlic, meat, alcohol, and speaking falsehood. Anger and quarrelling should also be avoided on the day of Ekadashi.
-
-**Parana:** Break the fast on Dvadashi tithi after sunrise and before Dvadashi ends. It is auspicious to drink water with tulasi leaves before parana. Be sure to check the parana time for that year on Haridwar/DrikPanchang.
-
-**Night Vigil:** The night vigil of Ekadashi is of special importance. Spend the night in bhajans, kirtans, recitation of the Ramayana, or the Vishnu Sahasranama. This is exactly what Shri Rama did together with his army.
+- **Evening of Dashami:** Take only sattvic food; abstain from onion, garlic, and non-vegetarian food.
+- **Fasting:** On Ekadashi, keep a nirjala (waterless) or fruit-only fast; grains, lentils, and grain-based foods are forbidden. Those who cannot keep waterless may consume fruits, milk, and water.
+- **Morning of Ekadashi:** Rise at Brahma Muhurta; bathe and take the sankalp of the fast.
+- **Puja:** Bathe the image of Bhagavan Vishnu or the Shaligram with panchamrita; offer flowers, tulasi leaves, and sandalwood; perform aarti with incense and lamp. Repeat worship in the evening.
+- **Forbidden:** Rice, wheat, lentils, onion, garlic, meat, alcohol, and falsehood; avoid anger and quarrelling throughout the day.
+- **Night vigil:** Keep night vigil with bhajans, kirtans, recitation of the Ramayana, or the Vishnu Sahasranama — as Shri Rama did with his army. Chant "Om Namo Bhagavate Vasudevaya" throughout.
+- **Breaking the fast:** On Dvadashi, after sunrise and before Dvadashi tithi ends, drink water with tulasi leaves and then take parana; offer charity and dakshina to a brahmin. Confirm parana time on DrikPanchang.
+- **2026 date:** TODO-VERIFY (Phalguna Krishna Ekadashi)
 
 ## Mantras
 

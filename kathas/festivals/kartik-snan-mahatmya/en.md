@@ -77,35 +77,15 @@ On Kartika Shukla Ekadashi or Dvadashi, Tulasi Vivaha takes place — the symbol
 
 ## Vidhi
 
-**Kartika Snan:**
-
-1. On each day of Kartika (October–November), rise in brahma-muhurta — approximately one and a half hours before sunrise.
-2. If a river is nearby — bathe in the river; otherwise bathe at home with water mixed with Gangajal.
-3. Before bathing, take the sankalpa — *"Kārtike māsi prātaḥsnānaṃ karomi."*
-
-**Damodara Pujana:**
-
-4. After bathing, meditate on Bhagavan Damodara.
-5. Offer tulasi-dal, yellow flowers, and sandalwood.
-6. **Dipadan:** Light lamps near the tulasi plant, in the temple, and if possible in the river.
-7. **Recite the Damodara-ashtakam** — this is the special stotra of Kartika month.
-
-**Tulasi-seva:**
-
-8. Circumambulate the tulasi plant daily and offer water.
-9. During Kartika, plucking tulasi leaves is forbidden — use only leaves that have already fallen.
-
-## Observance
-
-**Month-long vrata:** Kartika Snan is a month-long vrata — if one day is missed, take the sankalpa again and resume; do not be disheartened.
-
-**Diet:** Sattvic food during Kartika — dal-rice, fruits, milk. Meat, alcohol, brinjal, and urad dal are considered prohibited.
-
-**Diwali and Kartika:** Diwali falls on Kartika Krishna Amavasya — it is the greatest festival within this month's vrata.
-
-**Devuthani Ekadashi:** On Kartika Shukla Ekadashi, Bhagavan Vishnu awakens from his chaturmas sleep. The fast and night-vigil on that day are the completion of the Kartika Snan vrata.
-
-**Conclusion:** The vrata concludes on Kartika Purnima (Dev-Diwali) — by doing dipadan in the river and hosting a feast for brahmanas.
+- **At dawn (daily throughout Kartika):** Rise in brahma-muhurta — approximately one and a half hours before sunrise; bathe in a nearby river, or at home with water mixed with Gangajal; before bathing, take the sankalpa — *"Kārtike māsi prātaḥsnānaṃ karomi."*
+- **Damodara puja:** After bathing, meditate on Bhagavan Damodara; offer tulasi-dal, yellow flowers, and sandalwood.
+- **Dipadan:** Light lamps near the tulasi plant, in the temple, and if possible in the river; recite the Damodara-ashtakam — the special stotra of Kartika month.
+- **Tulasi-seva:** Circumambulate the tulasi plant daily and offer water; during Kartika, plucking tulasi leaves is forbidden — use only leaves that have already fallen.
+- **Diet:** Sattvic food throughout — dal-rice, fruits, milk; meat, alcohol, brinjal, and urad dal are considered prohibited.
+- **Month-long continuity:** This is a month-long vrata — if one day is missed, take the sankalpa again and resume without discouragement.
+- **Devuthani Ekadashi:** On Kartika Shukla Ekadashi, Bhagavan Vishnu awakens from chaturmas sleep; the fast and night-vigil on that day complete the Kartika Snan vrata.
+- **Conclusion:** The vrata concludes on Kartika Purnima (Dev-Diwali) — by dipadan in the river and hosting a feast for brahmanas.
+- **2026 date:** TODO-VERIFY (Kartika month: Kartika Krishna Pratipad to Kartika Purnima)
 
 ## Mantras
 

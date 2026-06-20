@@ -86,24 +86,14 @@ Janmashtami falls on Bhadrapada Krishna Ashtami. Radha Ashtami is Bhadrapada Shu
 
 ## Vidhi
 
-1. At dawn, bathe and meditate on Radha ji.
-2. Adorn her image or portrait with lotus flowers, roses, and yellow flowers.
-3. Perform panchamrit abhisheka.
-4. **Radha-Krishna together** — worship of Radha ji alone is not complete; it is fulfilled only alongside Krishna.
-5. Offer tulasi, bel-patra, butter and sugar (makhan-mishri), and pedas.
-6. Sing kirtan of Radhe-Radhe.
-7. Recite the Radha Sahasranama or Radha-stuti.
-8. Bhajan-kirtan — especially the Radha padavalis of Vrindavan.
-
-**2026 date:** Confirm on DrikPanchang (Bhadrapada Shukla Ashtami — ~September 18, 2026).
-
-## Observance
-
-**Fasting:** Some devotees observe a fast on this day — taking only fruit.
-
-**Kirtan:** The chanting and kirtan of "Radhe Radhe" is the central devotion of this day.
-
-**Celebrations in Vrindavan / Barsana:** Radha Ashtami is observed with special grandeur in Barsana — with darshan, magnificent puja, and raas-leela.
+- **At dawn:** Bathe and meditate on Radha ji.
+- **Fasting:** Some devotees observe a fast — taking only fruit on this day.
+- **Adornment:** Adorn Radha ji's image or portrait with lotus flowers, roses, and yellow flowers.
+- **Abhishek:** Perform panchamrit abhisheka.
+- **Radha-Krishna together:** Worship of Radha ji is not complete alone — it is fulfilled only alongside Krishna; offer tulasi, bel-patra, makhan-mishri (butter and sugar), and pedas.
+- **Kirtan:** Chanting and kirtan of "Radhe Radhe" is the central devotion; recite the Radha Sahasranama or Radha-stuti; sing Radha padavalis of Vrindavan.
+- **Special:** Radha Ashtami is observed with special grandeur in Barsana — darshan, magnificent puja, and raas-leela.
+- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Ashtami)
 
 ## Mantras
 

@@ -73,25 +73,15 @@ In Vrindavan, Mathura, and the Braj region, a **procession of the sacred cows** 
 
 ## Vidhi
 
-1. Bathe in the early morning and take the vow of observance.
-2. **Worship the cow and calf:** Bathe the cow and clean her. Apply a tilak of **turmeric and kumkum** on her forehead. Adorn her with a garland of flowers.
-3. **Offering of fodder and food:** Feed the cow fresh grass, jaggery, and roti — with your own hands.
-4. **Lighting of the lamp:** Light a ghee lamp before the cow.
-5. **Pradakshina:** Circumambulate the cow and calf seven times.
-6. **Worship of Bal-Gopal Krishna:** Light incense and a lamp before an image or idol of Bal-Gopal. Offer butter and mishri as bhog.
-7. Listen to or read the Gopashtami katha.
-
-**2026 date:** Confirm on DrikPanchang (Kartik Shukla Ashtami).
-
-## Observance
-
-**Go-seva:** The greatest act of this day is service to the cow — feeding her fodder with your own hands, giving her water, cleaning her space. Those who do not have a cow should visit a goshala.
-
-**Fasting:** Not mandatory, but devotees observe ekabhukta (one meal only) or take only fruit.
-
-**Vrindavan-Mathura tradition:** The procession of the sacred cows moves through Braj on this day. If possible, visit Vrindavan or a goshala for darshan.
-
-**Godaan:** The gift of a cow (godaan) on this day is considered especially meritorious.
+- **At dawn:** Bathe in the early morning and take the vow of observance.
+- **Go-seva:** The central act of this day — feed the cow fresh grass, jaggery, and roti with your own hands; give her water; clean her space; those who do not have a cow should visit a goshala.
+- **Go-puja:** Bathe the cow and calf; apply a tilak of turmeric and kumkum on her forehead; adorn her with a garland of flowers; light a ghee lamp before her.
+- **Pradakshina:** Circumambulate the cow and calf seven times.
+- **Worship of Bal-Gopal Krishna:** Light incense and a lamp before an image or idol of Bal-Gopal; offer butter and mishri as bhog; listen to or read the Gopashtami katha.
+- **Godaan:** The gift of a cow (godaan) on this day is considered especially meritorious.
+- **Vrindavan-Mathura tradition:** The procession of the sacred cows moves through Braj on this day; if possible, visit Vrindavan or a goshala for darshan.
+- **Fasting:** Not mandatory — devotees observe ekabhukta (one meal only) or take only fruit.
+- **2026 date:** TODO-VERIFY (Kartik Shukla Ashtami)
 
 ## Mantras
 

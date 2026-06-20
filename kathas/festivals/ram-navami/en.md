@@ -45,17 +45,13 @@ Ram Navami in the Chaitra month holds special significance because it falls nine
 
 ## Vidhi
 
-On the day of Ram Navami, bathe in the early morning and wear white or yellow garments. In the household shrine, establish an image or picture of Rama, Sita, Lakshmana, and Hanumanji. Place an image of infant Rama in a jhula — a cradle or swing — for this tradition awakens the feeling of beholding Rama in his child form. Offer panchopachara worship — fragrance, flowers, incense, lamp, and food offering. The offering should include panchamrita, kheer, and tulasi leaves. At Madhyahna — around noon — perform the abhisheka of Rama's birth. Blow the conch, ring the bell, and proclaim "Jai Shri Ram!" with the announcement of Ram Janma. The recitation of the Ramayana — especially the birth passage from the Bala Kanda — is an indispensable part of this day. In the evening, perform the aarti and distribute prasad.
-
-## Observance
-
-**Fasting:** The vow of a fruit-based fast is prescribed for Ram Navami. Many devotees observe a nirjala or fruit-only fast. The fast should be broken on the following day, Dashami tithi, after sunrise.
-
-**Ram Janma Puja:** At Madhyahna — noon — perform the panchamrita abhisheka of the infant Rama's image. At this very moment the proclamation of "Ram Janma" is made. This is the central moment of the festival — celebrate it with full devotion.
-
-**Ramayana recitation:** Recite the Bala Kanda of the Valmiki Ramayana or the Ramcharitmanas. The birth passage — from "tato yajñe samāpte tu..." through the naming of Rama — should be read with special attention. Group recitation and the reading of the Sundara Kanda are also held to be meritorious.
-
-**Madhyahna Abhisheka:** Precisely at noon, when the sun is at its highest point, bathe infant Rama with milk, curd, honey, ghee, and Gangajal. At this time the blowing of the conch and the lighting of lamps must not be omitted. This is the very moment when Rama was born in the Treta Yuga.
+- **Fasting:** Observe a fruit-only or nirjala fast; the fast is broken the following day (Dashami tithi) after sunrise.
+- **At dawn:** Bathe early; wear white or yellow garments; establish images of Rama, Sita, Lakshmana, and Hanumanji in the household shrine; place an image of infant Rama in a jhula (cradle/swing).
+- **Offerings:** Panchopachara worship (fragrance, flowers, incense, lamp, food); offer panchamrita, kheer, and tulasi leaves.
+- **Madhyahna Abhisheka (noon):** At precisely noon — when the sun is at its highest — bathe the infant Rama image with milk, curd, honey, ghee, and Gangajal; blow the conch; light lamps; proclaim "Jai Shri Ram!" and announce Ram Janma — this is the central moment of the festival.
+- **Ramayana recitation:** Recite the Bala Kanda of the Valmiki Ramayana or the Ramcharitmanas; the birth passage from "tato yajñe samāpte tu..." through the naming of Rama should be read with special attention; group recitation and the Sundara Kanda are also meritorious.
+- **Evening:** Perform the aarti and distribute prasad.
+- **2026 date:** TODO-VERIFY (Chaitra Shukla Navami)
 
 ## Mantras
 

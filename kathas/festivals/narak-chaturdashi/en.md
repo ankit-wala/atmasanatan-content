@@ -45,36 +45,16 @@ Narak Chaturdashi — known also as **Kali Chaudas**, **Chhoti Diwali**, and **R
 
 ## Vidhi
 
-**1. Abhyanga-snan — before sunrise.**
-On Narak Chaturdashi, rise before sunrise and massage the body with sesame oil or coconut oil. After the massage apply a ubtan and then bathe. This ritual oil bath before sunrise is the most essential act of this day — the direct honouring of Narakasura's boon.
-
-**2. Lighting fourteen lamps.**
-In the evening, light fourteen clay lamps at the entrance to the home, near the tulasi plant, and on the rooftop. The number fourteen — corresponding to the chaturdashi — carries this symbolic weight.
-
-**3. The lamp for Yama — facing south.**
-Place one lamp facing south — this is for Yamaraj, so that no member of the household meets an untimely death.
-
-**4. Lakshmi-Ganesha puja.**
-In the evening worship, perform puja of Lakshmi and Ganesha. Offer red flowers, sweets, incense, and lamps.
-
-**5. Remembrance of the slaying of Narakasura.**
-Read aloud or listen to the episode of Narakasura-vadha from the Dasham Skandha of the Bhagavata Purana.
-
-**6. Mantra for the abhyanga-snan.**
-Recite before the oil massage: abhyaṅge narakasrāṇa tailābhyaṅgo yamapriye | caturdaśyāṃ prayuktasya yamaḥ prīto bhaviṣyati ||
-
-**7. Lighting firecrackers.**
-This tradition too is connected to the proclamation of Narakasura's end. Light and sound drive away all negative forces.
-
-## Observance
-
-On Narak Chaturdashi, the **abhyanga-snan before sunrise** is considered essential — it is the foundational observance of this day. In Maharashtra this tradition is followed with particular devotion.
-
-In some families a fast is kept on this day — especially in households where the tradition of Yama-puja is observed under the name Kali Chaudas.
-
-Lighting lamps in the evening is essential — it is an honouring of Narakasura's last boon.
-
-On this night, lamps are also lit for the ancestors, so that their souls may receive peace and light.
+- **Before sunrise (abhyanga-snan):** Rise before sunrise; massage body with sesame oil or coconut oil; apply ubtan; then bathe — this is the foundational observance, honouring Narakasura's boon directly. Followed with particular devotion in Maharashtra.
+- **Snan mantra:** Recite before the oil massage: *abhyaṅge narakasrāṇa tailābhyaṅgo yamapriye | caturdaśyāṃ prayuktasya yamaḥ prīto bhaviṣyati ||*
+- **Evening puja:** Perform puja of Lakshmi and Ganesha; offer red flowers, sweets, incense, and lamps.
+- **Fourteen lamps:** Light fourteen clay lamps at the home entrance, near the tulasi plant, and on the rooftop — the number fourteen corresponds to chaturdashi.
+- **Lamp for Yama:** Place one lamp facing south for Yamaraj, so no member of the household meets an untimely death.
+- **Lamps for ancestors:** Also light lamps this night so the souls of ancestors receive peace and light.
+- **Katha:** Read aloud or listen to the Narakasura-vadha episode from the Dasham Skandha of the Bhagavata Purana.
+- **Fasting:** Optional — observed in some families, especially where Yama-puja is kept under the name Kali Chaudas.
+- **Special:** Light firecrackers — connected to the proclamation of Narakasura's end; light and sound drive away all negative forces.
+- **2026 date:** TODO-VERIFY (Kartik Krishna Chaturdashi).
 
 ## Mantras
 

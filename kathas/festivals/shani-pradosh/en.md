@@ -35,24 +35,14 @@ For those going through Shani's Sade-Sati or Dhaiya, those in the Mahadasha of S
 
 ## Vidhi
 
-The puja-vidhi of Shani-Pradosh is the same as the main Pradosh Vrat. For the detailed procedure, see the chapter on Pradosh Vrat.
-
-**Special additions:**
-1. Add sesame (black sesame) to the Shiva-abhishek — this is the very material that pleases both Shani and Shiva together.
-2. Light a lamp with sesame oil.
-3. Offer blue flowers (if available) — Shani's colour is blue.
-4. Along with *Om Namah Shivaya*, chant *Om Sham Shanaishcharaya Namah*.
-5. Offering water to a peepal tree and remembering Shani Dev is also auspicious.
-
-## Observance
-
-**Fasting:** Complete fast or ekahara on Trayodashi (Saturday) — the use of sesame and jaggery is appropriate.
-
-**Paran:** Sunday morning after sunrise, with remembrance of Shiva.
-
-**Donation:** Black sesame, black garments, mustard oil — donating materials associated with Shani on this day is especially meritorious.
-
-**2026 dates:** Confirm on DrikPanchang.
+- **Fasting:** Observe a complete fast or ekahara on Trayodashi (Saturday); the use of sesame and jaggery is appropriate during the fast.
+- **Shiva-abhishek:** Follow the full Pradosh Vrat puja-vidhi (see the Pradosh Vrat chapter); add black sesame to the Shiva-abhishek — sesame pleases both Shani and Shiva together.
+- **Lamp and offerings:** Light a lamp with sesame oil; offer blue flowers (if available, Shani's colour is blue).
+- **Mantra:** Along with Om Namah Shivaya, chant Om Sham Shanaishcharaya Namah throughout the puja.
+- **Peepal:** Offer water to a peepal tree and remember Shani Dev — this is also auspicious on Shani-Pradosh.
+- **Paran:** Break the fast on Sunday morning after sunrise, with remembrance of Shiva.
+- **Donation:** Give black sesame, black garments, and mustard oil — donating Shani-associated materials on this day is especially meritorious.
+- **2026 date:** TODO-VERIFY (Shani-Pradosh — Saturday Trayodashi)
 
 ## Mantras
 

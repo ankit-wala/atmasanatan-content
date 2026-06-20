@@ -43,28 +43,14 @@ This festival is the very identity of Bihar, Jharkhand, and eastern Uttar Prades
 
 ## Vidhi
 
-The ritual of Chhath Puja is completed over four days —
-
-**Day 1 — Nahay-Khay, ritual bath and one pure meal (Kartik Shukla Chaturthi):**
-Bathe in the morning. Clean the home. Eat only sattvic, pure food — gourd vegetable, chana dal, and parboiled (arwa) rice. Garlic and onion are prohibited. This day is for the purification of body and mind.
-
-**Day 2 — Kharna, fasting and evening offering (Kartik Shukla Panchami):**
-Observe a waterless fast from sunrise to sunset. After sunset in the evening, prepare kheer made with sugarcane juice or jaggery and roti spread with ghee — on a clay stove, in complete purity. First offer this naivedya to Suryadev, then distribute it as prasad to family members. After this, the nirjal fast of 36 hours begins.
-
-**Day 3 — Sandhya Arghya, the evening offering / Shashthi Puja (Kartik Shukla Shashthi):**
-Arrange thekua (made from jaggery and wheat), fruits (banana, coconut, lemon, water chestnut), sugarcane, betel nut, ginger, and raw turmeric in a bamboo winnowing basket. Reach the bank of a river, pond, or water body before sunset. Step into the water waist-deep. Facing the setting Sun, raise the basket and offer arghya three times — offering a mixture of milk and water. Sing the aarti of Chhathi Maiya.
-
-**Day 4 — Usha Arghya, dawn offering and breaking of the fast (Kartik Shukla Saptami):**
-Rise at brahma muhurta and return to the riverbank. Wait for sunrise. As soon as the first ray of the Sun appears, stand in the water and offer arghya to the rising Sun in the same manner with the basket. Conclude the vrat and receive prasad. Break the fast with thekua and fruit.
-
-## Observance
-
-- **Duration of the fast:** From the evening of Kharna (Panchami) until the Usha Arghya (dawn offering) on Saptami morning — approximately **36 hours without water**. Not even a drop of water is taken during this period.
-- **Who observes the vrat:** Women primarily observe this vrat, but men may also do so. Once begun, it must be observed every year — there is also a prescribed ritual for those who need to discontinue it.
-- **Standing in water:** At the time of both arghya offerings, the devotee must stand waist-deep in the water — this is the most essential requirement of the vrat.
-- **Purity:** Maintain purity throughout the entire duration of the vrat. Wear new or freshly washed clothes.
-- **Offerings in the basket:** The items placed in the bamboo winnowing basket — thekua, fruits, sugarcane — must not be touched by anyone else.
-- **Breaking the fast:** After the Usha Arghya, break the fast with thekua and fruit. Do not eat a heavy meal immediately.
+- **Day 1 — Nahay-Khay (Kartik Shukla Chaturthi):** Bathe in the morning; clean the home; eat only sattvic food — gourd vegetable, chana dal, and parboiled (arwa) rice; garlic and onion are prohibited; this day purifies body and mind.
+- **Day 2 — Kharna (Kartik Shukla Panchami):** Observe a waterless (nirjal) fast from sunrise to sunset; at sunset prepare kheer with sugarcane juice or jaggery and ghee-spread roti on a clay stove in complete purity; offer naivedya to Suryadev first, then distribute as prasad; after this the nirjal fast of 36 hours begins — not even a drop of water is taken.
+- **Day 3 — Sandhya Arghya / Shashthi Puja (Kartik Shukla Shashthi):** Fill a bamboo winnowing basket with thekua (jaggery-wheat), fruits (banana, coconut, lemon, water chestnut), sugarcane, betel nut, ginger, and raw turmeric; reach the riverbank before sunset; stand waist-deep in the water; face the setting Sun and offer arghya three times with a mixture of milk and water; sing the aarti of Chhathi Maiya.
+- **Day 4 — Usha Arghya (Kartik Shukla Saptami):** Rise at brahma muhurta and return to the riverbank; stand waist-deep in the water at sunrise; offer arghya to the rising Sun with the basket in the same manner; conclude the vrat; break the fast with thekua and fruit — do not eat a heavy meal immediately.
+- **Fasting:** The main fast runs approximately 36 hours (Kharna evening to Usha Arghya) without water; standing waist-deep in water at both arghya timings is the most essential requirement.
+- **For whom:** Women primarily observe this vrat but men may also do so; it is observed especially for the long life and health of one's children; once begun it must be observed every year — a prescribed ritual exists for those who need to discontinue it.
+- **Purity:** Maintain purity throughout; wear new or freshly washed clothes; the offerings in the bamboo basket must not be touched by anyone else.
+- **2026 date:** TODO-VERIFY (Kartik Shukla Shashthi)
 
 ## Mantras
 

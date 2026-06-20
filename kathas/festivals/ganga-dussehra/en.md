@@ -97,27 +97,15 @@ On Ganga Dussehra, multitudes of devotees pour onto the riverbanks — from Hari
 
 ## Vidhi
 
-The traditional observance on Ganga Dussehra — Ganga-snan, dan, and deepdan:
-
-1. **Morning sankalpa.** Rise in the Brahma muhurta. Before bathing, take a vow — "On this Jyeshtha Shukla Dashami, I praise Mother Ganga, bathe in her waters, and seek the removal of ten sins."
-2. **Ganga-snan.** If it is possible to go to the Ganga's bank, go without regard for the heat of Jyeshtha. Otherwise, add Gangajal to water at home and bathe with it. While bathing, repeat "Om namo bhagavatyai gaṅgāyai namaḥ."
-3. **Ganga-pujan.** After bathing, offer flowers, akshata, roli, and dhoop-deep at the riverbank or before a vessel filled with Gangajal at home. Recite the Ganga-Ashtak.
-4. **Dan.** Charity given on this day is considered especially meritorious. Donating ten items is auspicious — grain, water, sesame, barley, gold, silver, cloth, fruit, ghee, and jaggery. If this is not possible, give to a brahmin according to one's means.
-5. **Tarpan.** Offer tarpan for the ancestors with Gangajal. Hold the intention — "As sixty thousand sons of Sagar attained liberation, may my ancestors also attain liberation."
-6. **Deepdan.** At dusk, light a lamp and set it afloat on the Ganga — or in flowing water at home. This lamp is a symbol of illuminating the path for those who have departed.
-7. **Ganga Aarti.** Participate in the Ganga Aarti at sunset. The Ganga Aarti at Haridwar and Varanasi is especially magnificent on this day.
-
-## Observance
-
-**Ganga-snan:** This is the central observance of the day. Those who can go to the Ganga's bank should go without concern for the summer heat — the touch of the Ganga on this day is of especial merit. Those who cannot go should bathe at home with water mixed with Gangajal.
-
-**Dan:** Giving in multiples of ten holds significance — ten kinds of grain, ten coins, ten flowers. For those with the means, giving of a cow, land, or sesame is considered especially meritorious.
-
-**Deepdan:** At dusk, light a lamp and offer it to the Ganga. Remembering departed members of one's family, pray for their liberation — this is to follow the spirit of Bhagiratha himself.
-
-**Ganga Aarti:** If at the Ganga's bank, join the evening aarti. At home, perform aarti before a vessel filled with Gangajal.
-
-**Upavasa:** Fasting on Ganga Dussehra is optional. Some devotees observe a single meal (ekahara) or take only fruit. Abstaining from meat, intoxicants, and tamasic food is especially enjoined on this day.
+- **Morning sankalpa:** Rise in the Brahma muhurta; take a vow — "On this Jyeshtha Shukla Dashami, I praise Mother Ganga, bathe in her waters, and seek the removal of ten sins."
+- **Ganga-snan:** Go to the Ganga's bank without concern for the summer heat — the touch of the Ganga on this day is of especial merit; if unable to go, add Gangajal to water at home and bathe with it, repeating "Om namo bhagavatyai gaṅgāyai namaḥ."
+- **Ganga-pujan:** After bathing, offer flowers, akshata, roli, and dhoop-deep at the riverbank or before a vessel filled with Gangajal at home; recite the Ganga-Ashtak.
+- **Dan:** Giving in multiples of ten holds special significance — ten kinds of grain, ten coins, ten flowers; donating grain, water, sesame, barley, gold, silver, cloth, fruit, ghee, and jaggery is auspicious; for those with the means, giving of a cow, land, or sesame is especially meritorious.
+- **Tarpan:** Offer tarpan for the ancestors with Gangajal, holding the intention — "As sixty thousand sons of Sagar attained liberation, may my ancestors also attain liberation."
+- **Deepdan:** At dusk, light a lamp and set it afloat on the Ganga — or in flowing water at home; remembering departed members of one's family, pray for their liberation.
+- **Ganga Aarti:** Join the evening aarti at the Ganga's bank — especially magnificent at Haridwar and Varanasi on this day; at home, perform aarti before a vessel filled with Gangajal.
+- **Fasting:** Optional — some devotees observe a single meal (ekahara) or take only fruit; abstaining from meat, intoxicants, and tamasic food is especially enjoined on this day.
+- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Dashami)
 
 ## Mantras
 

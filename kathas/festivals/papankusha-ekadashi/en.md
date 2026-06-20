@@ -61,26 +61,15 @@ This story also teaches that not a single moment of merit is ever destroyed. The
 
 ## Vidhi
 
-1. On **Dashami**, eat only one meal — a single sattvic meal, nothing after nightfall.
-2. On the morning of **Ekadashi**, rise during Brahma Muhurta, bathe, and take the vow of the fast.
-3. Establish an image of Lord **Vishnu** or a Shaligrama; offer Panchamrita abhisheka, tulsi leaves, yellow flowers, and a lamp.
-4. Listen to or personally read the Papankusha Ekadashi katha.
-5. Observe the fast through the entire day — **waterless** or **fruit-only** — as strictly as possible.
-6. In the evening, perform Vishnu puja again; offer food or clothing to the poor.
-7. **Ratri Jagaran** — keep vigil through the night with Hari kirtan, bhajans, and the recitation of Vishnu Sahasranama.
-8. On **Dwadashi**, break the fast — after sunrise, before Rahu Kala — with tulsi water and prasad.
-
-**2026 date:** Confirm on DrikPanchang (Ashwin Shukla Ekadashi — ~October 22, 2026).
-
-## Observance
-
-**Fasting:** The full scope of the fast runs from the night of Dashami through the parana on Dwadashi. A waterless fast on Ekadashi is the highest form; those who cannot manage that should observe a fruit-based fast.
-
-**What to avoid:** Rice is prohibited on Ekadashi. Anger, falsehood, and harsh speech are to be especially avoided on this day.
-
-**Giving:** Feeding the hungry and clothing the poor on this day yields exceptional merit. Keep the spirit of the katha close — Krodhana's very hunger played a role in his liberation.
-
-**Parana:** On Dwadashi morning, before Rahu Kala. Break the fast with tulsi water, fruit, and light sattvic food.
+- **Dashami evening:** Eat only one sattvic meal; nothing after nightfall.
+- **At dawn:** Rise during Brahma Muhurta, bathe, and take the vow of the fast.
+- **Puja:** Establish an image of Lord Vishnu or a Shaligrama; offer Panchamrita abhisheka, tulsi leaves, yellow flowers, and a lamp; listen to or read the Papankusha Ekadashi katha.
+- **Fasting:** The fast runs from the night of Dashami through the parana on Dwadashi. A waterless fast is the highest form; those who cannot manage that should observe a fruit-based fast. Rice is prohibited on Ekadashi.
+- **What to avoid:** Anger, falsehood, and harsh speech are to be especially avoided on this day.
+- **Evening puja:** Perform Vishnu puja again; offer food or clothing to the poor — feeding the hungry on this day yields exceptional merit.
+- **At night:** Keep vigil with Hari kirtan, bhajans, and recitation of Vishnu Sahasranama.
+- **Breaking the fast:** On Dwadashi morning, before Rahu Kala — break the fast with tulsi water, fruit, and light sattvic food.
+- **2026 date:** TODO-VERIFY (Ashwin Shukla Ekadashi)
 
 ## Mantras
 

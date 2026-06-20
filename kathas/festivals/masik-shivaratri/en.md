@@ -57,37 +57,16 @@ The deeper meaning of the Vyadha-Katha is that Shiva's devotion demands no exter
 
 ## Vidhi
 
-**Morning:**
-1. Rise before sunrise and bathe.
-2. Take the sankalpa — *"Today on Krishna Chaturdashi, I observe the vrat of Masik Shivaratri."*
-3. Go to a Shiva temple or light a lamp before the Shivalinga at home.
-
-**Puja — on the evening or night of Chaturdashi:**
-1. Pour water over the Shivalinga in abhishek — while chanting *Om Namah Shivaya*.
-2. Perform Panchamrita abhishek — milk, curd, honey, ghee, sugar.
-3. Offer bilva leaves — three-leafed, unbroken, clean.
-4. Offer datura flowers, aak flowers, white flowers.
-5. Light incense and a lamp.
-6. Chant *Om Namah Shivaya* — 108 times.
-7. Recite the Mahamrityunjaya Mantra.
-
-**Jagaran:**
-Keeping vigil through the night holds special importance. Remembering Shiva during the four prahars is the traditional practice. Keep vigil at least until midnight.
-
-**Prasad:**
-Fruit, milk, panchamrita.
-
-## Observance
-
-**Fasting:** Complete fast is best. Those who cannot observe a complete fast may eat once (ekahara) — without salt, without grain. Fruit and milk suffice.
-
-**Prohibition of grain:** Grain (rice, wheat) is prohibited on this day.
-
-**Paran:** The following day — on Krishna Paksha Pratipada or Dvitiya — after bathing in the morning and remembering Shiva, break the fast.
-
-**Repetition:** Greater fruit comes from observing Masik Shivaratri every month. Beginning in the month of Shravan with a sankalpa for all twelve vrats of the year is considered auspicious.
-
-**What to avoid:** Anger, falsehood, and meat and intoxicants are prohibited on this day.
+- **Fasting:** Complete fast is best; those who cannot may eat once (ekahara) — without salt, without grain; fruit and milk suffice; grain (rice, wheat) is prohibited on this day.
+- **At dawn:** Rise before sunrise and bathe; take the sankalpa — *"Today on Krishna Chaturdashi, I observe the vrat of Masik Shivaratri"*; go to a Shiva temple or light a lamp before the Shivalinga at home.
+- **Evening puja:** Pour water over the Shivalinga in abhishek while chanting *Om Namah Shivaya*; perform Panchamrita abhishek — milk, curd, honey, ghee, sugar.
+- **Offerings:** Offer bilva leaves — three-leafed (tridala), unbroken, clean; offer datura flowers, aak flowers, white flowers; light incense and a lamp.
+- **Chanting:** Chant *Om Namah Shivaya* 108 times; recite the Mahamrityunjaya Mantra.
+- **Jagaran (vigil):** Keeping vigil through the night holds special importance; remember Shiva during the four prahars; keep vigil at least until midnight; prasad is fruit, milk, panchamrita.
+- **What to avoid:** Anger, falsehood, meat, and intoxicants are prohibited on this day.
+- **Paran (breaking fast):** The following morning — on Krishna Paksha Pratipada or Dvitiya — bathe, remember Shiva, then break the fast.
+- **Regularity:** Greater fruit comes from observing Masik Shivaratri every month; beginning in Shravan with a sankalpa for all twelve vrats of the year is considered auspicious.
+- **2026 date:** TODO-VERIFY (Krishna Chaturdashi)
 
 ## Mantras
 

@@ -71,22 +71,12 @@ Her eight arms are a symbol of the expansion of power in all eight directions. T
 
 ## Vidhi
 
-1. Bathe in the morning and wear **yellow garments** — the colour of the fourth day.
-2. Install an image or idol of Maa Kushmanda.
-3. Offer **yellow flowers** — marigolds or yellow roses are especially welcome.
-4. Offer **pumpkin (kushmanda/kaddu)** — in some traditions the Goddess's name itself is connected to this fruit.
-5. Offer **honey** — a sweet offering is especially dear to her.
-6. Light a lamp of cow's ghee.
-7. Recite Maa Kushmanda's dhyana shloka and the Ya Devi stotra.
-8. **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Chaturthi — ~October 14, 2026).
-
-## Observance
-
-**Navratri vrat — fourth day:** The fourth day of the fast — continue with a fruit diet or single meal. Those observing the full nine-day fast should keep the vrat on this day as well.
-
-**Colour:** The colour of the fourth day is **yellow** — a symbol of the sun's radiance, energy, and cheerfulness. Wearing yellow garments is considered auspicious.
-
-**Anahata meditation:** During worship, rest your attention at the heart centre — visualising the Goddess's smile and the amrit kalash she holds.
+- **At dawn:** Bathe and wear **yellow garments** — the colour of the fourth day, symbol of the sun's radiance and cheerfulness.
+- **Puja:** Install an image or idol of Maa Kushmanda; light a lamp of cow's ghee; recite Maa Kushmanda's dhyana shloka and the Ya Devi stotra.
+- **Offerings:** Yellow flowers (marigolds or yellow roses); **pumpkin (kushmanda/kaddu)**; **honey** — a sweet offering especially dear to her.
+- **Fasting:** The Navratri fast continues on the fourth day — fruit diet or a single meal; those observing the full nine-day fast keep the vrat on this day as well.
+- **Anahata meditation:** During worship, rest attention at the heart centre — visualise the Goddess's smile and the amrit kalash she holds.
+- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Chaturthi — ~October 14, 2026).
 
 ## Mantras
 

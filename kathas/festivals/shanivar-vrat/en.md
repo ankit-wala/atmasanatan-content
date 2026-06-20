@@ -131,29 +131,17 @@ In astrology, Shani's **Sade Sati** (a transit of seven and a half years) and **
 
 ## Vidhi
 
-1. **Vrat from sunrise:** On Saturday, rise before sunrise. Bathe. You may wear black or dark blue clothing (Shani's colour). Take the sankalpa — "I am observing this vrat for Shani Dev's grace and for the pacification of my Sade Sati / Dhaiya."
-
-2. **Worship of Shani Dev:** Before Shani Dev's murti or picture — offer black sesame, sesame oil, urad dal, dark blue or black flowers, and black cloth. Light a lamp with black sesame oil.
-
-3. **Water to the Peepal tree:** The tradition holds that Shani Dev resides in the Peepal tree. On Saturday, offer water to the Peepal tree and light a sesame-oil lamp beneath it.
-
-4. **Katha listening:** Listen to or read the Saturday vrat katha (the story of Vikramaditya). This is considered an indispensable part of the vrat.
-
-5. **Dana:** Dana holds special significance on Saturdays — give black sesame, urad, oil, iron objects, or black cloth to someone in need. Given as "Shani-dana," this is considered highly beneficial.
-
-6. **Hanuman worship:** On Saturday, recite the Hanuman Chalisa. Perform abhisheka of Hanuman with sindoor and oil. This practice is especially held in tradition for protection from Shani's afflictions.
-
-7. **Breaking the fast:** Take one meal after sunset. The meal may include black sesame, urad, or sesame sweets (sesame laddoos).
-
-## Observance
-
-**Fasting:** The Saturday fast prescribes ekahara — one meal a day, after sunset. In strict fasting, no food at all or fruit only is observed. Those who are in Sade Sati or Dhaiya observe a particularly strict fast.
-
-**What not to do:** Do not oil your body on Saturday (oil is offered to Shani, not used for oneself); do not cut your hair; do not buy or sell iron objects; do not behave harshly with anyone.
-
-**For whom especially:** This vrat is said to be especially beneficial for those who are in Sade Sati, Dhaiya, or Shani's Mahadasha / Antardasha. Also for those who regard Shani as their Ishta, or for natives of Makara and Kumbha rashis (whose signs Shani rules).
-
-**Regular vrat:** The Saturday fast may be kept regularly week by week, or with a special sankalpa for consecutive three, five, seven, or twenty-one Saturdays during a particular period of Shani.
+- **At dawn:** Rise before sunrise on Saturday; bathe; wear black or dark blue clothing (Shani's colour); take the sankalpa — "I am observing this vrat for Shani Dev's grace and for the pacification of my Sade Sati / Dhaiya."
+- **Fasting:** Observe ekahara — one meal after sunset; in strict fasting, no food at all or fruit only; those in Sade Sati or Dhaiya observe a particularly strict fast.
+- **Worship of Shani Dev:** Before Shani Dev's murti or picture, offer black sesame, sesame oil, urad dal, dark blue or black flowers, and black cloth; light a lamp with black sesame oil.
+- **Peepal tree:** Offer water to the Peepal tree (Shani's traditional dwelling) and light a sesame-oil lamp beneath it.
+- **Katha:** Listen to or read the Saturday vrat katha (the story of Vikramaditya) — this is considered indispensable.
+- **Dana:** Give black sesame, urad, oil, iron objects, or black cloth to someone in need as "Shani-dana" — this is considered highly meritorious.
+- **Hanuman worship:** Recite the Hanuman Chalisa; perform abhisheka of Hanuman with sindoor and oil — traditional for protection from Shani's afflictions.
+- **Breaking the fast:** Take one meal after sunset; the meal may include black sesame, urad, or sesame laddoos.
+- **What not to do:** Do not oil your body (oil is offered to Shani, not used for oneself); do not cut hair; do not buy or sell iron objects; do not behave harshly with anyone.
+- **For whom especially:** Those in Sade Sati, Dhaiya, or Shani's Mahadasha / Antardasha; devotees of Shani; natives of Makara and Kumbha rashis; the vrat may be kept weekly or for a sankalpa of 3, 5, 7, or 21 consecutive Saturdays.
+- **2026 date:** Every Saturday (ongoing weekly vrat)
 
 ## Mantras
 

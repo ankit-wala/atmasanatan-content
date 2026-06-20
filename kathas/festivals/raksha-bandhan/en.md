@@ -49,20 +49,14 @@ The spirit of the day remains the same. A sister's thread for her brother is a b
 
 ## Vidhi
 
-1. On Shravan Purnima, seat the brother on an aasan (seat of honour).
-2. Apply a tilak on his forehead — with roli or kumkuma.
-3. Perform the aarti.
-4. Tie the rakhi on his right wrist — while reciting the mantra.
-5. Offer sweets.
-6. The brother takes a vow to protect his sister.
-
-## Observance
-
-**Auspicious timing:** The rakhi should be tied after Bhadra has passed. Avoid tying the rakhi during Bhadra kala (this is noted in the tradition of the Bhavishya Purana and Skanda Purana). Check DrikPanchang for the auspicious muhurta for 2026.
-
-**Fasting:** The sister observes a fast — she breaks her fast after tying the rakhi on her brother's wrist.
-
-**2026 date:** Confirm on DrikPanchang (~August 28, 2026, Shravan Purnima).
+- **For whom:** The sister observes this rite; brothers receive the rakhi.
+- **Fasting:** The sister fasts and breaks her fast only after tying the rakhi on her brother's wrist.
+- **Auspicious timing:** Tie the rakhi only after Bhadra kala has passed — tying during Bhadra is inauspicious (Bhavishya Purana, Skanda Purana); check DrikPanchang for the exact muhurta.
+- **Preparation:** Seat the brother on an aasan (seat of honour); apply roli or kumkuma tilak on his forehead.
+- **Aarti:** Perform the aarti of the brother.
+- **Tying the rakhi:** Tie the rakhi on his right wrist while reciting the mantra; offer sweets.
+- **Brother's vow:** The brother takes a vow to protect his sister.
+- **2026 date:** TODO-VERIFY (~August 28, 2026, Shravan Purnima)
 
 ## Mantras
 

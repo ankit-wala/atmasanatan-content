@@ -70,25 +70,13 @@ Jimutavahana's character is a union of two qualities — dana (giving) and tyaga
 
 ## Vidhi
 
-1. Take the vrat sankalpa on the evening of Ashwin Krishna Saptami.
-2. On Saptami, bathe and take a single meal (nahay-khay) — preparation for the vrat.
-3. **Ashtami — nirjala fast** — no water at all.
-4. Prepare or install an image of Jimutavahana.
-5. Worship with incense, lamp, kusha grass, flowers, and river water.
-6. Hear the Jivitputrika Vrat katha.
-7. **Navami — parana** — regional tradition includes certain symbolic foods; generally sattvic food.
-
-**2026 date:** Confirm on DrikPanchang (Ashwin Krishna Ashtami — ~October 3, 2026).
-
-## Observance
-
-**Nirjala fast:** This vrat is observed completely without water on Ashtami — one of the strictest mother-vrats in Indian tradition. Mothers undertake this rigorous fast for the longevity of their sons.
-
-**Nahay-khay:** On Saptami, bathe and take one meal — the preparation for the vrat day.
-
-**Parana:** On the morning of Navami at the appropriate time.
-
-**Community:** This vrat is observed collectively — women gather at a river or pond to perform the puja together.
+- **For whom:** Observed by mothers for the long life and well-being of their sons.
+- **Saptami (nahay-khay):** Bathe and take a single meal on Ashwin Krishna Saptami — this is the preparation day; take the vrat sankalpa in the evening.
+- **Ashtami — nirjala fast:** Observe a strict waterless fast the entire day — no water at all; this is one of the most rigorous mother-vrats in Indian tradition.
+- **Puja:** Prepare or install an image of Jimutavahana; worship with incense, lamp, kusha grass, flowers, and river water; hear the Jivitputrika Vrat katha.
+- **Community:** This vrat is observed collectively — women gather at a river or pond to perform the puja together.
+- **Navami — parana:** Break the fast on the morning of Navami at the appropriate time; regional tradition includes certain symbolic foods; generally sattvic food.
+- **2026 date:** Confirm on DrikPanchang (Ashwin Krishna Ashtami — ~October 3, 2026).
 
 ## Mantras
 

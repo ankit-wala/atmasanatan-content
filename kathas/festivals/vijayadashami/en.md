@@ -39,26 +39,15 @@ The celebration of Vijayadashami takes a different form in every corner of India
 
 ## Vidhi
 
-The traditional observance of Vijayadashami includes Aparajita Pujan, Shami Pujan, and Ravan Dahan:
-
-1. **Morning bath and sankalpa.** Bathe before sunrise or during the Brahma Muhurta and put on clean clothes. Hold this resolve in mind: "Today, on Ashwin Shukla Dashami, I perform the worship of Devi Aparajita."
-2. **Aparajita Pujan.** In a clean spot facing east or the north-east (Ishan) corner, invoke Devi Aparajita. Place Shami leaves and an image or an evocation of the Nilakantha bird (the blue-throated roller, also called Nil-Jayant) before you. Offer roli, akshat, flowers, and incense with a lit lamp. On this day, seeing the Nilakantha bird is considered especially auspicious.
-3. **Shami Pujan.** Go to a Shami tree, or place a Shami branch in your home. Worship it with water, akshat, flowers, and roli. Recite the Shami mantra given below. Distribute Shami leaves among family members as "gold" — this is the ancient tradition of "looting gold."
-4. **Seemollanghan (crossing the boundary).** In the old custom, kings would cross the boundary of their kingdom on this day — a symbolic journey of victory. In today's world, this takes the form of a resolve: beginning a new endeavour, a new journey, or a new enterprise.
-5. **Ayudha-Shastra Pujan.** In the tradition of southern India, vehicles, tools, books, and craft-works are worshipped on this day. Householders too may worship the instruments of their work and livelihood.
-6. **Ravan Dahan.** In the evening, take part in the local burning of the effigies of Ravana, Kumbhakarna, and Meghnada. This burning is a resolve to destroy the ten inner vices — not merely a theatrical spectacle.
-7. **Exchange of gold and sweets.** Send Shami leaves or sweets to family and friends. This is a symbol of victory and abundance.
-8. **Evening aarti and prasad.** Perform the aarti of Rama, Durga, or your family deity and receive prasad.
-
-## Observance
-
-Vijayadashami is not a day of fasting — there is no mandatory upavasa on this festival. It is a day of celebration and victory. Those who have observed the nine-day Navaratri fast conclude their fast on Dashami.
-
-This day is considered extremely auspicious for beginning new endeavours — starting one's education, a new business, a new home, setting the date of a marriage, or the start of a journey. The belief is that any work begun on this day will certainly meet with success.
-
-The exchange of Shami leaves is a special rite of this day — family members and friends give each other Shami leaves as though offering "gold"; it is a symbol of love, abundance, and goodwill.
-
-In southern India, "Ayudha Puja" is the distinctive tradition of this day. Farmers, craftsmen, drivers, and artists — all worship their respective tools and instruments. The following day, as Vijayadashami proper, they return to their work renewed.
+- **Note:** Vijayadashami is not a day of mandatory fasting — it is a day of celebration and victory. Those who observed the nine-day Navaratri fast conclude it on Dashami.
+- **Morning:** Bathe before sunrise or during Brahma Muhurta; put on clean clothes; take sankalp — "Today, on Ashwin Shukla Dashami, I perform the worship of Devi Aparajita."
+- **Aparajita Pujan:** In a clean spot facing east or north-east, invoke Devi Aparajita; place Shami leaves and an image of the Nilakantha bird (blue-throated roller) before you; offer roli, akshat, flowers, and incense with a lit lamp. Sighting the Nilakantha bird on this day is especially auspicious.
+- **Shami Pujan:** Go to a Shami tree or place a Shami branch at home; worship with water, akshat, flowers, and roli; recite the Shami mantra. Distribute Shami leaves among family as "gold" — the traditional rite of "looting gold."
+- **Seemollanghan:** Symbolically cross a boundary — begin a new endeavour, journey, or enterprise. This day is supremely auspicious for starting education, a new business, a home, or a marriage date; work begun today is believed to succeed.
+- **Ayudha Puja (southern tradition):** Worship vehicles, tools, books, and craft instruments; householders may worship the tools of their own livelihood.
+- **Ravan Dahan:** In the evening, participate in the local burning of effigies of Ravana, Kumbhakarna, and Meghnada — a resolve to destroy the ten inner vices.
+- **Exchange and aarti:** Send Shami leaves or sweets to family and friends as a symbol of victory and abundance; perform evening aarti of Rama, Durga, or the family deity and receive prasad.
+- **2026 date:** TODO-VERIFY (Ashwin Shukla Dashami)
 
 ## Mantras
 

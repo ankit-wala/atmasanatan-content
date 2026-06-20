@@ -61,20 +61,13 @@ Astika's katha teaches something more — compassion and forgiveness prevail. Wh
 
 ## Vidhi
 
-1. Take an early bath and install an image or clay figure of a serpent.
-2. Worship with milk, durva grass, flowers, and sandalwood.
-3. Listen to or read the Nag Panchami katha.
-4. Offer milk at a serpent's burrow or at a naga temple.
-5. Chant the naga mantra.
-6. Do not dig the earth on this day — it is a mark of respect for the naga's dwelling.
-
-## Observance
-
-**What not to do:** Do not harm serpents in any form. Do not dig the earth. In some regional traditions: avoid working with needles and thread.
-
-**Fast:** Not obligatory — but some devotees observe a one-meal sattvic fast.
-
-**2026 date:** Confirm on DrikPanchang (~August 17, 2026, Shravan Shukla Panchami).
+- **At dawn:** Take an early bath; install an image or clay figure of a serpent for worship.
+- **Offerings:** Worship with milk, durva grass, flowers, and sandalwood.
+- **Katha:** Listen to or read the Nag Panchami katha.
+- **Temple/burrow:** Offer milk at a serpent's burrow or at a naga temple; chant the naga mantra.
+- **Fasting:** Not obligatory — but some devotees observe a one-meal sattvic fast.
+- **Restrictions:** Do not harm serpents in any form; do not dig the earth (mark of respect for the naga's dwelling); in some regional traditions, avoid working with needles and thread.
+- **2026 date:** Confirm on DrikPanchang (~August 17, 2026, Shravan Shukla Panchami).
 
 ## Mantras
 

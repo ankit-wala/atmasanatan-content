@@ -93,20 +93,16 @@ In some traditions — according to the Brahma Vaivarta Purana — Vishnu went t
 
 ## Vidhi
 
-The traditional observance of Ganesh Chaturthi puja:
-
-1. **Morning bath and sankalp.** Bathe in the morning and take the sankalp (vow) of Ganesha's birth celebration.
-2. **Pratima sthapana.** Place an image of Ganesha in clay on a clean red or yellow cloth. Set before him flowers, fruit, modak, durva, incense, and a lamp.
-3. **Panchamrit abhishek.** Bathe Ganesha with the five nectars — milk, curd, ghee, honey, and sugar.
-4. **Durva offering.** Offer twenty-one blades of durva grass (dub) to Ganesha — in groups of three. Durva is especially dear to him.
-5. **Modak offering.** Offer modak made from coconut or sesame and jaggery — his most beloved food.
-6. **Red flowers.** Red roses, marigolds, or hibiscus are particularly favoured by Ganesha.
-7. **Shodashopachara puja.** Worship with the sixteen traditional services — fragrance, flowers, incense, lamp, food offering, aarti, and the rest.
-8. **Katha shravan.** After the puja, hear or recite the Ganesha birth katha — this is the heart of the festival.
-9. **Aarti.** Perform the aarti with "Jai Ganesh Jai Ganesh Deva." Distribute prasad (modak and fruit).
-10. **Visarjan.** For home installations, immersion may be on the 1.5th day, the 5th, 7th, or 10th day. For public pandals, immersion takes place on Anant Chaturdashi.
-
-**Note:** Do not look at the moon on this night. If you accidentally see it, hear the Syamantaka Mani katha — that entry is separate.
+- **At dawn:** Bathe in the morning and take the sankalp (vow) of Ganesha's birth celebration.
+- **Pratima sthapana:** Place a clay image of Ganesha on a clean red or yellow cloth; set before him flowers, fruit, modak, durva, incense, and a lamp.
+- **Panchamrit abhishek:** Bathe Ganesha with the five nectars — milk, curd, ghee, honey, and sugar.
+- **Durva offering:** Offer twenty-one blades of durva grass (dub) in groups of three — durva is especially dear to him.
+- **Offerings:** Offer modak made from coconut or sesame and jaggery (his most beloved food); also offer red roses, marigolds, or hibiscus.
+- **Shodashopachara puja:** Worship with the sixteen traditional services — fragrance, flowers, incense, lamp, food offering, aarti, and the rest.
+- **Katha shravan:** After the puja, hear or recite the Ganesha birth katha — this is the heart of the festival; perform aarti with "Jai Ganesh Jai Ganesh Deva" and distribute prasad (modak and fruit).
+- **Visarjan:** For home installations, immersion may be on the 1.5th day, the 5th, 7th, or 10th day; for public pandals, immersion takes place on Anant Chaturdashi.
+- **Note:** Do not look at the moon on this night. If you accidentally see it, hear the Syamantaka Mani katha — that entry is separate.
+- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Chaturthi)
 
 ## Mantras
 

@@ -37,17 +37,12 @@ In Rajasthani culture, Gangaur holds a place of reverence equal to Durga Puja. T
 
 ## Vidhi
 
-The Gangaur vrat begins on the second day of Holi (Chaitra Krishna Ekam) and continues for eighteen days until Chaitra Shukla Tritiya. Each morning, women fashion fresh clay idols of Isar and Gauri from potter's clay or black earth. The idols are adorned with colorful clothes, ornaments, and full bridal decoration. Fresh flowers, dub grass, sindoor, mehndi, suhaag offerings, and a water-filled kalash are the essential materials of worship. During the puja, Gangaur folk songs are sung — these songs are filled with the feelings of Mata Gauri and Isar's love, memories of the pihara, and the mood of the farewell hour. On the day of Chaitra Shukla Tritiya, the jal-yatra (jalzhelani) is held. Women lift the idols of Gauri and Isar onto their heads and carry them in a procession to a river, pond, or well, where they are immersed in the water — this is Gauri's return to Kailash.
-
-## Observance
-
-**Duration of the vrat:** From the day after Holi until Chaitra Shukla Tritiya — eighteen days. In some places, the vrat is kept only for the final three or five days.
-
-**Idol worship:** Each day, fresh clay idols are made, adorned, and worshipped with sixteen offerings. Dub grass, sindoor, and mehndi are offered with special care.
-
-**Songs and sixteen adornments:** The Gangaur folk songs are an inseparable part of the worship — without them the puja is considered incomplete. Women also dress themselves in the full sixteen adornments and wear yellow and red clothes.
-
-**Jal-yatra:** On Tritiya, the procession of Gauri and Isar to the river or pond and their immersion — the symbolic moment of Mata Gauri's farewell from her pihara.
+- **For whom:** Observed by married women (for their husband's long life and saubhagya) and unmarried girls (for a worthy husband); both observe the full eighteen-day vrat or its shortened three- or five-day form.
+- **Duration:** Begins the day after Holi (Chaitra Krishna Ekam) and continues for eighteen days until Chaitra Shukla Tritiya; in some places, the vrat is kept only for the final three or five days.
+- **Daily idol worship:** Each morning, fashion fresh clay idols of Isar and Gauri from potter's clay or black earth; adorn them with colorful clothes, ornaments, and full bridal decoration; offer fresh flowers, dub grass, sindoor, mehndi, suhaag offerings, and a water-filled kalash.
+- **Songs and sixteen adornments:** Sing Gangaur folk songs during worship — filled with Gauri and Isar's love, memories of the pihara, and the mood of the farewell — this is considered an inseparable part of the puja; women also dress themselves in the full sixteen adornments and wear yellow and red clothes.
+- **Jal-yatra (Tritiya):** On Chaitra Shukla Tritiya, lift the idols of Gauri and Isar onto the head; carry them in procession to a river, pond, or well for immersion — this is the symbolic moment of Mata Gauri's farewell from her pihara and return to Kailash.
+- **2026 date:** TODO-VERIFY (Chaitra Shukla Tritiya)
 
 ## Mantras
 

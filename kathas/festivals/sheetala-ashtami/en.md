@@ -35,17 +35,14 @@ In religious terms, Sheetala Mata is a compassionate mother, not a wrathful godd
 
 ## Vidhi
 
-Preparations for Sheetala Ashtami begin on the evening of Saptami. That evening, dal-bati, rice, rotis, pua, and sweet dishes are cooked and set aside. On Ashtami no fire is lit in the house — this is the heart of the observance. In the morning, bathe and go to Mata's temple or the household shrine. Offer cold water, curd, neem leaves, sindhur, and the basi bhojan prepared the previous evening. Perform abhishek on Mata's image or portrait with water. Place neem leaves at her feet. Light incense and a lamp. After the puja, this same basi bhojan is distributed as prasad throughout the family, and everyone eats only this food through the day. This is not an upvas (fast) but a "basi bhojan vrat" — an abstention from fire.
-
-## Observance
-
-**Basi bhojan:** On Saptami evening, prepare the entire next day's food — dal, rotis, pua, rice, sweet dishes — and set it aside. On Ashtami this cold food is offered to Mata and then shared among the family. Freshly cooked hot food is forbidden all day.
-
-**Fasting:** This is not a complete fast. Some devotees — especially those with young children — observe a salt-free fast or subsist on fruit. Elderly women typically take only basi bhojan and curd with water.
-
-**Mata's puja:** Bathe in cold water at dawn and perform the puja of Sheetala Mata. Carry basi bhojan, curd, and neem leaves to the temple in an earthen vessel. The puja includes offerings of sindhur, akshat, flowers, and water.
-
-**Neem leaves:** Neem is Sheetala Mata's sacred tree. Offering neem leaves to the goddess is essential. Tying a neem branch above the doorway of the home is considered protection against disease. After the puja, taking a little neem juice or a few tender neem leaves is also part of the tradition.
+- **Saptami evening (prep):** Cook all food — dal-bati, rotis, pua, rice, and sweet dishes — and set it aside; this basi bhojan will be both tomorrow's offering and the family's meal.
+- **No fire on Ashtami:** Do not light the hearth all day; freshly cooked hot food is forbidden — this is the heart of the observance.
+- **Fasting:** This is not a complete upvas but a basi bhojan vrat (abstention from fire); those with young children may observe a salt-free fast or subsist on fruit; elderly women typically take only basi bhojan and curd with water.
+- **At dawn:** Bathe in cold water; carry basi bhojan, curd, and neem leaves to Mata's temple or household shrine in an earthen vessel.
+- **Puja:** Perform abhishek on Mata's image with cold water; offer sindhur, akshat, flowers, and the basi bhojan; place neem leaves at her feet; light incense and a lamp.
+- **Neem:** Offering neem leaves is essential — neem is Sheetala Mata's sacred tree; tie a neem branch above the doorway for protection against disease; taking a little neem juice or a few tender neem leaves after puja is also traditional.
+- **Prasad:** After puja, the basi bhojan is distributed as prasad and everyone in the household eats only this food through the day.
+- **2026 date:** TODO-VERIFY (Chaitra Krishna Ashtami)
 
 ## Mantras
 

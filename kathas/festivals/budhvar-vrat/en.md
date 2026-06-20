@@ -57,33 +57,16 @@ Budh's colour is green. Green is the symbol of freshness, balance, and intellect
 
 ## Vidhi
 
-**Morning:**
-1. Rise before sunrise and bathe.
-2. Wear green garments.
-3. First perform worship of Ganesha — Wednesday is also associated with Ganesha.
-4. Before Budh Dev's murti or picture, offer green flowers, durva, incense, and a lamp.
-5. Chant *Om Bum Budhaya Namah* — at least 108 times.
-6. Recite the Budh stuti.
-
-**Prasad:**
-Green moong dal, green vegetables, or spinach as prasad. Use green cardamom in sweets.
-
-**Special:**
-Students may place their textbooks at the place of worship on this day and pray to Budh Dev for intellect and memory.
-
-## Observance
-
-**Fasting:** Abstaining from grains, one meal, or fruit only — according to one's capacity and tradition. In some traditions, salt is forbidden.
-
-**Duration of the vrat:** Begin on any Wednesday. Traditions of twenty-one or twenty-seven Wednesdays exist. According to the sankalpa.
-
-**Breaking the fast:** Thursday morning after sunrise, offering thanks to Budh Dev.
-
-**Colour:** Green — in garments, flowers, bhog, throughout.
-
-**What not to do:** Speaking falsehood, speaking ill of others, or engaging in verbal disputes is considered forbidden on this day — for it is the day of the deity of speech.
-
-**2026 dates:** Confirm on DrikPanchang.
+- **At dawn:** Rise before sunrise and bathe; wear green garments throughout the day.
+- **Puja:** Perform worship of Ganesha first (Wednesday is associated with Ganesha); then before Budh Dev's murti or picture offer green flowers, durva, incense, and a lamp.
+- **Mantra:** Chant *Om Bum Budhaya Namah* at least 108 times; recite the Budh stuti.
+- **Prasad:** Green moong dal, green vegetables, or spinach; use green cardamom in sweets.
+- **Fasting:** Abstain from grains (one meal or fruit only) according to capacity and tradition; in some traditions salt is also forbidden.
+- **For whom:** Especially fruitful for merchants, students, writers, and all who earn their livelihood through speech and discernment. Students may place textbooks at the place of worship and pray for intellect and memory.
+- **Duration:** Begin on any Wednesday; traditions of 21 or 27 consecutive Wednesdays exist according to sankalpa.
+- **Breaking the fast:** Thursday morning after sunrise, offering thanks to Budh Dev.
+- **Note:** Speaking falsehood, speaking ill of others, or verbal disputes are to be avoided — it is the day of the deity of speech.
+- **2026 date:** Confirm on DrikPanchang (every Wednesday)
 
 ## Mantras
 

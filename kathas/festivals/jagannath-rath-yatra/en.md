@@ -43,25 +43,14 @@ The message is stark and beautiful: the Lord who lives behind temple walls goes 
 
 ## Vidhi
 
-The primary observances of Rath Yatra are darshan, pulling the chariot rope, and parikrama.
-
-**Darshan:** On Ashadha Shukla Dwitiya, seek darshan of Lord Jagannath, Balabhadra, and Subhadra on their chariots. If you cannot travel to Puri, visit the nearest Jagannath temple or attend a local Rath Yatra procession.
-
-**At home:**
-1. Bathe in the morning. Set up images of Jagannath, Balabhadra, and Subhadra.
-2. Offer yellow flowers, tulsi, and a ghee diya.
-3. Lord Jagannath's beloved offering is mahaprasad — especially rice and khichdi.
-4. Chant "Jai Jagannath" through the day.
-
-**Fasting:** Many devotees observe a fast on this day and take prasad in the evening.
-
-## Observance
-
-**Mahaprasad:** The prasad cooked at the Jagannath temple in Puri is considered supremely sacred. It is called Mahaprasad, and by tradition it may be received by anyone, regardless of caste — a living demonstration that before the Lord, all distinctions fall away.
-
-**Bahuda Yatra:** Nine days after Rath Yatra (Ashadha Shukla Dashami), the three deities return to the main temple. This return journey is called Bahuda Yatra and is celebrated with equal devotion.
-
-**Seven days:** According to the Skanda Purana, the full seven days of the festival carry special merit — the Lord himself said the darshan of each day accumulates differently.
+- **Darshan:** On Ashadha Shukla Dwitiya, seek darshan of Lord Jagannath, Balabhadra, and Subhadra on their chariots; if unable to travel to Puri, visit the nearest Jagannath temple or attend a local Rath Yatra procession.
+- **At home — morning:** bathe, then set up images of Jagannath, Balabhadra, and Subhadra; offer yellow flowers, tulsi, and a ghee diya.
+- **Offerings:** Lord Jagannath's beloved offering is mahaprasad — especially rice and khichdi; chant "Jai Jagannath" through the day.
+- **Fasting:** many devotees observe a fast on this day and take prasad in the evening.
+- **Mahaprasad:** the prasad from the Puri temple is supremely sacred and may be received by anyone regardless of caste — before the Lord, all distinctions fall away.
+- **Seven days:** the full seven days of the festival carry special merit — per the Skanda Purana, the Lord himself said darshan of each day accumulates differently; darshan at night carries ten times the merit of day.
+- **Bahuda Yatra:** nine days after Rath Yatra (Ashadha Shukla Dashami) the three deities return to the main temple — observe with equal devotion.
+- **2026 date:** TODO-VERIFY (Ashadha Shukla Dwitiya)
 
 ## Mantras
 

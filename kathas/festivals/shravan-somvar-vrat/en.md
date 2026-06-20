@@ -49,26 +49,15 @@ When the confluence of Shravan and Monday occurs — this is no longer ordinary 
 
 ## Vidhi
 
-This vrat is observed on all four Mondays of Shravan.
-
-1. On Monday, after the morning bath, visit a Shiva temple or worship at a Shivalinga at home.
-2. Perform abhisheka with water, milk, curd, honey, ghee, and Ganga water.
-3. Offer bilva leaves, datura, bhang, white arka flowers, and sandalwood.
-4. Listen to or read the Shravan Somvar Vrat katha.
-5. Chant *Oṃ Namaḥ Śivāya*.
-6. At dusk, perform worship again at the pradosha time.
-7. Observe the fast — with fruits or without any food.
-8. Break the fast the following day (Tuesday) after sunrise.
-
-## Observance
-
-**Breaking the fast:** Break the fast the following morning (Tuesday) after sunrise.
-
-**Special in Shravan:** This month holds a special tradition of jalabhisheka at Shiva temples. The "Bol Bam" pilgrimages also take place in this month.
-
-**All four Mondays:** All four Mondays are equal — none "lesser" or "greater." Observe all four if possible. Even one or two is auspicious.
-
-**2026 Shravan Mondays:** August 3, 10, 17, 24 (confirm on DrikPanchang).
+- **For whom:** Observe on all four Mondays of Shravan; all four are equal — none lesser or greater; observing all four is ideal, even one or two is auspicious.
+- **Fasting:** Fast from morning through the day — with fruits only or without any food; break the fast the following morning (Tuesday) after sunrise.
+- **At dawn:** After the morning bath, visit a Shiva temple or worship at a Shivalinga at home.
+- **Abhisheka:** Perform abhisheka with water, milk, curd, honey, ghee, and Ganga water.
+- **Offerings:** Offer bilva leaves, datura, bhang, white arka flowers, and sandalwood.
+- **Puja:** Listen to or read the Shravan Somvar Vrat katha; chant *Oṃ Namaḥ Śivāya*.
+- **Evening:** Perform worship again at pradosha time (dusk).
+- **Special in Shravan:** This month holds a special tradition of jalabhisheka at Shiva temples; the "Bol Bam" pilgrimages also take place during this month.
+- **2026 Shravan Mondays:** August 3, 10, 17, 24 (TODO-VERIFY on DrikPanchang)
 
 ## Mantras
 

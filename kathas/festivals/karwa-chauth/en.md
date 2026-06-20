@@ -85,33 +85,15 @@ Veeravati's katha says something profound — a lapse in devotion means the fast
 
 ## Vidhi
 
-1. **Sargi — before sunrise:** The mother-in-law gives her daughter-in-law the sargi — dry fruits, sweets, fruit, sindoor, bangles. This is the mother-in-law's blessing. Eat the sargi before sunrise and take the vow of the fast.
-
-2. **The vow:** "On Kartik Krishna Chaturthi I observe a complete waterless fast — for my husband's long life, good health, and auspiciousness. I will break my fast only after viewing the moon."
-
-3. **Solah shringar:** On Karwa Chauth there is a tradition of the sixteen adornments of married life — including sindoor, mehendi, bangles, and the mangalsutra.
-
-4. **Evening puja:** In the evening, all the married women of the household gather. Arrange the thali with the karva, lamp, roli, mehendi, and sweets. Perform Ganesh puja and then listen to the Karwa Chauth katha.
-
-5. **Karva puja:** Fill the earthen karva with water, draw a swastika on its mouth with roli. Circle the karva seven times and offer it to a neighbour, saying: "Leve karva, deve suhag" — "Take the karva, give the blessing of a husband."
-
-6. **Moon viewing:** When the moon rises — first view the moon through the chhalni, then through that same sieve look at your husband's face.
-
-7. **Arghya to the moon:** Offer water through the chhalni: "Chandra Dev, grant my husband long life."
-
-8. **Paran (breaking the fast):** Receive the first water from your husband's hand, then take food. This is the paran (paran = breaking of a fast).
-
-**2026 date:** Verify on DrikPanchang (Kartik Krishna Chaturthi — approximately October 29, 2026).
-
-## Observance
-
-**Waterless fast:** From sunrise to moonrise — neither water nor food. This is the fundamental rule of this vrat.
-
-**Sargi:** It is auspicious to receive the sargi from the mother-in-law's hands before sunrise. Where the mother-in-law is not present, the elder sister-in-law or the most senior woman of the family may give the sargi.
-
-**Waiting for the moon:** The fast is broken only after the actual moonrise — this is precisely what Veeravati's katha teaches us.
-
-**Paran:** Receiving water and food from the husband's hand is the final and most important link in this vrat.
+- **For whom:** Observed by married women — for their husband's long life, good health, and auspiciousness.
+- **Sargi (before sunrise):** Receive the sargi from the mother-in-law's hands — dry fruits, sweets, fruit, sindoor, bangles; eat before sunrise and take the vow: "On Kartik Krishna Chaturthi I observe a complete waterless (nirjal) fast until I view the moon." Where the mother-in-law is not present, the elder sister-in-law or most senior woman of the family may give the sargi.
+- **Fasting:** From sunrise to moonrise — neither water nor food (nirjal); the fast is not broken without sighting the actual moon.
+- **Solah shringar:** Wear the sixteen adornments of married life — sindoor, mehendi, bangles, mangalsutra.
+- **Evening puja:** Gather with married women of the household; arrange the thali with the karva, lamp, roli, mehendi, and sweets; perform Ganesh puja first, then listen to the Karwa Chauth katha.
+- **Karva puja:** Fill the earthen karva with water; draw a swastika on its mouth with roli; circle the karva seven times and offer it to a neighbour saying *"Leve karva, deve suhag"* ("Take the karva, give the blessing of a husband").
+- **Moon viewing and arghya:** When the moon rises, first view it through the chhalni (sieve), then through the same sieve look at your husband's face; offer water through the chhalni to Chandra Dev.
+- **Paran (breaking the fast):** Receive the first water and food from your husband's hand — this is the final and most important act of the vrat.
+- **2026 date:** TODO-VERIFY (Kartik Krishna Chaturthi — approximately October 29, 2026)
 
 ## Mantras
 

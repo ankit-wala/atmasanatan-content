@@ -57,26 +57,13 @@ This vrat is especially meant for newly-wed women — but every married woman ma
 
 ## Vidhi
 
-This vrat is observed on each Tuesday of the month of Shravan.
-
-**Method of worship:**
-1. Rise early and bathe; wear red or yellow clothes.
-2. Install an image or idol of Maa Gauri.
-3. Perform the shodashopachara puja — in the regional tradition, each item in sets of sixteen: sixteen flowers, sixteen fruits, sixteen areca nuts, sixteen cardamom, sixteen betel leaves, sixteen bindi/tikuli.
-4. Also offer items of shringar (sindoor, bangles, bindi).
-5. Listen to or read the Mangala Gauri Katha.
-6. Perform the aarti.
-7. Observe the fast — one sattvic meal.
-
-## Observance
-
-**Breaking the fast:** After each Tuesday's evening puja — break the fast; or the following morning as well.
-
-**For newly-wed women:** In the Maharashtra and regional tradition, observing this vrat for the first five Shravans is considered especially auspicious.
-
-**The count of sixteen:** In some regional traditions, each item of offering is given in sets of sixteen. If sixteen is not possible, worship following the standard shodashopachara method.
-
-**2026 Shravan Tuesdays:** August 4, 11, 18, 25 (confirm on DrikPanchang).
+- **When:** Each Tuesday of the month of Shravan; observe for the first five Shravans after marriage — especially auspicious for newly-wed women.
+- **At dawn:** Rise early and bathe; wear red or yellow clothes.
+- **Puja setup:** Install an image or idol of Maa Gauri; perform the shodashopachara puja — in the regional tradition each item in sets of sixteen: sixteen flowers, sixteen fruits, sixteen areca nuts, sixteen cardamom, sixteen betel leaves, sixteen bindi/tikuli; if sixteen is not possible, follow the standard shodashopachara method.
+- **Shringar offerings:** Also offer sindoor, bangles, and bindi.
+- **Katha and aarti:** Listen to or read the Mangala Gauri Katha; then perform the aarti.
+- **Fasting:** Observe the fast — one sattvic meal; break the fast after the evening puja, or the following morning.
+- **2026 date:** TODO-VERIFY (Shravan Tuesdays — approx. August 4, 11, 18, 25)
 
 ## Mantras
 

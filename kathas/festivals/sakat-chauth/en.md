@@ -57,34 +57,13 @@ The offering of til-gud suits the winter month of Pausha — both sesame and jag
 
 ## Vidhi
 
-**At dawn:**
-1. Bathe before or at sunrise.
-2. Take your vow (sankalpa) — dedicating the fast to Ganesha while holding your son's name in your heart.
-3. Observe complete fasting through the day — abstaining from both food and water. (Those who cannot remain without water may drink, according to tradition.)
-
-**At evening — Ganesha puja:**
-1. Establish a clay image of Ganesha, or perform the puja before the Ganesha murti in your home.
-2. Prepare an offering of til-gud laddoos and modak.
-3. Light a lamp; offer flowers and durva grass.
-4. Chant: Oṃ gaṃ gaṇapataye namaḥ
-5. Perform the aarti of Ganesha.
-
-**At night — after chandrodaya:**
-1. As soon as the moon is sighted in the sky, offer bhog to Ganesha.
-2. Offer water (jal arpan).
-3. Receive prasad and break the fast.
-
-## Observance
-
-Fasting: A complete nirjal (waterless) fast is the ideal. Those unable to observe it may take water — but not food.
-
-Breaking the fast: Only after chandrodaya — the fast is not broken without first beholding the moon. This rule is binding.
-
-Offerings (bhog): Til-gud laddoos, modak, and seasonal fruit. Offer to Ganesha first, then receive yourself.
-
-For whom: This vrat is observed primarily by mothers for the welfare of their sons. It may also be kept for a daughter. In many regions, married women keep it for both husband and son.
-
-2026 date: Confirm on DrikPanchang — Pausha Krishna Chaturthi.
+- **At dawn:** Bathe before or at sunrise; take the sankalpa — dedicate the fast to Ganesha, holding your son's name in your heart.
+- **Fasting:** Observe a complete nirjal (waterless) fast through the day — the ideal; those unable to remain without water may drink, but not eat.
+- **Evening puja:** Establish a clay image of Ganesha (or worship the home murti); prepare til-gud laddoos and modak as bhog; light a lamp; offer flowers and durva grass; chant Oṃ gaṃ gaṇapataye namaḥ; perform aarti.
+- **At night:** Sight the moon at chandrodaya — the fast is not broken before beholding the moon (this rule is binding); offer bhog and jal arpan to Ganesha; receive prasad and break the fast.
+- **Offerings:** Til-gud laddoos, modak, and seasonal fruit; offer to Ganesha first, then receive as prasad.
+- **For whom:** Observed primarily by mothers for the welfare of their sons; may also be kept for a daughter; in many regions married women keep it for both husband and son.
+- **2026 date:** TODO-VERIFY (Pausha Krishna Chaturthi)
 
 ## Mantras
 

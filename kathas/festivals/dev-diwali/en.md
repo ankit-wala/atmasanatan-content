@@ -99,30 +99,15 @@ The Shiva Purana tradition holds that one who bathes in the Ganga and performs l
 
 ## Vidhi
 
-The traditional observance of Dev Diwali:
-
-1. **Kartik Bath:** Rise at Brahma Muhurta and bathe in the Ganga or another sacred river. Those for whom this is not possible may bathe at home, adding Gangajal to their water and meditating on the Ganga.
-
-2. **Shiva Worship:** Visit a Shiva temple or worship the Shiva Linga at home. Offer water, milk, bel leaves, datura, bhasma, and white flowers. Chant "Om Namah Shivaya."
-
-3. **Hearing the Katha of Tripura Dahana:** Sit with the family and listen to or read the story of the burning of Tripura from the Shiva Purana. This is the heart of this celebration.
-
-4. **Evening Lamp Offering:** After sunset, light clay lamps at the ghat or near a sacred body of water. Float the lamps in the water. Those in Kashi should go to the Ganga ghats.
-
-5. **Decoration of the Home with Lamps:** Light lamps in every corner of the home, near the Tulsi plant, and at the main entrance. It is believed that on this night the gods themselves move through the earth.
-
-6. **Charity and Prasad:** Along with the lamp offering, give food, clothing, and til-gur in charity according to one's means. Distribute prasad among neighbours and the poor.
-
-7. **Completion of the Kartik Vrat:** For those who have bathed daily in a sacred river throughout the month of Kartik (from Ekadashi to Ekadashi), this Purnima is the conclusion of that vrat. The lamp offering on the night of the full moon completes the vow.
-
-## Observance
-
-- **Day:** Kartik Shukla Purnima — exactly fifteen days after Diwali.
-- **Timing:** Evening — lamp offering after sunset. Ganga-snana at Brahma Muhurta.
-- **Completion of Kartik Snana:** The tradition of bathing daily in a sacred river throughout the month of Kartik is completed on this Purnima. This is known as the "Kartik Snana Vrat."
-- **Special significance in Kashi:** The celebration in Varanasi is unmatched — millions of lamps blaze on all the major ghats including Dashashwamedh, Manikarnika, and Assi. Offering lamps while seated in a boat on the Ganga is considered especially meritorious.
-- **What to do:** Light a lamp before the Tulsi plant. Worship both Shiva and Vishnu (Vishnu too played his part in the burning of Tripura).
-- **What to avoid:** Do not consume meat or intoxicants on this night. Do not leave lamps to go out — let them burn on.
+- **At dawn (Brahma Muhurta):** Rise and bathe in the Ganga or another sacred river; those unable to go to the river may bathe at home adding Gangajal to the water and meditating on the Ganga.
+- **Shiva worship:** Visit a Shiva temple or worship the Shiva Linga at home; offer water, milk, bel leaves, datura, bhasma, and white flowers; chant "Om Namah Shivaya." Also worship Vishnu — he too played his part in the burning of Tripura.
+- **Katha of Tripura Dahana:** Sit with the family and listen to or read the story of the burning of Tripura from the Shiva Purana — this is the heart of the celebration.
+- **Evening lamp offering:** After sunset, light clay lamps at the ghat or near a sacred body of water and float them in the water; those in Kashi should go to the Ganga ghats — the celebration in Varanasi is unmatched, with millions of lamps blazing at Dashashwamedh, Manikarnika, and Assi ghats; offering lamps from a boat on the Ganga is especially meritorious.
+- **Decoration of the home:** Light lamps in every corner of the home, near the Tulsi plant, and at the main entrance; it is believed that on this night the gods themselves move through the earth. Do not let the lamps go out — let them burn on.
+- **Charity:** Give food, clothing, and til-gur in charity according to one's means; distribute prasad among neighbours and the poor.
+- **Completion of Kartik Snana Vrat:** For those who have bathed daily in a sacred river throughout the month of Kartik, this Purnima concludes that vrat; the lamp offering on the night of the full moon completes the vow.
+- **What to avoid:** Do not consume meat or intoxicants on this night.
+- **2026 date:** TODO-VERIFY (Kartik Shukla Purnima — fifteen days after Diwali)
 
 ## Mantras
 

@@ -73,27 +73,15 @@ Akshaya Navami is the tithi of **the meeting of nature and the Divine**.
 
 ## Vidhi
 
-1. **Morning bath and sankalpa:** On Kartik Shukla Navami, rise before sunrise. Bathe and put on clean clothes. Take water in your hands and make the resolve — "Today, on Akshaya Navami, I worship Lord Vishnu and the dhātrī tree."
-
-2. **Worship of the amla tree:** Go to the amla tree. Offer water at its roots. Apply roli and akshat to the trunk, then offer flowers and a lamp. Light incense.
-
-3. **Three circumambulations:** Circumambulate the amla tree three times. Recite the dhātrī mantra with each round. While circling, you may also tie a sacred thread around the tree.
-
-4. **Remembrance of Vishnu:** Standing before the tree, chant "Oṃ Namo Bhagavate Vāsudevāya." Hold in your heart the awareness that Lord Vishnu is present within this tree.
-
-5. **Meal beneath the tree:** Sit beneath the amla tree and take a meal — this is the most important observance of this festival. Be sure to include amla in the meal (amla murabba, chutney, or pickle).
-
-6. **Charity:** Charity given on this day bears inexhaustible fruit — offer a meal to a brahmin, clothing or grain to the poor. Include amla in this gift as well.
-
-## Observance
-
-**Fasting:** Many women observe a fast on this day and take their meal only after worshipping the amla tree, eating beneath it as the pāraṇa (breaking of the fast).
-
-**What to eat:** During the fast, eating once (ekāhāra) or taking only fruit (falāhāra) is appropriate. The pāraṇa meal made with amla is considered especially meritorious.
-
-**The tradition of eating beneath the tree:** Members of the family sit together beneath the amla tree and share a meal. This collective observance is a symbol of family unity and prosperity.
-
-**Tithi awareness:** Kartik Shukla Navami falls two days before Devuthani Ekadashi. The ongoing Kartik snan at this time further multiplies the merit of this festival.
+- **Morning bath and sankalpa:** On Kartik Shukla Navami, rise before sunrise; bathe, put on clean clothes, and take the resolve — "Today, on Akshaya Navami, I worship Lord Vishnu and the dhātrī tree."
+- **Worship of the amla tree:** Go to the amla tree; offer water at its roots; apply roli and akshat to the trunk; offer flowers, a lamp, and incense.
+- **Three circumambulations:** Circumambulate the amla tree three times, reciting the dhātrī mantra each round; you may also tie a sacred thread around the tree while circling.
+- **Remembrance of Vishnu:** Standing before the tree, chant "Oṃ Namo Bhagavate Vāsudevāya" — holding in your heart the awareness that Lord Vishnu is present within the tree.
+- **Fasting:** Many women observe a fast on this day — ekāhāra (eating once) or falāhāra (fruit only) is appropriate.
+- **Meal beneath the tree:** Sit beneath the amla tree and take a meal together as a family — this is the most important observance; include amla (murabba, chutney, or pickle). This meal serves as the pāraṇa for those fasting.
+- **Charity:** Offer a meal to a brahmin, clothing or grain to the poor — charity given on this akshaya tithi bears inexhaustible fruit; include amla in the gift.
+- **Note:** Kartik Shukla Navami falls two days before Devuthani Ekadashi — the ongoing Kartik snan further multiplies the merit of this festival.
+- **2026 date:** TODO-VERIFY (Kartik Shukla Navami)
 
 ## Mantras
 

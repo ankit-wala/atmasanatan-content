@@ -57,36 +57,16 @@ Yellow is Brihaspati's colour — the light of knowledge, the richness of gold. 
 
 ## Vidhi
 
-**Morning:**
-1. Rise before sunrise and bathe.
-2. Wear yellow garments.
-3. Offer water to the banana tree in the courtyard or at the temple. Offer yellow flowers, turmeric, and sandalwood paste.
-4. Light incense and a lamp before the images of Brihaspati Dev and Vishnu; offer yellow flowers and tulsi leaves.
-5. Offer chana dal and jaggery as bhog.
-6. Chant *Om Brim Brihaspataye Namah* — at least 108 times.
-
-**Listening to the Katha:**
-Listening to the Brihaspativar Vrat katha is considered an essential part of this vrat. Listen to or read the katha together with family.
-
-**Prasad:**
-Chana dal, jaggery, banana — these are the traditional prasad of this vrat. Yellow foods hold special importance — turmeric-tinted rice, besan halwa.
-
-**Donation of Bananas:**
-Donating bananas on this day — to a brahmin, at the temple, or to someone in need — is considered highly meritorious.
-
-## Observance
-
-**Fasting:** Complete fast or eating once. In some traditions, banana and water suffice. Abstaining from salt is the practice in several traditions.
-
-**What to avoid:** Do not wash or cut hair on this day — this is the traditional belief. Yellow garments are considered the best choice.
-
-**Duration of the vrat:** Twenty-one Thursdays is the most common number. Some traditions observe sixteen Thursdays. A sankalpa may also be taken for as long as the wish remains unfulfilled.
-
-**Paran:** Friday morning, after sunrise, with gratitude to Brihaspati Dev and Vishnu.
-
-**Sankalpa:** On the first Thursday, take the sankalpa — for what purpose and for how many Thursdays.
-
-**2026 dates:** Confirm on DrikPanchang.
+- **Fasting:** Complete fast or eating once; in some traditions banana and water suffice; abstaining from salt is the practice in several traditions.
+- **Sankalpa:** On the first Thursday, take the sankalpa — state the purpose and the number of Thursdays (twenty-one is most common; sixteen in some traditions; or until the wish is fulfilled).
+- **At dawn:** Rise before sunrise, bathe, and wear yellow garments.
+- **Banana tree worship:** Offer water, yellow flowers, turmeric, and sandalwood paste to the banana tree in the courtyard or at the temple.
+- **Puja:** Light incense and a ghee lamp before the images of Brihaspati Dev and Vishnu; offer yellow flowers and tulsi leaves; offer chana dal and jaggery as bhog.
+- **Mantra:** Chant *Om Brim Brihaspataye Namah* at least 108 times; listen to or read the Brihaspativar Vrat katha together with family — this is considered an essential part of the vrat.
+- **Prasad and charity:** Distribute chana dal, jaggery, and banana as prasad; donate bananas to a brahmin, at the temple, or to someone in need — considered highly meritorious; yellow foods (turmeric-tinted rice, besan halwa) hold special importance.
+- **What to avoid:** Do not wash or cut hair on this day.
+- **Breaking the fast:** Paran on Friday morning after sunrise, with gratitude to Brihaspati Dev and Vishnu.
+- **2026 dates:** Confirm on DrikPanchang.
 
 ## Mantras
 

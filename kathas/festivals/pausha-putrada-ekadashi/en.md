@@ -37,29 +37,14 @@ The scriptures note that Pausha Putrada and Shravana Putrada are two distinct Ek
 
 ## Vidhi
 
-**Ekadashi (the day of fasting):**
-
-- From the night of Dashami itself, give up tamasic food and unnecessary speech.
-- On the morning of Ekadashi, bathe and wear clean clothes.
-- Before the image or picture of Lord Vishnu, perform worship with a lamp, incense, tulasi leaves, yellow flowers, and panchamrita.
-- Recite the Vishnu Sahasranama or listen to and read this katha.
-- In the evening, perform aarti again.
-- Keep the night vigil — sing the Lord's name or read scripture through the night.
-
-**Dwadashi (the day of breaking the fast — parana):**
-
-- After sunrise, break the fast during the auspicious parana window.
-- First take tulasi water and the Lord's prasad.
-- Offer a meal and donation to a Brahmin or someone in need.
-
-## Observance
-
-- **Fasting:** A complete nirjala (waterless) fast is considered the highest observance. Those who are unable may take fruit — but grains, lentils, and rice must be given up entirely.
-- **Night vigil:** Keep the vigil through the night as fully as your strength allows. Staying awake until midnight also earns great merit.
-- **Tulasi:** Tulasi is especially dear to Lord Vishnu — always offer tulasi leaves during the worship.
-- **Longing for a child:** Couples who observe this vow for the blessing of a child should worship together and make their sankalpa (vow of intention) before the Lord with sincere hearts.
-- **Parana timing:** It is scripturally proper to break the fast after sunrise on Dwadashi and before midday. Take tulasi water before eating.
-- **What to avoid:** Do not eat rice on Ekadashi. Avoid needless argument, anger, and untruth.
+- **Dashami night:** Give up tamasic food and unnecessary speech from the night of Dashami itself.
+- **At dawn:** Bathe and wear clean clothes on Ekadashi morning.
+- **Puja:** Before the image or picture of Lord Vishnu, perform worship with a lamp, incense, tulasi leaves, yellow flowers, and Panchamrita; recite the Vishnu Sahasranama or listen to and read this katha; perform aarti again in the evening.
+- **Fasting:** A complete nirjala (waterless) fast is the highest observance; those who are unable may take fruit — grains, lentils, and rice must be given up entirely. Do not eat rice on Ekadashi; avoid needless argument, anger, and untruth.
+- **For whom:** Couples longing for a child should worship together and make their sankalpa before the Lord with sincere hearts; offer tulasi leaves always — tulasi is especially dear to Lord Vishnu.
+- **At night:** Keep vigil through the night — sing the Lord's name or read scripture; staying awake until midnight also earns great merit.
+- **Breaking the fast:** After sunrise on Dwadashi, before midday — take tulasi water and the Lord's prasad first, then break the fast; offer a meal and donation to a Brahmin or someone in need.
+- **2026 date:** TODO-VERIFY (Pausha Shukla Ekadashi)
 
 ## Mantras
 

@@ -86,26 +86,13 @@ On the sixth day of Navratri the practice centres on the Ajna Chakra — the poi
 
 ## Vidhi
 
-1. **Bathe in the morning** and wear red garments — the colour of the sixth day.
-2. **Install an image or idol of Maa Katyayani.** Meditate on her lion-mount and four-armed form.
-3. **Offer red flowers** — hibiscus, red roses, or any red flower is especially dear to her.
-4. **Offer honey as bhog** — offering honey to Maa Katyayani on the sixth day is considered especially fruitful.
-5. **Light a lamp of cow's ghee.** Perform aarti with incense and lamp.
-6. **Recite the dhyana shloka and the Ya Devi stotra** (see mantras below).
-7. **Chant "Om Katyainyai Namah" 108 times.**
-8. **Perform aarti** and distribute prasad.
-
-**2026 date:** Confirm on DrikPanchang (Ashwin Shukla Shashthi — ~October 16, 2026).
-
-## Observance
-
-**Navratri vrat continues:** The Navratri fast that began on Pratipada continues on the sixth day. A single sattvik meal (fruit, milk, sabudana) or complete fasting — according to the devotee's strength and resolve.
-
-**Colour:** Wear **red** garments on this day — a symbol of power and victory.
-
-**Special resolve:** On the sixth day, take this sankalpa in the heart — whatever 'Mahishasura' lives within — that is, whatever fear, arrogance, or adharma is present — may Maa Katyayani destroy it.
-
-**Timing:** Performing puja in the early morning Brahma Muhurta is considered best. Aarti and japa may also be done at dusk.
+- **At dawn:** Bathe and wear red garments — the colour of the sixth day; performing puja in the Brahma Muhurta is considered best.
+- **Puja:** Install an image or idol of Maa Katyayani; meditate on her lion-mount and four-armed form; light a lamp of cow's ghee; perform aarti with incense and lamp; aarti and japa may also be done at dusk.
+- **Offerings:** Red flowers (hibiscus, red roses, or any red flower); **honey as bhog** — offering honey on the sixth day is considered especially fruitful.
+- **Recitation:** Recite the dhyana shloka and the Ya Devi stotra; chant "Om Katyainyai Namah" 108 times; distribute prasad.
+- **Fasting:** The Navratri fast continues — a single sattvik meal (fruit, milk, sabudana) or complete fasting according to the devotee's strength and resolve.
+- **Special sankalpa:** On this day resolve in the heart — may Maa Katyayani destroy whatever 'Mahishasura' lives within (fear, arrogance, adharma).
+- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Shashthi — ~October 16, 2026).
 
 ## Mantras
 

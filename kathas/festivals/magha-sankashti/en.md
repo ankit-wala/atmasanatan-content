@@ -57,33 +57,15 @@ Magha is a special month in the Hindu calendar — Mauni Amavasya, Ratha Saptami
 
 ## Vidhi
 
-This vrata is observed on Magha Krishna Chaturthi.
-
-1. **Morning sankalpa:** Rise before sunrise and bathe. Take the sankalpa — "I observe the Sankashti vrata on Magha Krishna Chaturthi. I will break my fast only after sighting the moon."
-
-2. **Fast:** Waterless or fruit-based fast from sunrise to moonrise. According to family tradition.
-
-3. **Installing Ganesha:** Spread a red cloth and install the image or picture of Ganesha. Place a water-pot nearby.
-
-4. **Puja materials:** Red flowers, durva (21 durva are especially dear to Ganesha), modak, laddus, betel leaf, sindura, incense, lamp.
-
-5. **Puja:** Worship with panchopachara or shodasopachara. Chant Ganesha stotra, Ganesha Chalisa, or "OM Gam Ganapataye Namah."
-
-6. **Hearing the katha:** Read or hear the katha of Magha Sankashti.
-
-7. **Sighting the moon:** At night when the moon rises — first sight the moon, offer arghya with water, and offer salutations to Ganesha as well.
-
-8. **Parana:** After sighting the moon, first take Ganesha's prasad (modak), then drink water and take food.
-
-## Observance
-
-**Rule of fasting:** This vrata runs from sunrise to moonrise. Waterless fasting is considered most excellent; fruit-based diet is also acceptable — but grains and salt are prohibited.
-
-**The importance of moonrise:** The rule of the Sankashti vrata is that the vrata is not complete without sighting the moon. Even if clouds are present, one may observe parana at the designated time of moonrise by checking that time.
-
-**The special tradition of Magha Sankashti:** For those devotees who perform all twelve Sankashti vratas through the year, there is a tradition of udyapana at Magha Sankashti — feeding of brahmanas, distribution of modak, and darshana at a Ganesha temple.
-
-**2026 date:** Confirm on DrikPanchang — Magha Krishna Chaturthi (TODO-VERIFY).
+- **Fasting:** Observed on Magha Krishna Chaturthi; fast runs from sunrise to moonrise — waterless (nirjal) is most excellent; fruit-based diet is also acceptable; grains and salt are prohibited.
+- **At dawn:** Rise before sunrise, bathe, and take the sankalpa — "I observe the Sankashti vrata on Magha Krishna Chaturthi; I will break my fast only after sighting the moon."
+- **Installing Ganesha:** Spread a red cloth and install the image or picture of Ganesha; place a water-pot nearby.
+- **Offerings:** Red flowers, durva (21 durva are especially dear to Ganesha), modak, laddus, betel leaf, sindura, incense, lamp.
+- **Puja:** Worship with panchopachara or shodasopachara; chant Ganesha stotra, Ganesha Chalisa, or *OM Gam Ganapataye Namah*; read or hear the katha of Magha Sankashti.
+- **Moonrise:** At night when the moon rises, first sight the moon, offer arghya with water, and offer salutations to Ganesha — the vrata is not complete without sighting the moon; if clouds are present, observe parana at the designated moonrise time.
+- **Breaking the fast:** After sighting the moon, first take Ganesha's prasad (modak), then drink water and take food.
+- **Special:** For devotees who perform all twelve Sankashti vratas through the year, there is a tradition of udyapana at Magha Sankashti — feeding of brahmanas, distribution of modak, and darshana at a Ganesha temple.
+- **2026 date:** TODO-VERIFY (Magha Krishna Chaturthi)
 
 ## Mantras
 

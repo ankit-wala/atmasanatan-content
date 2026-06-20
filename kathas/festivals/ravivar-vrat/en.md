@@ -83,31 +83,17 @@ In the Vedas, Surya is called **Savitri** — the one who generates and inspires
 
 ## Vidhi
 
-1. **Rise before sunrise:** On Sunday, rise during Brahma-muhurta and bathe. Wear red garments — red is the colour of Surya.
-
-2. **Arghya:** Take water in a copper lota. Add red flowers (hibiscus / javaakusum), a little roli, and akshata. At sunrise, facing east, offer arghya to Surya Dev — the stream of water is given so that it touches the rays of the sun.
-
-3. **Puja of Surya Dev:** Before a Surya yantra or picture of Surya — offer red flowers, roli, akshata, incense, and a lamp. As naivedya, offer something made from jaggery and wheat (jaggery roti, halwa).
-
-4. **Katha listening:** Listen to or read the Sunday vrat katha (the story of Shiv-bhavati). The vrat katha is an indispensable part of the puja.
-
-5. **Fasting:** Ekahara or fruit only through the day. Abstain from salt and fried foods. Take one meal after sunset — in the meal, red fruit, jaggery, and wheat roti in sattvic form.
-
-6. **Dana:** On Sunday, give copper vessels, red cloth, jaggery, and wheat in dana. All of these are dear to Surya Dev.
-
-7. **Breaking the fast:** After sunset, after a final salutation to Surya Dev, break the fast.
-
-## Observance
-
-**Timing of the vrat:** On Sunday, from sunrise to sunset. This is an ekahara vrat — no food during the day, one sattvic meal after sunset.
-
-**Abstaining from salt and oil:** Giving up salt in the Sunday fast is traditional. Avoid fried and tamasic food. Observe brahmacharya on the day of the vrat.
-
-**For whom:** The Sunday fast is described primarily for mothers who observe the vrat with a desire for the health of their children. But this vrat is also observed for household prosperity, cure of disease, and the pacification of the Surya graha. For those whose Surya is weak in their horoscope, this vrat is considered beneficial from an astrological perspective as well.
-
-**Regular vrat:** Observed regularly every Sunday, or with a special sankalpa for seven, twenty-one, or twelve (all Sundays of a year) Sundays.
-
-**Ratha Saptami:** Magha Shukla Saptami — Ratha Saptami — is the most important festival of Surya Dev. The fruit of performing special puja along with the Sunday fast on that day is held to be multiplied many times over.
+- **At dawn:** Rise during Brahma-muhurta on Sunday; bathe and wear red garments — red is the colour of Surya.
+- **Arghya:** Take water in a copper lota; add red flowers (hibiscus/javaakusum), a little roli, and akshata; at sunrise, facing east, offer arghya so the stream of water touches the rays of the sun.
+- **Puja:** Before a Surya yantra or picture of Surya, offer red flowers, roli, akshata, incense, and a lamp; as naivedya offer jaggery and wheat (jaggery roti or halwa).
+- **Katha:** Listen to or read the Sunday vrat katha (the story of Shiv-bhavati) — it is an indispensable part of the puja.
+- **Fasting:** Ekahara or fruit only through the day; abstain from salt and fried foods; observe brahmacharya; one sattvic meal after sunset with red fruit, jaggery, and wheat roti.
+- **Dana:** Give copper vessels, red cloth, jaggery, and wheat in dana — all are dear to Surya Dev.
+- **Breaking the fast:** After sunset, after a final salutation to Surya Dev, break the fast.
+- **For whom:** Primarily observed by mothers for the health of their children; also for household prosperity, cure of disease, and pacification of a weak Surya graha.
+- **Duration:** Observed every Sunday, or with a sankalpa for seven, twenty-one, or twelve consecutive Sundays.
+- **Special:** On Magha Shukla Saptami (Ratha Saptami), performing special puja alongside the Sunday fast multiplies the fruit many times over.
+- **2026 date:** Every Sunday (weekly vrat)
 
 ## Mantras
 

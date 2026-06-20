@@ -90,28 +90,14 @@ In South India this is celebrated as a Shadai (six-day) fast and Soorasamharam. 
 
 ## Vidhi
 
-1. **From Kartik Shukla Pratipada to Shashthi** — begin a six-day fast (if not possible, observe a single meal or fast on Shashthi itself).
-2. Bathe in the morning and visit a Skanda/Kartikeya temple — if a Murugan temple is nearby, this is especially auspicious.
-3. **Vel Puja:** Offer flowers, sandalwood, and naivedya to Skanda's vel. Bananas, peacock feathers, and red flowers are offered with particular devotion.
-4. Recite the **Skanda Shashthi Kavacham** — this is the principal hymn of praise to Skanda (extremely widespread in Tamil tradition).
-5. **Kavadi tradition:** In South India, devotees carry the kavadi — a semicircular bamboo frame — on their shoulders and undertake a foot pilgrimage to a Murugan temple.
-6. In the evening, perform Skanda's aarti and vel puja, and listen to the katha.
-7. **On Shashthi (Soorasamharam):** Special celebration — on this day, remembering the lila of the slaying of Surapadman, raise the victory cry of Lord Skanda.
-
-**2026 Date:** Verify on DrikPanchang (Kartik Shukla Shashthi — ~October/November 2026).
-
-## Observance
-
-**Six-Day Fast:**
-From Kartik Shukla Pratipada through Shashthi — six days. Each day, one meal (ekasana) or a fruit-only diet. Throughout these six days, daily recitation of the Skanda Shashthi Kavacham.
-
-**Shashthi Vrat:**
-At minimum, fast on the day of Shashthi — complete fast or fruit-only diet. Break the fast after the evening puja and aarti of Lord Skanda.
-
-**Special Traditions:**
-In South India — the kavadi pilgrimage, offering of peacock feathers, and witnessing the dramatic enactment of the Soorasamharam at the temple. In North India — worship of a six-faced (Shadanana) image or picture of Skanda and a special abhisheka of the vel.
-
-**Dhyana Mantra:** During these six days, chant "Oṃ Śaravaṇabhava namaḥ" — 108 times each day.
+- **Six-day fast:** Begin from Kartik Shukla Pratipada and fast through Shashthi — each day observe one meal (ekasana) or a fruit-only diet; if unable to do six days, fast on Shashthi alone.
+- **At dawn:** Bathe each morning; visit a Skanda/Kartikeya or Murugan temple — a Murugan temple is especially auspicious.
+- **Vel puja:** Offer flowers, sandalwood, and naivedya to Skanda's vel; bananas, peacock feathers, and red flowers are offered with particular devotion; perform Skanda's aarti and vel puja each evening.
+- **Kavacham:** Recite the Skanda Shashthi Kavacham daily throughout the six days — this is the principal hymn of praise to Skanda (central to Tamil tradition).
+- **Dhyana:** Chant *Oṃ Śaravaṇabhava namaḥ* 108 times each day during the six-day period.
+- **Kavadi (South India):** Carry the kavadi — a semicircular bamboo frame — on the shoulders and undertake a foot pilgrimage to a Murugan temple.
+- **On Shashthi (Soorasamharam):** Special celebration — remember the lila of the slaying of Surapadman; in South India, witness the dramatic temple enactment; in North India, worship a Shadanana (six-faced) image and perform abhisheka of the vel; break the fast after the evening puja and aarti.
+- **2026 date:** TODO-VERIFY (Kartik Shukla Shashthi — approx. October/November 2026)
 
 ## Mantras
 

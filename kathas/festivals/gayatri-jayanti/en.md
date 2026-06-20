@@ -53,48 +53,15 @@ Devi Gayatri is not merely a goddess — she is the living form of the mantra th
 
 ## Vidhi
 
-**Preparation (on Dashami):**
-On the night of Dashami, take sattvic food. Observe brahmacharya. Before sleeping, take a sankalpa — "On Jyeshtha Shukla Ekadashi, on the occasion of Gayatri Jayanti, I will worship Maa Gayatri."
-
-**Brahma Muhurta (before sunrise):**
-Rise before sunrise. Bathe with Ganga water or clean water. Wear yellow or white clothing — these are the colours of knowledge and purity.
-
-**Sunrise Worship:**
-Stand or sit facing east. At the time of sunrise, offer arghya to the sun — pour water, roli, flowers, and akshata into a copper vessel and offer it towards the sun. Give this arghya while reciting the Gayatri Mantra.
-
-**Worship of Maa Gayatri:**
-- Install an image or yantra of Devi Gayatri at the place of worship.
-- Offer yellow flowers, yellow sandalwood paste, and yellow cloth.
-- Light a ghee lamp. Offer incense.
-- Offer kheer or mishri as bhog to Maa.
-
-**Gayatri Japa:**
-Recite the Gayatri Mantra at the time of sunrise. A minimum of 108 times. If more time is available, 1008 times. Use a rudraksha or sphatika mala. Recite the japa mentally (in the mind) or in a soft undertone — neither very loud nor completely silent.
-
-**Havan/Yajna (if possible):**
-The havan holds special significance on this day. Offering oblations with the Gayatri Mantra yields the complete fruit of the yajna. Use til (sesame), barley, ghee, and samidha in the havan. With each oblation, say "Oṃ bhūr bhuvaḥ svaḥ... svāhā."
-
-## Observance
-
-**Sunrise Worship:**
-The most important moment of this festival is sunrise. The Gayatri Mantra is dedicated to Surya-deva — an invocation of the divine inspiration of Savitr-deva. At the time of sunrise, facing east, with a calm mind, offering arghya and performing japa is the foremost act of this day.
-
-**Gayatri Japa:**
-A minimum of 108 recitations is the core observance of this day. In brahmin tradition, and especially for those who have received the upanayana samskara, this day is also a day to remember one's guru and express gratitude for the diksha-mantra. Those who have not received formal initiation into the Gayatri Mantra may also recite "Oṃ bhūr bhuvaḥ svaḥ..." with devotion — Maa's door is open to all.
-
-**Havan/Yajna:**
-If a havan kunda is available at home, the Gayatri yajna on this day bears special fruit. Participating in a collective havan at a temple or ashram is equally meritorious.
-
-**Vrat:**
-Since this is an Ekadashi, there is also a provision for fasting on this day. Nirjala (waterless) or phalahar (fruit diet) — both are acceptable. Abstaining from grains is essential. Those unable to observe the vrat should at least perform the morning japa and offer arghya.
-
-**Prohibited:**
-- Grains, lentils, onion, garlic
-- Harsh speech, anger, falsehood
-- Laziness — this day is for worship, not rest
-
-**Parana:**
-Break the fast on Dwadashi after sunrise. First take tulsi water or Ganga water, then take sattvic food.
+- **Preparation (Dashami night):** Take sattvic food; observe brahmacharya; take a sankalpa — "On Jyeshtha Shukla Ekadashi, on the occasion of Gayatri Jayanti, I will worship Maa Gayatri."
+- **At dawn:** Rise before sunrise; bathe with Ganga water or clean water; wear yellow or white clothing.
+- **Sunrise worship:** Face east; offer arghya from a copper vessel (water, roli, flowers, akshata) to Suryadev while reciting the Gayatri Mantra — this is the foremost act of the day.
+- **Puja of Maa Gayatri:** Install an image or yantra of Devi Gayatri; offer yellow flowers, yellow sandalwood paste, and yellow cloth; light a ghee lamp and incense; offer kheer or mishri as bhog.
+- **Gayatri Japa:** Recite the Gayatri Mantra at least 108 times (1008 if time allows) using a rudraksha or sphatika mala, mentally or in a soft undertone; those not formally initiated may also recite "Oṃ bhūr bhuvaḥ svaḥ..." with devotion — Maa's door is open to all.
+- **Havan/Yajna:** Offer oblations with til, barley, ghee, and samidha, saying "Oṃ bhūr bhuvaḥ svaḥ... svāhā" with each oblation; participating in a collective havan at a temple or ashram is equally meritorious.
+- **Fasting:** Since this is an Ekadashi, nirjala (waterless) or phalahar (fruit diet) is acceptable; abstaining from grains, lentils, onion, and garlic is essential; avoid harsh speech, anger, and falsehood on this day.
+- **Parana:** Break the fast on Dwadashi after sunrise with tulsi water or Ganga water, then take sattvic food.
+- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Ekadashi)
 
 ## Mantras
 

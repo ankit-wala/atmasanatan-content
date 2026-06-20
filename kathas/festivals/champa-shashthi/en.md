@@ -33,31 +33,15 @@ The final surrender of Mani and Malla is the deepest spiritual lesson of this ka
 
 ## Vidhi
 
-**Six-day vrat:** The vrat is observed from Margashirsha Shukla Pratipada through Shashthi — that is, for six days.
-
-**Each day:**
-- After the morning bath, meditate on Khandoba.
-- Offer turmeric (bhandardara) on the image or picture of Khandoba.
-- Offer coconut, flowers, and incense.
-- Sing or listen to ovi or gondhal — the devotional songs of Khandoba.
-
-**On Shashthi (the main puja):**
-1. Perform a special abhisheka — with water and turmeric.
-2. Offer a stream of turmeric powder (bhandardara) to Khandoba — this is the central element of this puja.
-3. Offer coconut and champa flowers.
-4. Pray for the protection and victory of the family.
-5. Raise the victory cry: "Yeḷkoṭ yeḷkoṭ jaya malhār."
-
-**Devotees travelling to Jejuri:** Carry packets of turmeric — releasing bhandardara at the temple is the hallmark of this festival.
-
-## Observance
-
-- This is primarily a **regional festival of Maharashtra** — it is celebrated with particular fervour in the districts of Pune, Solapur, Nashik, and Kolhapur.
-- For the six days, take only sattvic food; abstain from non-vegetarian food, alcohol, and tamasic substances.
-- Light a lamp at home morning and evening and take Khandoba's name.
-- In the evening, organise a gondhal — the traditional bhajan-kirtan — which is the special mode of Khandoba's worship.
-- Devotees observing the vrat on Shashthi may break their fast after accepting prasad following the puja.
-- Devotees unable to keep the vrat for the full six days should at minimum fast and perform the special puja on Shashthi itself.
+- **Duration:** Six-day vrat observed from Margashirsha Shukla Pratipada through Shashthi; devotees unable to keep all six days should at minimum fast and perform the special puja on Shashthi.
+- **Each morning (days 1–6):** Bathe; meditate on Khandoba; offer turmeric (bhandardara) on his image; offer coconut, flowers, and incense; light a lamp; sing or listen to ovi or gondhal.
+- **Each evening (days 1–6):** Light a lamp at home and take Khandoba's name; organise a gondhal — traditional bhajan-kirtan — which is the special mode of his worship.
+- **Diet:** For all six days take only sattvic food; abstain from non-vegetarian food, alcohol, and tamasic substances.
+- **On Shashthi — main puja:** Perform abhisheka with water and turmeric; offer a stream of turmeric powder (bhandardara — the central element of this puja); offer coconut and champa flowers; pray for the protection and victory of the family; raise the victory cry "Yeḷkoṭ yeḷkoṭ jaya malhār."
+- **Breaking the fast:** Devotees observing the vrat may break their fast after accepting prasad following the Shashthi puja.
+- **At Jejuri:** Carry packets of turmeric to the Khandoba temple — releasing bhandardara at the temple is the hallmark of this festival; Jejuri (near Pune) is his principal abode.
+- **Note:** This is primarily a regional festival of Maharashtra, celebrated with particular fervour in Pune, Solapur, Nashik, and Kolhapur districts.
+- **2026 date:** TODO-VERIFY (Margashirsha Shukla Shashthi)
 
 ## Mantras
 

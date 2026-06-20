@@ -41,31 +41,16 @@ This confluence does not come every year. In the year it comes, that day is an o
 
 ## Vidhi
 
-This day is the confluence of the procedures of two entries. See both complete procedures in their respective entries.
-
-**Condensed confluence procedure:**
-
-- On Dashami, eat sattvic food. After sunset, give up food and water.
-- On Ekadashi morning: bathe, wear clean clothes, take the sankalpa — "Today I shall observe Nirjala Ekadashi vrata and Gayatri Jayanti upasana together."
-- At sunrise, face east, offer arghya, and begin japa of the Gayatri Mantra.
-- Remain without water throughout the day. Use a rudraksha or sphatika mala for japa.
-- Minimum 108 malas of Gayatri japa. Do more if possible.
-- Worship of Bhagavan Vishnu — tulasi, yellow flowers, the sankalpa-mantra for Nirjala Ekadashi.
-- Install a picture or yantra of Mother Gayatri — yellow flowers, yellow sandalwood.
-- Night vigil with bhajana and kirtana.
-- Break the fast on Dvadashi after sunrise.
-
-## Observance
-
-**Waterless fast:** From sunset on Dashami until the parana on Dvadashi — neither food nor water. This is the essential condition of this day.
-
-**Gayatri japa:** Begin at sunrise. Minimum 108 malas. With a calm, focused mind — not too loud, not in complete silence.
-
-**The sequence of fast and japa:** Because of the fast, the body will remain still. Channel that stillness into japa — this is the secret of this confluence.
-
-**Jal-dan:** One who does not drink water oneself and yet gives cool water to others — their merit is considered greater even than the fast. On this day, donating water at a pyau or giving matkas is considered especially meritorious.
-
-**For those who cannot observe the complete waterless fast:** Do japa of the Gayatri Mantra with fruit and water at minimum. Remembrance of Bhagavan Vishnu and listening to the katha are sufficient for earning merit.
+- **Fasting:** Completely waterless (nirjal) — from sunset on Dashami until Parana on Dvadashi, neither food nor water; this is the essential condition of this day.
+- **Preparation (Dashami evening):** Eat sattvic food; after sunset give up food and water entirely.
+- **At dawn (Ekadashi):** Bathe; wear clean clothes; take a firm sankalpa — "Today I shall observe Nirjala Ekadashi vrata and Gayatri Jayanti upasana together."
+- **Gayatri upasana:** At sunrise, face east, offer arghya, and begin Gayatri Mantra japa; use a rudraksha or sphatika mala; minimum 108 malas — do more if possible; japa should be calm and focused, not too loud, not in complete silence; the stillness of the waterless fast channels naturally into japa — this is the secret of the confluence.
+- **Vishnu puja:** Offer tulasi and yellow flowers; recite the Nirjala Ekadashi sankalpa mantra; install a picture or yantra of Mother Gayatri with yellow flowers and yellow sandalwood.
+- **Jal-dan (special merit):** One who gives up water himself yet gives cool water to others earns merit greater than the fast itself; donating water at a pyau or giving matkas is especially meritorious on this day.
+- **Night vigil:** Keep vigil through the night with bhajana and kirtana.
+- **Parana (Dvadashi):** Break the fast after sunrise; feed a Brahmin or someone in need at Parana.
+- **For those who cannot fast fully:** Observe phalahar with water at minimum and chant Gayatri japa; remembrance of Vishnu and listening to the katha earn merit.
+- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Ekadashi — confluence year must be confirmed).
 
 ## Mantras
 

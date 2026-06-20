@@ -77,32 +77,17 @@ The Padma Purana declares — the devotee who performs Tulsi Vivah receives meri
 
 ## Vidhi
 
-The traditional method of Tulsi Vivah:
-
-1. **Adorning the Tulsi:** Bathe the Tulsi plant. Dress her in a red chunari and yellow sari. Apply sindoor in the parting of her branches. Adorn her as a bride with turmeric, henna, and flowers.
-
-2. **Installing the Shaligrama:** Bathe the Shaligrama stone in clean water. Clothe him in yellow garments. Light incense and a lamp. Place him beside the Tulsi — this is Vishnu in the form of the bridegroom.
-
-3. **The wedding canopy:** Construct a mandap of sugarcane around the Tulsi (sugarcane is available in Kartik and is considered auspicious). Hang garlands of banana leaves and mango leaves as torana.
-
-4. **Puja:** Perform panchopachara puja — incense, lamp, naivedya (amla, jujube, sweets), flowers, and water. Offer Tulsi leaves to both Tulsi and Shaligrama.
-
-5. **Kanyadan:** The head of the household or the officiant offers Tulsi to Shaligrama in the spirit of offering a daughter. Take the sankalpa of "Tulsi kanyadan."
-
-6. **Saptapadi:** Tie a sacred thread around the Tulsi plant and the Shaligrama and perform seven rounds — reciting the names of Vishnu throughout.
-
-7. **Mangalsutra and sindoor:** Place a mangalsutra on the Tulsi and fill her parting with sindoor.
-
-8. **Feeding brahmins and giving in charity:** According to one's means, feed brahmins. Give in charity — a cow, clothing, and grain. Distribute prasad to neighbours and the needy.
-
-## Observance
-
-- **Day:** Kartik Shukla Dwadashi — the day after Dev Uthani Ekadashi.
-- **Time:** Evening — after sunset, by the light of lamps.
-- **Fast:** In some families, women observe a fast on this day and take their meal after Tulsi Vivah is performed.
-- **End of Chaturmas:** From this day, the Chaturmas period concludes. Sadhus and saints who were observing the Chaturmas vow may resume their travels.
-- **Beginning of the wedding season:** After this day, auspicious dates for Hindu weddings begin — falling in Margashirsha, Pausha, and Magha.
-- **What not to do:** Plucking Tulsi on this day is forbidden (even on ordinary days, Tulsi leaves are not plucked on Sundays). Pick leaves for puja the day before.
+- **Day & time:** Kartik Shukla Dwadashi (the day after Dev Uthani Ekadashi); ceremony performed in the evening after sunset, by the light of lamps.
+- **Fasting:** In some families, women observe a fast on this day and break it only after Tulsi Vivah is performed.
+- **Adorning the Tulsi:** Bathe the Tulsi plant; dress her in a red chunari and yellow sari; apply sindoor in the parting of her branches; adorn her as a bride with turmeric, henna, and flowers.
+- **Installing the Shaligrama:** Bathe the Shaligrama stone in clean water; clothe him in yellow garments; light incense and a lamp; place him beside the Tulsi — this is Vishnu as the bridegroom.
+- **Wedding canopy:** Construct a mandap of sugarcane around the Tulsi (sugarcane is auspicious in Kartik); hang banana-leaf and mango-leaf torana.
+- **Puja:** Perform panchopachara puja — incense, lamp, naivedya (amla, jujube, sweets), flowers, and water; offer Tulsi leaves to both Tulsi and Shaligrama.
+- **Kanyadan & Saptapadi:** Take the sankalpa of "Tulsi kanyadan"; tie a sacred thread around Tulsi and Shaligrama and perform seven rounds, reciting Vishnu's names throughout; place a mangalsutra on Tulsi and fill her parting with sindoor.
+- **Charity:** According to one's means, feed brahmins; give in charity — a cow, clothing, and grain; distribute prasad to neighbours and the needy.
+- **Special:** From this day Chaturmas concludes — sadhus who observed the vow may resume travel; auspicious wedding dates begin falling in Margashirsha, Pausha, and Magha.
+- **Note:** Do not pluck Tulsi leaves on this day; collect leaves for puja the day before (Tulsi leaves are also never plucked on Sundays).
+- **2026 date:** TODO-VERIFY (Kartik Shukla Dwadashi)
 
 ## Mantras
 

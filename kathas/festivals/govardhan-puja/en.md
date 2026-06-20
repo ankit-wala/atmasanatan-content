@@ -69,31 +69,15 @@ This story is not merely the story of a miracle. It carries a profound message:
 
 ## Vidhi
 
-Govardhan Puja is performed in the morning.
-
-1. **Making the Govardhan form:** In the courtyard or outside the home, shape a form of Govardhan Hill from cow dung. Decorate it with flowers, leaves, and rangoli. In some families, figures of Nanda Baba, cows, and Krishna are also made.
-
-2. **Preparing the Annakut:** All the dishes prepared at home are made ready to be offered to the Lord. Traditionally, the Chappan Bhog — fifty-six varieties of food — are arranged. Prepare as many dishes as you are able.
-
-3. **Worship materials:** Keep roli, akshat, flowers, a lamp, incense, water, and panchamrit ready for the puja.
-
-4. **Invocation and worship:** Invoke Govardhan as a form of Krishna. Worship with Panchopchar (fragrance, flowers, incense, a lamp, and food offering).
-
-5. **Honouring the cow:** If there is a cow at home or nearby, bathe her, apply a tilak, garland her, and touch her feet. The worship of the cow on this day is considered especially meritorious.
-
-6. **Circumambulation:** Take circumambulation of the Govardhan form — seven times, or at least three times — remembering Govardhan Maharaj in your heart.
-
-7. **Distribution of Annakut prasad:** After the puja, distribute all the dishes as prasad among family and neighbours.
-
-## Observance
-
-**Govardhan circumambulation:** Those who are near Mathura-Vrindavan take the actual circumambulation of Govardhan Hill. This is approximately twenty-one kilometres. Barefoot, singing bhajans, prostrating along the earth — this circumambulation is undertaken in whatever spirit moves the devotee. It is considered greatly meritorious.
-
-**Annakut and community:** This festival is a festival of communal celebration. Temples arrange large Annakut displays on this day. The Annakut at Vrindavan and Nathdwara (Rajasthan) is especially renowned.
-
-**Vrat:** Some devotees observe a vow of eating only once (ekahaar) or eating only fruit (falahaar) on this day. This is not obligatory — the worship and the devotion are what matter most.
-
-**Timing:** The puja is performed in the morning. For the precise timing of this day's tithi (Kartik Shukla Pratipada) — its start and end times — consult DrikPanchang to determine the auspicious hour.
+- **Morning puja:** Govardhan Puja is performed in the morning; consult DrikPanchang for the precise auspicious hour within Kartik Shukla Pratipada.
+- **Govardhan form:** In the courtyard or outside the home, shape a form of Govardhan Hill from cow dung; decorate with flowers, leaves, and rangoli. Some families also make figures of Nanda Baba, cows, and Krishna.
+- **Annakut offering:** Prepare as many dishes as possible — traditionally the Chappan Bhog (fifty-six varieties) — and arrange them as an offering to the Lord.
+- **Materials:** Keep roli, akshat, flowers, a lamp, incense, water, and panchamrit ready; invoke Govardhan as a form of Krishna and worship with Panchopchar.
+- **Honouring the cow:** Bathe the cow, apply a tilak, garland her, and touch her feet — cow worship on this day is considered especially meritorious.
+- **Circumambulation:** Take parikrama of the Govardhan form seven times (or at least three times) remembering Govardhan Maharaj in your heart. Those near Mathura-Vrindavan undertake the full ~21 km circumambulation of Govardhan Hill — barefoot, singing bhajans — which is considered greatly meritorious.
+- **Annakut prasad:** After puja, distribute all dishes as prasad among family and neighbours. Temples — particularly at Vrindavan and Nathdwara (Rajasthan) — arrange large community Annakut displays.
+- **Vrat (optional):** Some devotees eat only once (ekahaar) or only fruit (falahaar) on this day; this is not obligatory — worship and devotion are what matter most.
+- **2026 date:** TODO-VERIFY (Kartik Shukla Pratipada)
 
 ## Mantras
 

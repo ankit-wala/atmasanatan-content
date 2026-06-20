@@ -51,31 +51,15 @@ In tradition, this vrat is observed by unmarried women for an ideal husband; by 
 
 ## Vidhi
 
-The sixteen Mondays ideally begin from the first Monday of Shravan and continue for sixteen consecutive Mondays.
-
-**Practice for each Monday:**
-1. After the morning bath on Monday, visit a Shiva temple or worship at a Shivalinga at home.
-2. Offer water, milk, bilva leaves, white flowers, and sandalwood.
-3. Chant *Oṃ Namaḥ Śivāya*.
-4. Observe the fast — one serving of fruits.
-5. Night vigil and Shiva's remembrance.
-
-**Seventeenth Monday — Udyapan:**
-1. Perform a special puja.
-2. Prepare prasad from wheat flour (halwa or churma).
-3. Offer it to Shiva.
-4. Distribute among family, friends, and Brahmins.
-5. Break the fast.
-
-## Observance
-
-**Fast type:** Full fast like Ekadashi — no rice or grains. Fruits (fruit, milk, sabudana) may be taken once. Some traditions observe a complete waterless fast — according to one's strength.
-
-**Breaking the fast:** Each Monday — break the fast on the following Tuesday after sunrise. Before breaking, Shiva's remembrance and water offering.
-
-**Seventeenth Monday:** The vrat is considered complete after the udyapan. If one Monday is missed for some reason, some traditions require beginning the vrat again — according to the sankalpa.
-
-**2026 dates:** Confirm on DrikPanchang.
+- **When:** Sixteen consecutive Mondays, ideally beginning from the first Monday of Shravan.
+- **At dawn:** Bathe early; visit a Shiva temple or worship at a Shivalinga at home.
+- **Offerings:** Water, milk, bilva leaves, white flowers, and sandalwood on the Shivalinga; chant *Oṃ Namaḥ Śivāya*.
+- **Fasting:** Full fast — no rice or grains; fruits, milk, and sabudana may be taken once. Some traditions observe a complete waterless fast — according to one's strength.
+- **At night:** Night vigil and Shiva's remembrance.
+- **Breaking the fast:** Break on the following Tuesday after sunrise; offer water to Shiva and remember him before breaking.
+- **Seventeenth Monday — Udyapan:** Perform a special puja; prepare prasad from wheat flour (halwa or churma); offer it to Shiva; distribute among family, friends, and Brahmins; then break the fast. The vrat is complete after this udyapan. If a Monday is missed, some traditions require beginning the vrat again — according to the sankalpa.
+- **For whom:** Unmarried women (for an ideal husband); married women (for husband's long life and welfare); men (for relief from illness, business troubles, or enemies).
+- **2026 date:** TODO-VERIFY (first Monday of Shravan)
 
 ## Mantras
 

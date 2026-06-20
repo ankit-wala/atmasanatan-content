@@ -74,21 +74,12 @@ Wherever the pieces of Sati's body fell, a Shakti Peetha was formed — 51 peeth
 
 ## Vidhi
 
-1. Bathe early in the morning and wear red garments — the colour of Pratipada.
-2. Establish an image or idol of Maa Shailputri.
-3. Offer **red flowers** — hibiscus is especially auspicious.
-4. Light a lamp of cow's ghee.
-5. Offer tulsi and bel leaves.
-6. Recite the dhyana shloka of Maa Shailputri.
-7. **Navratri Kalash Sthapana** — the kalash is established on Pratipada (for the nine days).
-
-## Observance
-
-**Navratri vrat:** The nine-day fast begins from Pratipada — fruit diet or one meal a day.
-
-**Colour:** The colour of Pratipada is **red** — symbol of power, courage, and energy.
-
-**2026 Date:** Confirm on DrikPanchang (Ashwin Shukla Pratipada — ~October 11, 2026).
+- **At dawn:** Bathe early in the morning and wear red garments — the colour of Pratipada, symbol of power, courage, and energy.
+- **Kalash Sthapana:** Establish the Navratri kalash on Pratipada — it is kept for all nine days.
+- **Puja:** Establish an image or idol of Maa Shailputri; light a lamp of cow's ghee; recite the dhyana shloka of Maa Shailputri.
+- **Offerings:** Red flowers (hibiscus is especially auspicious); tulsi and bel leaves.
+- **Fasting:** The nine-day Navratri fast begins from Pratipada — fruit diet or one meal a day.
+- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Pratipada — ~October 11, 2026).
 
 ## Mantras
 

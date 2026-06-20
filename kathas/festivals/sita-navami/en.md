@@ -73,29 +73,14 @@ Observing the vrat of Sita Navami in the month of Vaishakha brings the special b
 
 ## Vidhi
 
-On the day of Sita Navami, rise before sunrise, bathe, and put on white or yellow clothing — both are beloved by Sita-Rama.
-
-Install an image or portrait of Sita-Rama at the place of worship. If possible, place Sitaji at the centre — for today is her birthday.
-
-In the puja, offer **white flowers** — jasmine, mogra, or lotus. White flowers are dear to Sitaji — they are symbols of purity and the sanctity born of the earth. **Tulasidal** must be offered — tulasi is ever present in the service of Rama-Sita.
-
-Bhumi-puja holds special significance on this day. At the courtyard of your home or near the earth around the tulasi plant, offer water and flowers — remember Bhumi-devi who sent Sita into this world.
-
-Perform abhisheka of Sita-Rama with panchamrita (milk, curd, ghee, honey, sugar). Place kheer, mishri, and seasonal fruit as naivedya.
-
-Recite the Sita birth-katha — the episode of Janaka's plowing in the Bala Kanda of the Valmiki Ramayana.
-
-## Observance
-
-**Fasting:** Fasting on fruit is prescribed for Sita Navami. Many devotees also observe nirjala vrat. Break the fast (parana) after sunrise on the Dashami tithi.
-
-**Puja:** Perform the joint worship of Sita-Rama on this day with special care. In the puja, bow to Sitaji first — for today is her birthday. "Jai Siyaram" — Siya first, Rama after — this is the proper order for today.
-
-**Tulasi offering:** Offer tulasi leaves, manjari, and water to Sita-Rama. Tulasi is Rama-priya and her offering on this day is especially meritorious.
-
-**Bhumi-puja:** In the morning puja, offer water and flowers to Mother Earth. This is the remembrance of Sita's birth — a thankful honouring of Bhumi-devi.
-
-**Katha-path:** Recite the Janaka-Sita birth-katha from the Valmiki Ramayana. Gather the family together to hear this katha — let the elders tell it and the children listen.
+- **At dawn:** Rise before sunrise, bathe, and put on white or yellow clothing — both are beloved by Sita-Rama.
+- **Puja setup:** Install an image or portrait of Sita-Rama at the place of worship; place Sitaji at the centre — today is her birthday; bow to Sitaji first ("Jai Siyaram" — Siya before Rama — is the proper order for today).
+- **Offerings:** Offer white flowers (jasmine, mogra, or lotus — symbols of purity dear to Sitaji) and tulasi leaves and manjari — tulasi is ever present in the service of Rama-Sita and its offering today is especially meritorious.
+- **Bhumi-puja:** At the courtyard or near the tulasi plant, offer water and flowers to Mother Earth — a thankful honouring of Bhumi-devi who sent Sita into this world.
+- **Abhisheka and naivedya:** Perform abhisheka of Sita-Rama with panchamrita (milk, curd, ghee, honey, sugar); place kheer, mishri, and seasonal fruit as naivedya.
+- **Katha-path:** Recite the Janaka-Sita birth-katha — the episode of Janaka's plowing in the Bala Kanda of the Valmiki Ramayana; gather the family to hear it together.
+- **Fasting:** Fast on fruit; many devotees observe nirjala vrat; break the fast (parana) after sunrise on the Dashami tithi.
+- **2026 date:** TODO-VERIFY (Vaishakha Shukla Navami)
 
 ## Mantras
 

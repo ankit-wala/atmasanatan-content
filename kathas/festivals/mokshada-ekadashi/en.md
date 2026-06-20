@@ -63,35 +63,15 @@ Among the twenty-four ekadashis, this is the only one whose merit can be offered
 
 ## Vidhi
 
-This is an ekadashi vrat. It is observed with the worship of Vishnu, recitation of the Gita, and a sankalpa for one's ancestors.
-
-**The day before (Dashami):**
-1. In the evening, take a light sattvic meal. Retire at night in a sattvic spirit — hold the intention of tomorrow's vrat in your heart.
-
-**On Ekadashi — the rites of worship:**
-2. Rise before sunrise. Bathe and wear clean yellow or white garments.
-3. Bathe the image of Vishnu or the shaligram with panchamrita. Offer yellow flowers, tulasi leaves, sandalwood paste, incense, and a lamp.
-4. Recite the Bhagavad Gita — especially Chapter 15 (Purushottama Yoga). If you cannot read the complete Gita, at least recite the final verse (18.66) and contemplate its meaning.
-5. Recite the Vishnu Sahasranama.
-6. Keep the fast throughout the day. Grains and lentils are prohibited.
-7. If you wish to dedicate the merit of this vrat to your ancestors, then at dusk, while offering water, make the sankalpa: "I dedicate the merit of the Mokshada Ekadashi vrat to the liberation of my ancestors."
-8. Spend the night in bhajan-kirtan or in listening to the Gita.
-
-**The morning of Dwadashi:**
-9. Perform parana after sunrise and within the Dwadashi tithi. Do consult DrikPanchang for the parana muhurta of that year.
-10. Before parana, offer a meal to a brahmin or to someone in need.
-
-## Observance
-
-**What is prohibited:** On Ekadashi, grains, rice, wheat, lentils, and legumes are forbidden. In many traditions, onions, garlic, and leafy vegetables are also not consumed. Fruits, milk, sabudana, water chestnut flour, and rock salt may be taken.
-
-**The rule of parana:** Performing parana before sunrise or after the Dwadashi tithi has ended is considered a breaking of the vrat. Do check the parana time for that year on DrikPanchang.
-
-**The special fruit of Gita recitation:** Listening to or reciting the Bhagavad Gita on this day earns merit equal to the pilgrimage of every sacred tirtha. Sit together as a family and recite the Gita — this is the most beautiful celebration of Gita Jayanti.
-
-**Sankalpa for ancestors:** If there is any concern about the unrest of a forebear in the family, or if regular shraddha has not been performed, then on this ekadashi be sure to offer tarpan and make the sankalpa of merit in their name.
-
-**What to do:** Worship of Vishnu, offering of tulasi, recitation of the Gita, sankalpa for ancestors, bhajan-kirtan — these are the principal observances of this day.
+- **Dashami preparation:** In the evening, take a light sattvic meal; retire in a sattvic spirit, holding the intention of tomorrow's vrat.
+- **Fasting:** Keep a complete fast throughout Ekadashi; grains (rice, wheat), lentils, legumes, onions, garlic, and leafy vegetables are prohibited; fruits, milk, sabudana, water chestnut flour, and rock salt may be taken.
+- **At dawn (Ekadashi):** Rise before sunrise; bathe and wear clean yellow or white garments.
+- **Puja:** Bathe the image of Vishnu or the shaligram with panchamrita; offer yellow flowers, tulasi leaves, sandalwood paste, incense, and a lamp; recite the Vishnu Sahasranama.
+- **Gita recitation:** Recite the Bhagavad Gita — especially Chapter 15 (Purushottama Yoga); if the complete Gita cannot be read, recite at minimum verse 18.66 and contemplate its meaning; listening to or reciting the Gita earns merit equal to the pilgrimage of every sacred tirtha.
+- **Sankalpa for ancestors:** At dusk, while offering water (tarpan), make the sankalpa — *"I dedicate the merit of the Mokshada Ekadashi vrat to the liberation of my ancestors"*; if regular shraddha has not been performed, this is a special opportunity to offer merit in the name of one's forebears.
+- **Night vigil:** Spend the night in bhajan-kirtan or listening to the Gita.
+- **Parana (Dwadashi):** Perform parana after sunrise and within the Dwadashi tithi — consult DrikPanchang for the parana muhurta; parana before sunrise or after the Dwadashi tithi ends breaks the vrat; before parana, offer a meal to a brahmin or someone in need.
+- **2026 date:** TODO-VERIFY (Margashirsha Shukla Ekadashi)
 
 ## Mantras
 

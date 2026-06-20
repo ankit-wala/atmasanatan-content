@@ -67,26 +67,14 @@ The katha of Mahidhvaja also tells us that a life lived by dharma is never spent
 
 ## Vidhi
 
-1. On the day before Ekadashi (Dashami), eat sattvic food. Keep the evening meal light.
-2. On Ekadashi, rise before sunrise, bathe.
-3. Take the vow — "I observe the fast of Apara Ekadashi for the pleasure of Lord Vishnu."
-4. Place an image or murti of Lord Vishnu at the place of worship.
-5. Perform abhishek with panchamrita — milk, curd, ghee, honey, sugar.
-6. Offer tulasi leaves, yellow flowers, yellow cloth, and a lamp.
-7. Observe upavasa throughout the day — nirjal or on fruits alone.
-8. Recite Vishnu Sahasranama, a chapter of the Bhagavad Gita, or chant "Om Namo Bhagavate Vasudevaya."
-9. **Night vigil** — this is the hallmark of this Ekadashi. Spend the night in kirtan of the Lord's names.
-10. On Dwadashi, perform parana after sunrise and before the Dwadashi tithi ends.
-
-## Observance
-
-**Fasting:** Nirjal or on fruits — both are accepted. Grains, lentils, wheat, and rice are prohibited. Fruits, milk, sabudana, singhara, and rock salt may be taken.
-
-**Prohibited:** Beyond grains and lentils — onion, garlic, leafy vegetables, and brinjal are avoided in many traditions on this day. Keep away also from anger, harsh speech, and untruth.
-
-**Parana:** On Dwadashi morning, after sunrise and before the Dwadashi tithi ends. Check the exact parana muhurta for the year on DrikPanchang.
-
-**Night vigil:** The night vigil holds special importance on this Ekadashi — spend the night chanting "Narayana… Narayana…" or "Om Namo Bhagavate Vasudevaya." If any member of your family has died an untimely death, offer a prayer for their peace on this night as well. The compassion of the Lord is apara — without shore — and that is this Ekadashi's name.
+- **Dashami preparation:** On the eve of Ekadashi, eat sattvic food; keep the evening meal light.
+- **At dawn:** Rise before sunrise; bathe; take the vow — "I observe the fast of Apara Ekadashi for the pleasure of Lord Vishnu."
+- **Puja:** Place an image or murti of Lord Vishnu at the place of worship; perform panchamrita abhishek (milk, curd, ghee, honey, sugar); offer tulasi leaves, yellow flowers, yellow cloth, and a lamp.
+- **Fasting:** Nirjal or on fruits — both are accepted; grains, lentils, wheat, rice, onion, garlic, leafy vegetables, and brinjal are prohibited; fruits, milk, sabudana, singhara, and rock salt may be taken; avoid anger, harsh speech, and untruth.
+- **Daytime observance:** Recite Vishnu Sahasranama, a chapter of the Bhagavad Gita, or chant "Om Namo Bhagavate Vasudevaya."
+- **Night vigil:** Spend the night in kirtan — chanting "Narayana… Narayana…" or "Om Namo Bhagavate Vasudevaya"; if any member of your family has died an untimely death, offer a prayer for their peace this night.
+- **Breaking the fast:** On Dwadashi morning, after sunrise and before the Dwadashi tithi ends; check the exact parana muhurta on DrikPanchang.
+- **2026 date:** TODO-VERIFY (Jyeshtha Krishna Ekadashi)
 
 ## Mantras
 

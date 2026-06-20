@@ -39,29 +39,15 @@ Coming two weeks before Devshayani, this Ekadashi is a kind of preparation — a
 
 ## Vidhi
 
-This is an Ekadashi vrat, observed with a full fast and Vishnu puja.
-
-Begin with sattvik food on Dashami evening.
-
-**On Ekadashi:**
-1. Wake before sunrise. Bathe with clean water.
-2. Set up the puja space with an image or idol of Vishnu.
-3. Offer tulsi leaves, yellow flowers, and a ghee diya. Tulsi is especially dear to Vishnu.
-4. Perform abhishek with panchamrit or clean water.
-5. Observe the fast through the day. No grain, rice, wheat, or beans.
-6. Recite Vishnu Sahasranama or the Ekadashi Mahatmya in the evening.
-7. Stay awake in prayer if possible, singing bhajans through the night.
-
-**On Dwadashi (the next morning):**
-8. Break the fast after sunrise but before the Dwadashi tithi ends. In 2026, the Ekadashi tithi ends at 5:22 AM — before sunrise — so the parana window may be unusually narrow. Check DrikPanchang for your city's exact parana time.
-
-## Observance
-
-**What to avoid:** Grain, rice, wheat, dals, and legumes are traditionally avoided. Many also avoid onion, garlic, and eggplant. Fruit, milk, sabudana, singhare ki roti, and sendha namak are allowed.
-
-**Special note for 2026 parana:** Ekadashi tithi ends at 5:22 AM on July 11 — before sunrise. This means the Dwadashi tithi is already running at sunrise. Check DrikPanchang carefully for the exact parana window for your location.
-
-**The spirit of this day:** Carry Hemamali's story in mind. If there is old weight — a mistake made toward someone, a duty neglected — acknowledge it honestly and offer it to the Lord. That is the real observance of Yogini Ekadashi.
+- **Evening of Dashami:** Take only sattvic food; abstain from onion, garlic, and non-vegetarian food.
+- **Fasting:** Full fast on Ekadashi — no grain, rice, wheat, dals, or legumes; onion, garlic, and eggplant are also traditionally avoided. Permitted: fruit, milk, sabudana, singhare ki roti, and sendha namak.
+- **Morning of Ekadashi:** Wake before sunrise; bathe with clean water; set up the puja space with an image or idol of Vishnu.
+- **Puja:** Perform abhishek with panchamrita or clean water; offer tulsi leaves, yellow flowers, and a ghee diya — tulsi is especially dear to Vishnu.
+- **Evening:** Recite the Vishnu Sahasranama or the Ekadashi Mahatmya.
+- **Night vigil:** Stay awake in prayer if possible, singing bhajans through the night.
+- **Breaking the fast:** On Dwadashi, after sunrise but before the Dwadashi tithi ends — check DrikPanchang for the exact parana window for your location.
+- **Special note for 2026 parana:** Ekadashi tithi ends at 5:22 AM on July 11 — before sunrise — so the Dwadashi tithi is already running at sunrise; the parana window may be unusually narrow. Confirm on DrikPanchang.
+- **2026 date:** TODO-VERIFY (Ashadha Krishna Ekadashi)
 
 ## Mantras
 

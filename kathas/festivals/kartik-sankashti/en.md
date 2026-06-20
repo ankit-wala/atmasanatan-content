@@ -69,37 +69,13 @@ Kartik Krishna Chaturthi is the same tithi as Karva Chauth. On Karva Chauth, mar
 
 ## Vidhi
 
-**In the morning:**
-1. Bathe before sunrise.
-2. Take the sankalpa — "I observe the Sankashti vrata for Saumya Ganesha on Kartik Krishna Chaturthi."
-3. Fast throughout the day — ideally without water; those unable may take fruit-based food.
-
-**In the evening — Ganesha puja:**
-1. Install the image or picture of Ganesha.
-2. Offer modak, durva, and white or yellow flowers — white and yellow colours are appropriate for the Saumya form.
-3. Light a lamp.
-4. Chant OM Gam Ganapataye Namah.
-5. Meditate on Saumya Ganesha — calm, smiling, in the posture of blessing.
-6. Perform Ganesha aarti.
-
-**At night — after moonrise:**
-1. As soon as the moon is visible in the sky, offer naivedya to Ganesha.
-2. Offer arghya of water to the moon.
-3. Receive prasad and break the fast.
-
-**Combination with Karva Chauth:** If Karva Chauth also falls on this day, in the evening's puja first perform Ganesha worship, then follow the Karva Chauth vidhi — Ganesha removes the obstacles of household life and makes the Karva Chauth sadhana all the more complete.
-
-**2026 date:** Confirm on DrikPanchang — Kartik Krishna Chaturthi.
-
-## Observance
-
-**Fast:** From sunrise to moonrise. The fast is not broken without sighting the moon — this is the binding rule of Sankashti.
-
-**Parana:** After sighting the moon, offer bhoga to Ganesha, then receive prasad yourself.
-
-**Bhoga:** Modak, durva, and seasonal fruits. Modak is most dear to Ganesha — making it at home is especially auspicious.
-
-**For those observing Karva Chauth as well:** Women who are keeping the waterless fast of Karva Chauth — for them this fast automatically fulfils both vratas together, as both have their parana after sighting the moon.
+- **At dawn:** Bathe before sunrise; take the sankalpa — "I observe the Sankashti vrata for Saumya Ganesha on Kartik Krishna Chaturthi."
+- **Fasting:** Fast from sunrise to moonrise — ideally waterless (nirjal); those unable may take fruit-based food; the fast is not broken without sighting the moon — this is the binding rule of Sankashti.
+- **Evening puja:** Install the image or picture of Ganesha; offer modak, durva, and white or yellow flowers (appropriate for the Saumya form); light a lamp; chant *Oṃ Gaṃ Gaṇapataye Namaḥ*; meditate on Saumya Ganesha — calm, smiling, in the posture of blessing; perform Ganesha aarti.
+- **Offerings:** Modak is most dear to Ganesha — making it at home is especially auspicious; also offer durva and seasonal fruits.
+- **After moonrise:** As soon as the moon is visible, offer naivedya to Ganesha; offer arghya of water to the moon; receive prasad and break the fast.
+- **For Karva Chauth coincidence:** When Karva Chauth falls on the same day, first perform Ganesha worship, then follow the Karva Chauth vidhi; women keeping the waterless fast of Karva Chauth thereby fulfil both vratas together, as both have parana after sighting the moon.
+- **2026 date:** TODO-VERIFY (Kartik Krishna Chaturthi)
 
 ## Mantras
 

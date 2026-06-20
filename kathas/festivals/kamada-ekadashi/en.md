@@ -41,34 +41,15 @@ A deep message lies hidden in Lalita's story — that love and duty are not oppo
 
 ## Vidhi
 
-**Dashami (the day before Ekadashi):**
-- In the evening, take one sattvic meal.
-- Abstain from urad dal, meat, garlic and onion, and all tamasic items.
-- Observe brahmacharya and keep the mind calm.
-
-**On the day of Ekadashi:**
-1. Rise at brahma muhurta, bathe, and wear clean yellow clothes.
-2. Light a ghee lamp before the idol of Lord Vishnu or a Shaligrama.
-3. Offer tulasi leaves, yellow flowers, sandalwood, and incense.
-4. Perform worship while chanting "Om Namo Bhagavate Vasudevaya."
-5. Read or listen to the story of Kamada Ekadashi.
-6. Keep the fast throughout the day (nirjala is best; those unable may take fruit).
-7. In the evening, worship again and recite Vishnu Sahasranama or sing Hari kirtan.
-8. Keep a night vigil.
-
-**On the day of Dvadashi:**
-- After sunrise, perform the parana while remembering Hari.
-- Feed a Brahmin and offer dakshina to complete the vrat sankalpa.
-
-## Observance
-
-**Fasting:** A complete nirjala vrat is the highest form. Those unable to keep nirjala may take fruit, milk, and water. Grain food is forbidden on this day.
-
-**Prohibited:** Grain, urad dal, masoor lentils, brinjal, garlic and onion, meat, speaking falsehoods, anger, and speaking ill of others — all of these are forbidden during the Ekadashi vrat.
-
-**Parana:** On Dvadashi, perform the parana after sunrise, within the Dvadashi tithi. Tulasi leaves must be taken during the parana. If someone is keeping the vrat for a particular wish, offer that wish to the Lord at the time of parana.
-
-**Night vigil:** Night vigil is an important part of this vrat. During the night, sing bhajans, do kirtan, chant Vishnu's name, or recite the Ekadashi mahatmya. The vigil multiplies the merit of the vrat manifold.
+- **Dashami (eve of Ekadashi):** Take one sattvic meal in the evening; abstain from urad dal, meat, garlic, onion, and all tamasic items; observe brahmacharya and keep the mind calm.
+- **At brahma muhurta:** Rise before dawn, bathe, and wear clean yellow clothes.
+- **Puja:** Light a ghee lamp before the idol of Lord Vishnu or a Shaligrama; offer tulasi leaves, yellow flowers, sandalwood, and incense; chant "Om Namo Bhagavate Vasudevaya"; read or listen to the Kamada Ekadashi katha.
+- **Fasting:** A complete nirjala vrat is the highest form; those unable to keep nirjala may take fruit, milk, and water; grain food is strictly forbidden on this day.
+- **Prohibited:** Grain, urad dal, masoor lentils, brinjal, garlic and onion, meat, speaking falsehoods, anger, and speaking ill of others — all forbidden during the Ekadashi vrat.
+- **Evening puja:** Worship again; recite Vishnu Sahasranama or sing Hari kirtan.
+- **Night vigil:** Remain awake through the night in bhajan, kirtan, naam-japa, or recitation of the Ekadashi mahatmya — the vigil multiplies the merit of the vrat manifold.
+- **Breaking the fast (Dvadashi):** Perform parana after sunrise, within the Dvadashi tithi; take tulasi leaves at parana; if keeping the vrat for a particular wish, offer that wish to the Lord at the time of parana; feed a Brahmin and offer dakshina to complete the vrat sankalpa.
+- **2026 date:** TODO-VERIFY (Chaitra Shukla Ekadashi).
 
 ## Mantras
 

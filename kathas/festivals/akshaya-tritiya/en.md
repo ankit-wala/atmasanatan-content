@@ -40,31 +40,14 @@ The word akshaya means that which never diminishes. Whatever dana, punya, or new
 
 ## Vidhi
 
-**Bathing and sankalpa:** Rise at Brahma Muhurta and bathe. Sit facing east or north.
-
-**Worship of Lord Vishnu:** Wear yellow garments. Offer Lord Vishnu yellow flowers, tulasi leaves, yellow sandal paste, and panchamrita. Perform shodashopachara worship. Lakshmi ji is pleased by lotus flowers and kumkum.
-
-**Gold worship:** If gold or silver is purchased on this day, bring it home and first place it before Vishnu-Lakshmi at the puja space, and show dhoop and deepa. It is the belief that gold acquired on this day establishes Lakshmi's permanent presence in the home.
-
-**Dana:** The dana of this day bears akshaya fruit. The giving of water (filled in an earthen pot), grain-dana, cloth-dana, the gifting of an umbrella, the gifting of footwear — all are meritorious. Feed Brahmins or sattvic persons.
-
-**Parashurama Jayanti:** Akshaya Tritiya is also the birth-tithi of Lord Parashurama. Worshipping him and chanting his name on this day is especially fruitful.
-
-**New beginnings:** A new business, a new account, new construction, a grahapravesh — if begun on this tithi, there is no need to consult the panchang.
-
-## Observance
-
-**Dana:**
-The giving of grain, water, cloth, a chhatra (umbrella), and paduka (footwear) — the dana of this day bears fruit multiplied to infinity. In particular, the giving of water (offering water to the thirsty, placing earthen pots of water) is supremely meritorious.
-
-**Gold worship:**
-The purchase of gold, silver, or new vessels is auspicious on this day. Place the gold purchased before Vishnu-Lakshmi and seek their blessing for prosperity.
-
-**New beginnings:**
-Marriage, grahapravesh, starting a new business, opening a new account — all of these have this tithi as their svayamsiddha muhurta.
-
-**Fasting:**
-This is principally a festival tithi; fasting is not obligatory. Those who wish to fast may take a fruit-meal. In the evening, recite Vishnu Sahasranama or the Sudama Katha, and then take food.
+- **At dawn:** Rise at Brahma Muhurta, bathe, and sit facing east or north.
+- **Worship of Lord Vishnu and Lakshmi:** Wear yellow garments; offer Lord Vishnu yellow flowers, tulasi leaves, yellow sandal paste, and panchamrita (shodashopachara); Lakshmi ji is pleased by lotus flowers and kumkum.
+- **Gold worship:** Purchase of gold or silver is auspicious on this day — bring it home, place it before Vishnu-Lakshmi at the puja space, show dhoop and deepa; gold acquired on this tithi establishes Lakshmi's permanent presence in the home.
+- **Dana:** The giving of grain, water (in an earthen pot), cloth, a chhatra (umbrella), and paduka (footwear) bears akshaya fruit; offering water to the thirsty is supremely meritorious; feed brahmins or sattvic persons.
+- **Parashurama Jayanti:** This tithi is also the birth-date of Lord Parashurama — worship him and chant his name for additional merit.
+- **New beginnings:** Marriage, grahapravesh, starting a new business, opening a new account — this tithi is a svayamsiddha muhurta; no separate panchang consultation needed.
+- **Fasting:** Not obligatory — those who wish may take a fruit-meal; in the evening recite Vishnu Sahasranama or the Sudama Katha and then take food.
+- **2026 date:** TODO-VERIFY (Vaishakha Shukla Tritiya)
 
 ## Mantras
 

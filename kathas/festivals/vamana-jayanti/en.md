@@ -65,24 +65,13 @@ Aditi's Payovrata is proof of this truth: when a mother meditates on the divine 
 
 ## Vidhi
 
-1. At dawn, bathe and take the vrat sankalpa.
-2. Install an image or depiction of Lord **Vamana**.
-3. Panchamrit abhisheka — milk, curd, ghee, honey, sugar.
-4. Offer yellow clothes, yellow flowers, tulasi, and a lamp.
-5. Read or hear the Vamana birth katha (Bhagavata Purana, Skandha 8).
-6. Observe the fast — the Parivartini Ekadashi fast is completed by paran on this Dwadashi.
-7. Night kirtan — chanting of Lord Vamana's names.
-8. Paran on Dwadashi morning at the appropriate time.
-
-**2026 date:** Confirm on DrikPanchang (Bhadrapada Shukla Dwadashi — ~September 23, 2026).
-
-## Observance
-
-**Paran:** Those who fasted on Parivartini Ekadashi complete the fast with paran on this Dwadashi morning at the correct time.
-
-**Janmotsava:** Vamana Jayanti is a birth celebration — katha recitation, bhajan-kirtan, Bhagavata Purana reading.
-
-**Onam in Kerala:** In Kerala, the ten-day Onam Mahotsava reaches its climax on this day.
+- **At dawn:** Bathe and take the vrat sankalpa.
+- **Puja:** Install an image or depiction of Lord Vamana; perform Panchamrit abhisheka — milk, curd, ghee, honey, sugar; offer yellow clothes, yellow flowers, tulasi, and a lamp.
+- **Katha:** Read or hear the Vamana birth katha (Bhagavata Purana, Skandha 8).
+- **Fasting:** Those who fasted on Parivartini Ekadashi (Bhadrapada Shukla Ekadashi) complete the fast with paran on this Dwadashi morning at the correct time.
+- **Janmotsava:** Vamana Jayanti is a birth celebration — katha recitation, bhajan-kirtan, Bhagavata Purana reading; night kirtan with chanting of Lord Vamana's names.
+- **Special:** In Kerala, the ten-day Onam Mahotsava reaches its climax on this day.
+- **2026 date:** Confirm on DrikPanchang (Bhadrapada Shukla Dwadashi — ~September 23, 2026).
 
 ## Mantras
 

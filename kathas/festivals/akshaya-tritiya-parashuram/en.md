@@ -93,25 +93,15 @@ Parashurama is one of the seven chiranjivis — he still resides on Mount Mahend
 
 ## Vidhi
 
-1. Bathe at dawn and wear clean garments — yellow or white.
-2. Install an image or picture of Bhagavan Parashurama at the place of worship.
-3. **Parashu-pujana:** If possible, keep a small parashu (axe) in the puja as a symbol — it is his divine weapon.
-4. Perform abhisheka with panchamrita (milk, curd, ghee, honey, sugar).
-5. Offer yellow flowers, tulasi, sandalwood, incense, and a lamp.
-6. Recite **Om Jamadagnyaya Namah** 108 times.
-7. Read or listen to the Parashurama-charitra from the Bhagavata Purana.
-8. Give charity to brahmanas and scholars according to one's means — gifts of food, scripture, and money are especially fruitful.
-9. Perform aarati again in the evening.
-
-## Observance
-
-**Fasting:** There is a tradition of fasting on this day. Take only fruit. Break the fast after the evening puja.
-
-**Special acts of Akshaya Tritiya:** This tithi is self-proven — beginning new undertakings, purchasing gold and silver, pitru-tarpana, and giving charity are all done on this day. There is no need to seek a separate muhurta for any auspicious work.
-
-**Parashu-pujana:** Sadhus, soldiers, or those who follow the kshatradharma should perform puja of their weapons on this day.
-
-**The importance of charity:** Charity given on this day — gifts of a water-pot, food, sandalwood — yields imperishable fruit.
+- **At dawn:** Bathe and wear clean garments — yellow or white.
+- **Puja setup:** Install an image of Bhagavan Parashurama; if possible, place a small parashu (axe) in the puja as a symbol of his divine weapon.
+- **Abhisheka and offerings:** Perform panchamrita abhisheka (milk, curd, ghee, honey, sugar); offer yellow flowers, tulasi, sandalwood, incense, and a lamp.
+- **Recitation:** Chant **Om Jamadagnyaya Namah** 108 times; read or listen to the Parashurama-charitra from the Bhagavata Purana.
+- **Fasting:** Tradition of fasting on this day — take only fruit; break the fast after the evening puja and aarati.
+- **Akshaya Tritiya acts:** This tithi is self-proven — begin new undertakings, purchase gold and silver, perform pitru-tarpana; no separate muhurta is needed for any auspicious work.
+- **Charity:** Give gifts of food, scripture, a water-pot, sandalwood to brahmanas and scholars — charity given on this akshaya tithi yields imperishable fruit.
+- **Special:** Sadhus, soldiers, or those who follow kshatradharma should perform puja of their weapons on this day.
+- **2026 date:** TODO-VERIFY (Vaishakha Shukla Tritiya)
 
 ## Mantras
 

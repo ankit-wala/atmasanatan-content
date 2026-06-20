@@ -51,19 +51,13 @@ Amalaki Ekadashi falls just before **Holashtak** and **Holi**. It is the festiva
 
 ## Vidhi
 
-The finest way to perform Amalaki Ekadashi puja is to go to an amalaki/amla tree. If a dhatrī tree is found in a forest or garden, go there; if there is an amla plant at home, worship it; if nothing is available, place an amla fruit in an earthen vessel and worship it as a symbol of Vishnu.
-
-After bathing in the morning, spread a clean seat beneath the amalaki/amla tree. First offer water to the tree — saying "dhātryai namaḥ" three times. Then offer flowers, tulasi leaves, akshat, and incense and a lamp. Place fruits and sweets as naivedya. While meditating on Lord Vishnu, chant "oṃ namo bhagavate vāsudevāya." Keeping vigil through the night beneath the dhatrī with kirtan is especially fruitful — this is the tradition of Chandramati. On dvadashi, perform parana with tulasi-water and amla fruit.
-
-## Observance
-
-**Fast:** On ekadashi, observe a nirjal (waterless) or fruit-only fast. Grains, lentils, and rice are forbidden.
-
-**Amalaki Puja:** Offer water, flowers, tulasi, incense, and a lamp to the amalaki/amla tree. Chant "dhātryai namaḥ" and "oṃ namo bhagavate vāsudevāya." Keep a night vigil — this is the central practice of this ekadashi.
-
-**Forbidden:** Meat, alcohol, and tamasic food. Do not cut hair on ekadashi; avoid anger and quarrelling.
-
-**Parana:** On dvadashi, after sunrise and before Rahu Kala. Consuming tulasi-water and amla on the parana is especially auspicious.
+- **Puja location:** Go to an amalaki/amla tree in a forest or garden; if unavailable, worship an amla plant at home; if nothing is available, place an amla fruit in an earthen vessel and worship it as a symbol of Vishnu.
+- **At dawn:** Bathe, spread a clean seat beneath the amalaki/amla tree; offer water saying "dhātryai namaḥ" three times; then offer flowers, tulasi leaves, akshat, incense, and a lamp; place fruits and sweets as naivedya.
+- **Chanting:** Meditate on Lord Vishnu and chant "oṃ namo bhagavate vāsudevāya" throughout.
+- **Fasting:** Observe a nirjal (waterless) or fruit-only fast; grains, lentils, and rice are forbidden; meat, alcohol, and tamasic food are also prohibited; do not cut hair; avoid anger and quarrelling.
+- **Night vigil:** Keep vigil through the night beneath the dhatrī with kirtan — this is the central practice and the tradition of Chandramati.
+- **Breaking the fast:** On dvadashi, after sunrise and before Rahu Kala; consuming tulasi-water and amla on the parana is especially auspicious.
+- **2026 date:** TODO-VERIFY (Phalguna Shukla Ekadashi)
 
 ## Mantras
 

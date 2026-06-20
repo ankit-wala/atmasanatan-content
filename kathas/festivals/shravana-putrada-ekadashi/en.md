@@ -47,24 +47,14 @@ Ekadashi takes up that weight.
 
 ## Vidhi
 
-**Fasting procedure:**
-1. Take sattvic food the night of Dashami.
-2. On Ekadashi morning, bathe and take the sankalpa (vow).
-3. Worship Vishnu with tulsi, flowers, unbroken rice (akshat), and a diya.
-4. Chant *Oṃ Namo Bhagavate Vāsudevāya*.
-5. Keep vigil through the night — this is required.
-6. On Dvadashi, make a pavitraka — a sacred cord of gold, silver, silk, or lotus — and offer it to brahmins.
-7. Break the fast within the Dvadashi tithi.
-
-**For those seeking children:** Husband and wife should observe this fast together. State the desire clearly before the Lord in prayer.
-
-## Observance
-
-**Parana:** On Dvadashi, break the fast after sunrise, before the Dvadashi tithi ends.
-
-**Pavitraka:** This is the distinctive tradition of this Ekadashi. On Dvadashi, make a pavitraka from gold, silver, silk, or lotus and offer it to brahmins as a ritual gift.
-
-**Couple's vrat:** Husband and wife observing together is considered the most complete form of this vrat.
+- **Dashami evening:** Take only sattvic food the night before; prepare for the fast.
+- **At dawn:** Bathe, take the sankalpa (vow), and begin the fast on Ekadashi morning.
+- **Puja:** Worship Lord Vishnu with tulsi, flowers, unbroken rice (akshat), and a diya; chant *Oṃ Namo Bhagavate Vāsudevāya*.
+- **At night:** Keep full vigil through the Ekadashi night — this is a required observance, not optional.
+- **For whom:** Husband and wife should observe this vrat together; state the desire for a child clearly before the Lord in prayer.
+- **Pavitraka:** On Dvadashi, make a pavitraka — a sacred cord of gold, silver, silk, or lotus — and offer it to brahmins as a ritual gift; this is the distinctive tradition of this Ekadashi.
+- **Breaking the fast:** Break the fast on Dvadashi after sunrise, before the Dvadashi tithi ends.
+- **2026 date:** TODO-VERIFY (Shravana Shukla Ekadashi)
 
 ## Mantras
 

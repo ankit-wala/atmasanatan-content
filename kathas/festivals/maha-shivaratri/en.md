@@ -47,21 +47,12 @@ This sacred night also carries the tradition of the marriage of Shiva and Parvat
 
 ## Vidhi
 
-The worship of Maha Shivaratri is performed across four prahars — each prahar a different abhishek, each holding its own meaning. In the **first prahar** (evening), offer an abhishek of water — this is the prahar of purification. In the **second prahar** (before midnight), offer curd — this is the prahar of nourishment. In the **third prahar** (midnight), offer ghee — this is the prahar of abundance; this is also considered the time of Lingodbhava. In the **fourth prahar** (brahma muhurta), offer honey — this is the prahar of moksha. With each abhishek, chant "Om Namah Shivaya." Offer bilva/bel leaves — three-leaved, unbroken — onto the Shivalinga; they carry special significance because they are a symbol of the three gunas (sattva, rajas, tamas). Datura, bhang, white flowers, sandalwood, and raw milk are also dear to Shiva. Keep vigil through the night with recitation of Shiva stotras, the Mahamrityunjaya Mantra, or the Shiva Purana. A waterless fast is ideal; if strength does not allow it, a fruit-based fast is acceptable.
-
----
-
-## Observance
-
-**Fast:** From the evening of the thirteenth of the dark fortnight of Phalguna through the end of the fourteenth — a waterless or fruit-based vrat. The giving up of food — as Lubdhaka did without knowing — is the soul of this vrat.
-
-**Abhishek:** In the four prahars, pour water, curd, ghee, and honey in sequence over the Shivalinga. Let the chanting of "Om Namah Shivaya" or the Mahamrityunjaya Mantra continue throughout.
-
-**Bilva/bel leaves:** Offer three-leaved, unbroken bel leaves onto the Shivalinga with the smooth surface facing upward. With each leaf, silently repeat "Om Namah Shivaya" within the mind.
-
-**Night vigil:** Staying awake through the entire night is the life-force of this vrat. Whether through Shiva-nama, stotra recitation, or silent meditation — let sleep not come. In the third prahar of the night (around midnight), perform a special puja — this is the Lingodbhava time.
-
-**Parana:** The next day, on amavasya or pratipada, offer food to a Brahmin first, then take your own meal. Sattvic food is appropriate for the parana.
+- **Fasting:** From the evening of the thirteenth of the dark fortnight of Phalguna through the end of the fourteenth — waterless (nirjal) fast is ideal; fruit-based fast is acceptable if strength does not allow nirjal.
+- **Four-prahar abhishek:** Pour in sequence — first prahar (evening): water (purification); second prahar (before midnight): curd (nourishment); third prahar (midnight): ghee (abundance — this is the Lingodbhava time, perform a special puja); fourth prahar (brahma muhurta): honey (moksha); chant *Om Namah Shivaya* or the Mahamrityunjaya Mantra throughout.
+- **Bilva/bel leaves:** Offer three-leaved, unbroken bel leaves with the smooth surface facing upward; silently repeat *Om Namah Shivaya* with each leaf; datura, bhang, white flowers, sandalwood, and raw milk are also dear to Shiva.
+- **Night vigil:** Staying awake through the entire night is the life-force of this vrat — whether through Shiva-nama, stotra recitation, silent meditation, or listening to the Shiva Purana; do not let sleep come.
+- **Breaking the fast:** The next day, on amavasya or pratipada, offer food to a Brahmin first, then take your own meal; sattvic food is appropriate.
+- **2026 date:** TODO-VERIFY (Phalguna Krishna Chaturdashi)
 
 ---
 

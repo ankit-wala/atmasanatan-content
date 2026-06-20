@@ -43,36 +43,15 @@ The importance lies in it happening every month — regularly. Performing a puja
 
 ## Vidhi
 
-**Materials:**
-- Panchamrita (milk, curd, ghee, honey, sugar)
-- Tulsi leaves
-- Yellow flowers, sandalwood paste, incense, lamp
-- Prasad — wheat halwa (sheera), or banana, coconut, sweets
-- Tulsi leaves
-
-**Order of puja:**
-1. Bathe and wear yellow or clean garments.
-2. Light a lamp before the image of Vishnu or the shalagrama.
-3. Sankalpa — *"Today on Purnima, I perform the puja of Satyanarayan for Vishnu-bhakti and the welfare of the family."*
-4. Perform abhishek with panchamrita — while chanting *Om Namo Bhagavate Vasudevaya*.
-5. Offer tulsi leaves, yellow flowers, sandalwood paste.
-6. Light incense and lamp.
-7. Offer the prasad as naivedya.
-8. Read an abridged version of the Panchadhyayi Katha, or narrate a summary of the story.
-9. Aarti — *Om Jai Jagadish Hare.*
-10. Distribute prasad among family and neighbours.
-
-**The importance of prasad:** Receiving the prasad of Satyanarayan Puja is an integral part of this vrat. If someone declines, request them gently — there is a traditional prohibition against refusing this prasad.
-
-## Observance
-
-**Fasting:** Complete fasting is not required. Eating lightly before the puja — ekahara or fruit — is sufficient. The fast is broken with the prasad after the puja.
-
-**Flexibility of the tithi:** According to Vishnu's direction, this puja may be performed on any auspicious day — Purnima, Ekadashi, the first day of the month. Purnima is the most widely observed.
-
-**Regularity:** Beginning with a sankalpa to observe the vrat on every Purnima for a year is considered the ideal approach.
-
-**Fulfillment of sankalpa:** When a wish is fulfilled — a puja performed for a specific purpose — perform the udyapana (concluding puja) and feed brahmins.
+- **Fasting:** Complete fasting is not required; eating lightly before the puja — ekahara or fruit — is sufficient; the fast is broken with the prasad after the puja.
+- **Preparations:** Bathe and wear yellow or clean garments; gather panchamrita (milk, curd, ghee, honey, sugar), tulsi leaves, yellow flowers, sandalwood paste, incense, and lamp; prepare prasad — wheat halwa (sheera), or banana, coconut, sweets.
+- **Sankalpa & worship:** Light a lamp before the image of Vishnu or the shalagrama; take sankalpa — *"Today on Purnima, I perform the puja of Satyanarayan for Vishnu-bhakti and the welfare of the family"*; perform abhishek with panchamrita while chanting *Om Namo Bhagavate Vasudevaya*; offer tulsi leaves, yellow flowers, and sandalwood paste.
+- **Katha & aarti:** Offer the prasad as naivedya; read an abridged version of the Panchadhyayi Katha or narrate a summary; perform aarti — *Om Jai Jagadish Hare*; distribute prasad among family and neighbours.
+- **Prasad rule:** Receiving the prasad is an integral part of this vrat — there is a traditional prohibition against refusing it; if someone declines, request them gently.
+- **Tithi flexibility:** This puja may be performed on any auspicious day — Purnima, Ekadashi, or the first day of the month; Purnima is the most widely observed.
+- **Regularity:** Beginning with a sankalpa to observe the vrat on every Purnima for a year is the ideal approach; performing it once in hardship and then forgetting is not true observance.
+- **Sankalpa fulfillment:** When a wish is fulfilled through a puja performed for a specific purpose, perform the udyapana (concluding puja) and feed brahmins.
+- **2026 date:** TODO-VERIFY (Purnima)
 
 ## Mantras
 

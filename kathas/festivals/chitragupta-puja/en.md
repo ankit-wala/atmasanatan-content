@@ -74,25 +74,15 @@ This puja falls on Kartik Shukla Dwitiya — the same day as Bhai Dooj. The reun
 
 ## Vidhi
 
-1. Bathe in the morning and take a vow (sankalp) of observance.
-2. Establish an **image or picture of Chitragupta**. Place an icon showing him holding a pen and book at the place of worship.
-3. Place a **pen and inkpot** at the place of worship. Perform their abhishek with panchamrit (milk, curd, ghee, honey, water) — or purify them with water.
-4. Offer **books and writing materials** — a new ledger, notebook, or book. These are symbols of a fresh beginning from this day forward.
-5. Offer incense, a lamp, flowers, and naivedya (sweets or fruit).
-6. Read or listen to the **Chitragupta Katha**.
-7. With the pen, write the **first letter or numeral in the new account** — this is considered an auspicious beginning.
-
-**2026 Date:** Verify on DrikPanchang (Kartik Shukla Dwitiya — the day of Bhai Dooj).
-
-## Observance
-
-**Special for Kayastha families:** This festival is the principal celebration of the Kayastha community. All members of the family gather and perform the collective worship of Chitragupta.
-
-**New account books:** Beginning new accounts and ledgers on this day is considered highly auspicious — those engaged in trade and administrative work open a new account on this day.
-
-**Worship of writing instruments (Kalam-Dawat Puja):** After the pen, inkpot, and book are worshipped, they are put to use that very day — the first writing is held to be auspicious.
-
-**Alongside Bhai Dooj:** In households where Bhai Dooj is celebrated, Chitragupta Puja is observed together with it.
+- **At dawn:** Bathe and take a vow (sankalp) of observance.
+- **Establishing the deity:** Place an image or picture of Chitragupta at the worship space — preferably one showing him holding a pen and book.
+- **Kalam-Dawat Puja:** Place a pen and inkpot at the worship space; perform abhishek with panchamrit (milk, curd, ghee, honey, water) or purify them with clean water. After worship, put them to use that same day — the first writing is considered auspicious.
+- **Offerings:** Place a new ledger, notebook, or book as an offering; offer incense, a lamp, flowers, and naivedya (sweets or fruit).
+- **Katha and first writing:** Read or listen to the Chitragupta Katha; then with the pen write the first letter or numeral in the new account — this is the auspicious beginning.
+- **For Kayastha families:** This is the principal festival of the Kayastha community. All family members gather for collective worship of Chitragupta, their ancestral deity.
+- **New accounts:** Beginning new account books and ledgers on this day is highly auspicious — those in trade and administration open their new accounts today.
+- **Alongside Bhai Dooj:** In households where Bhai Dooj is celebrated, Chitragupta Puja is observed together with it on the same tithi.
+- **2026 date:** TODO-VERIFY (Kartik Shukla Dwitiya — the day of Bhai Dooj)
 
 ## Mantras
 

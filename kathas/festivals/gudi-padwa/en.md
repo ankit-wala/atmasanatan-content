@@ -35,19 +35,13 @@ The neem-jaggery prasad of this festival reveals a deep philosophical vision. Ne
 
 ## Vidhi
 
-On Chaitra Shukla Pratipada, rise before sunrise and bathe with a sesame-paste scrub. Decorate the main entrance with a torana of mango leaves. Take a long bamboo pole — wrap it in bright silk (yellow or saffron), place an inverted copper or silver kalash at the top, weave in neem sprigs and mango leaves, and adorn it with a flower garland. Raise this Gudi on the roof or to the right of the main entrance, facing east, at the time of sunrise. Draw a rangoli below the Gudi. Then perform puja for Brahma and Shri Rama — offer incense, a lamp, flowers, and naivedya. Listen to the panchang recitation. Receive the **neem-jaggery prasad** — prepared from tender neem shoots, jaggery, tamarind, and sesame. In the evening, lower the Gudi and place it respectfully inside the home.
-
----
-
-## Observance
-
-**Raising the Gudi:** At sunrise, raise the Gudi on the roof or to the right of the main entrance, facing east. Wrap the pole in bright cloth, set an inverted kalash at the top, and add neem and mango leaves with a flower garland.
-
-**Puja:** Worship Brahma and Shri Rama — offer incense, a lamp, flowers, and naivedya. Listen to the creation-katha and the story of Rama's return.
-
-**Neem-jaggery prasad:** Receive the prasad made from tender neem shoots, jaggery, tamarind, cumin, and salt. It is a symbol of accepting life's bitter and sweet experiences with equanimity.
-
-**Panchang recitation:** On the first day of the new year, listen to the panchang — learn the coming year's seasons, tithis, and auspicious muhurtas. This tradition is a remembrance of Brahma's establishment of the reckoning of time.
+- **At dawn:** Rise before sunrise; bathe with a sesame-paste scrub; decorate the main entrance with a torana of mango leaves and draw rangoli below where the Gudi will stand.
+- **Raising the Gudi:** Take a long bamboo pole; wrap it in bright silk (yellow or saffron); place an inverted copper or silver kalash at the top; weave in neem sprigs and mango leaves; adorn with a flower garland. Raise the Gudi on the roof or to the right of the main entrance, facing east, at the moment of sunrise.
+- **Puja:** Worship Brahma and Shri Rama — offer incense, a lamp, flowers, and naivedya; listen to the creation-katha and the story of Rama's return to Ayodhya.
+- **Panchang recitation:** Listen to the panchang on the first day of the new year to learn the coming year's seasons, tithis, and auspicious muhurtas — a remembrance of Brahma's establishment of the reckoning of time.
+- **Neem-jaggery prasad:** Receive the prasad made from tender neem shoots, jaggery, tamarind, cumin, and salt — a symbol of accepting life's bitter and sweet experiences with equanimity.
+- **At dusk:** Lower the Gudi and place it respectfully inside the home.
+- **2026 date:** TODO-VERIFY (Chaitra Shukla Pratipada)
 
 ---
 

@@ -101,25 +101,15 @@ Parashurama Jayanti and Akshaya Tritiya fall on the same tithi — Vaishakha Shu
 
 ## Vidhi
 
-1. Rise early, bathe, and put on clean clothes.
-2. Install an image or portrait of Lord Parashurama at the place of worship.
-3. **Parashu-puja:** If possible, place a small parashu (axe) as a symbol in the worship — it is his divine weapon.
-4. Perform abhisheka with panchamrita (milk, curd, ghee, honey, sugar).
-5. Offer yellow flowers, tulasi, sandalwood, incense, and a lamp.
-6. Chant **Om Jāmadagnyāya Namaḥ** 108 times.
-7. Read or listen to the Parashurama-charitra from the Bhagavata Purana.
-8. Give to brahmins according to your means — anna-dana and shastra-dana are especially meritorious.
-9. Perform aarti again at dusk.
-
-## Observance
-
-**Fasting:** Fasting is prescribed on this day — take only fruit. Break the fast after sunset.
-
-**Puja:** Yellow cloth and yellow flowers are ideal for Parashurama's worship. Meditate on Lord Vishnu and worship Parashurama as the sixth avatar form of Vishnu.
-
-**Parashu-puja:** Shastra-puja on Parashurama Jayanti holds special significance — those who follow the path of the sadhaka, the soldier, or kshatriya-dharma should worship their weapons on this day.
-
-**Akshaya Tritiya observances:** This tithi is also Akshaya Tritiya — dana, japa, and puja performed on this day are held to bring akshaya (imperishable) fruit. Purchasing gold, beginning new undertakings, and pitru-tarpana are also among the special observances of this tithi.
+- **At dawn:** Rise early, bathe, and put on clean clothes.
+- **Fasting:** Fast on this day — take only fruit; break the fast after sunset.
+- **Puja:** Install an image or portrait of Lord Parashurama; use yellow cloth and yellow flowers; perform Panchamrita abhisheka with milk, curd, ghee, honey, and sugar; offer tulasi, sandalwood, incense, and a lamp; worship Parashurama as the sixth avatar form of Vishnu.
+- **Parashu-puja:** If possible, place a small parashu (axe) as a symbol in the worship — it is his divine weapon. Shastra-puja holds special significance on this day; those who follow the path of the sadhaka, soldier, or kshatriya-dharma should worship their weapons.
+- **Japa:** Chant **Om Jāmadagnyāya Namaḥ** 108 times; read or listen to the Parashurama-charitra from the Bhagavata Purana.
+- **Giving:** Give to brahmins according to your means — anna-dana and shastra-dana are especially meritorious.
+- **Special (Akshaya Tritiya):** This tithi is also Akshaya Tritiya — dana, japa, and puja performed on this day bring akshaya (imperishable) fruit; purchasing gold, beginning new undertakings, and pitru-tarpana are also among the special observances.
+- **Evening puja:** Perform aarti again at dusk.
+- **2026 date:** TODO-VERIFY (Vaishakha Shukla Tritiya)
 
 ## Mantras
 

@@ -83,24 +83,13 @@ The katha of Ekadashi Devi also reveals that the Lord's power already dwells wit
 
 ## Vidhi
 
-1. **Evening of Dashami:** Take one meal. Urad dal and brinjal (eggplant) are prohibited.
-2. **Morning of Ekadashi:** Bathe and take the vow of the fast. "I observe the fast of Utpanna Ekadashi for the pleasure of Lord Vishnu."
-3. Establish an image or picture of Lord Vishnu.
-4. Worship with tulasi, yellow flowers, incense, a lamp, and panchamrita.
-5. Recite the **Vishnu Sahasranama**.
-6. Fast — either completely without water or on fruit alone.
-7. **Overnight vigil** — chanting the name of Lord Vishnu, bhajans, and kirtan.
-8. **Break the fast on Dwadashi after sunrise** — open the fast with simple, sattvic food.
-
-## Observance
-
-**Fasting:** Without water or on fruit alone. Urad dal is prohibited from Dashami onward.
-
-**Overnight vigil:** Night-long waking holds special importance on this Ekadashi — spend the night chanting "Hari Hari" in kirtan and repeating Vishnu's name.
-
-**Parana:** Break the fast on Dwadashi morning, after sunrise and before the Dwadashi tithi ends.
-
-**2026 date:** Verify Margashirsha Krishna Ekadashi on DrikPanchang (TODO-VERIFY).
+- **Dashami evening:** Take one meal only; urad dal and brinjal (eggplant) are prohibited from this evening onward.
+- **Ekadashi morning:** Bathe and take the sankalpa: "I observe the fast of Utpanna Ekadashi for the pleasure of Lord Vishnu."
+- **Fasting:** Nirjal (without water) or on fruit alone — urad dal remains prohibited throughout.
+- **Puja:** Establish an image or picture of Lord Vishnu; worship with tulasi, yellow flowers, incense, a lamp, and panchamrita; recite the Vishnu Sahasranama.
+- **Overnight vigil:** Night-long waking holds special importance on this Ekadashi — spend the night chanting "Hari Hari," singing bhajans, and doing kirtan.
+- **Parana (breaking the fast):** Break the fast on Dwadashi morning, after sunrise and before the Dwadashi tithi ends, with simple sattvic food.
+- **2026 date:** TODO-VERIFY (Margashirsha Krishna Ekadashi)
 
 ## Mantras
 

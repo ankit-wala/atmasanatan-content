@@ -57,27 +57,15 @@ The Monday fast is not tied to any particular month. It can be begun on any Mond
 
 ## Vidhi
 
-**Morning:**
-1. Rise before sunrise and bathe.
-2. Go to a Shiva temple or perform puja on a Shivalinga at home.
-3. Perform abhisheka with water and raw milk.
-4. Offer belpatra, white flowers (datura, aak, jasmine), and sandalwood.
-5. Light incense and a lamp.
-6. Chant *Om Namah Shivaya* — at least 108 times.
-7. Recite the Mahamrityunjaya mantra.
-
-**Pradosha Puja (special importance):**
-Performing Shiva puja on Monday evening during Pradosha Kala (approximately ninety minutes after sunset) is considered especially fruitful. When Monday and Pradosha coincide, it is called *Som-Pradosha* — the most auspicious Monday of the year.
-
-## Observance
-
-**Fasting:** Complete fast or one meal a day (ekahara). The option of abstaining from grains and taking fruit once is also observed. In some regions, the tradition of giving up salt is kept.
-
-**Breaking the fast:** On Tuesday morning, after sunrise, with Shiva's name on one's lips.
-
-**Sankalpa:** Whenever you begin the vrat — whether for one Monday or more — take a sankalpa on the first day stating your intention and how many Mondays you will observe.
-
-**2026 dates:** Confirm on DrikPanchang.
+- **Sankalpa:** On the first Monday, take a sankalpa stating your intention and how many Mondays you will observe.
+- **At dawn:** Rise before sunrise; bathe; go to a Shiva temple or set up a Shivalinga at home.
+- **Abhishek:** Pour water and raw milk over the Shivalinga.
+- **Offerings:** Belpatra, white flowers (datura, aak, jasmine), and sandalwood; light incense and a lamp.
+- **Mantras:** Chant *Oṃ Namaḥ Śivāya* at least 108 times; recite the Mahamrityunjaya Mantra.
+- **Fasting:** Complete fast or ekahara (one meal a day); abstaining from grains and taking fruit once is also observed. In some regions, giving up salt is traditional.
+- **Evening puja:** Performing Shiva puja during Pradosha Kala (approximately ninety minutes after sunset) is especially fruitful. When Monday and Pradosha coincide, it is called *Som-Pradosha* — the most auspicious Monday of the year.
+- **Breaking the fast:** On Tuesday morning after sunrise, with Shiva's name on one's lips.
+- **2026 date:** TODO-VERIFY (any Monday; Shravan Mondays especially auspicious)
 
 ## Mantras
 

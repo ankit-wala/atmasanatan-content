@@ -55,23 +55,13 @@ On this day, married women swing on jhulas, apply mehndi, wear new clothes, and 
 
 ## Vidhi
 
-1. Take an early bath and make the sankalpa (vow) for the fast.
-2. Worship Maa Gauri and Lord Shiva — offer bilva leaves, green flowers, turmeric, sindoor.
-3. In the North Indian regional tradition, wear green clothes and green bangles — green is the symbol of Parvati's reunion.
-4. Perform the sixteen shringars — sindoor, mehndi, bindi, bangles.
-5. In the North Indian tradition, swing on a jhula and sing Teej folk songs.
-6. Keep a night vigil — listen to the katha of Maa Gauri.
-7. Break the fast the following morning (Chaturthi).
-
-## Observance
-
-**Fast:** Some traditions observe a waterless (nirjal) fast; others allow fruits. According to one's strength.
-
-**Breaking the fast:** The following day — Chaturthi — after the morning bath.
-
-**For newly-wed women:** The first Hariyali Teej is especially significant — in many regional traditions, it is observed at one's parents' home.
-
-**2026 date:** Confirm on DrikPanchang (~August 15, 2026, Shravan Shukla Tritiya).
+- **At dawn:** Take an early bath; make the sankalpa (vow) for the fast; wear green clothes and green bangles — green is the symbol of Parvati's reunion with Shiva.
+- **Puja:** Worship Maa Gauri and Lord Shiva — offer bilva leaves, green flowers, turmeric, and sindoor; perform the sixteen shringars (sindoor, mehndi, bindi, bangles).
+- **Day observance:** Swing on a jhula and sing Teej folk songs (North Indian regional tradition); keep a night vigil and listen to the katha of Maa Gauri.
+- **Fasting:** Some traditions observe a nirjal (waterless) fast; others allow fruits — observe according to one's strength.
+- **Breaking the fast:** The following morning (Chaturthi), after the morning bath.
+- **For newly-wed women:** The first Hariyali Teej is especially significant — in many regional traditions, it is observed at one's parents' home.
+- **2026 date:** TODO-VERIFY (Shravan Shukla Tritiya)
 
 ## Mantras
 

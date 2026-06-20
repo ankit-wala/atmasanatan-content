@@ -49,28 +49,15 @@ The Kajari songs — the folk songs sung on this day — form a distinct genre o
 
 ## Vidhi
 
-The following ritual is practised in the regional tradition of northern India:
-
-1. Rise at dawn, bathe, and take the vow of the fast.
-2. In the courtyard or puja space, shape a small earthen mound.
-3. Plant a fresh neem branch in it — this is the symbol of "Nimdi Mata."
-4. Mould small clay images of Shiva-Parvati and install them.
-5. Worship with flowers, incense, a lamp, and an offering (sattu / kheer / fruit).
-6. Keep the fast — nirjal (without water) or on fruit.
-7. In the night, hold a jagran — sing Kajari folk songs.
-8. Complete the fast with paran at dawn the next day.
-
-## Observance
-
-**Fasting:** In regional tradition, a nirjal (waterless) fast; fruit is also acceptable.
-
-**Paran:** The next day — Chaturthi — after sunrise.
-
-**Sattu offering:** In some regional traditions, sattu (roasted gram flour) is offered as a special bhog.
-
-**For new brides:** The first Kajari Teej is special — in northern Indian tradition, there is a custom of observing it at the maternal home (peehar).
-
-**2026 date:** Confirm on DrikPanchang (~August 31, 2026, Bhadrapada Krishna Tritiya).
+- **For whom:** Observed by married women for the longevity and well-being of their husbands; the regional tradition of northern India (UP, MP, Bihar, Rajasthan).
+- **At dawn:** Rise, bathe, and take the vow of the fast.
+- **Puja setup:** In the courtyard or puja space, shape a small earthen mound; plant a fresh neem branch in it (symbol of "Nimdi Mata"); mould small clay images of Shiva-Parvati and install them.
+- **Worship:** Offer flowers, incense, a lamp, and bhog (sattu / kheer / fruit); in some regional traditions, sattu (roasted gram flour) is the special offering.
+- **Fasting:** Observe a nirjal (waterless) fast throughout the day; fruit is also acceptable in regional tradition.
+- **At night:** Hold a jagran — sing Kajari folk songs through the night.
+- **Special note:** The first Kajari Teej is special for new brides — in northern Indian tradition, there is a custom of observing it at the maternal home (peehar).
+- **Breaking the fast:** Paran on the next day — Chaturthi — after sunrise.
+- **2026 date:** Confirm on DrikPanchang (~August 31, 2026, Bhadrapada Krishna Tritiya).
 
 ## Mantras
 

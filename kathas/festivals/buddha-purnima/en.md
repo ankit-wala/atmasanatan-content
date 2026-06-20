@@ -47,37 +47,16 @@ The light of Vaishakha Purnima says this to us: the true form of strength lies n
 
 ## Vidhi
 
-**Bathing and Sankalpa:**
-Rise in the brahma muhurta in the early morning and bathe with water mixed with Gangajal. Facing east, meditate upon Lord Vishnu. Take the sankalpa: "On this auspicious day of Kurma Jayanti I shall perform worship of Lord Kurma and Vishnu and observe the vow of ahimsa."
-
-**Kurma Puja:**
-Establish an image or picture of Lord Vishnu or Kurma at the place of worship. Wear yellow garments. Perform abhisheka with panchamrita (milk, curd, ghee, honey, sugar). Offer tulasi leaves, yellow flowers, sandalwood paste, and akshat. Light incense and a lamp.
-
-**Kshira Offering:**
-As a symbol of the Kshirasagara, place milk in a vessel, add tulasi leaves, and offer it to the Lord. This keeps the memory of the churning katha alive.
-
-**White Flowers:**
-On Buddha Purnima, white lotus and white flowers are especially revered — symbols of peace and compassion.
-
-**Dana:**
-On this day, jala-dana (placing water pots for the thirsty, giving water to those who thirst), anna-dana, and vastra-dana carry especial merit. The gift given on Purnima yields inexhaustible fruit.
-
-**Recitation:**
-In the evening, read the Kurma avatar episode and the Samudra Manthan katha from the Eighth Skandha of the Bhagavata Purana. Recitation of the Vishnu Sahasranama is also greatly fruitful on this day.
-
-## Observance
-
-**Fasting and Bathing-Dana:**
-Bathing in a sacred river, lake, or tirtha on Vaishakha Purnima carries especial significance. Those who observe a fast may take fruit. Break the fast with puja in the evening.
-
-**Kurma Puja:**
-Worship Lord Vishnu in his Kurma form. Perform panchamrita-abhisheka and offer tulasi leaves and kshira (milk). Chant "Om Kurmaaya Namah" 108 times.
-
-**Vow of Ahimsa:**
-This day is also the day of Buddha's compassion. Abstain completely from meat, violence, and anger. Cause no suffering to any living being. Those who take the vow of ahimsa should endeavour to honour it for a full year.
-
-**Dipa-Dana:**
-On the night of Purnima, float a lamp near water — a river or lake. This is a remembrance of that infinite light of the Kshirasagara in which Kurma patiently bore the weight of all creation.
+- **At dawn:** Rise in the brahma muhurta and bathe with water mixed with Gangajal; face east, meditate upon Lord Vishnu, and take the sankalpa to worship Lord Kurma and observe ahimsa.
+- **Puja:** Establish an image of Lord Vishnu or Kurma; wear yellow garments; perform panchamrita-abhisheka (milk, curd, ghee, honey, sugar); offer tulasi leaves, yellow flowers, sandalwood paste, and akshat; light incense and a lamp; chant "Om Kurmaaya Namah" 108 times.
+- **Kshira offering:** Place milk in a vessel, add tulasi leaves, and offer it to the Lord as a symbol of the Kshirasagara.
+- **White flowers:** White lotus and white flowers are especially revered on Buddha Purnima — symbols of peace and compassion.
+- **Fasting:** Those who observe a fast may take fruit; break the fast with puja in the evening.
+- **Vow of ahimsa:** Abstain completely from meat, violence, and anger; cause no suffering to any living being; those who take the vow should endeavour to honour it for a full year.
+- **Dana:** Jala-dana, anna-dana, and vastra-dana all carry especial merit on this day; the gift given on Purnima yields inexhaustible fruit.
+- **Evening recitation:** Read the Kurma avatar episode and Samudra Manthan katha from the Eighth Skandha of the Bhagavata Purana; recitation of the Vishnu Sahasranama is also greatly fruitful.
+- **Dipa-dana:** On the night of Purnima, bathe in a sacred river, lake, or tirtha; float a lamp near water as a remembrance of the infinite light of the Kshirasagara.
+- **2026 date:** TODO-VERIFY (Vaishakha Shukla Purnima — Kurma Jayanti / Buddha Purnima)
 
 ## Mantras
 

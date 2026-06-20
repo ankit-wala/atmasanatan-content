@@ -59,27 +59,15 @@ On Dashahara, Ganga descended from the divine realm as a cosmic power. On Saptam
 
 ## Vidhi
 
-The traditional vidhan of Ganga-snana, Surya-arghya, and tarpana on Ganga Saptami:
-
-1. **Morning sankalpa.** Rise at Brahma muhurta. Before bathing, take a sankalpa — "Today, on Vaishakha Shukla Saptami, on Mother Ganga's bhū-janma divasa, I remember her and take Ganga-snana and offer arghya to Suryadev."
-2. **Ganga-snana.** If it is possible to go to the Ganga's bank, do so. Otherwise, add Gangajal to water at home and bathe. While bathing, chant "Oṃ namo bhagavatyai Gaṅgāyai namaḥ."
-3. **Surya-arghya.** After bathing, face east and take water in a copper vessel. Add red flowers, sesame, and akshata. While offering arghya to Surya, recite "Oṃ Sūryāya namaḥ."
-4. **Ganga-pujana.** Before a kalasha filled with Gangajal, offer flowers, akshata, roli, and dhupa-dipa. Recite the "Namami Gange" stotra.
-5. **Tarpana.** Taking sesame and flowers, offer tarpana to the pitrs with Gangajal. Offer water with the feeling — "May the pitrs of seven generations attain liberation."
-6. **Dipa-dana.** In the evening, light a lamp and float it in the Ganga — or in a vessel of water at home. This is a symbol of illuminating the path of the ancestors.
-7. **Dana.** On this day, the gift of sesame, water, fruit, and cloth is meritorious. Feed a Brahmin or give dana according to one's means.
-
-## Observance
-
-**Ganga-snana:** This is the principal rite of the day. Even in the heat of Vaishakha, going to the Ganga bank is beneficial — the water of this day is a remembrance of Ganga's first flow on the earth. Those who cannot reach the bank should add Gangajal to water at home and bathe.
-
-**Surya-arghya:** At sunrise in the morning, offer Suryadev arghya with water mixed with sesame. Surya-upasana is especially fruitful on the Saptami tithi — and on Ganga Saptami the grace of both Ganga and Surya is received at the same moment.
-
-**Tarpana:** Offer tarpana to the pitrs with Gangajal mixed with sesame and flowers. The Brahma Purana states that tarpana on this day liberates pitrs up to seven generations.
-
-**Dipa-dana:** In the evening, light a lamp and offer it to Ganga. Remember the departed members of the family and wish for their sadgati.
-
-**Upavasa:** Fasting on Ganga Saptami is optional. Ekahara (one meal) or phalahara is prescribed. Avoid tamasic food, meat, and alcohol especially on this day.
+- **Morning sankalpa:** Rise at Brahma muhurta; take a sankalpa — "Today, on Vaishakha Shukla Saptami, on Mother Ganga's bhū-janma divasa, I remember her and take Ganga-snana and offer arghya to Suryadev."
+- **Ganga-snana:** Go to the Ganga's bank even in the heat of Vaishakha — the water of this day is a remembrance of Ganga's first flow on the earth; if unable to reach the bank, add Gangajal to water at home and bathe, chanting "Oṃ namo bhagavatyai Gaṅgāyai namaḥ."
+- **Surya-arghya:** After bathing, face east; offer arghya to Suryadev from a copper vessel with water mixed with red flowers, sesame, and akshata, reciting "Oṃ Sūryāya namaḥ" — on this Saptami tithi the grace of both Ganga and Surya is received together.
+- **Ganga-pujana:** Before a kalasha filled with Gangajal, offer flowers, akshata, roli, and dhupa-dipa; recite the "Namami Gange" stotra.
+- **Tarpana:** Offer tarpana to the pitrs with Gangajal mixed with sesame and flowers; the Brahma Purana states that this liberates the pitrs of seven generations.
+- **Dipa-dana:** In the evening, light a lamp and float it in the Ganga — or in a vessel of water at home; remember the departed and pray for their sadgati.
+- **Dana:** On this day the gift of sesame, water, fruit, and cloth is meritorious; feed a Brahmin or give dana according to one's means.
+- **Fasting:** Optional — ekahara (one meal) or phalahara is prescribed; avoid tamasic food, meat, and alcohol especially on this day.
+- **2026 date:** TODO-VERIFY (Vaishakha Shukla Saptami)
 
 ## Mantras
 

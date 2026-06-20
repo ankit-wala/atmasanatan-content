@@ -49,45 +49,16 @@ From a spiritual standpoint, water donation (jal-dan) holds special significance
 
 ## Vidhi
 
-**Preparation (Dashami):**
-On Dashami, eat sattvic food. After sunset, give up all food and water. Before sleeping, remember Lord Vishnu and take a firm resolve (sankalpa).
-
-**Ekadashi Morning:**
-Bathe before sunrise. Wear clean yellow or white clothes. Purify the place of worship with Ganga water. Install an image or picture of Lord Vishnu.
-
-**Puja Procedure:**
-- Offer Tulsi leaves, yellow flowers (yellow lotus or marigold), and sandalwood.
-- Perform abhisheka with Panchamrita — milk, curd, ghee, honey, sugar.
-- Light incense and a lamp (dhoop-deep).
-- Chant the Vishnu Sahasranama or the japa of ॐ नमो भगवते वासुदेवाय.
-- Offer Tulsi manjari, yellow fruits, and mishri to the Lord.
-- Read or listen to the Nirjala Ekadashi katha.
-
-**Water Donation (Jal-Dan):**
-On this day, fill an earthen pot with water, mix in sugar and jaggery, cover it with white cloth, and offer it in donation to a Brahmin or a person in need. This is the special righteous act of Nirjala Ekadashi.
-
-**Night Vigil:**
-Keep vigil through the night with bhajans and kirtan of Lord Vishnu.
-
-## Observance
-
-**Waterless Fast:**
-This fast is completely without water — from sunset on Dashami until the Parana time on Dvadashi, neither food, nor water, nor fruit, nor milk. Not a single drop is permitted. This is the fundamental condition of this fast — if water must be taken, the fast is considered broken.
-
-**Prohibited:**
-- Any liquid including water — milk, tea, fruit juice, buttermilk
-- All food — grains, fruits, and roots
-- Breaking of brahmacharya, anger, and false speech
-- Sleeping during the day
-
-**Water Donation (Special Merit):**
-One who does not drink water himself and yet offers cool water to others — their merit is considered greater than the fast itself. Donating earthen pots (matkas), setting up water kiosks (pyau), distributing cool water — these are the highest acts of this day.
-
-**Parana (Breaking the Fast):**
-On Dvadashi, break the fast after sunrise during the Parana time (after the Hari-Vasar period ends in the morning). First take Tulsi water, then take Panchamrita. After that, eat sattvic food. At the time of Parana, feed a Brahmin or someone in need — this is an essential part of this fast.
-
-**For Those Who Cannot Fast:**
-Those who are ill, elderly, or pregnant women may take fruit-food (phalahar) with water — but the giving up of grains must be observed. Remembrance of Lord Vishnu and listening to the katha are sufficient to earn merit for them.
+- **Fasting:** Completely waterless (nirjal) — from sunset on Dashami until Parana time on Dvadashi, no food, water, fruit, milk, or any liquid whatsoever; if water must be taken, the fast is considered broken.
+- **Preparation (Dashami evening):** Eat sattvic food; after sunset give up all food and water; take a firm sankalpa before sleeping.
+- **At dawn (Ekadashi):** Bathe before sunrise; wear clean yellow or white clothes; purify the puja place with Ganga water; install an image or picture of Lord Vishnu.
+- **Puja:** Offer Tulsi leaves, yellow flowers (lotus or marigold), and sandalwood; perform Panchamrita abhisheka (milk, curd, ghee, honey, sugar); light incense and a lamp; chant Vishnu Sahasranama or ॐ नमो भगवते वासुदेवाय; offer Tulsi manjari, yellow fruits, and mishri; read or listen to the Nirjala Ekadashi katha.
+- **Prohibited:** Any liquid including water, milk, tea, fruit juice, or buttermilk; all food including grains, fruits, and roots; sleeping during the day; breaking brahmacharya, anger, or false speech.
+- **Jal-dan (special merit):** Fill an earthen pot with water mixed with sugar and jaggery, cover with white cloth, and donate to a Brahmin or person in need; setting up water kiosks (pyau) and distributing cool water are the highest acts of this day — one who gives up water himself yet offers water to others earns double merit.
+- **Night vigil:** Keep vigil through the night with bhajans and kirtan of Lord Vishnu.
+- **Parana (Dvadashi):** Break the fast after sunrise during Parana time (after Hari-Vasar ends); first take Tulsi water, then Panchamrita, then sattvic food; feed a Brahmin or someone in need at Parana — this is essential.
+- **For those who cannot fast:** The ill, elderly, or pregnant may take phalahar with water but must give up grains; remembrance of Vishnu and listening to the katha earn merit.
+- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Ekadashi).
 
 ## Mantras
 

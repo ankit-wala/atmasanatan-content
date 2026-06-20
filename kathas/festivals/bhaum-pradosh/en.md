@@ -37,23 +37,14 @@ The adverse influence of Mangal in the birth chart — Manglik dosha — is also
 
 ## Vidhi
 
-The puja-vidhi of Bhaum-Pradosh is the same as the main Pradosh Vrat. For the detailed procedure, see the chapter on Pradosh Vrat.
-
-**Special additions:**
-1. After the Shiva puja, also worship Kartikeya — offer red flowers, red sandalwood paste, and fruit.
-2. Donating red lentils or red garments is considered auspicious for relief from Mangal affliction.
-3. Along with *Om Namah Shivaya*, chant *Om Shanmukhaya Namah* (the Kartikeya mantra).
-4. Use sesame oil in the lamp — this is beloved by the planet Mangal.
-
-## Observance
-
-**Fasting:** Complete fast or ekahara on Trayodashi (Tuesday) — abstaining from salt is recommended.
-
-**Paran:** Wednesday morning after sunrise, with remembrance of Shiva.
-
-**Sankalpa:** If the vrat is for freedom from debt or removal of enemies, take a sankalpa for a fixed number of observances.
-
-**2026 dates:** Confirm on DrikPanchang.
+- **Fasting:** Complete fast or ekahara (single meal) on Trayodashi (Tuesday) — abstaining from salt is recommended.
+- **Procedure:** Follow the main Pradosh Vrat puja-vidhi (see Pradosh Vrat chapter); perform Shiva puja during the Pradosh window (one and a half hours around sunset).
+- **Kartikeya puja:** After the Shiva puja, worship Kartikeya — offer red flowers, red sandalwood paste, and fruit; chant *Om Shanmukhaya Namah* along with *Om Namah Shivaya*.
+- **Lamp:** Use sesame oil in the lamp — this is beloved by the planet Mangal.
+- **Charity:** Donating red lentils or red garments is considered auspicious for relief from Mangal affliction.
+- **Sankalpa:** If observing the vrat for freedom from debt or removal of enemies, take a sankalpa for a fixed number of observances.
+- **Breaking the fast:** Paran on Wednesday morning after sunrise, with remembrance of Shiva.
+- **2026 dates:** Confirm on DrikPanchang.
 
 ## Mantras
 

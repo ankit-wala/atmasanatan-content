@@ -43,31 +43,16 @@ Maa Mahagauri is the presiding deity of the eighth day of Navratri. Among the ni
 
 ## Vidhi
 
-1. **Morning bath and sankalpa.** Rise before sunrise and bathe. Wear clean white or pink clothing. Take the sankalpa: "I perform the worship of Maa Mahagauri on the eighth day — grant me your grace."
-
-2. **Installing the kalash and the Goddess.** Establish the kalash at the place of worship. Change the water in the nine-day akhand kalash. Adorn the image or idol of Maa Mahagauri with white flowers.
-
-3. **Shodashopachar puja.** Bathe the Goddess with Ganga water, apply white sandalwood paste. Offer white flowers (jasmine, mogra, white rose). Offer coconut and white sweets (kheer, coconut laddus) as bhog. Light incense and lamp.
-
-4. **Durga Saptashati recitation.** On Ashtami, reciting one to three chapters of the Durga Saptashati is especially fruitful. If time does not allow, chant one mala of the Devi Kavach, Argalastotra, or the Mahagauri mantra.
-
-5. **Mahagauri mantra japa.** Chant the mantras given below 108 times.
-
-6. **Kanya pujan (special to Mahashtami).** On Ashtami, invite nine girls (aged 2 to 10) as the living forms of the Goddess. Wash their feet, apply tilak, offer them halwa-puri-kala chana, and present them with a red chunari and dakshina.
-
-7. **Aarti and seeking forgiveness.** Perform the aarti of Maa Mahagauri. Seek forgiveness for any errors that may have occurred in the puja.
-
-8. **2026 date.** Ashwin Shukla Ashtami — **TODO-VERIFY** (estimated: October 2026; confirm the tithi on DrikPanchang.)
-
----
-
-## Observance
-
-- **Navratri vrat.** Devotees observing the nine-day Navratri fast should continue on Ashtami — fruit diet or nirjala fast. Abstain from grain and salt.
-- **Mahashtami parana.** In many traditions, the fast is broken either on the evening of Ashtami or the morning of Navami, after the kanya pujan. Be sure to feed the girls before breaking your own fast.
-- **Akhand jyot.** Keep the nine-day akhand jyot burning on Ashtami as well.
-- **Brahmacharya and sattvic conduct.** During these days, maintain purity of mind, speech, and action. Avoid anger, ego, and falsehood — this is the true meaning of 'upavasa' (fasting).
-- **Preparation for Navami.** On the night of Ashtami, begin preparations to welcome Maa Siddhidatri (Navami). Gather the materials for the Navami havan and Navami parana.
+- **At dawn:** Rise before sunrise; bathe and wear clean white or pink clothing; take the sankalpa: "I perform the worship of Maa Mahagauri on the eighth day — grant me your grace."
+- **Kalash and puja:** Establish the kalash; change the water in the nine-day akhand kalash; adorn Maa Mahagauri's image with white flowers; bathe the Goddess with Ganga water; apply white sandalwood paste; light incense and lamp.
+- **Offerings:** White flowers (jasmine, mogra, white rose); coconut and white sweets (kheer, coconut laddus) as bhog.
+- **Recitation:** Recite one to three chapters of the Durga Saptashati — especially fruitful on Ashtami; if time does not allow, chant one mala of the Devi Kavach, Argalastotra, or the Mahagauri mantra 108 times.
+- **Kanya pujan (special to Mahashtami):** Invite nine girls (aged 2–10) as living forms of the Goddess; wash their feet, apply tilak, offer halwa-puri-kala chana, and present a red chunari and dakshina; feed the girls before breaking your own fast.
+- **Aarti:** Perform aarti of Maa Mahagauri; seek forgiveness for any errors in the puja; keep the akhand jyot burning.
+- **Fasting:** Continue the Navratri fast on Ashtami — fruit diet or nirjala; abstain from grain and salt; the fast may be broken on the evening of Ashtami or the morning of Navami after kanya pujan.
+- **Sattvic conduct:** Maintain purity of mind, speech, and action throughout these days — avoid anger, ego, and falsehood; this is the true meaning of upavasa.
+- **Preparation:** On the night of Ashtami, gather materials for the Navami havan and parana in preparation for Maa Siddhidatri.
+- **2026 date:** TODO-VERIFY — Ashwin Shukla Ashtami (~October 2026; confirm tithi on DrikPanchang).
 
 ---
 

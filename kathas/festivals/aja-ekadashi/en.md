@@ -83,24 +83,14 @@ Harishchandra's story is the pinnacle of satya-dharma. He did not know it was a 
 
 ## Vidhi
 
-1. Bathe at dawn on Ekadashi and take the vow to fast.
-2. Install an idol or image of Lord Vishnu (Hrishikesha).
-3. Perform Panchamrita abhisheka — milk, curd, ghee, honey, sugar.
-4. Offer tulsi, yellow flowers, yellow garments, and a lamp.
-5. Keep the fast — without water or on fruits.
-6. Recite the Vishnu Sahasranama or "Hari-smarana."
-7. **Night vigil is especially recommended** — in the tradition of this Ekadashi, all-night vigil holds the highest importance.
-8. Break the fast after sunrise on Dwadashi.
-
-## Observance
-
-**Fast:** Without water or on fruits — complete with Dwadashi paran.
-
-**Night vigil:** The hallmark of this Ekadashi — all-night "Hari-Hari" kirtan and Vishnu-nama smarana.
-
-**Paran:** On Dwadashi morning, between the Rahu period and Dwadashi end.
-
-**2026 date:** Verify on DrikPanchang (Bhadrapada Krishna Ekadashi — approximately September 7, 2026).
+- **At dawn:** Bathe on Ekadashi and take the vow to fast.
+- **Puja setup:** Install an idol or image of Lord Vishnu (Hrishikesha); perform Panchamrita abhisheka — milk, curd, ghee, honey, sugar.
+- **Offerings:** Tulsi, yellow flowers, yellow garments, and a lamp.
+- **Fasting:** Nirjal (waterless) or on fruits — observed through the full Ekadashi day.
+- **Recitation:** Vishnu Sahasranama or "Hari-smarana" throughout the day.
+- **Night vigil:** All-night "Hari-Hari" kirtan and Vishnu-nama smarana — the hallmark of this Ekadashi.
+- **Breaking the fast:** On Dwadashi morning, after sunrise, between the Rahu period and Dwadashi end (paran).
+- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Ekadashi)
 
 ## Mantras
 

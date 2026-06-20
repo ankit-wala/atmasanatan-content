@@ -59,31 +59,13 @@ This festival is observed primarily in Gujarat on Bhadrapada Krishna Saptami. In
 
 ## Vidhi
 
-This procedure follows the Gujarati tradition:
-
-**Shashthi (the day before — Randhan Chhath):**
-1. Cook all food — rotis, dal, rice, vegetables, curd, kheer. This will be the Goddess's offering tomorrow and the family's meal as well.
-
-**Saptami (Sheetala Satam):**
-1. Bathe at dawn and take the vow to observe Mother Sheetala's worship.
-2. Pour cold water over the idol or image of Mother Sheetala.
-3. Offer fresh neem leaves and a neem branch.
-4. Place the cold offering — day-old food, curd, buttermilk, sweet kheer.
-5. Perform worship with turmeric, roli, and flowers.
-6. Do not light any fire in the home on this day — no hearth, no lamp (some traditions do not prohibit the lamp; follow household custom).
-7. Eat only cold food.
-
-## Observance
-
-**Mothers' fast:** This fast is observed primarily by mothers for their children's health and wellbeing — Mother Sheetala is prayed to: "Keep my children free from fever, pox, and disease."
-
-**No-fire observance:** On Saptami, women do not light the hearth — this is the most important feature of this fast.
-
-**Cold food — the devotional act:** The mother herself eats cold, day-old food — this is not merely tradition but the symbol of the intention with which she seeks Mother Sheetala's protection for her children. Day-old / cold food — curd, buttermilk, neem leaves — Mother's preferred offering.
-
-**Neem bath:** In some traditions, bathing with neem-infused water is prescribed.
-
-**2026 date:** Verify on DrikPanchang (Bhadrapada Krishna Saptami — approximately September 3–4, 2026).
+- **Shashthi (Randhan Chhath — prep):** Cook all food — rotis, dal, rice, vegetables, curd, kheer; this cold day-old food will be the Goddess's offering tomorrow and the family's meal as well.
+- **For whom:** This fast is observed primarily by mothers for their children's health — praying that Mother Sheetala keep them free from fever, pox, and disease.
+- **No fire on Saptami:** Women do not light the hearth all day — this is the most important feature of the fast; no freshly cooked food; some traditions also avoid lighting a lamp, follow household custom.
+- **At dawn:** Bathe (some traditions prescribe neem-infused water); take the vow to observe Mother Sheetala's worship.
+- **Puja:** Pour cold water over the idol or image of Mother Sheetala; offer fresh neem leaves and a neem branch; place the cold offering — day-old food, curd, buttermilk, sweet kheer; perform worship with turmeric, roli, and flowers.
+- **Cold food:** Eat only cold, day-old food throughout the day — this is not merely tradition but the symbol of the mother's prayer for her children's protection; curd, buttermilk, neem leaves are Mother's preferred offerings.
+- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Saptami — approximately September 3–4, 2026)
 
 ## Mantras
 

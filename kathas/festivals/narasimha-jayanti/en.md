@@ -83,23 +83,15 @@ Narasimha Jayanti is not only the victory of a deity but the victory of a child 
 
 ## Vidhi
 
-1. On the morning of Narasimha Jayanti, bathe and take the sankalp of the vrat.
-2. Establish an image or picture of Lord Narasimha — both the ugra Narasimha and the shanta Narasimha forms are worthy of worship.
-3. Perform panchamrita abhishek — milk, curd, ghee, honey, sugar.
-4. Offer yellow clothing and yellow flowers. Tulsi leaves must be offered.
-5. **Special puja at sandhyakala** — this is the very hour when Narasimha manifested. Light a lamp.
-6. Read or listen to the katha of the Narasimha avatar from Bhagavata Purana Skandha 7.
-7. Recite the **Narasimha Kavach (protective prayer)** — this is the complete-body-protection stotra of Lord Narasimha.
-8. Night vigil or kirtan — with the chant of "Jai Narasimha, Jai Narasimha."
-9. Fast — one meal during the day or no meal at all; after the evening puja, fruits may be taken.
-
-## Observance
-
-**Fast:** Keep a fast throughout Vaishakh Shukla Chaturdashi. Water, fruits, and milk may be taken. Abstain from grain. If a complete fast is not possible, observe ekahara (one meal).
-
-**Evening puja:** The puja at sandhyakala is more fruitful than daytime puja — because Narasimha's manifestation occurred at twilight. Near the time of sunset, light a lamp, offer incense and flowers, and chant the Narasimha mantra.
-
-**Narasimha Kavach:** In the Bhagavata Purana, Narada Muni gave the Narasimha Kavach to Prahlad's mother Kayadhu. Recite this kavach at sandhyakala — it is considered the foremost stotra for complete-body protection and freedom from fear.
+- **At dawn:** Bathe and take the sankalp of the vrat on Vaishakh Shukla Chaturdashi.
+- **Puja setup:** Establish an image or picture of Lord Narasimha — both the ugra and shanta forms are worthy of worship; perform panchamrita abhishek (milk, curd, ghee, honey, sugar).
+- **Offerings:** Offer yellow clothing and yellow flowers; tulsi leaves must be offered.
+- **Fasting:** Keep a fast throughout the day — water, fruits, and milk permitted; abstain from grain; if a complete fast is not possible, observe ekahara (one meal); after evening puja, fruits may be taken.
+- **Sandhyakala puja:** The puja at twilight is more fruitful than daytime puja — Narasimha manifested at this very hour; near sunset, light a lamp, offer incense and flowers, and chant the Narasimha mantra.
+- **Narasimha Kavach:** Recite at sandhyakala — Narada Muni gave this kavach to Prahlad's mother Kayadhu; it is the foremost stotra for complete-body protection and freedom from fear.
+- **Katha:** Read or listen to the Narasimha avatar katha from Bhagavata Purana Skandha 7.
+- **Night vigil:** Keep kirtan or vigil with the chant of "Jai Narasimha, Jai Narasimha."
+- **2026 date:** TODO-VERIFY (Vaishakh Shukla Chaturdashi).
 
 ## Mantras
 

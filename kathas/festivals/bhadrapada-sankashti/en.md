@@ -74,36 +74,15 @@ Both fall in the same month, but the spirit and the tithi of each are different.
 
 ## Vidhi
 
-**Puja materials:**
-- Modak or laddus (Ganesha's beloved naivedya)
-- Durva grass (21 durva)
-- Red flowers
-- Sindura
-- Ghee lamp
-
-**Puja procedure:**
-1. Bathe in the morning and install the image or picture of Ganesha.
-2. Perform panchopachara puja — water, fragrance, flowers, incense, lamp.
-3. Offer durva grass to Ganesha — 21 or 3 durva.
-4. Offer modak or laddus as bhoga.
-5. Hear the katha of Dhumravarna Ganesha.
-6. In the evening, await moonrise.
-7. Upon sighting the moon — offer arghya to the moon with water and Ganesha's name.
-8. After that, break the fast.
-
-## Observance
-
-**Fast:** From sunrise to moonrise. No parana before sighting the moon.
-
-**Diet:** Abstain from grains on the day of the vrata. Fruit-based food (fruits, milk, sabudana) may be taken once.
-
-**Time of moonrise:** Check the moonrise time for that tithi on DrikPanchang — that is the time for parana.
-
-**Parana:** After sighting the moon, offer arghya with water, then take food.
-
-**Note on Bhadrapada Shukla Chaturthi:** On Bhadrapada Shukla Chaturthi (Ganesha Chaturthi), sighting the moon is prohibited — that is a separate rule. On this Sankashti (Krishna Chaturthi), sighting the moon is required. The rules of the two are different.
-
-**2026 date:** Confirm on DrikPanchang.
+- **Fasting:** Fast from sunrise to moonrise; no parana (fast-breaking) before sighting the moon.
+- **Diet:** Abstain from grains; fruit-based food (fruits, milk, sabudana) may be taken once during the day.
+- **At dawn:** Bathe and install the image or picture of Dhumravarna Ganesha.
+- **Morning puja:** Perform panchopachara puja — water, fragrance, flowers, incense, lamp; offer 21 durva grass; offer modak or laddus as naivedya; hear the katha of Dhumravarna Ganesha.
+- **Materials:** Modak or laddus, 21 durva grass, red flowers, sindura, ghee lamp.
+- **Evening:** Check moonrise time for the tithi on DrikPanchang; await moonrise.
+- **Breaking the fast:** Upon sighting the moon, offer arghya with water and Ganesha's name, then take food.
+- **Note:** On Bhadrapada Shukla Chaturthi (Ganesha Chaturthi) sighting the moon is prohibited; on this Sankashti (Krishna Chaturthi) sighting the moon is required — the rules of the two are different.
+- **2026 date:** Confirm on DrikPanchang.
 
 ## Mantras
 

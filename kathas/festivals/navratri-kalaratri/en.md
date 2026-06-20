@@ -73,24 +73,14 @@ The colour of Saptami is **royal blue** or **black** — in some traditions, dee
 
 ## Vidhi
 
-1. Bathe at dawn and wear blue or black clothing — the colour of Saptami.
-2. Install an image or idol of Maa Kalaratri.
-3. Offer **black sesame seeds** (kala til) and **jaggery** — the special naivedya of this day.
-4. Offer **blue or red flowers**.
-5. Light a lamp of mustard oil.
-6. Recite the dhyana shloka of Maa Kalaratri.
-7. A special night puja is prescribed — the ratri-puja holds particular significance on this day.
-8. Observe the Navratri fast; recite the seventh chapter of the Durga Saptashati.
-
-## Observance
-
-**Navratri vrat:** The fast continues on Saptami — fruit diet or a single meal. Those who cannot fast all nine days should observe a special fast on this day.
-
-**Colour:** The colour of Saptami is **blue** (deep blue / royal blue) — symbol of the infinite sky and divine power. In some traditions **black** is also accepted.
-
-**Ratri-jagaran:** Worship of Kalaratri is considered especially fruitful at night. Sing bhajans and kirtans, and recite the Durga Saptashati.
-
-**2026 date:** Confirm on DrikPanchang (Ashwin Shukla Saptami — ~17 October 2026).
+- **At dawn:** Bathe and wear blue or black clothing — the colour of Saptami.
+- **Puja:** Install an image or idol of Maa Kalaratri; light a lamp of mustard oil; offer **blue or red flowers**.
+- **Offerings:** **Black sesame seeds** (kala til) and **jaggery** — the special naivedya of this day.
+- **Recitation:** Recite the dhyana shloka of Maa Kalaratri; recite the seventh chapter of the Durga Saptashati.
+- **Fasting:** Continue the Navratri fast on Saptami — fruit diet or a single meal. Those who cannot fast all nine days should observe a special fast on this day.
+- **Colour:** Saptami colour is **blue** (deep blue / royal blue) — symbol of the infinite sky and divine power; **black** is also accepted in some traditions.
+- **At night:** Ratri-jagaran — worship of Kalaratri is especially fruitful after dark; sing bhajans and kirtans and continue recitation of the Durga Saptashati.
+- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Saptami — ~17 October 2026).
 
 ## Mantras
 

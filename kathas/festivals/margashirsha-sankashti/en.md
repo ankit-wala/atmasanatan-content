@@ -68,37 +68,14 @@ Margashirsha Sankashti is especially for those devotees who are in their life's 
 
 ## Vidhi
 
-**In the morning:**
-1. Bathe before sunrise.
-2. Take the sankalpa — "I observe the Sankashti vrata for Bhanu Ganesha on Margashirsha Krishna Chaturthi."
-3. Fast throughout the day — ideally without water; those unable may take fruit-based food.
-
-**In the evening — Ganesha puja:**
-1. Install the image or picture of Ganesha.
-2. Offer modak, durva, and yellow flowers — yellow and golden colours are appropriate for the Bhanu form.
-3. Light an additional lamp — a symbol of light for the Bhanu form.
-4. Chant OM Gam Ganapataye Namah.
-5. Meditate on Bhanu Ganesha — the luminous form suffused with solar radiance.
-6. Perform Ganesha aarti.
-
-**At night — after moonrise:**
-1. As soon as the moon is visible in the sky, offer naivedya to Ganesha.
-2. Offer arghya of water to the moon.
-3. Receive prasad and break the fast.
-
-**2026 date:** Confirm on DrikPanchang — Margashirsha Krishna Chaturthi.
-
-## Observance
-
-**Fast:** From sunrise to moonrise. The fast is not broken without sighting the moon — this is the binding rule of Sankashti.
-
-**Parana:** After sighting the moon, offer bhoga to Ganesha, then receive prasad yourself.
-
-**Bhoga:** Modak, durva, til laddus (til is especially auspicious in Margashirsha), and seasonal fruits. Til gives the energy of winter and is suitable to offer to the Bhanu form.
-
-**Deepadana:** On this Sankashti, placing one or more lamps at the door of the home is auspicious — a welcome to Bhanu Ganesha and a symbol of the inner light.
-
-**The special spirit of Margashirsha:** If there is any situation in life where no path can be seen, where there is despair, or where everything seems dark within — on this Sankashti make only one request: "Lord, please send some light."
+- **At dawn:** Bathe before sunrise; take the sankalpa — "I observe the Sankashti vrata for Bhanu Ganesha on Margashirsha Krishna Chaturthi."
+- **Fasting:** Fast from sunrise to moonrise — ideally nirjal; those unable may take fruit-based food; the fast is not broken without sighting the moon — this is the binding rule of Sankashti.
+- **Evening puja:** Install the image or picture of Ganesha; offer modak, durva, til laddus, and yellow flowers (yellow and golden colours suit the Bhanu form); light an additional lamp as a symbol of light for the Bhanu form; chant oṃ gaṃ gaṇapataye namaḥ; meditate on Bhanu Ganesha; perform the aarti.
+- **At moonrise:** As soon as the moon is visible, offer naivedya (bhoga) to Ganesha; offer arghya of water to the moon; receive prasad and break the fast.
+- **Offerings:** Modak, durva, til laddus (til is especially auspicious in Margashirsha and suitable for the Bhanu form), and seasonal fruits.
+- **Deepadana:** Place one or more lamps at the door of the home — a welcome to Bhanu Ganesha and a symbol of the inner light.
+- **Special intention:** If any situation in life feels dark or without a path, make only one request on this Sankashti: "Lord, please send some light."
+- **2026 date:** TODO-VERIFY (Margashirsha Krishna Chaturthi)
 
 ## Mantras
 

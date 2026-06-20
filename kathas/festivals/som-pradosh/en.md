@@ -39,23 +39,14 @@ For those whose Chandra is afflicted in the birth chart, or who have an unsettle
 
 ## Vidhi
 
-The puja-vidhi of Som-Pradosh is the same as the main Pradosh Vrat. For the detailed procedure, see the chapter on Pradosh Vrat.
-
-**Special additions:**
-1. On this day milk holds special importance in the Shiva-abhishek — Chandra is connected to the ocean of milk; kshira (milk) is his symbol.
-2. White flowers — jasmine, bela — are symbols of Chandra's coolness; offer these specially.
-3. Along with the chant of *Om Namah Shivaya*, recite the Mahamrityunjaya Mantra.
-4. If possible, perform the worship while remembering the Somnath Jyotirlinga.
-
-## Observance
-
-**Fasting:** Complete fast or ekahara on Trayodashi (Monday) — fruit and milk.
-
-**Paran:** On Chaturdashi — that is, Tuesday — after sunrise, with remembrance of Shiva.
-
-**Special:** On Monday evening during puja, be sure to light a lamp — as the symbol of Chandra's light.
-
-**2026 dates:** Confirm on DrikPanchang.
+- **Fasting:** Complete fast or ekahara on Trayodashi (Monday) — fruit and milk permitted.
+- **Evening puja:** Follow the full Pradosh Vrat vidhi (see Pradosh Vrat chapter); puja is performed during Pradosh Kala (approximately 1.5 hours around sunset).
+- **Abhishek:** Milk holds special importance in the Shiva-abhishek on this day — Chandra is connected to the ocean of milk; kshira is his symbol.
+- **Offerings:** White flowers — jasmine, bela — as symbols of Chandra's coolness; offer these specially.
+- **Mantras:** Along with *Oṃ Namaḥ Śivāya*, recite the Mahamrityunjaya Mantra; if possible, worship while remembering the Somnath Jyotirlinga.
+- **Special:** Light a lamp during the Monday evening puja as the symbol of Chandra's light.
+- **Breaking the fast:** On Chaturdashi (Tuesday) after sunrise, with remembrance of Shiva.
+- **2026 date:** TODO-VERIFY (Som-Pradosh — Trayodashi falling on Monday)
 
 ## Mantras
 

@@ -59,26 +59,14 @@ Maa Brahmacharini holds a japa-mala in her right hand and a kamandalu in her lef
 
 ## Vidhi
 
-1. **Bathe early in the morning** and wear white garments — this is the colour of Dwitiya.
-2. **Establish an image or idol of Maa Brahmacharini.** Meditate on her right hand holding the japa-mala and her left hand holding the kamandalu.
-3. **Perform abhisheka with Panchamrita (milk, curd, ghee, honey, sugar).**
-4. **Offer white flowers** — jasmine, mogra, or any white flowers are appropriate.
-5. **Offer mishri or sugar as bhog** — mishri is especially beloved on this day.
-6. **Recite the dhyana shloka and Ya Devi stotra** (see mantras below).
-7. **Chant "Om Brahmacharinyai Namah" 108 times.**
-8. **Perform aarti** and distribute prasad. Continue the Navratri vrat.
-
-**2026 Date:** Ashwin Shukla Dwitiya — Confirm on DrikPanchang (~October 12, 2026).
-
-## Observance
-
-**Navratri vrat continues:** On Dwitiya, the fast begun from Pratipada continues. One sattvic meal (fruit, milk, sabudana) or complete fasting — according to the seeker's strength and resolve.
-
-**Colour:** The tradition on this day is to wear **white** garments — in some traditions royal blue is also observed. White is the symbol of tapas and purity.
-
-**Timing:** Worship of Maa Brahmacharini is best performed in the Brahma muhurta after sunrise in the morning. Aarti and japa may also be done in the evening.
-
-**Special intention:** On this day, hold in your heart the resolve of patience and steadfastness. Pray to Maa that whatever sadhana is unfolding in your life — may it reach completion.
+- **At dawn:** Bathe in Brahma muhurta and wear white garments — white is the colour of Dwitiya and the symbol of tapas and purity; in some traditions royal blue is also observed.
+- **Puja setup:** Establish an image or idol of Maa Brahmacharini; meditate on her right hand holding the japa-mala and her left hand holding the kamandalu; perform abhisheka with Panchamrita (milk, curd, ghee, honey, sugar).
+- **Offerings:** Offer white flowers (jasmine, mogra, or any white variety); offer mishri or sugar as bhog — mishri is especially beloved on this day.
+- **Japa:** Chant "Om Brahmacharinyai Namah" 108 times; recite the dhyana shloka and Ya Devi stotra (see Mantras).
+- **Aarti:** Perform aarti and distribute prasad; aarti and japa may also be repeated in the evening.
+- **Fasting:** The Navratri vrat continues from Pratipada — one sattvic meal (fruit, milk, sabudana) or complete fasting according to the seeker's strength and resolve.
+- **Special intention:** Hold in heart the resolve of patience and steadfastness; pray to Maa that whatever sadhana is unfolding in life may reach completion.
+- **2026 date:** Confirm on DrikPanchang (~October 12, 2026, Ashwin Shukla Dwitiya).
 
 ## Mantras
 

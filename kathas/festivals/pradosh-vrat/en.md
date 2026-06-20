@@ -55,34 +55,16 @@ This vrat is observed for the welfare of the family, for freedom from illness, a
 
 ## Vidhi
 
-**The Pradosh-Kala puja (primary time):**
-
-The puja of Pradosh must begin before sunset and be completed within Pradosh Kala.
-
-1. On Trayodashi, bathe in the morning and take the sankalpa for the vrat.
-2. Keep the fast — complete fast or ekahara (fruit).
-3. Bathe again one hour before sunset.
-4. Go to a Shiva temple or perform puja on a Shivalinga at home.
-5. Pour pure water and raw milk over the Shivalinga in abhishek — slowly, while reciting *Om Namah Shivaya*.
-6. Offer bilva leaves — the three-leafed kind — on Shiva.
-7. Offer white flowers (datura, aak, jasmine), sandalwood paste, and akshata.
-8. Light a ghee lamp.
-9. Light incense.
-10. Chant *Om Namah Shivaya* at least 108 times.
-11. Recite the Karpoorgauram shloka.
-12. Perform the aarti of Shiva.
-
-**Keep in mind:** Pradosh puja does not take place in the darkness of the night — it is the puja of twilight. Observing the time is the essential spirit of this vrat.
-
-## Observance
-
-**Fasting:** Keep the fast on Trayodashi. Complete fast or ekahara — fruit, milk, and water.
-
-**Paran:** On Chaturdashi — that is, the following morning after sunrise — remember Shiva and break the fast.
-
-**Regularity:** Observing both Trayodashis of every month yields the full fruit of the vrat. If both are not possible, keep whichever is within reach, regularly.
-
-**2026 dates:** Confirm on DrikPanchang.
+- **Morning:** On Trayodashi, bathe at dawn and take the sankalpa for the vrat.
+- **Fasting:** Keep the fast through the day — complete fast or ekahara (fruit, milk, and water only).
+- **Timing:** Pradosh puja must begin before sunset and be completed within Pradosh Kala (one and a half hours before to one and a half hours after sunset); it is the puja of twilight, not of darkness.
+- **Pre-puja bath:** Bathe again one hour before sunset; then go to a Shiva temple or set up puja at a Shivalinga at home.
+- **Abhishek:** Pour pure water and raw milk over the Shivalinga slowly while reciting Om Namah Shivaya.
+- **Offerings:** Offer bilva leaves (three-leafed); white flowers (datura, aak, jasmine); sandalwood paste; akshata; light a ghee lamp and incense.
+- **Mantra and aarti:** Chant Om Namah Shivaya at least 108 times; recite the Karpoorgauram shloka; perform Shiva's aarti.
+- **Breaking the fast (Paran):** On Chaturdashi — the following morning after sunrise — remember Shiva and break the fast.
+- **Regularity:** Observing both Trayodashis of every month yields the full fruit; if both are not possible, keep whichever is within reach consistently.
+- **2026 date:** TODO-VERIFY (Trayodashi, both Shukla and Krishna Paksha)
 
 ## Mantras
 

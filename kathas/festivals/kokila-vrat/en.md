@@ -57,39 +57,15 @@ Ashadha Purnima — the tithi on which Shiva and Parvati were reunited — is a 
 
 ## Vidhi
 
-This vrat is observed on Ashadha Purnima.
-
-**Morning ritual:**
-1. Rise before sunrise and bathe.
-2. Wear clean clothes — yellow or green garments are considered auspicious for this vrat.
-3. Install an image or idol of Shiva and Parvati in the home or at the temple.
-
-**Shiva-Parvati pūjan:**
-1. Perform abhiṣeka of the Shivalinga with water, milk, and bilva leaves.
-2. Offer sindūra, bangles, bindī, and white or yellow flowers to Parvati.
-3. Light incense and a lamp.
-4. Chant *Oṃ Namaḥ Śivāya* and *Oṃ Umā-Maheśvarābhyāṃ Namaḥ*.
-
-**Tree pūjan:**
-1. Go to a nearby mango tree.
-2. Offer water at the roots of the tree.
-3. Tie raw thread (kaccā sūta) or red maulī around the tree — this is a remembrance of Parvati's cuckoo-form and a vow of protection of the suhāg.
-4. Offer flowers and akṣata.
-
-**Katha-śravaṇa:**
-In the evening, listen to or read the Kokila Vrat katha — the women of the family gather together to hear this story.
-
-## Observance
-
-**Upavāsa:** Observe a complete fast or fruit-only fast on Ashadha Purnima. Abstain from salt and grains.
-
-**Tree pūjan:** Tying maulī around the mango tree is a special part of this vrat — do not omit it.
-
-**Katha-śravaṇa:** Hearing the katha is considered essential to the vrat. The vrat is not complete without the katha.
-
-**The cuckoo's call:** If the cuckoo's voice is heard on the day of the vrat — receive it as auspicious. It is the blessing of Parvati.
-
-**Pāraṇa:** Break the fast after the Purnima night pūjā, or early the next morning. Before pāraṇa, bow to Shiva and Parvati and offer dāna-dakṣiṇā.
+- **For whom:** Observed by married women on Ashadha Purnima for the longevity and good fortune of their husbands.
+- **Fasting:** Complete fast or fruit-only fast; abstain from salt and grains throughout the day.
+- **At dawn:** Rise before sunrise; bathe; wear clean clothes — yellow or green garments are auspicious.
+- **Shiva-Parvati pūjan:** Install an image of Shiva and Parvati; perform abhiṣeka of the Shivalinga with water, milk, and bilva leaves; offer sindūra, bangles, bindī, and white or yellow flowers to Parvati; light incense and a lamp; chant *Oṃ Namaḥ Śivāya* and *Oṃ Umā-Maheśvarābhyāṃ Namaḥ*.
+- **Tree pūjan:** Go to a nearby mango tree; offer water at the roots; tie raw thread (kaccā sūta) or red maulī around the tree as a vow of protection of the suhāg — do not omit this; offer flowers and akṣata.
+- **Katha-śravaṇa:** In the evening, listen to or read the Kokila Vrat katha — this is considered essential; the vrat is not complete without it.
+- **Special:** If the cuckoo's voice is heard on the day of the vrat, receive it as auspicious — it is the blessing of Parvati.
+- **Breaking the fast:** Break the fast after the Purnima night pūjā, or early the next morning; before pāraṇa, bow to Shiva and Parvati and offer dāna-dakṣiṇā.
+- **2026 date:** TODO-VERIFY (Ashadha Purnima)
 
 ## Mantras
 

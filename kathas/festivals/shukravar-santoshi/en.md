@@ -87,28 +87,15 @@ The avoidance of sour is the central discipline of this vrat — it is not merel
 
 ## Vidhi
 
-1. On Friday morning, bathe and take the sankalpa for the vrat.
-2. Place a picture or image of Santoshi Mata at the place of worship.
-3. Offer yellow or orange flowers, roli, and akshata.
-4. Offer **jaggery and roasted chickpeas** as bhog — this is the special naivedya of this vrat.
-5. Listen to or read the katha of Santoshi Mata.
-6. Perform the Mata's aarti.
-7. Keep the fast through the day — fruit may be taken.
-8. **Udyapan:** After the sixteenth Friday, perform udyapan — feed sixteen married women a meal of halwa-puri.
-
-## Observance
-
-**Duration of the vrat:** Sixteen consecutive Fridays. The vrat must not be interrupted in between.
-
-**The most important rule — sour is forbidden:** Nothing sour in any form on Fridays. No tamarind, no lemon, no curd, no dry mango powder. Even contact with something made from sour ingredients is said to break the vrat — the katha of Satyavati teaches precisely this.
-
-**Fasting:** No food all day, or fruit only. Breaking the fast after the evening puja.
-
-**Bhog:** Jaggery and roasted chickpeas — distribute these to other members of the household as prasad.
-
-**Udyapan:** After sixteen Fridays are complete, udyapan is obligatory. Feed sixteen married women a meal (halwa-puri, without sour ingredients) and offer them a dakshina. According to the household's means.
-
-**2026 date:** This is a weekly vrat — it may be begun on any Friday.
+- **Duration:** Sixteen consecutive Fridays without interruption; may be begun on any Friday.
+- **At dawn:** Bathe and take the sankalpa for the vrat.
+- **Puja:** Place a picture or image of Santoshi Mata at the place of worship; offer yellow or orange flowers, roli, and akshata.
+- **Offerings:** Offer jaggery and roasted chickpeas as bhog — this is the special naivedya of this vrat; distribute as prasad to other members of the household.
+- **Katha and aarti:** Listen to or read the katha of Santoshi Mata, then perform the Mata's aarti.
+- **Fasting:** No food all day, or fruit only; break the fast after the evening puja.
+- **Critical rule — sour is strictly forbidden:** Nothing sour in any form on Fridays — no tamarind, no lemon, no curd, no dry mango powder; even contact with sour ingredients is said to break the vrat (the katha of Satyavati teaches this directly).
+- **Udyapan:** After all sixteen Fridays are complete, udyapan is obligatory — feed sixteen married women a meal of halwa-puri (no sour ingredients) and offer them a dakshina according to the household's means.
+- **2026 date:** This is a weekly vrat — it may be begun on any Friday.
 
 ## Mantras
 

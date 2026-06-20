@@ -41,29 +41,18 @@ Worship of Kala Bhairava bestows:
 
 ## Vidhi
 
-Puja procedure for Kala Bhairava Jayanti:
-
-1. **Morning bath** — Bathe with water mixed with sesame seeds. Black sesame holds special significance.
-2. **Sankalpa** — "I take this vrat for the grace of Kala Bhairava and for liberation from the fear of time."
-3. **Temple visit** — If in Kashi, do darshan at both Kashi Vishwanath and the Kala Bhairava temple without fail.
-4. **Puja materials:**
-   - Black sesame seeds
-   - A lamp of mustard oil
-   - White flowers or a white-and-red flower garland
-   - Coconut, sweets, panchamrita
-5. **Deepadan** — Light a lamp of mustard oil. At night, in front of the burning lamp, chant "Om Kala Bhairavaya Namah."
-6. **Dhyana** — Meditate upon Kala Bhairava: three-eyed, dwelling in the cremation ground, trident and skull in hand, seated upon a dog.
-
-**Note on regional tradition:** Some traditions mention the offering of wine — this practice is found in certain regional tantric traditions. It is not required in ordinary householder worship.
-
-## Observance
-
-- **Tithi:** Margashirsha month, Krishna Paksha, Ashtami — also observed as Kalashtami.
-- **Fasting:** Fast from the evening of Saptami through the end of Ashtami. Fruit-based diet is acceptable.
-- **Night vigil:** Kala Bhairava is the deity of the night. Staying awake at night in naam-japa and bhajan yields special fruit.
-- **Feeding the dog:** In remembrance of Kala Bhairava's vehicle, offer sweet roti or milk to a dog.
-- **Paran:** When the Ashtami tithi ends, conclude the vrat on Navami with feeding Brahmins or a Brahmbhoj.
-- **Monthly Kalashtami:** The Krishna Ashtami of every month is Kalashtami. The annual Kala Bhairava Jayanti is celebrated on Margashirsha Krishna Ashtami.
+- **Tithi:** Margashirsha Krishna Paksha Ashtami (Kalashtami); the monthly Krishna Ashtami of every month is also Kalashtami.
+- **Fasting:** Fast from the evening of Saptami through the end of Ashtami; fruit-based diet is acceptable.
+- **Morning bath:** Bathe with water mixed with black sesame seeds — black sesame holds special significance.
+- **Sankalpa:** Take the vrat sankalpa — "I take this vrat for the grace of Kala Bhairava and for liberation from the fear of time."
+- **Materials:** Black sesame seeds; a lamp of mustard oil; white flowers or a white-and-red flower garland; coconut, sweets, panchamrita.
+- **Temple visit:** If in Kashi, do darshan at both Kashi Vishwanath and the Kala Bhairava temple without fail.
+- **Puja and deepadan:** Light a mustard oil lamp; perform dhyana on Kala Bhairava (three-eyed, trident and skull in hand, seated upon a dog); chant "Om Kala Bhairavaya Namah" at night before the burning lamp.
+- **Night vigil:** Kala Bhairava is the deity of the night — staying awake in naam-japa and bhajan yields special fruit.
+- **Feeding the dog:** Offer sweet roti or milk to a dog in remembrance of Kala Bhairava's vehicle.
+- **Breaking the fast:** When the Ashtami tithi ends, conclude the vrat on Navami with feeding Brahmins or a Brahmbhoj.
+- **Note:** Some regional tantric traditions mention the offering of wine — this is not required in ordinary householder worship.
+- **2026 date:** TODO-VERIFY (Margashirsha Krishna Ashtami).
 
 ## Mantras
 

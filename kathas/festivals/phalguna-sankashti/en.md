@@ -56,35 +56,15 @@ Phalguna is the last month of the Hindu samvat. Mahashivaratri and Holi fall wit
 
 ## Vidhi
 
-This vrata is observed on Phalguna Krishna Chaturthi.
-
-1. **Morning sankalpa:** After bathing, take the sankalpa — "I observe the Sankashti vrata with worship of Trinetra Ganesha on Phalguna Krishna Chaturthi."
-
-2. **Fast:** Waterless or fruit-based fast from sunrise to moonrise.
-
-3. **Installing Ganesha:** Install the image or picture of Trinetra Ganesha on a red cloth. Apply three dots with sindura as tilaka — as the symbol of Trinetra.
-
-4. **Puja materials:** Red flowers, durva, modak, laddus, tulasi, incense, ghee lamp.
-
-5. **Puja procedure:** Shodasopachara or panchopachara. Chanting "OM Gam Ganapataye Namah" 108 times is especially fruitful.
-
-6. **Offering the obstacles of the old year:** After puja, write on a piece of paper the matters that remained stuck in the past year — and placing it before Ganesha, pray that he look with his three eyes and show the way.
-
-7. **Hearing the katha:** Read the katha of Phalguna Sankashti.
-
-8. **Sighting the moon and parana:** After moonrise, offer arghya to the moon and observe parana.
-
-## Observance
-
-**Rule of fasting:** From sunrise to moonrise. Waterless fasting is best; fruit-based diet is acceptable — grains and salt are prohibited.
-
-**The special feature of Trinetra puja:** On this day there is a tradition of offering a garland of three durva to Ganesha — as a symbol of the three eyes.
-
-**Year-end offering:** The spirit of offering to Ganesha the unfulfilled wishes and obstacles of the old year on Phalguna Sankashti makes this vrata distinctive.
-
-**The rule of moonrise:** The Sankashti vrata is not complete without sighting the moon. If clouds are present, parana may be done at the designated moonrise time.
-
-**2026 date:** Confirm on DrikPanchang — Phalguna Krishna Chaturthi (TODO-VERIFY).
+- **Morning sankalpa:** After bathing, take the sankalpa — "I observe the Sankashti vrata with worship of Trinetra Ganesha on Phalguna Krishna Chaturthi."
+- **Fasting:** From sunrise to moonrise; waterless fasting is best — fruit-based diet is acceptable; grains and salt are prohibited.
+- **Installing Ganesha:** Place the image or picture of Trinetra Ganesha on a red cloth; apply three dots with sindura as tilaka as the symbol of Trinetra.
+- **Offerings:** Red flowers, durva (including a garland of three durva as symbol of the three eyes), modak, laddus, tulasi, incense, ghee lamp.
+- **Puja:** Shodasopachara or panchopachara; chant "OM Gam Ganapataye Namah" 108 times.
+- **Year-end offering:** After puja, write on a piece of paper the matters that remained stuck in the past year — place it before Ganesha and pray that he look with his three eyes and show the way.
+- **Katha:** Read the katha of Phalguna Sankashti.
+- **Moonrise parana:** After moonrise, offer arghya to the moon and observe parana; if clouds are present, parana may be done at the designated moonrise time.
+- **2026 date:** TODO-VERIFY (Phalguna Krishna Chaturthi)
 
 ## Mantras
 

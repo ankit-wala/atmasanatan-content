@@ -57,27 +57,14 @@ Tuesday is the day of two deities — Mangal Dev and Hanuman.
 
 ## Vidhi
 
-**Tuesday puja procedure:**
-1. Bathe in the morning and wear red clothing if possible.
-2. Perform worship of Hanuman and Mangal Dev.
-3. **For Mangal Dev:** Offer red flowers (rose, marigold), red sindoor, and red sandalwood.
-4. **For Hanuman:** Offer sindoor, jasmine oil, and red flowers.
-5. Light a lamp — one of sesame oil.
-6. Chant *Om Ham Hanumate Namah*.
-7. Recite the Mangal stuti.
-
-**Sankalpa for twenty-one Tuesdays:**
-Devotees who observe this vrat for the removal of Mangal Dosha or for the protection of good fortune should take a sankalpa for twenty-one consecutive Tuesdays. On the twenty-first Tuesday, perform udyapan — prepare prasad and distribute it.
-
-## Observance
-
-**Fasting:** No food at all or one meal — giving up salt is essential. Items made with jaggery, fruit, and milk may be taken.
-
-**Breaking the fast:** Wednesday morning, after sunrise.
-
-**Take note:** If a sankalpa for twenty-one Tuesdays has been taken and one Tuesday is missed, some traditions require the vrat to be begun again — according to the terms of the sankalpa.
-
-**2026 dates:** Confirm on DrikPanchang.
+- **At dawn:** Bathe in the morning and wear red clothing if possible.
+- **Puja:** Worship Hanuman and Mangal Dev — offer red flowers (rose, marigold), red sindoor, and red sandalwood to Mangal Dev; offer sindoor, jasmine oil, and red flowers to Hanuman; light a lamp of sesame oil.
+- **Chant:** Recite oṃ haṃ hanumate namaḥ and the Mangal Stuti during worship.
+- **Fasting:** No food at all, or one meal — giving up salt is essential; items made with jaggery, fruit, and milk may be taken.
+- **Breaking the fast:** Wednesday morning after sunrise.
+- **Sankalpa for twenty-one Tuesdays:** Take a sankalpa for twenty-one consecutive Tuesdays for removal of Mangal Dosha or protection of good fortune; on the twenty-first Tuesday perform udyapan — prepare prasad and distribute it.
+- **Note:** If a sankalpa for twenty-one Tuesdays has been taken and one Tuesday is missed, some traditions require the vrat to be begun again — follow the terms of the sankalpa.
+- **2026 date:** TODO-VERIFY (Mangalvar Vrat — any Tuesday)
 
 ## Mantras
 

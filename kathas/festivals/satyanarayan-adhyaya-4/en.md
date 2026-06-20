@@ -111,33 +111,16 @@ Two chapters, two different characters, two different lapses — but one teachin
 
 ## Vidhi
 
-The Satyanarayan Vrat may be observed on Purnima, Ekadashi, or any auspicious occasion.
-
-1. **Sankalp:** After a morning bath, take the sankalp — "I am observing the Satyanarayan Vrat and performing the puja."
-2. **Vishnu Sthapana:** Place an image or idol of Bhagavan Satyanarayan (Vishnu) on a pure seat.
-3. **Panchamrita Abhisheka:** Perform abhisheka with milk, yoghurt, ghee, honey, and sugar. Offer tulasi leaves, flowers, yellow cloth, and a lamp.
-4. **Katha Shravan:** Recite or have recited all five chapters of the Satyanarayan Katha — family members and all present should listen together.
-5. **Aarti:** After the katha, perform the aarti of Bhagavan.
-6. **Prasad Distribution:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana). Offer prasad to all present — **not one person should leave without prasad.** This is the most important rule of this puja.
-7. **Paran:** Break the fast after the katha and prasad.
-
-**Special note:** Do not leave the house in the middle of the puja — leave only after the pūrṇāhuti and distribution of prasad. This is the particular caution learned from the katha of Kalavati in the fourth chapter.
-
-## Observance
-
-**Fast:** Keep a fast before the katha — fruit may be taken. Break the fast after the katha and prasad.
-
-**The rule of prasad:** To whoever is present at the place of puja — family, guests, visitors — prasad must be given without exception. Do not treat prasad as something trifling, do not hold it back, and do not hesitate in offering it.
-
-**The rule of accepting Bhagavan's grace:** When someone asks about the wealth, health, or blessings given by Bhagavan — answer with humility and gratitude. In this katha, calling it "straw" out of pride was itself the cause of calamity.
-
-**Pūrṇāhuti first:** If a Satyanarayan puja is underway at home and the prasad distribution is still remaining — complete the pūrṇāhuti first, then leave for any other task.
-
-**Together as a family:** This vrat is communal — hear the katha together with family, neighbours, and friends.
-
-**All five chapters:** For the full fruit, listen to all five chapters in a single sitting.
-
-**2026 date:** TODO-VERIFY — confirmation on DrikPanchang is required.
+- **When:** Any Purnima, Ekadashi, or auspicious occasion.
+- **Sankalpa:** After a morning bath, take the sankalpa — "I am observing the Satyanarayan Vrat and performing the puja."
+- **Fasting:** Keep a fast before the katha — fruit may be taken; break the fast after the katha and prasad.
+- **Setup:** Place an image or idol of Bhagavan Satyanarayan (Vishnu) on a pure seat; perform panchamrita abhisheka (milk, yoghurt, ghee, honey, sugar); offer tulasi leaves, flowers, yellow cloth, and a lamp.
+- **Katha shravan:** Recite or have recited all five chapters — family members and all present should listen together in a single sitting.
+- **Aarti:** Perform the aarti of Bhagavan after the katha.
+- **Prasad:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana); offer prasad to every person present — not one person should leave without it; do not treat prasad as trifling or hold it back.
+- **Pūrṇāhuti first:** If a Satyanarayan puja is underway at home, complete the pūrṇāhuti and distribution of prasad before leaving for any other task — the lesson of Kalavati's departure in this chapter.
+- **Accepting Bhagavan's grace:** When asked about wealth, health, or blessings received — answer with humility and gratitude, not with pride; in this katha, calling them "straw" was the cause of calamity.
+- **2026 date:** TODO-VERIFY — confirmation on DrikPanchang is required.
 
 ## Mantras
 

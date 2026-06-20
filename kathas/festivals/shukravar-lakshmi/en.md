@@ -77,29 +77,15 @@ This vrat is also a celebration of the Grihalakshmi — the woman of the house. 
 
 ## Vidhi
 
-1. On Friday morning, bathe and take the sankalpa for the vrat.
-2. Establish a murti, picture, or yantra of Lakshmi on a red cloth at the place of worship.
-3. Offer **red hibiscus flowers** — these are the special flower-offering of this vrat.
-4. Offer sindoor, roli, haldi, tulsi, betel leaves, and fruit.
-5. Light a lamp — a ghee lamp is considered auspicious.
-6. Offer a sweet bhog — sweet rice, kheer, or halwa.
-7. Listen to the Lakshmi katha and perform the Mata's aarti.
-8. Keep the fast through the day — fruit or a meal after the evening puja.
-9. **Udyapan:** On the seventh Friday, feed seven married women — offer them red chunari, sindoor, and haldi-kumkum as prasad.
-
-## Observance
-
-**Duration of the vrat:** Seven consecutive Fridays.
-
-**Fasting:** No food all day or fruit only. Avoid salty and tamasic food.
-
-**Colour of worship:** Red — flowers, chunari, sindoor — this is the colour of Lakshmi's energy.
-
-**Purification of the home:** Keep the house clean on Fridays. Draw a swastika or footprint at the door with ochre — this is a symbol of welcoming Lakshmi.
-
-**Udyapan:** After seven Fridays, perform udyapan. Feed seven married women a meal. Offer red chunari, sindoor, and haldi-kumkum as prasad.
-
-**2026 date:** This is a weekly vrat — it may be begun on any Friday. A Friday in the bright fortnight (shukla paksha) is considered especially auspicious.
+- **Duration:** Observe for seven consecutive Fridays; beginning on a Friday in the bright fortnight (shukla paksha) is considered especially auspicious.
+- **At dawn:** Bathe, take the sankalpa for the vrat, and keep the house clean; draw a swastika or Lakshmi's footprint at the door with ochre as a welcoming symbol.
+- **Puja setup:** Establish a murti, picture, or yantra of Lakshmi on a red cloth; offer red hibiscus flowers (the special offering of this vrat), sindoor, roli, haldi, tulsi, betel leaves, and fruit.
+- **Lamp and bhog:** Light a ghee lamp; offer a sweet bhog — sweet rice, kheer, or halwa.
+- **Katha and aarti:** Listen to the Lakshmi katha and perform the Mata's aarti.
+- **Fasting:** No food all day, or fruit only; avoid salty and tamasic food; break the fast after the evening puja.
+- **Colour of worship:** Red throughout — flowers, chunari, sindoor — the colour of Lakshmi's energy.
+- **Udyapan:** On the seventh Friday, feed seven married women a meal; offer red chunari, sindoor, and haldi-kumkum as prasad.
+- **2026 date:** This is a weekly vrat — it may be begun on any Friday (shukla paksha Friday preferred).
 
 ## Mantras
 

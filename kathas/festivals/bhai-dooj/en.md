@@ -85,23 +85,15 @@ On Rakshabandhan, a sister ties a rakhi on her brother — the brother pledges t
 
 ## Vidhi
 
-1. **Go to your sister's home.** On this day eating at one's own home is considered inauspicious — the brother should go to his sister's home for the meal.
-2. **Tilak:** The sister applies a tilak of roli, rice, and saffron on her brother's forehead. A tilak on the right hand is also applied.
-3. **Aarti:** The sister performs aarti for her brother — with prayers for his long life and well-being.
-4. **The meal:** The brother eats food cooked by his sister's hands. This is the most important moment of the festival.
-5. **Gift:** The brother offers his sister a gift according to his means — clothes, jewellery, or whatever she wishes.
-6. **Yamuna worship:** If one is near the Yamuna river — bathe and give in charity there.
-7. **Yama tarpan (optional):** In some traditions, Yamaraj is remembered and tarpan is offered.
-
-## Observance
-
-**For the brother:** On this day do not eat at your own home — go to your sister's home. If the sister lives far away, face in her direction while eating, holding her in remembrance.
-
-**For the sister:** Observe a fast before the brother arrives. After he comes, perform the tilak and aarti first, and only then eat.
-
-**Yamuna bath:** In Mathura, Vrindavan, and places along the Yamuna, bathing in the river on this day holds special significance. Those who are not on the banks of the Yamuna may bathe at home using water from the Yamuna.
-
-**Close of the Diwali festival:** This day is the final day of the five-day Diwali festival — the formal conclusion of the celebrations.
+- **For the brother:** Do not eat at your own home on this day — go to your sister's home for the meal; if the sister lives far away, face in her direction while eating, holding her in remembrance.
+- **For the sister:** Observe a fast before the brother arrives; after he comes, perform the tilak and aarti first, and only then eat.
+- **Tilak:** The sister applies a tilak of roli, rice, and saffron on the brother's forehead and on his right hand.
+- **Aarti:** The sister performs aarti for her brother with prayers for his long life and well-being.
+- **The meal:** The brother eats food cooked by the sister's hands — this is the most important moment of the festival; the brother offers her a gift (clothes, jewellery, or whatever she wishes) according to his means.
+- **Yamuna bath:** In Mathura, Vrindavan, and places along the Yamuna, bathing in the river holds special significance; those not on the Yamuna's banks may bathe at home using Yamuna water.
+- **Yama tarpan (optional):** In some traditions Yamaraj is remembered and tarpan is offered.
+- **Special:** This day is the final day of the five-day Diwali festival (Dhanteras → Narak Chaturdashi → Diwali → Govardhan Puja → Bhai Dooj) — the formal conclusion of the celebrations.
+- **2026 date:** TODO-VERIFY (Kartik Shukla Dvitiya)
 
 ## Mantras
 

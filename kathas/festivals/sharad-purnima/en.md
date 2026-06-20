@@ -61,27 +61,14 @@ Sharad Purnima is the setting for the Raas Panchadhyayi of the Bhagavata Purana 
 
 ## Vidhi
 
-The worship of Sharad Purnima is performed at night — this is a festival of the night.
-
-1. **Bathe at dusk.** Wear clean, white or light yellow clothing.
-2. **Prepare the kheer.** Make rice pudding with milk, rice, and mishri (or sugar). Place the kheer in an earthen or silver vessel.
-3. **Arrange the place of worship in the evening.** Place an image or murti of Goddess Lakshmi and Lord Vishnu. Light a ghee lamp, and offer flowers, tulsi, and akshat.
-4. **Place the kheer under the open sky.** After the moon rises, set the vessel of kheer in the courtyard, on the roof, or on a windowsill — wherever the moonbeams fall directly upon it.
-5. **Perform Lakshmi puja.** Offer kheer, fruit, and flowers to Goddess Lakshmi. Chant the Lakshmi mantra.
-6. **Keep the vigil.** Stay awake through the whole night, or for as long as possible — with bhajans, kirtan, remembrance of Lord Vishnu, or recitation of the Ramayana or Bhagavata.
-7. **At dawn — offer salutations to the moon, then receive the kheer as prasad.**
-
-**Date (2026):** Ashwin Shukla Purnima — confirm on DrikPanchang. (In October 2026 — TODO-VERIFY.)
-
-## Observance
-
-**Fasting:** Sharad Purnima is primarily a festival of vigil and worship, not of fasting. In most traditions, observing a strict fast on this day is not required. It is, however, appropriate to eat light and sattvic food during the day, so that the mind remains steady for the night's devotions.
-
-**Night vigil:** This is the central act of the festival. The longer the vigil, the greater the merit — so the tradition holds. Staying awake until midnight, or through the entire night, is considered the highest observance.
-
-**Kheer prasad:** The kheer that has rested in the moonlight through the night should be distributed among the entire family as prasad the following morning. It is held to be both medicinal and meritorious.
-
-**Arghya to the moon:** On the full-moon night, offering water as arghya to the full moon is auspicious.
+- **Note:** Sharad Purnima is primarily a festival of vigil and worship, not of fasting; a strict fast is not required in most traditions — eat light, sattvic food during the day so the mind remains steady for the night's devotions.
+- **At dusk:** Bathe; wear clean white or light yellow clothing; arrange the place of worship with an image or murti of Goddess Lakshmi and Lord Vishnu; light a ghee lamp and offer flowers, tulsi, and akshat.
+- **Kheer:** Prepare rice pudding with milk, rice, and mishri (or sugar) in an earthen or silver vessel; after the moon rises, place the vessel in the courtyard, on the roof, or on a windowsill — wherever moonbeams fall directly upon it — so the amrita-infused rays of the Sharad Purnima moon bathe the kheer through the night.
+- **Lakshmi puja:** Offer kheer, fruit, and flowers to Goddess Lakshmi; chant the Lakshmi mantra.
+- **Night vigil:** Stay awake through the whole night or as long as possible — with bhajans, kirtan, remembrance of Lord Vishnu, or recitation of the Ramayana or Bhagavata; staying awake until midnight or through the entire night is considered the highest observance.
+- **Arghya:** Offer water as arghya to the full moon on this night — this is auspicious.
+- **At dawn:** Offer salutations to the moon; distribute the moon-bathed kheer among the entire family as prasad — it is held to be both medicinal and meritorious.
+- **2026 date:** TODO-VERIFY (Ashwin Shukla Purnima — October 2026)
 
 ## Mantras
 

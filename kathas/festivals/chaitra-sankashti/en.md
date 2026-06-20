@@ -65,35 +65,13 @@ The Hindu New Year begins with Chaitra Shukla Pratipada. In that same Chaitra �
 
 ## Vidhi
 
-This vrata is observed on Chaitra Krishna Chaturthi.
-
-1. **Morning sankalpa:** After bathing, take the sankalpa — "I observe the Sankashti vrata with worship of Vakratunda Ganesha on Chaitra Krishna Chaturthi."
-
-2. **Fast:** Waterless or fruit-based fast from sunrise to moonrise.
-
-3. **Installing Ganesha:** Install the image of Vakratunda Ganesha on a red cloth. If a specific image is not available, worship any Ganesha image while remembering the name "Vakratunda."
-
-4. **Puja materials:** Red flowers, durva (21 durva), modak, laddus, sindura, incense, lamp.
-
-5. **Puja procedure:** Panchopachara or shodasopachara. Chant "OM Gam Ganapataye Namah."
-
-6. **Matsara-mukti prayer:** After puja, sit for a moment and think — some person with whom you compare yourself, or in whose success your mind has sometimes contracted — send good wishes toward that person from the heart. This is the practical form of Vakratunda's worship.
-
-7. **Hearing the katha:** Read the katha of Chaitra Sankashti.
-
-8. **Sighting the moon and parana:** After moonrise, offer arghya to the moon and observe parana.
-
-## Observance
-
-**Rule of fasting:** From sunrise to moonrise. Waterless fasting is best; fruit-based diet is acceptable — grains and salt are prohibited.
-
-**The special feature of Vakratunda puja:** On this day, remember the name "Vakratunda" especially during worship. This is the first among Ganesha's eight names — in Chaitra this very form is invoked.
-
-**The matsara-mukti practice:** This vrata is not merely a fast. Throughout the day, whenever a comparative thought arises — when the mind contracts upon seeing another's success — in that moment chant "OM Gam Ganapataye Namah" and kindle a good feeling for that person. This is the practical form of Vakratunda's worship.
-
-**The rule of moonrise:** The vrata is complete only after sighting the moon.
-
-**2026 date:** Confirm on DrikPanchang — Chaitra Krishna Chaturthi (TODO-VERIFY).
+- **Morning sankalpa:** After bathing, take the sankalpa — "I observe the Sankashti vrata with worship of Vakratunda Ganesha on Chaitra Krishna Chaturthi."
+- **Fasting:** Waterless fasting from sunrise to moonrise is best; fruit-based diet is acceptable — grains and salt are prohibited.
+- **Puja:** Install the image of Vakratunda Ganesha on a red cloth (any Ganesha image may be used while remembering the name "Vakratunda"); offer red flowers, 21 durva, modak, laddus, sindura, incense, and a lamp; perform panchopachara or shodasopachara; chant "OM Gam Ganapataye Namah."
+- **Matsara-mukti practice:** After puja, bring to mind someone whose success has caused comparison or contraction in your mind — send them sincere good wishes from the heart; throughout the day, whenever a comparative thought arises chant "OM Gam Ganapataye Namah" and kindle goodwill. This is the living form of Vakratunda's worship.
+- **Katha:** Read the Chaitra Sankashti katha.
+- **Moonrise:** The vrata is complete only after sighting the moon; offer arghya to the moon and then observe parana.
+- **2026 date:** TODO-VERIFY (Chaitra Krishna Chaturthi)
 
 ## Mantras
 
