@@ -1,0 +1,45 @@
+/* KDP 6×9 paperback — Festival & Vrat Companion */
+@page {
+  size: 6in 9in;
+  margin: 0.875in 0.75in 0.75in 0.75in; /* inside / outside / top / bottom */
+  @bottom-center { content: counter(page); font-size: 10pt; }
+}
+body {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  font-size: 11pt;
+  line-height: 1.35;
+  color: #1a1a1a;
+  text-align: justify;
+  hyphens: auto;
+}
+h1 {
+  font-size: 16pt;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 0.3em;
+  page-break-before: always;
+  border-bottom: 1pt solid #888;
+  padding-bottom: 0.3em;
+}
+h1:first-of-type { page-break-before: avoid; }
+h2 {
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 1.2em;
+  margin-bottom: 0.2em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #333;
+}
+p { margin: 0.4em 0; }
+ul { margin: 0.3em 0 0.3em 1.2em; padding: 0; }
+li { margin-bottom: 0.25em; }
+blockquote {
+  border-left: 2pt solid #aaa;
+  margin: 0.6em 0 0.6em 1em;
+  padding-left: 0.8em;
+  color: #444;
+  font-style: italic;
+}
+hr { border: none; border-top: 0.5pt solid #ccc; margin: 0.8em 0; }
