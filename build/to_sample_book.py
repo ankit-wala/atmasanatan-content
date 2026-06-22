@@ -165,180 +165,30 @@ def assemble(entries) -> str:
     return "\n\n".join(parts)
 
 
-# ── PDF CSS (generated with absolute font paths) ───────────────────────────────
+# ── PDF CSS (font-face injected at build time; rules live in build/kdp.css) ────
 
-def make_pdf_css(font_regular: str, font_bold: str) -> str:
-    return f"""\
-/* The Hindu Festival & Vrat Companion — PDF Stylesheet (WeasyPrint)
-   Page: 6 × 9 inches (KDP standard trade paperback) */
+def build_css() -> str:
+    """Read kdp.css and prepend @font-face declarations with absolute file:// paths."""
+    kdp_css_path = os.path.join(BUILD_DIR, "kdp.css")
+    with open(kdp_css_path) as f:
+        base_css = f.read()
 
-@font-face {{
-    font-family: 'NotoSerifDevanagari';
-    src: url('file://{font_regular}');
-    font-weight: normal;
-}}
-@font-face {{
-    font-family: 'NotoSerifDevanagari';
-    src: url('file://{font_bold}');
-    font-weight: bold;
-}}
-
-@page {{
-    size: 6in 9in;
-    margin: 0.875in 0.8in 0.875in 0.75in;
-    @bottom-center {{
-        content: counter(page);
-        font-size: 8.5pt;
-        color: #999;
-        font-family: Georgia, serif;
-    }}
-}}
-@page:first {{ @bottom-center {{ content: none; }} }}
-
-body {{
-    font-family: Georgia, 'Palatino Linotype', serif;
-    font-size: 11pt;
-    line-height: 1.55;
-    color: #1a1a1a;
-    orphans: 3;
-    widows: 3;
-}}
-
-h1 {{
-    font-size: 22pt;
-    font-weight: bold;
-    text-align: center;
-    color: #2a1000;
-    border-bottom: 1.5pt solid #8B1A1A;
-    padding-bottom: 8pt;
-    margin-top: 28pt;
-    margin-bottom: 4pt;
-    page-break-before: always;
-    page-break-after: avoid;
-}}
-
-h2 {{
-    font-size: 7.5pt;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 1.6pt;
-    color: #8B1A1A;
-    border-bottom: 0.5pt solid #e8d5c0;
-    padding-bottom: 3pt;
-    margin-top: 18pt;
-    margin-bottom: 7pt;
-    page-break-after: avoid;
-}}
-
-h3 {{
-    font-size: 10pt;
-    font-weight: bold;
-    color: #2a1000;
-    margin-top: 12pt;
-    margin-bottom: 4pt;
-    page-break-after: avoid;
-}}
-
-p {{
-    margin: 0 0 7pt 0;
-    text-align: justify;
-    hyphens: auto;
-}}
-
-h1 + p em {{
-    display: block;
-    text-align: center;
-    font-style: italic;
-    color: #666;
-    font-size: 9.5pt;
-    margin-top: 2pt;
-    margin-bottom: 14pt;
-}}
-
-p.panchang-date {{
-    text-align: center;
-    font-size: 8pt;
-    color: #aaa;
-    font-style: italic;
-    letter-spacing: 0.5pt;
-    margin-top: -6pt;
-    margin-bottom: 14pt;
-}}
-
-blockquote {{
-    font-family: 'NotoSerifDevanagari', 'Devanagari Sangam MN', serif;
-    font-size: 11pt;
-    line-height: 1.65;
-    margin: 6pt 4pt;
-    padding: 5pt 10pt;
-    border-left: 2pt solid #8B1A1A;
-    background-color: #fdf9f2;
-    color: #1a0800;
-    page-break-inside: avoid;
-}}
-blockquote p {{ margin: 0; text-align: left; }}
-
-hr {{
-    border: none;
-    border-top: 0.5pt solid #e8d5c0;
-    width: 50%;
-    margin: 8pt auto;
-}}
-
-.chapter-end {{
-    text-align: center;
-    color: #8B1A1A;
-    font-size: 10pt;
-    letter-spacing: 6pt;
-    margin: 20pt 0 10pt 0;
-}}
-
-.invocation {{
-    text-align: center;
-    margin: 30pt auto;
-}}
-.invocation blockquote {{
-    border: none;
-    background: transparent;
-    text-align: center;
-    font-size: 13pt;
-    line-height: 2.2;
-    padding: 4pt 0;
-    margin: 10pt auto;
-}}
-.invocation hr {{
-    width: 35%;
-    margin: 12pt auto;
-}}
-
-ol, ul {{ padding-left: 14pt; margin-bottom: 7pt; }}
-li {{ margin-bottom: 3pt; }}
-strong {{ color: #2a1000; }}
-
-table {{
-    width: 100%;
-    border-collapse: collapse;
-    margin: 12pt 0;
-    font-size: 9pt;
-}}
-th {{
-    background-color: #8B1A1A;
-    color: #fff;
-    padding: 4pt 7pt;
-    text-align: left;
-    font-weight: bold;
-    letter-spacing: 0.5pt;
-}}
-td {{
-    padding: 4pt 7pt;
-    border-bottom: 0.5pt solid #e8d5c0;
-    vertical-align: top;
-}}
-tr:nth-child(even) td {{ background-color: #fdf9f2; }}
-
-#toc a {{ color: #2a1000; text-decoration: none; }}
-"""
-
+    font_faces = ""
+    if os.path.exists(FONT_REGULAR):
+        font_faces += (
+            f"@font-face {{\n"
+            f"    font-family: 'NotoSerifDevanagari';\n"
+            f"    src: url('file://{FONT_REGULAR}');\n"
+            f"    font-weight: normal;\n}}\n"
+        )
+    if os.path.exists(FONT_BOLD):
+        font_faces += (
+            f"@font-face {{\n"
+            f"    font-family: 'NotoSerifDevanagari';\n"
+            f"    src: url('file://{FONT_BOLD}');\n"
+            f"    font-weight: bold;\n}}\n"
+        )
+    return font_faces + "\n" + base_css
 
 # ── Build steps ────────────────────────────────────────────────────────────────
 
@@ -367,7 +217,7 @@ def build_epub(combined_md: str, out_path: str) -> None:
 def build_pdf(combined_md: str, html_path: str, pdf_path: str) -> None:
     meta_yaml = os.path.join(SAMPLE_DIR, "metadata.yaml")
 
-    pdf_css_content = make_pdf_css(FONT_REGULAR, FONT_BOLD)
+    pdf_css_content = build_css()
     pdf_css_path = os.path.join(str(OUTPUT_DIR), "sample-pdf.css")
     with open(pdf_css_path, "w") as f:
         f.write(pdf_css_content)
