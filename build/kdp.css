@@ -17,10 +17,10 @@
 body {
     font-family: Georgia, 'Palatino Linotype', serif;
     font-size: 11pt;
-    line-height: 1.55;
+    line-height: 1.4;
     color: #1a1a1a;
-    orphans: 3;
-    widows: 3;
+    orphans: 2;
+    widows: 2;
 }
 
 h1 {
@@ -59,9 +59,14 @@ h3 {
 }
 
 p {
-    margin: 0 0 7pt 0;
+    margin: 0 0 3pt 0;
+    text-indent: 1.5em;
     text-align: justify;
     hyphens: auto;
+}
+/* suppress indent only for structural/transition paragraphs and the chapter subtitle */
+h1 + p, blockquote + p, hr + p, .chapter-end + p {
+    text-indent: 0;
 }
 
 /* subtitle line directly under chapter title */
@@ -110,7 +115,7 @@ hr {
     color: #8B1A1A;
     font-size: 10pt;
     letter-spacing: 6pt;
-    margin: 20pt 0 10pt 0;
+    margin: 8pt 0 10pt 0;
 }
 
 /* invocation page (sample book front matter only) */

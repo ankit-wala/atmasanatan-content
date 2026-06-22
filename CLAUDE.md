@@ -159,6 +159,16 @@ All Vidhi sections use a compact bullet list — no separate Observance section:
 ```
 5–10 bullets; **bold labels** for stages; semicolons to chain related items; date always last.
 
+### Page-reduction decisions (June 2026)
+
+Options from the publishing analysis artifact — status of each:
+
+| Option | Description | Decision |
+|--------|-------------|----------|
+| A | Compress Vidhi + Observance into bullet list | **Done** — all 600 files (hi/en/mr/gu), −50 pages |
+| B | Cut Significance to a 2-line pull quote | **Rejected** — sampled 5 entries; most Significance sections are genuinely additive (symbolism, etymology, theological framing). Only ~half have any restatement, and those restate just 1–2 sentences. Not worth gutting sections that add real depth. |
+| F | Remove forced chapter page-breaks (continuous flow) | **Parked** — saves ~30–40 pages, pure CSS change. Revisit when finalising layout. |
+
 ### Add a brand-new entry (not already stubbed)
 1. `cp -r kathas/_template/festival-slug kathas/festivals/<slug>` (rename to the real slug).
 2. Fill `meta.yaml` completely including `scripture_ref`.
