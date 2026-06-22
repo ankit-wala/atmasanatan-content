@@ -211,7 +211,7 @@ h1 {{
     color: #2a1000;
     border-bottom: 1.5pt solid #8B1A1A;
     padding-bottom: 8pt;
-    margin-top: 60pt;
+    margin-top: 28pt;
     margin-bottom: 4pt;
     page-break-before: always;
     page-break-after: avoid;
@@ -267,10 +267,10 @@ p.panchang-date {{
 
 blockquote {{
     font-family: 'NotoSerifDevanagari', 'Devanagari Sangam MN', serif;
-    font-size: 12pt;
-    line-height: 1.95;
-    margin: 11pt 4pt;
-    padding: 8pt 12pt;
+    font-size: 11pt;
+    line-height: 1.65;
+    margin: 6pt 4pt;
+    padding: 5pt 10pt;
     border-left: 2pt solid #8B1A1A;
     background-color: #fdf9f2;
     color: #1a0800;
@@ -282,7 +282,7 @@ hr {{
     border: none;
     border-top: 0.5pt solid #e8d5c0;
     width: 50%;
-    margin: 14pt auto;
+    margin: 8pt auto;
 }}
 
 .chapter-end {{

@@ -16,7 +16,7 @@ h1 {
   font-size: 16pt;
   font-weight: bold;
   text-align: center;
-  margin-top: 1.5em;
+  margin-top: 0.6em;
   margin-bottom: 0.3em;
   page-break-before: always;
   border-bottom: 1pt solid #888;
@@ -37,9 +37,11 @@ ul { margin: 0.3em 0 0.3em 1.2em; padding: 0; }
 li { margin-bottom: 0.25em; }
 blockquote {
   border-left: 2pt solid #aaa;
-  margin: 0.6em 0 0.6em 1em;
-  padding-left: 0.8em;
+  font-size: 11pt;
+  line-height: 1.65;
+  margin: 0.3em 0 0.3em 1em;
+  padding: 3pt 0 3pt 0.8em;
   color: #444;
   font-style: italic;
 }
-hr { border: none; border-top: 0.5pt solid #ccc; margin: 0.8em 0; }
+hr { border: none; border-top: 0.5pt solid #ccc; margin: 0.4em 0; }
