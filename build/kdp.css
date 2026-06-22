@@ -4,7 +4,7 @@
 
 @page {
     size: 6in 9in;
-    margin: 0.875in 0.8in 0.875in 0.75in;
+    margin: 0.75in 0.8in 0.75in 0.8in;
     @bottom-center {
         content: counter(page);
         font-size: 8.5pt;
@@ -100,8 +100,22 @@ blockquote {
     background-color: #fdf9f2;
     color: #1a0800;
     page-break-inside: avoid;
+    page-break-after: avoid;
 }
 blockquote p { margin: 0; text-align: left; }
+/* keep mantra title (bold paragraph) with the blockquote that follows it */
+p + blockquote {
+    page-break-before: avoid;
+}
+/* keep IAST transliteration line with blockquote above and meaning line below */
+blockquote + p {
+    page-break-before: avoid;
+    page-break-after: avoid;
+}
+/* keep meaning/translation paragraph with IAST line above */
+blockquote + p + p {
+    page-break-before: avoid;
+}
 
 hr {
     border: none;

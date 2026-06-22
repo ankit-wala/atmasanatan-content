@@ -115,8 +115,11 @@ def format_chapter(entry) -> str:
     for sec in SECTIONS:
         body = doc.sections.get(sec, "")
         if body and not body.strip().startswith("TODO"):
-            label = SECTION_LABELS.get(sec, sec)
-            lines.append(f"\n## {label}\n\n{body}\n")
+            if sec == "Katha":
+                lines.append(f"\n{body}\n")
+            else:
+                label = SECTION_LABELS.get(sec, sec)
+                lines.append(f"\n## {label}\n\n{body}\n")
 
     lines.append('\n<div class="chapter-end">✦ ✦ ✦</div>\n')
     return "\n".join(lines)
