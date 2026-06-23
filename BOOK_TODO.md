@@ -42,7 +42,7 @@ Current corpus: 150 entries. Need to drop 42.
 - [ ] Remove `date_2026` bullet from Vidhi sections in all en.md files (currently last bullet: "**2026 Date:** ...")
 - [ ] Remove same from hi.md, mr.md, gu.md
 - [ ] Add `date_2028` field to all meta.yaml files (verify each against DrikPanchang — significant effort)
-- [ ] Verify all remaining `TODO-VERIFY` date fields (2026 + 2027) against DrikPanchang → flip to `ready_to_publish` / `published`
+- [x] Verify all remaining `TODO-VERIFY` date fields (2026 + 2027) against DrikPanchang — complete for all 150 entries
 
 ---
 
@@ -67,7 +67,7 @@ Current corpus: 150 entries. Need to drop 42.
 
 Design: back-matter table with columns — **Festival | Page | 2026 | 2027 | 2028**
 
-- [ ] Confirm `date_2027` is filled for all 108 entries (check for TODO-VERIFY)
+- [x] Confirm `date_2027` is filled for all 108 entries — complete for all 150 entries
 - [ ] Add `date_2028` to meta.yaml for all 108 entries
 - [ ] Build index generator in `to_full_book.py` — reads slug order, pulls dates from meta.yaml, outputs a table in back matter
 - [ ] Page numbers: WeasyPrint does not support auto page-number injection in body tables; approach TBD (generate index after PDF, or use a two-pass build)
