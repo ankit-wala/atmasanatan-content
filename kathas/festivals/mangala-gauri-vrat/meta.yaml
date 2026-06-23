@@ -10,7 +10,7 @@ panchang:
   paksha: Shukla
   tithi: Mangalvar
   date_2026: 2026-08-04    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY
+  date_2027: 2027-07-20    # verified — first Tuesday of Shravan 2027 (North India; day after first Shravan Monday)
 region: pan-india
 related_shlokas: []
 related_bhajans: []

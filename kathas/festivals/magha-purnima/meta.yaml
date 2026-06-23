@@ -10,7 +10,7 @@ panchang:
   paksha: Shukla
   tithi: Purnima
   date_2026: 2026-02-01    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-02-20    # verified DrikPanchang 2027 — Magha Purnima
 region: pan-india
 related_shlokas: []
 related_bhajans: []

@@ -11,7 +11,7 @@ panchang:
   paksha: Shukla
   tithi: Purnima
   date_2026: 2026-06-29    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-06-18    # verified DrikPanchang 2027 — Jyeshtha Shukla Purnima
 region: maharashtra
 related_shlokas: []
 related_bhajans: []

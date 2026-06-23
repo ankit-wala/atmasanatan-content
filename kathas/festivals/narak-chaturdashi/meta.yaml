@@ -10,7 +10,7 @@ panchang:
   paksha: Krishna
   tithi: Chaturdashi
   date_2026: 2026-11-08    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-10-28    # verified DrikPanchang 2027 — Kartika Krishna Chaturdashi
 region: pan-india
 related_shlokas: []
 related_bhajans: []

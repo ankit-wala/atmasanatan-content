@@ -10,7 +10,7 @@ panchang:
   paksha: Shukla
   tithi: Pratipada
   date_2026: 2026-11-10    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-10-30    # verified DrikPanchang 2027 — Kartika Shukla Pratipada
 region: pan-india
 related_shlokas: []
 related_bhajans: []

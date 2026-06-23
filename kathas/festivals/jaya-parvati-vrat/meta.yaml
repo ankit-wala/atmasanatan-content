@@ -10,7 +10,7 @@ panchang:
   paksha: Shukla
   tithi: Trayodashi   # 5-day vrat: Ashadha Shukla Trayodashi → Shravan Krishna Tritiya
   date_2026: 2026-07-27    # verified DrikPanchang — vrat begins Jul 27, ends Aug 1; Pradosh puja 7:15–9:20 PM Jul 27
-  date_2027: TODO-VERIFY
+  date_2027: 2027-07-16    # verified mpanchang.com — Ashadha Shukla Trayodashi; vrat begins Jul 16
 region: gujarat
 related_shlokas: []
 related_bhajans: []

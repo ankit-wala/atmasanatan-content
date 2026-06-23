@@ -10,7 +10,7 @@ panchang:
   paksha: Krishna
   tithi: Amavasya
   date_2026: 2026-06-15    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-08-02    # verified DrikPanchang 2027 — Shravan Krishna Amavasya
 region: pan-india
 related_shlokas: []
 related_bhajans: []

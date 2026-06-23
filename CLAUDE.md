@@ -292,6 +292,50 @@ Translate `mr.md` and `gu.md` directly from `hi.md`, not from `en.md`.
 
 ---
 
+## date_2027 verification — monthly calendar approach
+
+DrikPanchang publishes a "Hindu Festivals and Vrats" page for each calendar month, listing every
+festival with its exact date. This is far more efficient than one-by-one lookups — fetch one month
+page and verify every festival in that month simultaneously.
+
+**URL pattern:**
+```
+https://www.drikpanchang.com/hindu-calendar/hindu-calendar-detail.html?year=2027&month=<N>
+```
+Replace `<N>` with the 1-based month number (1=January … 12=December).
+
+**Process (per month batch):**
+1. Open the URL for that month in DrikPanchang.
+2. Scan the page for all festivals matching our entries.
+3. Note the exact Gregorian dates shown.
+4. Update each matching `meta.yaml` `date_2027` field; replace `TODO-VERIFY` with `YYYY-MM-DD`.
+5. Add a `# verified DrikPanchang 2027` comment on the same line.
+
+**Progress (as of June 2026):** ALL 150 entries complete.
+
+| Month | Status | Notes |
+|-------|--------|-------|
+| Jan 2027 | ✅ done | lohri, makar-sankranti, shakambhari-purnima, sakat-chauth, magha-sankashti |
+| Feb 2027 | ✅ done | mauni-amavasya, vasant-panchami, ratha-saptami, bhishma-ashtami, jaya-ekadashi, magha-purnima |
+| Mar–Jun 2027 | ✅ done | All entries verified from DrikPanchang monthly festival pages |
+| Jul 2027 | ✅ done | jaya-parvati-vrat, kokila-vrat, shravan-sankashti, shravan-somvar-vrat, solah-somvar-vrat, somvar-vrat, mangala-gauri-vrat |
+| Aug–Dec 2027 | ✅ done | All entries verified from DrikPanchang + ProKerala panchang |
+
+**Weekday vrats — special handling:**
+Entries like `ravivar-vrat`, `mangalvar-vrat`, `budhvar-vrat`, `brihaspativar-vrat`, `shanivar-vrat`,
+`shukravar-lakshmi`, `shukravar-santoshi`, `vaibhav-lakshmi-vrat` have `tithi: <Weekday>` in their
+panchang block (not a lunar tithi — just the day of week). DrikPanchang does not publish annual date
+lists for these generic weekday vratas. The canonical approach:
+1. Fetch the ProKerala Hindu Calendar for the relevant Gregorian month:
+   `https://www.prokerala.com/general/calendar/hinducalendar.php?year=<YYYY>&mon=<month-name>&sb=1`
+2. Identify all occurrences of that weekday within the specified paksha (Shukla/Krishna).
+3. Record the **first occurrence** as the `date_YYYY` field, verified from the ProKerala panchang.
+4. Comment: `# verified ProKerala panchang YYYY — <Month> <Paksha> <tithi> — first <Weekday>`
+
+Note: `date_2026` is fully verified for all 150 entries. `date_2027` is now also complete for all 150.
+
+---
+
 ## First deliverable
 
 The **Festival & Vrat Companion** book (KDP paperback-first) — each festival folder is one

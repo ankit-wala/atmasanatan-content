@@ -10,7 +10,7 @@ panchang:
   paksha: Shukla
   tithi: Ashtami
   date_2026: 2026-11-17    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-11-06    # verified DrikPanchang 2027 — Kartika Shukla Ashtami
 region: pan-india
 related_shlokas: []
 related_bhajans: []

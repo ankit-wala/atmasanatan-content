@@ -12,7 +12,7 @@ panchang:
   paksha: Shukla
   tithi: Purnima
   date_2026: 2026-12-23    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-12-13    # verified DrikPanchang 2027 — Margashirsha Purnima
 region: pan-india
 related_shlokas: []
 related_bhajans: []

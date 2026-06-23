@@ -9,7 +9,7 @@ panchang:
   paksha: Krishna
   tithi: Ekadashi
   date_2026: 2026-09-07    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-08-28    # verified DrikPanchang 2027 — Bhadrapada Krishna Ekadashi
 region: pan-india
 related_shlokas: []
 related_bhajans: []

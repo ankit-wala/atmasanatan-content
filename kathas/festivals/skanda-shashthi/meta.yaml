@@ -10,7 +10,7 @@ panchang:
   paksha: Shukla
   tithi: Shashthi
   date_2026: 2026-11-15    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-11-04    # verified DrikPanchang 2027 — Kartik Shukla Shashthi
 region: south-india
 related_shlokas: []
 related_bhajans: []

@@ -10,7 +10,7 @@ panchang:
   paksha: Krishna
   tithi: Amavasya
   date_2026: 2026-01-18    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-02-06    # verified DrikPanchang 2027 — Magha Amavasya (solar eclipse day)
 region: pan-india
 related_shlokas: []
 related_bhajans: []

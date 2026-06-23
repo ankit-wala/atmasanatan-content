@@ -10,7 +10,7 @@ panchang:
   paksha: Krishna
   tithi: Panchami
   date_2026: 2026-03-08    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-03-27    # verified DrikPanchang 2027 — Phalguna Krishna Panchami
 region: north-india
 related_shlokas: []
 related_bhajans: []

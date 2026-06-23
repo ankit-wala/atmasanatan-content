@@ -10,7 +10,7 @@ panchang:
   paksha: Shukla
   tithi: Tritiya
   date_2026: 2026-09-14    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-09-03    # verified DrikPanchang 2027 — Bhadrapada Shukla Tritiya
 region: pan-india
 related_shlokas: []
 related_bhajans: []

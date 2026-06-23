@@ -130,6 +130,7 @@ hr {
     font-size: 10pt;
     letter-spacing: 6pt;
     margin: 8pt 0 10pt 0;
+    page-break-before: avoid;
 }
 
 /* invocation page (sample book front matter only) */

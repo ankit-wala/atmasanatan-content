@@ -9,7 +9,7 @@ panchang:
   paksha: Krishna
   tithi: Chaturdashi
   date_2026: 2026-08-11    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-07-31    # verified DrikPanchang 2027 — Shravan Krishna Chaturdashi
 region: pan-india
 related_shlokas: []
 related_bhajans: []

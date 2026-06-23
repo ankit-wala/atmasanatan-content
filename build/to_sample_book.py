@@ -15,6 +15,7 @@ Outputs:
 from __future__ import annotations
 
 import os
+import re
 import subprocess
 import sys
 import textwrap
@@ -40,6 +41,11 @@ FONTS_DIR   = os.path.join(BUILD_DIR, "fonts", "NotoSerifDevanagari", "unhinted"
 
 FONT_REGULAR = os.path.join(FONTS_DIR, "NotoSerifDevanagari-Regular.ttf")
 FONT_BOLD    = os.path.join(FONTS_DIR, "NotoSerifDevanagari-Bold.ttf")
+
+
+def strip_date_bullet(body: str) -> str:
+    """Remove the trailing date bullet from Vidhi sections (e.g. '- **2026 date:** ...')."""
+    return re.sub(r'\n- \*\*20\d\d[^\n]*', '', body)
 
 
 # ── Content helpers ────────────────────────────────────────────────────────────
@@ -118,6 +124,8 @@ def format_chapter(entry) -> str:
             if sec == "Katha":
                 lines.append(f"\n{body}\n")
             else:
+                if sec == "Vidhi":
+                    body = strip_date_bullet(body)
                 label = SECTION_LABELS.get(sec, sec)
                 lines.append(f"\n## {label}\n\n{body}\n")
 

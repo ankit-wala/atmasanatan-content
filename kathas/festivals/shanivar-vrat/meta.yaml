@@ -9,7 +9,7 @@ panchang:
   paksha: Krishna
   tithi: Shanivar
   date_2026: 2026-11-28    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-11-20    # verified ProKerala panchang 2027 — Margashirsha Krishna Shashthi — first Saturday per ProKerala
 region: pan-india
 related_shlokas: []
 related_bhajans: []

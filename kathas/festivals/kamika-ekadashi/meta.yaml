@@ -9,7 +9,7 @@ panchang:
   paksha: Krishna
   tithi: Ekadashi
   date_2026: 2026-08-09    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY
+  date_2027: 2027-07-29    # verified DrikPanchang 2027 — Shravana Krishna Ekadashi
 region: pan-india
 related_shlokas: []
 related_bhajans: []

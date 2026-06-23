@@ -11,7 +11,7 @@ panchang:
   paksha: Krishna
   tithi: Chaturthi
   date_2026: 2026-10-29    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-10-18    # verified DrikPanchang 2027 — Kartika Krishna Chaturthi
 region: north-india
 related_shlokas: []
 related_bhajans: []

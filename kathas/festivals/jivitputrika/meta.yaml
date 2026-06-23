@@ -10,7 +10,7 @@ panchang:
   paksha: Krishna
   tithi: Ashtami
   date_2026: 2026-10-03    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY   # second occurrence; same katha, different date
+  date_2027: 2027-09-23    # verified DrikPanchang 2027 — Ashwin Krishna Ashtami
 region: east-india
 related_shlokas: []
 related_bhajans: []

@@ -9,7 +9,7 @@ panchang:
   paksha: Shukla
   tithi: Ekadashi
   date_2026: 2026-08-23    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY
+  date_2027: 2027-08-12    # verified DrikPanchang 2027 — Shravana Shukla Ekadashi
 region: pan-india
 related_shlokas: []
 related_bhajans: []

@@ -9,7 +9,7 @@ panchang:
   paksha: Shukla
   tithi: Somvar
   date_2026: 2026-08-03    # verified DrikPanchang 2026
-  date_2027: TODO-VERIFY
+  date_2027: 2027-07-19    # verified astrosage — first Monday of Shravan 2027 (North India)
 region: pan-india
 related_shlokas: []
 related_bhajans: []
