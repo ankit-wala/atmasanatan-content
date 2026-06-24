@@ -6,34 +6,135 @@ Target: English first, then Hindi. 108 kathas, ordered from July 15, 2026.
 
 ## 1. Curate 108 kathas
 
-Current corpus: 150 entries. Need to drop 42.
+Current corpus: 150 entries. Each language edition selects its own 108, tuned to its audience.
+The corpus stays at 150 — curation is a config/constant in the build script, not file deletions.
 
-### Proposed drops (42 entries) — confirm before actioning
+### Audience logic
 
-**Ekadashis — keep 10, drop 15** (too many; most readers observe 2–3 at most)
-- [ ] Drop: `saphala-ekadashi`, `pausha-putrada-ekadashi`, `shattila-ekadashi`, `vijaya-ekadashi`, `amalaki-ekadashi`
-- [ ] Drop: `varuthini-ekadashi`, `mohini-ekadashi`, `apara-ekadashi`, `yogini-ekadashi`, `kamika-ekadashi`
-- [ ] Drop: `shravana-putrada-ekadashi`, `aja-ekadashi`, `parivartini-ekadashi`, `papankusha-ekadashi`, `rama-ekadashi`
-- Keep: `nirjala`, `devshayani`, `devutthana`, `mokshada`, `papmochani`, `kamada`, `ekadashi-mahatmya`, `utpanna`, `jaya`, `indira`
+| Edition | Primary reader | Region focus |
+|---------|---------------|--------------|
+| Hindi | Hindi-speaking devotee, all ages | UP, Rajasthan, MP, Bihar, Delhi, Uttarakhand |
+| English | Young, pan-India / diaspora reader | Pan-India + global; South Indian diaspora significant |
+| Gujarati (future) | Gujarati reader | Gujarat; keep sheetala-satam, vat-purnima, varalakshmi-vrat |
 
-**South-dominant festivals — drop 6**
-- [ ] Drop: `onam`, `karthigai-deepam`, `varalakshmi-vrat`, `swarna-gowri-vrat`, `skanda-shashthi`, `vat-purnima`
+### Hindi 108 (finalised)
 
-**Weekday vratas — keep major 6, drop 6**
-- [ ] Drop: `ravivar-vrat`, `mangalvar-vrat`, `budhvar-vrat`, `shanivar-vrat`, `shukravar-santoshi`, `vaibhav-lakshmi-vrat`
-- Keep: `somvar-vrat`, `solah-somvar-vrat`, `shravan-somvar-vrat`, `mangala-gauri-vrat`, `brihaspativar-vrat`, `shukravar-lakshmi`
+```
+ahoi-ashtami          akshaya-tritiya        anant-chaturdashi
+ashadha-sankashti     ashwin-sankashti       bhadrapada-sankashti
+bhai-dooj             bhishma-ashtami        brihaspativar-vrat
+buddha-purnima        chaitra-sankashti      chhath-puja
+chitragupta-puja      dattatreya-jayanti     dev-diwali
+devshayani-ekadashi   devutthana-ekadashi    dhanteras
+diwali                ekadashi-mahatmya      ganesh-chaturthi-janma
+ganesh-chaturthi-syamantaka  ganga-dussehra gangaur
+gayatri-jayanti       gopashtami             govardhan-puja
+gudi-padwa            guru-purnima           hal-shashthi
+hanuman-jayanti       hartalika-teej         holika-dahan
+indira-ekadashi       jagannath-rath-yatra   janmashtami
+jaya-ekadashi         jaya-parvati-vrat      jivitputrika
+jyeshtha-sankashti    kalabhairav-jayanti    kamada-ekadashi
+kartik-sankashti      kartik-snan-mahatmya   karwa-chauth
+lohri                 magha-purnima          magha-sankashti
+maha-shivaratri       mahalaya-pitru-paksha  makar-sankranti
+mangala-gauri-vrat    mangalvar-vrat         margashirsha-sankashti
+masik-satyanarayan    masik-shivaratri       mauni-amavasya
+mokshada-ekadashi     nag-panchami           narak-chaturdashi
+narasimha-jayanti     navratri-brahmacharini navratri-chandraghanta
+navratri-kalaratri    navratri-katyayani     navratri-kushmanda
+navratri-mahagauri    navratri-shailputri    navratri-siddhidatri
+navratri-skandamata   nirjala-ekadashi       papmochani-ekadashi
+parashurama-jayanti   phalguna-sankashti     phulera-dooj
+pradosh-vrat          radha-ashtami          raksha-bandhan
+ram-navami            ramdevji-jayanti       ravivar-vrat
+rishi-panchami        sakat-chauth           satyanarayan-adhyaya-1
+satyanarayan-adhyaya-2  shakambhari-purnima  shani-jayanti
+shani-pradosh         shanivar-vrat          sharad-purnima
+sheetala-ashtami      sheetala-satam         shravan-sankashti
+shravan-somvar-vrat   shukravar-lakshmi      sita-navami
+solah-somvar-vrat     somvar-vrat            somvati-amavasya
+tulsi-vivah           utpanna-ekadashi       vaishakha-sankashti
+valmiki-jayanti       vamana-jayanti         vasant-panchami
+vat-savitri-vrat      vijayadashami          vivah-panchami
+```
 
-**Satyanarayan adhyayas — keep 2, drop 3**
-- [ ] Drop: `satyanarayan-adhyaya-3`, `satyanarayan-adhyaya-4`, `satyanarayan-adhyaya-5`
-- Keep: `masik-satyanarayan`, `satyanarayan-adhyaya-1`, `satyanarayan-adhyaya-2`
+**Hindi-only** (not in English): bhishma-ashtami, chitragupta-puja, gangaur, hal-shashthi, jivitputrika,
+mangalvar-vrat, phulera-dooj, ramdevji-jayanti, ravivar-vrat, shakambhari-purnima,
+sheetala-satam, vivah-panchami
 
-**Lesser-known / regional (North/West/East focus) — drop 12**
-- [ ] Drop: `akshaya-navami`, `champa-shashthi`, `bhishma-ashtami`, `phulera-dooj`, `ratha-saptami`
-- [ ] Drop: `shakambhari-purnima`, `pola`, `ramdevji-jayanti`, `hal-shashthi`, `sheetala-satam`
-- [ ] Drop: `nirjala-gayatri-jayanti` (duplicate context with `nirjala-ekadashi` + `gayatri-jayanti`)
-- [ ] Drop: `akshaya-tritiya-parashuram` (duplicate context with `akshaya-tritiya` + `parashurama-jayanti`)
+**Hindi drops (42):** aja-ekadashi, akshaya-navami, akshaya-tritiya-parashuram, amalaki-ekadashi,
+apara-ekadashi, bhaum-pradosh, budhvar-vrat, champa-shashthi, ganga-saptami, govatsa-dwadashi,
+hariyali-amavasya, hariyali-teej, kajari-teej, kamika-ekadashi, karthigai-deepam, kokila-vrat,
+mohini-ekadashi, nirjala-gayatri-jayanti, onam, papankusha-ekadashi, parivartini-ekadashi,
+pausha-putrada-ekadashi, pola, rama-ekadashi, rangpanchami, ratha-saptami, saphala-ekadashi,
+satyanarayan-adhyaya-3, satyanarayan-adhyaya-4, satyanarayan-adhyaya-5, shattila-ekadashi,
+shravana-putrada-ekadashi, shukravar-santoshi, skanda-shashthi, som-pradosh, swarna-gowri-vrat,
+vaibhav-lakshmi-vrat, varalakshmi-vrat, varuthini-ekadashi, vat-purnima, vijaya-ekadashi, yogini-ekadashi
 
-**Confirm list with user before any file changes.**
+---
+
+### English 108 (finalised)
+
+```
+ahoi-ashtami          akshaya-navami         akshaya-tritiya
+amalaki-ekadashi      anant-chaturdashi      ashadha-sankashti
+ashwin-sankashti      bhadrapada-sankashti   bhai-dooj
+brihaspativar-vrat    buddha-purnima         chaitra-sankashti
+chhath-puja           dattatreya-jayanti     dev-diwali
+devshayani-ekadashi   devutthana-ekadashi    dhanteras
+diwali                ekadashi-mahatmya      ganesh-chaturthi-janma
+ganesh-chaturthi-syamantaka  ganga-dussehra ganga-saptami
+gayatri-jayanti       gopashtami             govardhan-puja
+gudi-padwa            guru-purnima           hal-shashthi
+hanuman-jayanti       hartalika-teej         holika-dahan
+indira-ekadashi       jagannath-rath-yatra   janmashtami
+jaya-ekadashi         jaya-parvati-vrat      jyeshtha-sankashti
+kalabhairav-jayanti   kamada-ekadashi        kartik-sankashti
+kartik-snan-mahatmya  karwa-chauth           kokila-vrat
+lohri                 magha-purnima          magha-sankashti
+maha-shivaratri       mahalaya-pitru-paksha  makar-sankranti
+mangala-gauri-vrat    margashirsha-sankashti masik-satyanarayan
+masik-shivaratri      mauni-amavasya         mokshada-ekadashi
+nag-panchami          narak-chaturdashi      narasimha-jayanti
+navratri-brahmacharini navratri-chandraghanta navratri-kalaratri
+navratri-katyayani    navratri-kushmanda     navratri-mahagauri
+navratri-shailputri   navratri-siddhidatri   navratri-skandamata
+nirjala-ekadashi      onam                   papmochani-ekadashi
+parashurama-jayanti   parivartini-ekadashi   phalguna-sankashti
+pradosh-vrat          radha-ashtami          raksha-bandhan
+ram-navami            rangpanchami           ratha-saptami
+rishi-panchami        sakat-chauth           satyanarayan-adhyaya-1
+satyanarayan-adhyaya-2  shani-jayanti        shani-pradosh
+shanivar-vrat         sharad-purnima         sheetala-ashtami
+shravan-sankashti     shravan-somvar-vrat    shukravar-lakshmi
+sita-navami           skanda-shashthi        solah-somvar-vrat
+somvar-vrat           somvati-amavasya       swarna-gowri-vrat
+tulsi-vivah           utpanna-ekadashi       vaishakha-sankashti
+valmiki-jayanti       vamana-jayanti         varalakshmi-vrat
+vasant-panchami       vat-savitri-vrat       vijayadashami
+```
+
+**English-only** (not in Hindi): akshaya-navami, amalaki-ekadashi, ganga-saptami, kokila-vrat,
+onam, parivartini-ekadashi, rangpanchami, ratha-saptami, skanda-shashthi, swarna-gowri-vrat,
+varalakshmi-vrat
+
+**English drops (42):** aja-ekadashi, akshaya-tritiya-parashuram, apara-ekadashi, bhaum-pradosh,
+bhishma-ashtami, budhvar-vrat, champa-shashthi, chitragupta-puja, gangaur, govatsa-dwadashi,
+hariyali-amavasya, hariyali-teej, jivitputrika, kajari-teej, kamika-ekadashi, karthigai-deepam,
+mangalvar-vrat, mohini-ekadashi, nirjala-gayatri-jayanti, papankusha-ekadashi,
+pausha-putrada-ekadashi, phulera-dooj, pola, rama-ekadashi, ramdevji-jayanti, ravivar-vrat,
+saphala-ekadashi, satyanarayan-adhyaya-3, satyanarayan-adhyaya-4, satyanarayan-adhyaya-5,
+shakambhari-purnima, shattila-ekadashi, sheetala-satam, shravana-putrada-ekadashi,
+shukravar-santoshi, som-pradosh, vaibhav-lakshmi-vrat, varuthini-ekadashi, vat-purnima,
+vijaya-ekadashi, vivah-panchami, yogini-ekadashi
+
+---
+
+### Common core (in both editions — 97 entries)
+
+Everything not listed as Hindi-only or English-only above.
+
+**Confirm both lists before implementing the build config constants.**
 
 ---
 
