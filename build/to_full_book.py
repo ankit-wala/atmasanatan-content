@@ -334,7 +334,10 @@ def format_chapter(entry, lang: str) -> str:
                 lines.append(f"\n## {label}\n\n{body}\n")
 
     lines.append('\n<div class="chapter-end">✦ ✦ ✦</div>\n')
-    return "\n".join(lines)
+    text = "\n".join(lines)
+    if lang != "en":
+        text = text.replace("—", "–")  # em dash → en dash
+    return text
 
 
 def fmt_date(date_val) -> str:
@@ -462,7 +465,10 @@ def assemble_front_md(entries: list, lang: str, page_nums: dict) -> str:
     """Front matter + index with hardcoded page numbers — used as Pass 2."""
     front = front_matter(lang)
     idx = make_index(entries, lang, page_nums)
-    return f'::: {{.front-matter}}\n\n{front}\n\n{idx}\n\n:::'
+    text = f'::: {{.front-matter}}\n\n{front}\n\n{idx}\n\n:::'
+    if lang != "en":
+        text = text.replace("—", "–")
+    return text
 
 
 # ── CSS ────────────────────────────────────────────────────────────────────────
@@ -516,8 +522,8 @@ def build_css(roman: bool = False, lang: str = "en") -> str:
     lang_override = ""
     if lang != "en":
         lang_override = textwrap.dedent("""\
-            body       { font-size: 12pt; line-height: 15pt; }
-            blockquote { font-size: 12pt; line-height: 18pt; }
+            body       { font-size: 12pt; line-height: 16pt; font-family: 'NotoSerifDevanagari', Georgia, serif; }
+            blockquote { font-size: 12pt; line-height: 19pt; }
         """)
 
     return font_faces + "\n" + base_css + "\n" + page_override + "\n" + lang_override
