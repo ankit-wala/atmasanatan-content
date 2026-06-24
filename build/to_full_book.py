@@ -525,6 +525,7 @@ def build_css(roman: bool = False, lang: str = "en") -> str:
             body       { font-size: 12pt; line-height: 16pt; font-family: 'NotoSerifDevanagari', Georgia, serif; }
             blockquote { font-size: 12pt; line-height: 19pt; }
             .festival-index table { line-height: 1.45; }
+            h2         { font-size: 9.5pt; letter-spacing: 0.5pt; }
         """)
 
     return font_faces + "\n" + base_css + "\n" + page_override + "\n" + lang_override
