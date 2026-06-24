@@ -205,7 +205,7 @@ def front_matter(lang: str) -> str:
 
             यह पुस्तक **15 जुलाई** से आरंभ होती है और हिन्दू पंचांग के अनुसार अगले जुलाई तक चलती है — ताकि आप प्रत्येक उत्सव से पहले उसे पढ़ सकें। प्रत्येक अध्याय में **महत्त्व** उत्सव को धार्मिक परंपरा में स्थापित करता है, **विधि** पूजन एवं व्रत की क्रमिक विधि देती है, और **मंत्र** देवनागरी, IAST एवं अर्थ सहित प्रमुख स्तोत्र प्रस्तुत करते हैं।
 
-            पुस्तक के अंत में पंचांग तालिका दी गई है जिसमें सभी 108 प्रविष्टियों की 2026 एवं 2027 की तिथियाँ हैं — ताकि आप वर्षों तक अपने अनुष्ठान की योजना बना सकें।
+            प्रत्येक अध्याय के शीर्षक के नीचे 2026 और 2027 की तिथियाँ दी गई हैं — ताकि आप अगला उत्सव कब है, यह तुरंत देख सकें। पुस्तक के अंत में अनुक्रमणिका (Index) दी गई है जिसमें सभी 108 प्रविष्टियों के पृष्ठ क्रमांक हैं।
 
         """)
     return textwrap.dedent("""\
@@ -275,7 +275,7 @@ def front_matter(lang: str) -> str:
 
         This book opens on **July 15** and follows the Hindu calendar year through to the following July — so you can read ahead of each festival as it approaches. Each chapter covers one festival or vrat. **Significance** places it in the wider dharmic picture. **Vidhi** gives the step-by-step puja and fast. **Mantras** gives the key prayers with Devanagari script, IAST transliteration, and English meaning.
 
-        The festival calendar in the back of this book lists all 108 entries with their dates for 2026, 2027, and the panchang tithi — so you can plan your observance year after year.
+        Each chapter shows the 2026 and 2027 dates directly below its title — so you always know when the next occurrence falls. The index at the back lists all 108 festivals with page numbers.
 
         Dates in this book are verified against the DrikPanchang. Tithi timings vary by location — always confirm on DrikPanchang before observing.
 
@@ -287,10 +287,17 @@ def format_chapter(entry, lang: str) -> str:
     if not doc:
         return ""
 
-    lines = [f"# {doc.title}\n"]
+    # {#slug} anchor lets the index resolve page numbers via target-counter
+    lines = [f"# {doc.title} {{#{entry.slug}}}\n"]
 
     if doc.frontmatter.get("subtitle"):
         lines.append(f"*{doc.frontmatter['subtitle']}*\n")
+
+    # Dates below the subtitle — replaces the back-matter calendar table
+    p_meta = entry.meta.get("panchang", {})
+    d26 = fmt_date(p_meta.get("date_2026"))
+    d27 = fmt_date(p_meta.get("date_2027"))
+    lines.append(f'<p class="chapter-dates">2026: {d26}&nbsp;&nbsp;·&nbsp;&nbsp;2027: {d27}</p>\n')
 
     for sec in SECTIONS:
         body = doc.sections.get(sec, "")
@@ -320,35 +327,75 @@ def fmt_date(date_val) -> str:
         return s
 
 
-def back_matter(entries, lang: str) -> str:
-    rows = []
-    for i, entry in enumerate(entries, 1):
-        doc = entry.docs.get(lang)
-        title = doc.title if doc else entry.slug
-        p = entry.meta.get("panchang", {})
-        tithi = ""
-        month = p.get("month", "")
-        paksha = p.get("paksha", "")
-        tithi_name = p.get("tithi", "")
-        if month and tithi_name:
-            tithi = f"{month} {paksha} {tithi_name}".strip()
-        d26 = fmt_date(p.get("date_2026"))
-        d27 = fmt_date(p.get("date_2027"))
-        rows.append(f"| {i} | {title} | {tithi} | {d26} | {d27} |")
+def _fmt_date(val) -> str:
+    """Format a meta.yaml date value (datetime.date or 'YYYY-MM-DD' string) → 'Jul 16'."""
+    if val is None:
+        return "—"
+    s = str(val).split()[0]  # strip any trailing YAML comment fragments
+    if s.startswith("TODO") or not s:
+        return "—"
+    try:
+        import datetime
+        d = datetime.date.fromisoformat(s)
+        return d.strftime("%b %-d")  # e.g. "Jul 16"
+    except Exception:
+        return s
 
-    table = "\n".join([
-        "| # | Festival | Panchang | 2026 | 2027 |",
-        "|:--|:---------|:---------|:-----|:-----|",
-    ] + rows)
+
+def make_index(entries, lang: str, page_nums: dict = None) -> str:
+    """Single-column index table: Festival | 2026 | 2027 | Page.
+    page_nums maps slug → Arabic page number from the chapters PDF."""
+    if page_nums is None:
+        page_nums = {}
 
     if lang == "hi":
-        heading = "# उत्सव पंचांग"
-        about_heading = "# आत्म सनातन के बारे में"
-        about_body = "आत्म सनातन एक भक्तिपूर्ण प्रकाशन परियोजना है।"
+        heading = "# अनुक्रमणिका"
+        hdr_fest, hdr_2026, hdr_2027, hdr_page = "उत्सव", "2026", "2027", "पृष्ठ"
     else:
-        heading = "# Festival Calendar"
-        about_heading = "# About Atma Sanatan"
-        about_body = textwrap.dedent("""\
+        heading = "# Index"
+        hdr_fest, hdr_2026, hdr_2027, hdr_page = "Festival", "2026", "2027", "Page"
+
+    rows = [
+        f'<thead><tr>'
+        f'<th class="idx-hdr-title">{hdr_fest}</th>'
+        f'<th class="idx-hdr-date">{hdr_2026}</th>'
+        f'<th class="idx-hdr-date">{hdr_2027}</th>'
+        f'<th class="idx-hdr-page">{hdr_page}</th>'
+        f'</tr></thead><tbody>'
+    ]
+    for entry in entries:
+        doc = entry.docs.get(lang)
+        title = doc.title if doc else entry.slug
+        panchang = entry.meta.get("panchang", {}) or {}
+        d26 = _fmt_date(panchang.get("date_2026"))
+        d27 = _fmt_date(panchang.get("date_2027"))
+        num = page_nums.get(entry.slug, "")
+        num_str = str(num) if num else "—"
+        rows.append(
+            f'<tr>'
+            f'<td class="idx-title">{title}</td>'
+            f'<td class="idx-date">{d26}</td>'
+            f'<td class="idx-date">{d27}</td>'
+            f'<td class="idx-page">{num_str}</td>'
+            f'</tr>'
+        )
+    rows.append('</tbody>')
+    index_html = (
+        '<div class="festival-index">\n'
+        '<table>\n' +
+        '\n'.join(rows) +
+        '\n</table>\n</div>'
+    )
+    return f'::: {{.index-section}}\n\n{heading}\n\n{index_html}\n\n:::'
+
+
+def back_matter(lang: str) -> str:
+    if lang == "hi":
+        heading = "# आत्म सनातन के बारे में"
+        body = "आत्म सनातन एक भक्तिपूर्ण प्रकाशन परियोजना है।"
+    else:
+        heading = "# About Atma Sanatan"
+        body = textwrap.dedent("""\
             Atma Sanatan is a devotional publishing project dedicated to making the stories,
             meanings, and practices of the Hindu festival year accessible to practitioners
             across the world. All kathas draw on primary scriptural sources — the Skanda Purana,
@@ -360,32 +407,46 @@ def back_matter(entries, lang: str) -> str:
 
             *(QR code — coming soon)*
         """)
-
-    return f"""{heading}
-
-{table}
-
-{about_heading}
-
-{about_body}
-"""
+    return f"{heading}\n\n{body}\n"
 
 
 # ── Assembly ───────────────────────────────────────────────────────────────────
 
 def assemble(entries, lang: str) -> str:
-    parts = [front_matter(lang)]
+    """Single-document assembly for EPUB."""
+    parts = [front_matter(lang), make_index(entries, lang)]
     for entry in entries:
         chapter = format_chapter(entry, lang)
         if chapter:
             parts.append(chapter)
-    parts.append(back_matter(entries, lang))
+    parts.append(back_matter(lang))
     return "\n\n".join(parts)
+
+
+def assemble_chapters_md(entries: list, lang: str) -> str:
+    """Chapters + back matter only — used as Pass 1 of the two-pass PDF build.
+    WeasyPrint numbers these from page 1 so target page numbers are correct."""
+    parts = []
+    for entry in entries:
+        chapter = format_chapter(entry, lang)
+        if chapter:
+            parts.append(chapter)
+    parts.append(back_matter(lang))
+    return "\n\n".join(parts)
+
+
+def assemble_front_md(entries: list, lang: str, page_nums: dict) -> str:
+    """Front matter + index with hardcoded page numbers — used as Pass 2."""
+    front = front_matter(lang)
+    idx = make_index(entries, lang, page_nums)
+    return f'::: {{.front-matter}}\n\n{front}\n\n{idx}\n\n:::'
 
 
 # ── CSS ────────────────────────────────────────────────────────────────────────
 
-def build_css() -> str:
+def build_css(roman: bool = False) -> str:
+    """Generate PDF CSS.  roman=True for the front-matter PDF (Roman page numbers,
+    title page suppressed); roman=False for the chapters PDF (Arabic from 1)."""
     kdp_css_path = os.path.join(BUILD_DIR, "kdp.css")
     with open(kdp_css_path) as f:
         base_css = f.read()
@@ -404,10 +465,108 @@ def build_css() -> str:
             f"    src: url('file://{FONT_BOLD}');\n"
             f"    font-weight: bold;\n}}\n"
         )
-    return font_faces + "\n" + base_css
+    # Mirror margins + page numbering — appended last so they win over kdp.css @page.
+    # Odd pages (recto, :right): inside=left 0.80", outside=right 0.65"
+    # Even pages (verso, :left):  inside=right 0.80", outside=left 0.65"
+    counter_val = "counter(page, lower-roman)" if roman else "counter(page)"
+    num_css = f"""content: {counter_val};
+                font-size: 8.5pt;
+                color: #999;
+                font-family: Georgia, serif;"""
+    page_override = textwrap.dedent(f"""\
+        @page :right {{
+            margin: 0.75in 0.65in 0.75in 0.80in;
+            @bottom-center {{ {num_css} }}
+        }}
+        @page :left {{
+            margin: 0.75in 0.80in 0.75in 0.65in;
+            @bottom-center {{ {num_css} }}
+        }}
+    """)
+    if roman:
+        page_override += "@page:first { @bottom-center { content: none; } }\n"
+    return font_faces + "\n" + base_css + "\n" + page_override
 
 
 # ── Build steps ────────────────────────────────────────────────────────────────
+
+def _build_html(md: str, html_path: str, css_path: str) -> None:
+    meta_yaml = os.path.join(SAMPLE_DIR, "metadata.yaml")
+    cmd = [
+        "pandoc", "-",
+        "--metadata-file", meta_yaml,
+        "-t", "html5", "--standalone",
+        "--css", css_path,
+        "-o", html_path,
+    ]
+    subprocess.run(cmd, input=md.encode(), check=True)
+
+
+def _run_weasyprint(html_path: str, pdf_path: str) -> None:
+    result = subprocess.run(["weasyprint", html_path, pdf_path],
+                            capture_output=True, text=True)
+    if result.returncode != 0:
+        print("WeasyPrint stderr:", result.stderr[-2000:], file=sys.stderr)
+        result.check_returncode()
+
+
+def _extract_anchor_pages(pdf_path: str) -> dict:
+    """Return slug → page number (1-indexed) from named destinations in a PDF.
+    WeasyPrint generates a named destination for every HTML element with an id."""
+    try:
+        from pypdf import PdfReader
+        reader = PdfReader(pdf_path)
+        dests = reader.named_destinations or {}
+        # Build indirect-ref → 1-indexed page number map
+        ref_to_num = {}
+        for i, page in enumerate(reader.pages):
+            ref = getattr(page, 'indirect_reference', None)
+            if ref is not None:
+                ref_to_num[ref] = i + 1
+        result = {}
+        for name, dest in dests.items():
+            try:
+                pg = dest.page
+                ref = getattr(pg, 'indirect_reference', None)
+                if ref is not None and ref in ref_to_num:
+                    result[name] = ref_to_num[ref]
+            except Exception:
+                pass
+        return result
+    except Exception as e:
+        print(f"  Warning: anchor extraction failed ({e})", file=sys.stderr)
+        return {}
+
+
+def _pad_to_even_pages(pdf_path: str) -> int:
+    """If pdf_path has an odd page count, append a blank page so chapters always
+    land on an odd physical position (recto) in the merged PDF.
+    Returns the final page count."""
+    from pypdf import PdfWriter, PdfReader
+    reader = PdfReader(pdf_path)
+    count = len(reader.pages)
+    if count % 2 == 0:
+        return count
+    # 6×9 in points (1 pt = 1/72 in)
+    writer = PdfWriter()
+    for page in reader.pages:
+        writer.add_page(page)
+    writer.add_blank_page(width=6 * 72, height=9 * 72)
+    with open(pdf_path, "wb") as f:
+        writer.write(f)
+    print(f"  Front matter was {count} pages (odd) — blank page added → {count + 1} pages.")
+    return count + 1
+
+
+def _merge_pdfs(inputs: list, output: str) -> None:
+    from pypdf import PdfWriter, PdfReader
+    writer = PdfWriter()
+    for path in inputs:
+        for page in PdfReader(path).pages:
+            writer.add_page(page)
+    with open(output, "wb") as f:
+        writer.write(f)
+
 
 def build_epub(combined_md: str, out_path: str, lang: str) -> None:
     epub_css  = os.path.join(SAMPLE_DIR, "epub.css")
@@ -427,26 +586,53 @@ def build_epub(combined_md: str, out_path: str, lang: str) -> None:
     subprocess.run(cmd, input=combined_md.encode(), check=True)
 
 
-def build_pdf(combined_md: str, html_path: str, pdf_path: str) -> None:
-    meta_yaml = os.path.join(SAMPLE_DIR, "metadata.yaml")
-    pdf_css_content = build_css()
-    pdf_css_path = os.path.join(str(OUTPUT_DIR), "full-pdf.css")
-    with open(pdf_css_path, "w") as f:
-        f.write(pdf_css_content)
-    cmd1 = [
-        "pandoc", "-",
-        "--metadata-file", meta_yaml,
-        "-t", "html5", "--standalone",
-        "--toc", "--toc-depth=1",
-        "--css", pdf_css_path,
-        "-o", html_path,
-    ]
-    subprocess.run(cmd1, input=combined_md.encode(), check=True)
-    cmd2 = ["weasyprint", html_path, pdf_path]
-    result = subprocess.run(cmd2, capture_output=True, text=True)
-    if result.returncode != 0:
-        print("WeasyPrint stderr:", result.stderr[-2000:], file=sys.stderr)
-        result.check_returncode()
+def build_pdf(entries: list, lang: str, html_path: str, pdf_path: str) -> None:
+    """Two-pass PDF build:
+      Pass 1 — chapters-only PDF (page 1 = first chapter, Arabic)
+      Pass 2 — front-matter PDF with hardcoded page numbers (Roman, title suppressed)
+      Merge   — front-matter PDF + chapters PDF → final PDF
+    """
+    out = str(OUTPUT_DIR)
+
+    # Pass 1: chapters + back matter
+    chap_md  = assemble_chapters_md(entries, lang)
+    chap_css_path = os.path.join(out, "chapters-pdf.css")
+    chap_html     = html_path.replace(".html", "-chapters.html")
+    chap_pdf      = pdf_path.replace(".pdf",  "-chapters.pdf")
+    with open(chap_css_path, "w") as f:
+        f.write(build_css(roman=False))
+    _build_html(chap_md, chap_html, chap_css_path)
+    print("  Rendering chapters PDF …")
+    _run_weasyprint(chap_html, chap_pdf)
+
+    # Extract anchor → page from chapters PDF
+    page_nums = _extract_anchor_pages(chap_pdf)
+    print(f"  {len(page_nums)} chapter page anchors resolved.")
+
+    # Pass 2: front matter with computed page numbers
+    front_md  = assemble_front_md(entries, lang, page_nums)
+    front_css_path = os.path.join(out, "front-pdf.css")
+    front_html     = html_path.replace(".html", "-front.html")
+    front_pdf      = pdf_path.replace(".pdf",  "-front.pdf")
+    with open(front_css_path, "w") as f:
+        f.write(build_css(roman=True))
+    _build_html(front_md, front_html, front_css_path)
+    print("  Rendering front-matter PDF …")
+    _run_weasyprint(front_html, front_pdf)
+
+    # Ensure front matter ends on an even physical page so that:
+    #   - chapter 1 lands on position (front_pages + 1) = odd = recto
+    #   - every chapter page's recto/verso assignment is preserved in the merged PDF
+    front_pages = _pad_to_even_pages(front_pdf)
+    print(f"  Front matter: {front_pages} pages (even — chapter 1 will be recto in merged PDF).")
+
+    # Merge: front matter (Roman, even pages) + chapters (Arabic from 1)
+    print("  Merging PDFs …")
+    _merge_pdfs([front_pdf, chap_pdf], pdf_path)
+
+    # Keep the chapters HTML as the main inspection file
+    import shutil
+    shutil.copy2(chap_html, html_path)
 
 
 # ── Main ───────────────────────────────────────────────────────────────────────
@@ -480,9 +666,9 @@ def main() -> None:
     print(f"  ✓ {epub_out}  ({os.path.getsize(epub_out)//1024} KB)")
 
     print("Building PDF …")
-    build_pdf(combined_md, html_out, pdf_out)
+    build_pdf(entries, lang, html_out, pdf_out)
     print(f"  ✓ {pdf_out}  ({os.path.getsize(pdf_out)//1024} KB)")
-    print(f"  (inspect HTML: {html_out})")
+    print(f"  (inspect chapters HTML: {html_out})")
 
 
 if __name__ == "__main__":

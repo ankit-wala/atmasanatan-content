@@ -169,8 +169,8 @@ Design: back-matter table with columns — **Festival | Page | 2026 | 2027 | 202
 
 - [x] Confirm `date_2027` is filled for all 108 entries — complete for all 150 entries
 - [ ] Add `date_2028` to meta.yaml for all 108 entries
-- [ ] Build index generator in `to_full_book.py` — reads slug order, pulls dates from meta.yaml, outputs a table in back matter
-- [ ] Page numbers: WeasyPrint does not support auto page-number injection in body tables; approach TBD (generate index after PDF, or use a two-pass build)
+- [x] Build index generator in `to_full_book.py` — single-column table: Festival | 2026 | 2027 | Page
+- [x] Page numbers: two-pass build — chapters PDF first, pypdf extracts anchor→page, hardcoded into index HTML
 
 ---
 
