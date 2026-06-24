@@ -208,9 +208,22 @@ Design: back-matter table with columns — **Festival | Page | 2026 | 2027 | 202
 
 ## 8. Cover design
 
-- [ ] Determine final page count (needed for KDP spine width calculation)
 - [ ] Design front cover, spine, back cover — in `atmasanatan-assets/` repo
 - [ ] KDP cover spec: 6×9, 300 DPI, PDF or high-res JPG, spine width = page count × paper thickness
+
+### Trim size decision — 6×9 confirmed ✅
+
+Tested 5×8 vs 6×9 on Notion Press (June 2026). **6×9 is cheaper for both editions.**
+
+| Edition | 6×9 pages | 5×8 pages | Page increase |
+|---------|-----------|-----------|---------------|
+| English | ~478 pp   | ~654 pp   | +37%          |
+| Hindi   | ~387 pp   | ~497 pp   | +28%          |
+
+5×8 saves ~₹100 on the trim-size base price at Notion Press, but the 28–37% page increase
+adds ~₹110–180 in extra per-page printing cost (at ~₹0.25/page rate differential), making
+5×8 more expensive overall. Additionally, 5×8 at 500–650 pages requires a larger minimum
+gutter (0.75") than 6×9 at under 500 pages (0.625") — the thicker spine costs more to bind.
 
 ---
 
