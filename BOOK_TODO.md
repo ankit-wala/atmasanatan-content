@@ -140,8 +140,7 @@ Everything not listed as Hindi-only or English-only above.
 
 ## 2. Dates
 
-- [ ] Remove `date_2026` bullet from Vidhi sections in all en.md files (currently last bullet: "**2026 Date:** ...")
-- [ ] Remove same from hi.md, mr.md, gu.md
+- [x] Remove `date_2026` bullet from Vidhi sections — done for all 4 languages (559 files)
 - [ ] Add `date_2028` field to all meta.yaml files (verify each against DrikPanchang — significant effort)
 - [x] Verify all remaining `TODO-VERIFY` date fields (2026 + 2027) against DrikPanchang — complete for all 150 entries
 
