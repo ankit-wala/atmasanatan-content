@@ -1,0 +1,476 @@
+#!/usr/bin/env python3
+"""Build the full 108-katha book as EPUB3 and PDF.
+
+Order: entries starting from July 15, 2026 (chronological), then pre-July entries
+at the end (they recur in 2027 for the reader). South-dominant, lesser-known
+ekadashis, and duplicate/regional entries are excluded — see BOOK_TODO.md.
+
+Usage:
+    /usr/bin/python3 build/to_full_book.py [--lang en|hi]
+
+Outputs (in build/output/):
+    full-<lang>.epub
+    full-<lang>.pdf
+    full-<lang>.html   (intermediate, keep for inspection)
+"""
+from __future__ import annotations
+
+import argparse
+import os
+import subprocess
+import sys
+import textwrap
+from datetime import datetime
+
+sys.path.insert(0, os.path.dirname(__file__))
+from _corpus import SECTIONS, OUTPUT_DIR, load_entries
+
+# ── Curated 108 slugs — audience-tuned per language ──────────────────────────
+# Order is derived at runtime from date_2026: entries >= July 15 first
+# (chronological), then Jan–Jul wrap-around entries at the end.
+# See BOOK_TODO.md §1 for the audience logic behind each list.
+
+SLUGS_108_EN = {
+    "ahoi-ashtami", "akshaya-navami", "akshaya-tritiya", "amalaki-ekadashi",
+    "anant-chaturdashi", "ashadha-sankashti", "ashwin-sankashti",
+    "bhadrapada-sankashti", "bhai-dooj", "brihaspativar-vrat", "buddha-purnima",
+    "chaitra-sankashti", "chhath-puja", "dattatreya-jayanti", "dev-diwali",
+    "devshayani-ekadashi", "devutthana-ekadashi", "dhanteras", "diwali",
+    "ekadashi-mahatmya", "ganesh-chaturthi-janma", "ganesh-chaturthi-syamantaka",
+    "ganga-dussehra", "ganga-saptami", "gayatri-jayanti", "gopashtami",
+    "govardhan-puja", "gudi-padwa", "guru-purnima", "hal-shashthi",
+    "hanuman-jayanti", "hartalika-teej", "holika-dahan", "indira-ekadashi",
+    "jagannath-rath-yatra", "janmashtami", "jaya-ekadashi", "jaya-parvati-vrat",
+    "jyeshtha-sankashti", "kalabhairav-jayanti", "kamada-ekadashi",
+    "kartik-sankashti", "kartik-snan-mahatmya", "karwa-chauth", "kokila-vrat",
+    "lohri", "magha-purnima", "magha-sankashti", "maha-shivaratri",
+    "mahalaya-pitru-paksha", "makar-sankranti", "mangala-gauri-vrat",
+    "margashirsha-sankashti", "masik-satyanarayan", "masik-shivaratri",
+    "mauni-amavasya", "mokshada-ekadashi", "nag-panchami", "narak-chaturdashi",
+    "narasimha-jayanti", "navratri-brahmacharini", "navratri-chandraghanta",
+    "navratri-kalaratri", "navratri-katyayani", "navratri-kushmanda",
+    "navratri-mahagauri", "navratri-shailputri", "navratri-siddhidatri",
+    "navratri-skandamata", "nirjala-ekadashi", "onam", "papmochani-ekadashi",
+    "parashurama-jayanti", "parivartini-ekadashi", "phalguna-sankashti",
+    "pradosh-vrat", "radha-ashtami", "raksha-bandhan", "ram-navami",
+    "rangpanchami", "ratha-saptami", "rishi-panchami", "sakat-chauth",
+    "satyanarayan-adhyaya-1", "satyanarayan-adhyaya-2", "shani-jayanti",
+    "shani-pradosh", "shanivar-vrat", "sharad-purnima", "sheetala-ashtami",
+    "shravan-sankashti", "shravan-somvar-vrat", "shukravar-lakshmi",
+    "sita-navami", "skanda-shashthi", "solah-somvar-vrat", "somvar-vrat",
+    "somvati-amavasya", "swarna-gowri-vrat", "tulsi-vivah", "utpanna-ekadashi",
+    "vaishakha-sankashti", "valmiki-jayanti", "vamana-jayanti", "varalakshmi-vrat",
+    "vasant-panchami", "vat-savitri-vrat", "vijayadashami",
+}
+
+SLUGS_108_HI = {
+    "ahoi-ashtami", "akshaya-tritiya", "anant-chaturdashi", "ashadha-sankashti",
+    "ashwin-sankashti", "bhadrapada-sankashti", "bhai-dooj", "bhishma-ashtami",
+    "brihaspativar-vrat", "buddha-purnima", "chaitra-sankashti", "chhath-puja",
+    "chitragupta-puja", "dattatreya-jayanti", "dev-diwali", "devshayani-ekadashi",
+    "devutthana-ekadashi", "dhanteras", "diwali", "ekadashi-mahatmya",
+    "ganesh-chaturthi-janma", "ganesh-chaturthi-syamantaka", "ganga-dussehra",
+    "gangaur", "gayatri-jayanti", "gopashtami", "govardhan-puja", "gudi-padwa",
+    "guru-purnima", "hal-shashthi", "hanuman-jayanti", "hartalika-teej",
+    "holika-dahan", "indira-ekadashi", "jagannath-rath-yatra", "janmashtami",
+    "jaya-ekadashi", "jaya-parvati-vrat", "jivitputrika", "jyeshtha-sankashti",
+    "kalabhairav-jayanti", "kamada-ekadashi", "kartik-sankashti",
+    "kartik-snan-mahatmya", "karwa-chauth", "lohri", "magha-purnima",
+    "magha-sankashti", "maha-shivaratri", "mahalaya-pitru-paksha",
+    "makar-sankranti", "mangala-gauri-vrat", "mangalvar-vrat",
+    "margashirsha-sankashti", "masik-satyanarayan", "masik-shivaratri",
+    "mauni-amavasya", "mokshada-ekadashi", "nag-panchami", "narak-chaturdashi",
+    "narasimha-jayanti", "navratri-brahmacharini", "navratri-chandraghanta",
+    "navratri-kalaratri", "navratri-katyayani", "navratri-kushmanda",
+    "navratri-mahagauri", "navratri-shailputri", "navratri-siddhidatri",
+    "navratri-skandamata", "nirjala-ekadashi", "papmochani-ekadashi",
+    "parashurama-jayanti", "phalguna-sankashti", "phulera-dooj", "pradosh-vrat",
+    "radha-ashtami", "raksha-bandhan", "ram-navami", "ramdevji-jayanti",
+    "ravivar-vrat", "rishi-panchami", "sakat-chauth", "satyanarayan-adhyaya-1",
+    "satyanarayan-adhyaya-2", "shakambhari-purnima", "shani-jayanti",
+    "shani-pradosh", "shanivar-vrat", "sharad-purnima", "sheetala-ashtami",
+    "sheetala-satam", "shravan-sankashti", "shravan-somvar-vrat",
+    "shukravar-lakshmi", "sita-navami", "solah-somvar-vrat", "somvar-vrat",
+    "somvati-amavasya", "tulsi-vivah", "utpanna-ekadashi", "vaishakha-sankashti",
+    "valmiki-jayanti", "vamana-jayanti", "vasant-panchami", "vat-savitri-vrat",
+    "vijayadashami", "vivah-panchami",
+}
+
+assert len(SLUGS_108_EN) == 108, f"EN list has {len(SLUGS_108_EN)} slugs"
+assert len(SLUGS_108_HI) == 108, f"HI list has {len(SLUGS_108_HI)} slugs"
+
+SLUG_SETS = {"en": SLUGS_108_EN, "hi": SLUGS_108_HI,
+             "mr": SLUGS_108_EN, "gu": SLUGS_108_EN}
+
+
+def order_by_date(entries: list, cutoff: str = "2026-07-15") -> list:
+    """Sort entries: date_2026 >= cutoff first (chronological), then the rest."""
+    def sort_key(e):
+        d = str(e.meta.get("panchang", {}).get("date_2026", "") or "")
+        if not d or d.startswith("TODO"):
+            d = "9999-99-99"
+        return d
+
+    on_or_after = sorted([e for e in entries if sort_key(e) >= cutoff], key=sort_key)
+    before = sorted([e for e in entries if sort_key(e) < cutoff], key=sort_key)
+    return on_or_after + before
+
+SECTION_LABELS = {
+    "Significance": "Significance",
+    "Vidhi":        "Vidhi",
+    "Observance":   "Vidhi",
+    "Mantras":      "Mantras",
+}
+
+BUILD_DIR  = os.path.dirname(os.path.abspath(__file__))
+SAMPLE_DIR = os.path.join(BUILD_DIR, "sample")
+FONTS_DIR  = os.path.join(BUILD_DIR, "fonts", "NotoSerifDevanagari", "unhinted", "ttf")
+
+FONT_REGULAR = os.path.join(FONTS_DIR, "NotoSerifDevanagari-Regular.ttf")
+FONT_BOLD    = os.path.join(FONTS_DIR, "NotoSerifDevanagari-Bold.ttf")
+
+
+# ── Content helpers ────────────────────────────────────────────────────────────
+
+def front_matter(lang: str) -> str:
+    if lang == "hi":
+        return textwrap.dedent("""\
+            ::: {.title-page}
+
+            # 108 व्रत कथा
+
+            [108 पवित्र अनुष्ठान — कथा, महत्त्व, विधि और मंत्र]{.subtitle}
+
+            [आत्म सनातन]{.publisher}
+
+            [2026]{.year}
+
+            :::
+
+            ::: {.copyright-page}
+
+            *108 व्रत कथा*
+
+            © 2026 आत्म सनातन। सर्वाधिकार सुरक्षित।
+
+            इस पुस्तक का कोई भी भाग — चाहे मुद्रित, इलेक्ट्रॉनिक, या किसी अन्य माध्यम से — प्रकाशक की लिखित अनुमति के बिना पुनः प्रकाशित, संग्रहीत या प्रसारित नहीं किया जा सकता।
+
+            **शास्त्र-स्रोत:** इस पुस्तक की कथाएँ वाल्मीकि रामायण, श्रीमद्भागवतम्, स्कंद पुराण, पद्म पुराण, ब्रह्म वैवर्त पुराण एवं अन्य पौराणिक ग्रंथों पर आधारित हैं।
+
+            **तिथियाँ:** सभी तिथियाँ DrikPanchang (drikpanchang.com) से सत्यापित हैं। तिथि का प्रारंभ एवं समापन स्थान के अनुसार भिन्न हो सकता है — व्रत से पूर्व DrikPanchang पर पुष्टि अवश्य करें।
+
+            प्रकाशक: आत्म सनातन · प्रथम संस्करण, 2026
+
+            :::
+
+            # मंगलाचरण
+
+            ::: {.invocation}
+
+            **श्री गणेशाय नमः**
+
+            ---
+
+            > वक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ ।
+            > निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥
+
+            :::
+
+            # प्रस्तावना
+
+            भारत ने सदा काल को उत्सवों से मापा है। हिन्दू पंचांग केवल तारीखों का संग्रह नहीं — यह पवित्र वर्ष का मानचित्र है। यह बताता है कि किस दिन कौन-सा देवता सर्वाधिक सन्निकट है, किस तिथि पर कौन-सी उपासना सर्वाधिक फलदायी है, और किन दिनों में प्राचीन कथाएँ सबसे जीवंत हो उठती हैं।
+
+            यहाँ संकलित उत्सव और व्रत सहस्राब्दियों से मनाए जाते आए हैं। इनकी जड़ें पुराणों में हैं — हिन्दू परंपरा के महान आख्यान-ग्रंथों में — और इनकी विधियाँ पीढ़ी-दर-पीढ़ी, मंदिरों और घरों में, देश के हर कोने में और अब विश्वभर में प्रवाहित होती चली आई हैं।
+
+            यह पुस्तक एक सहयात्री है — किसी पुजारी या पंडित का विकल्प नहीं, बल्कि उनके लिए एक मार्गदर्शक जो दीपक के पीछे की कथा, मंत्र के भीतर का अर्थ और इन पवित्र दिनों में की जाने वाली क्रियाओं का कारण जानना चाहते हैं। प्रत्येक प्रविष्टि में कथा, महत्त्व, विधि और मंत्र हैं।
+
+            पहले कथा पढ़िए। कहानी को हृदय में उतरने दीजिए। उसके बाद पूजा का अनुभव ही बदल जाएगा।
+
+            — *आत्म सनातन*
+
+            ## इस पुस्तक का उपयोग कैसे करें
+
+            यह पुस्तक **15 जुलाई** से आरंभ होती है और हिन्दू पंचांग के अनुसार अगले जुलाई तक चलती है — ताकि आप प्रत्येक उत्सव से पहले उसे पढ़ सकें। प्रत्येक अध्याय में **महत्त्व** उत्सव को धार्मिक परंपरा में स्थापित करता है, **विधि** पूजन एवं व्रत की क्रमिक विधि देती है, और **मंत्र** देवनागरी, IAST एवं अर्थ सहित प्रमुख स्तोत्र प्रस्तुत करते हैं।
+
+            पुस्तक के अंत में पंचांग तालिका दी गई है जिसमें सभी 108 प्रविष्टियों की 2026 एवं 2027 की तिथियाँ हैं — ताकि आप वर्षों तक अपने अनुष्ठान की योजना बना सकें।
+
+        """)
+    return textwrap.dedent("""\
+        ::: {.title-page}
+
+        # 108 Vrat Katha
+
+        [108 Sacred Observances — Katha, Significance, Vidhi and Mantras]{.subtitle}
+
+        [Atma Sanatan]{.publisher}
+
+        [2026]{.year}
+
+        :::
+
+        ::: {.copyright-page}
+
+        *108 Vrat Katha*
+
+        Copyright © 2026 Atma Sanatan. All rights reserved.
+
+        No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means — electronic, mechanical, photocopying, recording, or otherwise — without the prior written permission of the publisher.
+
+        **Scripture sources:** The kathas in this book draw on primary Hindu scriptural sources, including the Valmiki Ramayana, the Shrimad Bhagavatam, the Skanda Purana, the Padma Purana, the Brahma Vaivarta Purana, and other Puranic texts.
+
+        **Festival dates:** All dates in this book are verified against DrikPanchang (drikpanchang.com). Tithi timings vary by location — always confirm the exact timing on DrikPanchang before observing.
+
+        Published by Atma Sanatan · First edition, 2026
+
+        :::
+
+        # Invocation
+
+        ::: {.invocation}
+
+        **श्री गणेशाय नमः**
+
+        *Śrī Gaṇeśāya Namaḥ*
+
+        ---
+
+        > वक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ ।
+        > निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥
+
+        *Vakratuṇḍa Mahākāya Sūryakoṭisamaprabha |*
+        *Nirvighnaṃ Kuru Me Deva Sarvakāryeṣu Sarvadā ||*
+
+        O Lord with the curved trunk and the mighty form,
+        radiant as ten million suns —
+        grant me freedom from all obstacles, always, in every endeavour.
+
+        :::
+
+        # Introduction
+
+        India has always measured time by festivals. The Hindu Panchang is not simply a calendar — it is a map of the sacred year, marking the days when a particular deity is closest, when the cosmos is aligned for a specific kind of worship, when the ancient stories are most alive.
+
+        The festivals collected here have been observed for thousands of years. Their roots lie in the Puranas — the great narrative scriptures of the Hindu tradition — and their vidhi has been carried forward across generations, in temples and homes, across every corner of the subcontinent and now across the world.
+
+        This book is a companion — not a substitute for a priest or pandita, but a guide for those who want to know the story behind the flame, the meaning inside the mantra, the reason we do what we do on these sacred days. Each chapter has a Katha (the founding story), a Significance section, a Vidhi (how to observe), and Mantras.
+
+        Read the katha first. Let the story land. The puja will feel different after that.
+
+        May your observance of each festival carry the full weight of its tradition.
+
+        — *Atma Sanatan*
+
+        ## How to Use This Book
+
+        This book opens on **July 15** and follows the Hindu calendar year through to the following July — so you can read ahead of each festival as it approaches. Each chapter covers one festival or vrat. **Significance** places it in the wider dharmic picture. **Vidhi** gives the step-by-step puja and fast. **Mantras** gives the key prayers with Devanagari script, IAST transliteration, and English meaning.
+
+        The festival calendar in the back of this book lists all 108 entries with their dates for 2026, 2027, and the panchang tithi — so you can plan your observance year after year.
+
+        Dates in this book are verified against the DrikPanchang. Tithi timings vary by location — always confirm on DrikPanchang before observing.
+
+    """)
+
+
+def format_chapter(entry, lang: str) -> str:
+    doc = entry.docs.get(lang)
+    if not doc:
+        return ""
+
+    lines = [f"# {doc.title}\n"]
+
+    if doc.frontmatter.get("subtitle"):
+        lines.append(f"*{doc.frontmatter['subtitle']}*\n")
+
+    for sec in SECTIONS:
+        body = doc.sections.get(sec, "")
+        if body and not body.strip().startswith("TODO"):
+            if sec == "Katha":
+                lines.append(f"\n{body}\n")
+            else:
+                label = SECTION_LABELS.get(sec, sec)
+                lines.append(f"\n## {label}\n\n{body}\n")
+
+    lines.append('\n<div class="chapter-end">✦ ✦ ✦</div>\n')
+    return "\n".join(lines)
+
+
+def fmt_date(date_val) -> str:
+    if not date_val:
+        return "—"
+    s = str(date_val)
+    if s.startswith("TODO") or not s:
+        return "—"
+    try:
+        dt = datetime.strptime(s, "%Y-%m-%d")
+        return dt.strftime("%b %-d")
+    except ValueError:
+        return s
+
+
+def back_matter(entries, lang: str) -> str:
+    rows = []
+    for i, entry in enumerate(entries, 1):
+        doc = entry.docs.get(lang)
+        title = doc.title if doc else entry.slug
+        p = entry.meta.get("panchang", {})
+        tithi = ""
+        month = p.get("month", "")
+        paksha = p.get("paksha", "")
+        tithi_name = p.get("tithi", "")
+        if month and tithi_name:
+            tithi = f"{month} {paksha} {tithi_name}".strip()
+        d26 = fmt_date(p.get("date_2026"))
+        d27 = fmt_date(p.get("date_2027"))
+        rows.append(f"| {i} | {title} | {tithi} | {d26} | {d27} |")
+
+    table = "\n".join([
+        "| # | Festival | Panchang | 2026 | 2027 |",
+        "|:--|:---------|:---------|:-----|:-----|",
+    ] + rows)
+
+    if lang == "hi":
+        heading = "# उत्सव पंचांग"
+        about_heading = "# आत्म सनातन के बारे में"
+        about_body = "आत्म सनातन एक भक्तिपूर्ण प्रकाशन परियोजना है।"
+    else:
+        heading = "# Festival Calendar"
+        about_heading = "# About Atma Sanatan"
+        about_body = textwrap.dedent("""\
+            Atma Sanatan is a devotional publishing project dedicated to making the stories,
+            meanings, and practices of the Hindu festival year accessible to practitioners
+            across the world. All kathas draw on primary scriptural sources — the Skanda Purana,
+            the Brahma Vaivarta Purana, the Valmiki Ramayana, the Shrimad Bhagavatam — and
+            all dates are verified against DrikPanchang.
+
+            **Get the App** — scan the QR code below to install the Atma Sanatan app for
+            daily reminders, puja guides, and the full festival library on your phone.
+
+            *(QR code — coming soon)*
+        """)
+
+    return f"""{heading}
+
+{table}
+
+{about_heading}
+
+{about_body}
+"""
+
+
+# ── Assembly ───────────────────────────────────────────────────────────────────
+
+def assemble(entries, lang: str) -> str:
+    parts = [front_matter(lang)]
+    for entry in entries:
+        chapter = format_chapter(entry, lang)
+        if chapter:
+            parts.append(chapter)
+    parts.append(back_matter(entries, lang))
+    return "\n\n".join(parts)
+
+
+# ── CSS ────────────────────────────────────────────────────────────────────────
+
+def build_css() -> str:
+    kdp_css_path = os.path.join(BUILD_DIR, "kdp.css")
+    with open(kdp_css_path) as f:
+        base_css = f.read()
+    font_faces = ""
+    if os.path.exists(FONT_REGULAR):
+        font_faces += (
+            f"@font-face {{\n"
+            f"    font-family: 'NotoSerifDevanagari';\n"
+            f"    src: url('file://{FONT_REGULAR}');\n"
+            f"    font-weight: normal;\n}}\n"
+        )
+    if os.path.exists(FONT_BOLD):
+        font_faces += (
+            f"@font-face {{\n"
+            f"    font-family: 'NotoSerifDevanagari';\n"
+            f"    src: url('file://{FONT_BOLD}');\n"
+            f"    font-weight: bold;\n}}\n"
+        )
+    return font_faces + "\n" + base_css
+
+
+# ── Build steps ────────────────────────────────────────────────────────────────
+
+def build_epub(combined_md: str, out_path: str, lang: str) -> None:
+    epub_css  = os.path.join(SAMPLE_DIR, "epub.css")
+    meta_yaml = os.path.join(SAMPLE_DIR, "metadata.yaml")
+    cmd = [
+        "pandoc", "-",
+        "--metadata-file", meta_yaml,
+        "-t", "epub3",
+        "--toc", "--toc-depth=1", "--split-level=1",
+        "--css", epub_css,
+        "-o", out_path,
+    ]
+    if os.path.exists(FONT_REGULAR):
+        cmd += ["--epub-embed-font", FONT_REGULAR]
+    if os.path.exists(FONT_BOLD):
+        cmd += ["--epub-embed-font", FONT_BOLD]
+    subprocess.run(cmd, input=combined_md.encode(), check=True)
+
+
+def build_pdf(combined_md: str, html_path: str, pdf_path: str) -> None:
+    meta_yaml = os.path.join(SAMPLE_DIR, "metadata.yaml")
+    pdf_css_content = build_css()
+    pdf_css_path = os.path.join(str(OUTPUT_DIR), "full-pdf.css")
+    with open(pdf_css_path, "w") as f:
+        f.write(pdf_css_content)
+    cmd1 = [
+        "pandoc", "-",
+        "--metadata-file", meta_yaml,
+        "-t", "html5", "--standalone",
+        "--toc", "--toc-depth=1",
+        "--css", pdf_css_path,
+        "-o", html_path,
+    ]
+    subprocess.run(cmd1, input=combined_md.encode(), check=True)
+    cmd2 = ["weasyprint", html_path, pdf_path]
+    result = subprocess.run(cmd2, capture_output=True, text=True)
+    if result.returncode != 0:
+        print("WeasyPrint stderr:", result.stderr[-2000:], file=sys.stderr)
+        result.check_returncode()
+
+
+# ── Main ───────────────────────────────────────────────────────────────────────
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--lang", default="en", choices=["en", "hi", "mr", "gu"])
+    args = parser.parse_args()
+    lang = args.lang
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    all_entries = {e.slug: e for e in load_entries("festivals")}
+    slug_set = SLUG_SETS[lang]
+    missing = [s for s in slug_set if s not in all_entries]
+    if missing:
+        print(f"Warning: slugs not found: {missing}", file=sys.stderr)
+
+    curated = [all_entries[s] for s in slug_set if s in all_entries]
+    entries = order_by_date(curated)
+
+    print(f"Building {len(entries)}-chapter {lang.upper()} book …")
+    combined_md = assemble(entries, lang)
+
+    epub_out = str(OUTPUT_DIR / f"full-{lang}.epub")
+    html_out = str(OUTPUT_DIR / f"full-{lang}.html")
+    pdf_out  = str(OUTPUT_DIR / f"full-{lang}.pdf")
+
+    print("Building EPUB3 …")
+    build_epub(combined_md, epub_out, lang)
+    print(f"  ✓ {epub_out}  ({os.path.getsize(epub_out)//1024} KB)")
+
+    print("Building PDF …")
+    build_pdf(combined_md, html_out, pdf_out)
+    print(f"  ✓ {pdf_out}  ({os.path.getsize(pdf_out)//1024} KB)")
+    print(f"  (inspect HTML: {html_out})")
+
+
+if __name__ == "__main__":
+    main()

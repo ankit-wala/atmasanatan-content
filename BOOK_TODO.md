@@ -146,20 +146,20 @@ Everything not listed as Hindi-only or English-only above.
 
 ---
 
-## 3. Ordering (start from July 15, 2026)
+## ✅ 3. Ordering (start from July 15, 2026) — DONE
 
-- [ ] Build a sorted entry list: entries with `date_2026 >= 2026-07-15` first (chronological), then entries with `date_2026 < 2026-07-15` at the end (they recur in 2027)
-- [ ] Update `to_full_book.py` ordering logic accordingly
-- [ ] Confirm entries with 2025 dates (e.g. `saphala-ekadashi`) are either dropped (see curation) or placed at the end
+- [x] `order_by_date()` in `to_full_book.py` reads `date_2026` from meta.yaml — entries ≥ Jul 15 first (chronological), then Jan–Jul wrap-around entries at end
+- [x] Data-driven; no manual slug ordering hardcoded in the script
+- [x] All 2025-dated entries excluded from both slug sets; last entry is `ashadha-sankashti` (Jul 3)
 
 ---
 
-## 4. Build system — create `to_full_book.py`
+## ✅ 4. Build system — `to_full_book.py` — DONE
 
-- [ ] Create `build/to_full_book.py` modelled on `to_sample_book.py` — self-contained, single command produces EPUB3 + PDF for all 108 entries
-- [ ] Accepts `--lang` flag (default: `en`)
-- [ ] Applies the July 15 ordering
-- [ ] Generates the index (see §5)
+- [x] `build/to_full_book.py` exists — single command produces EPUB3 + PDF for all 108 entries
+- [x] `--lang en|hi|mr|gu` selects `SLUGS_108_EN` or `SLUGS_108_HI`
+- [x] Ordering driven by `order_by_date()` at build time
+- [x] Index generated in back matter (§5)
 
 ---
 
@@ -176,14 +176,19 @@ Design: back-matter table with columns — **Festival | Page | 2026 | 2027 | 202
 
 ## 6. Book structure — front matter & back matter
 
+### Finalised decisions
+- **Title:** 108 Vrat Katha (EN + HI editions — audience is young Hindi-speaking Indians, name works)
+- **Subtitle:** "108 Sacred Observances — Katha, Significance, Vidhi and Mantras"
+- **Section label for Vidhi:** Vidhi (kept as-is; not translated)
+- **Half-title page:** removed — wasted page, not needed
+- **Dedication:** skipped
+
 ### Front matter (write these)
-- [ ] Half-title page
-- [ ] Title page (title, subtitle, author/publisher)
-- [ ] Copyright page (year, rights, scripture attribution, DrikPanchang credit)
-- [ ] Dedication (optional — confirm with user)
-- [ ] Invocation — already in sample, review
-- [ ] Introduction — already in sample, expand if needed
-- [ ] How to Use This Book — already in sample, review
+- [x] Title page — "108 Vrat Katha" / subtitle / Atma Sanatan / 2026
+- [x] Copyright page — rights, scripture attribution, DrikPanchang credit
+- [x] Invocation — in `front_matter()`, reviewed
+- [x] Introduction — all section references use correct terms (Katha, Significance, Vidhi, Mantras)
+- [x] How to Use This Book — updated to say "Vidhi" throughout
 
 ### Back matter
 - [ ] Full index table: Festival | Page | 2026 | 2027 | 2028 (see §5)
