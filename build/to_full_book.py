@@ -151,10 +151,10 @@ def order_by_date(entries: list, cutoff: str = "2026-07-15") -> list:
     return on_or_after + before
 
 SECTION_LABELS = {
-    "Significance": "Significance",
-    "Vidhi":        "Vidhi",
-    "Observance":   "Vidhi",
-    "Mantras":      "Mantras",
+    "en": {"Significance": "Significance", "Vidhi": "Vidhi", "Observance": "Vidhi", "Mantras": "Mantras"},
+    "hi": {"Significance": "महत्त्व",      "Vidhi": "विधि",  "Observance": "विधि",  "Mantras": "मंत्र"},
+    "mr": {"Significance": "महत्त्व",      "Vidhi": "विधी",  "Observance": "विधी",  "Mantras": "मंत्र"},
+    "gu": {"Significance": "મહત્ત્વ",      "Vidhi": "વિધિ",  "Observance": "વિધિ",  "Mantras": "મંત્ર"},
 }
 
 BUILD_DIR  = os.path.dirname(os.path.abspath(__file__))
@@ -329,7 +329,8 @@ def format_chapter(entry, lang: str) -> str:
                     if lang != "en":
                         body = strip_iast_lines(body)
                     body = add_mantra_linebreaks(body)
-                label = SECTION_LABELS.get(sec, sec)
+                labels = SECTION_LABELS.get(lang, SECTION_LABELS["en"])
+                label = labels.get(sec, sec)
                 lines.append(f"\n## {label}\n\n{body}\n")
 
     lines.append('\n<div class="chapter-end">✦ ✦ ✦</div>\n')

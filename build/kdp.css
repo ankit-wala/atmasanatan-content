@@ -70,9 +70,14 @@ p {
     orphans: 3;
     widows: 3;
 }
-/* keep subtitle and first paragraph with chapter title — no orphaned headings */
+/* keep subtitle, dates, and first 3 lines of content with chapter title.
+   If the full chain doesn't fit, WeasyPrint floats the h1 to the next page. */
 h1 + p, h1 + p + p {
     page-break-before: avoid;
+}
+.chapter-dates + p {
+    page-break-before: avoid;
+    orphans: 3;
 }
 
 /* suppress indent only for structural/transition paragraphs and the chapter subtitle */
