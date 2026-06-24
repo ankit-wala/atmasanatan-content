@@ -56,7 +56,6 @@ The light of Vaishakha Purnima says this to us: the true form of strength lies n
 - **Dana:** Jala-dana, anna-dana, and vastra-dana all carry especial merit on this day; the gift given on Purnima yields inexhaustible fruit.
 - **Evening recitation:** Read the Kurma avatar episode and Samudra Manthan katha from the Eighth Skandha of the Bhagavata Purana; recitation of the Vishnu Sahasranama is also greatly fruitful.
 - **Dipa-dana:** On the night of Purnima, bathe in a sacred river, lake, or tirtha; float a lamp near water as a remembrance of the infinite light of the Kshirasagara.
-- **2026 date:** TODO-VERIFY (Vaishakha Shukla Purnima — Kurma Jayanti / Buddha Purnima)
 
 ## Mantras
 

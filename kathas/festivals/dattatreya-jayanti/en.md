@@ -61,7 +61,6 @@ Worshipping Lord Dattatreya on Dattatreya Jayanti destroys ignorance, bestows kn
 - **Fasting:** Strict waterless fasting is not prescribed; devotees who wish to fast may observe a single meal (ekabhukta) during the day.
 - **Evening:** Light a lamp in the home and chant "Digambara Digambara Shripad Vallabha Digambara."
 - **Night vigil (jagaran):** There is a tradition of keeping a night-long vigil on the night of Margashirsha Purnima.
-- **2026 date:** TODO-VERIFY (Margashirsha Purnima)
 
 ## Mantras
 

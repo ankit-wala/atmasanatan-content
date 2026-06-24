@@ -55,7 +55,6 @@ This is a special fast for mothers. He who received the love of two mothers is w
 - **Plough observance:** In the North Indian tradition, do not till the earth with a plough on this day — the birthday of the one whose symbol is the plough, that symbol should not be put to labour.
 - **Food:** Avoid vegetables grown from tilled earth; consume only those grown in water or without ploughing — water chestnuts, milk, and curd are permitted.
 - **Breaking the fast:** Break the fast in the evening or the following morning.
-- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Shashthi)
 
 ## Mantras
 

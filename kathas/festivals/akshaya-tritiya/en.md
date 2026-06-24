@@ -47,7 +47,6 @@ The word akshaya means that which never diminishes. Whatever dana, punya, or new
 - **Parashurama Jayanti:** This tithi is also the birth-date of Lord Parashurama — worship him and chant his name for additional merit.
 - **New beginnings:** Marriage, grahapravesh, starting a new business, opening a new account — this tithi is a svayamsiddha muhurta; no separate panchang consultation needed.
 - **Fasting:** Not obligatory — those who wish may take a fruit-meal; in the evening recite Vishnu Sahasranama or the Sudama Katha and then take food.
-- **2026 date:** TODO-VERIFY (Vaishakha Shukla Tritiya)
 
 ## Mantras
 

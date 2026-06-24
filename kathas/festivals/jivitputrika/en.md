@@ -76,7 +76,6 @@ Jimutavahana's character is a union of two qualities — dana (giving) and tyaga
 - **Puja:** Prepare or install an image of Jimutavahana; worship with incense, lamp, kusha grass, flowers, and river water; hear the Jivitputrika Vrat katha.
 - **Community:** This vrat is observed collectively — women gather at a river or pond to perform the puja together.
 - **Navami — parana:** Break the fast on the morning of Navami at the appropriate time; regional tradition includes certain symbolic foods; generally sattvic food.
-- **2026 date:** Confirm on DrikPanchang (Ashwin Krishna Ashtami — ~October 3, 2026).
 
 ## Mantras
 

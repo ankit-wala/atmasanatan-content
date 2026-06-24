@@ -57,7 +57,6 @@ The Kajari songs — the folk songs sung on this day — form a distinct genre o
 - **At night:** Hold a jagran — sing Kajari folk songs through the night.
 - **Special note:** The first Kajari Teej is special for new brides — in northern Indian tradition, there is a custom of observing it at the maternal home (peehar).
 - **Breaking the fast:** Paran on the next day — Chaturthi — after sunrise.
-- **2026 date:** Confirm on DrikPanchang (~August 31, 2026, Bhadrapada Krishna Tritiya).
 
 ## Mantras
 

@@ -65,7 +65,6 @@ Magha is a special month in the Hindu calendar — Mauni Amavasya, Ratha Saptami
 - **Moonrise:** At night when the moon rises, first sight the moon, offer arghya with water, and offer salutations to Ganesha — the vrata is not complete without sighting the moon; if clouds are present, observe parana at the designated moonrise time.
 - **Breaking the fast:** After sighting the moon, first take Ganesha's prasad (modak), then drink water and take food.
 - **Special:** For devotees who perform all twelve Sankashti vratas through the year, there is a tradition of udyapana at Magha Sankashti — feeding of brahmanas, distribution of modak, and darshana at a Ganesha temple.
-- **2026 date:** TODO-VERIFY (Magha Krishna Chaturthi)
 
 ## Mantras
 

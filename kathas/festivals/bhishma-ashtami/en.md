@@ -41,7 +41,6 @@ This festival also reminds us that death need not be an accident — it can be a
 - **Reading:** Read or listen to a passage from the Anushasana Parva or Shanti Parva of the Mahabharata — great merit accrues from this.
 - **Charity:** Give food to Brahmins; offer dakshina according to your means.
 - **Special:** Celebrated with special devotion in northern and central India.
-- **2026 date:** TODO-VERIFY (Magha Shukla Ashtami)
 
 ## Mantras
 

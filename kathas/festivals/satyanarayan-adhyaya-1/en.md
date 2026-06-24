@@ -75,7 +75,6 @@ The greatest feature of this vrat is the katha-shravan — this five-chapter kat
 - **Aarti:** Perform the aarti after the katha.
 - **Prasad:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana); distribute to every person present — this is not optional, no one should leave without prasad.
 - **Breaking the fast:** Receive the prasad and break the fast.
-- **2026 date:** Confirm on DrikPanchang (~August 28, 2026, Shravan Purnima).
 
 ## Mantras
 

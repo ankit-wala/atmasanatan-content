@@ -39,7 +39,6 @@ The second significance of Rang Panchami is that it reminds us of the five rasas
 - **Spirit of the day:** Hold no ill will toward anyone — any distance or misunderstanding from the five days of celebration should be washed away with this final color.
 - **Bhajan-Kirtan:** Sing phag-songs and Holi verses of Braj — "Holi Khele Raghuvira Avadh Mein," "Barse Bhige Chunarwali," or "Aaj Biraj Mein Holi Re Rasiya"; in the evening, sit with family and sing Krishna's lila-bhajans.
 - **Special:** If possible, take darshan at the Rangji temple and the Banke Bihari temple in Vrindavan — both hold a special celebration on this day.
-- **2026 date:** TODO-VERIFY (Phalgun Krishna Panchami)
 
 ## Mantras
 

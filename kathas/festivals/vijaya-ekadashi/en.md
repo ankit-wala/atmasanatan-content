@@ -50,7 +50,6 @@ This Ekadashi falls in the Krishna Paksha of the Phalguna month, when spring is 
 - **Forbidden:** Rice, wheat, lentils, onion, garlic, meat, alcohol, and falsehood; avoid anger and quarrelling throughout the day.
 - **Night vigil:** Keep night vigil with bhajans, kirtans, recitation of the Ramayana, or the Vishnu Sahasranama — as Shri Rama did with his army. Chant "Om Namo Bhagavate Vasudevaya" throughout.
 - **Breaking the fast:** On Dvadashi, after sunrise and before Dvadashi tithi ends, drink water with tulasi leaves and then take parana; offer charity and dakshina to a brahmin. Confirm parana time on DrikPanchang.
-- **2026 date:** TODO-VERIFY (Phalguna Krishna Ekadashi)
 
 ## Mantras
 

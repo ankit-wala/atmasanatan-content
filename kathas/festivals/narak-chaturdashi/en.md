@@ -54,7 +54,6 @@ Narak Chaturdashi — known also as **Kali Chaudas**, **Chhoti Diwali**, and **R
 - **Katha:** Read aloud or listen to the Narakasura-vadha episode from the Dasham Skandha of the Bhagavata Purana.
 - **Fasting:** Optional — observed in some families, especially where Yama-puja is kept under the name Kali Chaudas.
 - **Special:** Light firecrackers — connected to the proclamation of Narakasura's end; light and sound drive away all negative forces.
-- **2026 date:** TODO-VERIFY (Kartik Krishna Chaturdashi).
 
 ## Mantras
 

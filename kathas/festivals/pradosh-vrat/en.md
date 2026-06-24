@@ -64,7 +64,6 @@ This vrat is observed for the welfare of the family, for freedom from illness, a
 - **Mantra and aarti:** Chant Om Namah Shivaya at least 108 times; recite the Karpoorgauram shloka; perform Shiva's aarti.
 - **Breaking the fast (Paran):** On Chaturdashi — the following morning after sunrise — remember Shiva and break the fast.
 - **Regularity:** Observing both Trayodashis of every month yields the full fruit; if both are not possible, keep whichever is within reach consistently.
-- **2026 date:** TODO-VERIFY (Trayodashi, both Shukla and Krishna Paksha)
 
 ## Mantras
 

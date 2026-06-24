@@ -70,7 +70,6 @@ At the time of Ganesh Visarjan, the turmeric image of Mother Gauri is also immer
 - **Katha:** Hear the Gauri Vrat Katha as part of the puja.
 - **Visarjan:** After Ganesh Chaturthi celebrations (the following day or that evening), immerse the turmeric Gauri image in water — mother and son depart together.
 - **For whom:** Observed especially by married women — for the health and long life of their husbands, for children, and for prosperity in the home.
-- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Tritiya, ~August 2026)
 
 ## Mantras
 

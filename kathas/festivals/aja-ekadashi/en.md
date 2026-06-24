@@ -90,7 +90,6 @@ Harishchandra's story is the pinnacle of satya-dharma. He did not know it was a 
 - **Recitation:** Vishnu Sahasranama or "Hari-smarana" throughout the day.
 - **Night vigil:** All-night "Hari-Hari" kirtan and Vishnu-nama smarana — the hallmark of this Ekadashi.
 - **Breaking the fast:** On Dwadashi morning, after sunrise, between the Rahu period and Dwadashi end (paran).
-- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Ekadashi)
 
 ## Mantras
 

@@ -51,7 +51,6 @@ Somvati Amavasya comes only three or four times a year — its rarity makes it a
 - **Brahmin bhoj:** Feed a Brahmin on this day — it is the most direct means of satisfying the ancestors.
 - **Breaking the fast:** The following morning after bath.
 - **Note:** Auspicious rites (weddings, graha-pravesh) do not take place on Amavasya — this day belongs to the ancestors.
-- **2026 date:** TODO-VERIFY (Amavasya falling on Monday)
 
 ## Mantras
 

@@ -52,7 +52,6 @@ Worship of Kala Bhairava bestows:
 - **Feeding the dog:** Offer sweet roti or milk to a dog in remembrance of Kala Bhairava's vehicle.
 - **Breaking the fast:** When the Ashtami tithi ends, conclude the vrat on Navami with feeding Brahmins or a Brahmbhoj.
 - **Note:** Some regional tantric traditions mention the offering of wine — this is not required in ordinary householder worship.
-- **2026 date:** TODO-VERIFY (Margashirsha Krishna Ashtami).
 
 ## Mantras
 

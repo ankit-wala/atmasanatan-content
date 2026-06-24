@@ -67,7 +67,6 @@ On Dashahara, Ganga descended from the divine realm as a cosmic power. On Saptam
 - **Dipa-dana:** In the evening, light a lamp and float it in the Ganga — or in a vessel of water at home; remember the departed and pray for their sadgati.
 - **Dana:** On this day the gift of sesame, water, fruit, and cloth is meritorious; feed a Brahmin or give dana according to one's means.
 - **Fasting:** Optional — ekahara (one meal) or phalahara is prescribed; avoid tamasic food, meat, and alcohol especially on this day.
-- **2026 date:** TODO-VERIFY (Vaishakha Shukla Saptami)
 
 ## Mantras
 

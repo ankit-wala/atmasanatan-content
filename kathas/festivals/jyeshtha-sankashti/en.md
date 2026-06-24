@@ -78,7 +78,6 @@ In the tradition of the Ganesha Purana, it is said that by hearing this katha of
 - **Fasting:** Observe a fast from sunrise to moonrise; abstain from grains; fruit-based food (fruits, milk, sabudana) may be taken once.
 - **Evening — moonrise:** Check the moonrise time for that tithi on DrikPanchang; await moonrise and upon sighting the moon offer arghya with water and Ganesha's name.
 - **Breaking the fast:** No parana before sighting the moon; after the moon arghya, take food.
-- **2026 date:** Confirm on DrikPanchang (Jyeshtha Krishna Chaturthi).
 
 ## Mantras
 

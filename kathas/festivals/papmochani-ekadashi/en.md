@@ -81,7 +81,6 @@ The presiding deity of this Ekadashi is Lord Vishnu — the boundless ocean of c
 - **During the day:** Read or listen to the Papmochani Ekadashi katha; chant the Vishnu Sahasranama or "Om Namo Bhagavate Vasudevaya."
 - **At night:** Keep vigil through the night — this holds special importance for this Ekadashi (both Medhavi and Manjughosha kept vigil in the katha); spend the night in bhajan, kirtan, remembrance of the Name, or reading of the Ekadashi mahatmya.
 - **Breaking the fast:** On Dwadashi morning, at the prescribed parana muhurta — offer bhog to the Lord, receive tulsi-water, then break the fast.
-- **2026 date:** TODO-VERIFY (Chaitra Krishna Ekadashi)
 
 ## Mantras
 

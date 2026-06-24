@@ -103,7 +103,6 @@ This vrat is observed primarily in **North India** — in Uttar Pradesh, Haryana
 - **Sighting the stars:** In the evening when the stars appear, sight them through a sieve (in some regions the moon is also awaited, as the moonrise on this tithi is late into the night).
 - **Breaking the fast:** Offer water as arghya to the stars; pray to Ahoi Mata for the long life, health, and protection of your son; then drink water and take food.
 - **The spirit of repentance:** Accepting a mistake made knowingly or unknowingly, and seeking forgiveness before Ahoi Mata with a true heart — this is the very soul of this vrat.
-- **2026 date:** TODO-VERIFY (Kartik Krishna Ashtami)
 
 ## Mantras
 

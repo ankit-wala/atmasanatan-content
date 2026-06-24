@@ -57,7 +57,6 @@ When the confluence of Shravan and Monday occurs — this is no longer ordinary 
 - **Puja:** Listen to or read the Shravan Somvar Vrat katha; chant *Oṃ Namaḥ Śivāya*.
 - **Evening:** Perform worship again at pradosha time (dusk).
 - **Special in Shravan:** This month holds a special tradition of jalabhisheka at Shiva temples; the "Bol Bam" pilgrimages also take place during this month.
-- **2026 Shravan Mondays:** August 3, 10, 17, 24 (TODO-VERIFY on DrikPanchang)
 
 ## Mantras
 

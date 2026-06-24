@@ -89,7 +89,6 @@ Dhanteras is the first day of Diwali — yet it carries two distinct spiritual c
 - **Pradosh kaal — Yama Deepam:** After sunset, during pradosh kaal (roughly one and a half hours after sunset), light a clay lamp outside the main entrance facing **south** — the direction of Yama. This is the Yama Deepam; it must always remain outside, never inside the home. Recite the Yama Deepam mantra. This protects the family from untimely death.
 - **Evening — Lakshmi Puja:** Light lamps inside the house; perform puja of Lakshmi and Ganesha in the prayer room; offer incense, a lamp, and naivedya.
 - **Deepadan:** Light lamps in every corner of the house, at the tulsi platform, and at the main entrance — let the whole home blaze with light.
-- **2026 date:** TODO-VERIFY (Kartik Krishna Trayodashi)
 
 ## Mantras
 

@@ -61,7 +61,6 @@ Alongside shraddha and tarpan, observing this Ekadashi is another path to repayi
 - **Donation for ancestors:** feed brahmins and donate sesame-lamp in the name of one's ancestors — especially meritorious on this day.
 - **Night vigil:** remain awake performing hari-kirtana through the night.
 - **Breaking the fast:** parana on Dwadashi morning, before Rahu Kaal.
-- **2026 date:** Confirm on DrikPanchang (Ashwin Krishna Ekadashi — ~October 6, 2026)
 
 ## Mantras
 

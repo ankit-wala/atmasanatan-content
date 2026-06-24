@@ -42,7 +42,6 @@ In Rajasthani culture, Gangaur holds a place of reverence equal to Durga Puja. T
 - **Daily idol worship:** Each morning, fashion fresh clay idols of Isar and Gauri from potter's clay or black earth; adorn them with colorful clothes, ornaments, and full bridal decoration; offer fresh flowers, dub grass, sindoor, mehndi, suhaag offerings, and a water-filled kalash.
 - **Songs and sixteen adornments:** Sing Gangaur folk songs during worship — filled with Gauri and Isar's love, memories of the pihara, and the mood of the farewell — this is considered an inseparable part of the puja; women also dress themselves in the full sixteen adornments and wear yellow and red clothes.
 - **Jal-yatra (Tritiya):** On Chaitra Shukla Tritiya, lift the idols of Gauri and Isar onto the head; carry them in procession to a river, pond, or well for immersion — this is the symbolic moment of Mata Gauri's farewell from her pihara and return to Kailash.
-- **2026 date:** TODO-VERIFY (Chaitra Shukla Tritiya)
 
 ## Mantras
 

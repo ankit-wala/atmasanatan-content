@@ -89,7 +89,6 @@ The fair held at Ramdevra from Bhadrapada Shukla Dvitiya to Dashami is one of Ra
 - **Seva:** Give food, clothing, or money to the marginalised, the poor, and those in need — this is the most direct form of Ramdevji's seva and the essence of his teaching.
 - **Evening aarti:** Perform the aarti and distribute prasad.
 - **Pilgrimage (optional):** Those who can travel to Ramdevra should make the pilgrimage — devotees often go on foot, covering hundreds of kilometres; the journey itself is a tapasya.
-- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Dvitiya)
 
 ## Mantras
 

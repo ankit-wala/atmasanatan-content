@@ -49,7 +49,6 @@ This Ekadashi is especially for those weighed down by heavy sins — the scriptu
 - **Vigil:** Keep vigil through the night — this is the special requirement of Kamika Ekadashi.
 - **Breaking the fast (Parana):** On Dvadashi, break the fast after sunrise within the Dvadashi tithi; begin with tulsi-water.
 - **Note:** Shravan brings four Mondays, four Tuesdays — and this Ekadashi; all three together complete the devotional architecture of Shravan.
-- **2026 date:** TODO-VERIFY (Shravan Krishna Ekadashi)
 
 ## Mantras
 

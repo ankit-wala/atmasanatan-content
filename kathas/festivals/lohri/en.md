@@ -52,7 +52,6 @@ Lohri is celebrated on the eve of Makar Sankranti — the night when the sun is 
 - **Prasād:** After fire worship, distribute rewri, gajak, peanuts, and sesame-jaggery laddus as prasād among everyone present.
 - **Community:** Lohri is a communal celebration — invite neighbours, friends, and relatives to gather around the same bonfire.
 - **The next day:** The day after Lohri is Makar Sankranti — observe the tradition of sesame-donation and holy bathing.
-- **2026 date:** 13 January 2026 (eve of Makar Sankranti)
 
 ---
 

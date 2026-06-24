@@ -119,7 +119,6 @@ This is why across India, on this night, people stay indoors, close windows towa
 - **Protecting against moon-sighting:** From the evening of Bhadrapada Shukla Chaturthi, avoid going outdoors where the open sky is visible; close windows and doors on the side where the moon rises.
 - **Best protection:** Worship Ganesha and hear this Syamantaka katha — this is the most effective safeguard against the curse.
 - **If you accidentally see the moon:** Recite the Syamantaka shloka (given below) three times; then listen to or read the full Syamantaka katha — this is the remedy Narada gave to Krishna himself.
-- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Chaturthi)
 
 ## Mantras
 

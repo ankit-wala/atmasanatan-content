@@ -87,7 +87,6 @@ In shraddha, food is set aside for all three. Tradition holds that ancestors com
 - **Crow feeding daily:** Throughout Pitru Paksha, before the family eats each day, set aside a portion for the crow — tradition holds that ancestors come in the crow's form to accept it.
 - **Diet during Pitru Paksha:** Meat, liquor, tamasic food, garlic, and onion are forbidden; eat sattvic food — dal, rice, khichdi, sesame-based preparations.
 - **Restrictions:** Auspicious events — marriage, griha-pravesh, new ventures — are avoided for the entire sixteen-day period.
-- **2026 date:** TODO-VERIFY (Ashwin Krishna Amavasya — Mahalaya Amavasya)
 
 ## Mantras
 

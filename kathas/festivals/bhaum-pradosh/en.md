@@ -44,7 +44,6 @@ The adverse influence of Mangal in the birth chart — Manglik dosha — is also
 - **Charity:** Donating red lentils or red garments is considered auspicious for relief from Mangal affliction.
 - **Sankalpa:** If observing the vrat for freedom from debt or removal of enemies, take a sankalpa for a fixed number of observances.
 - **Breaking the fast:** Paran on Wednesday morning after sunrise, with remembrance of Shiva.
-- **2026 dates:** Confirm on DrikPanchang.
 
 ## Mantras
 

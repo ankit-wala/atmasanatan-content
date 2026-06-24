@@ -55,7 +55,6 @@ This vrat is observed primarily by women — as expiation for unknowing transgre
 - **Katha:** Hear the Rishi Panchami vrat katha — an essential part of the observance; perform evening aarti again.
 - **Food:** Take only permitted food — fruits, tubers, singhara (water chestnut), sabudana, milk, curd; wheat, rice, and all field-cultivated grains are forbidden.
 - **For whom:** Observed primarily by women as expiation for unknowing transgressions during menstruation; men too may observe it for the welfare of their wives.
-- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Panchami)
 
 ## Mantras
 

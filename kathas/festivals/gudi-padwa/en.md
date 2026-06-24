@@ -41,7 +41,6 @@ The neem-jaggery prasad of this festival reveals a deep philosophical vision. Ne
 - **Panchang recitation:** Listen to the panchang on the first day of the new year to learn the coming year's seasons, tithis, and auspicious muhurtas — a remembrance of Brahma's establishment of the reckoning of time.
 - **Neem-jaggery prasad:** Receive the prasad made from tender neem shoots, jaggery, tamarind, cumin, and salt — a symbol of accepting life's bitter and sweet experiences with equanimity.
 - **At dusk:** Lower the Gudi and place it respectfully inside the home.
-- **2026 date:** TODO-VERIFY (Chaitra Shukla Pratipada)
 
 ---
 

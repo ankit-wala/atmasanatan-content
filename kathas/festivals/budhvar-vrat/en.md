@@ -66,7 +66,6 @@ Budh's colour is green. Green is the symbol of freshness, balance, and intellect
 - **Duration:** Begin on any Wednesday; traditions of 21 or 27 consecutive Wednesdays exist according to sankalpa.
 - **Breaking the fast:** Thursday morning after sunrise, offering thanks to Budh Dev.
 - **Note:** Speaking falsehood, speaking ill of others, or verbal disputes are to be avoided — it is the day of the deity of speech.
-- **2026 date:** Confirm on DrikPanchang (every Wednesday)
 
 ## Mantras
 

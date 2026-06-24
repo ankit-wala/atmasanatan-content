@@ -93,7 +93,6 @@ In the tradition of the Valmiki Ramayana it is said — devotees who hear or rec
 - **Fasting:** No strict fast is required; devotees who observe ekasana (one meal) out of devotion receive special merit.
 - **Special:** Light a lamp near the tulsi plant; read from the Ramayana; chant the name of Ram. Avoid quarrels — this is a day of union and love. Newly married couples should worship Ram and Sita and seek their blessings.
 - **Special places:** Janakpur (Nepal) and Ayodhya hold grand multi-day wedding celebrations — consider visiting or following the live events.
-- **2026 date:** TODO-VERIFY (Margashirsha Shukla Panchami)
 
 ## Mantras
 

@@ -101,7 +101,6 @@ Parashurama is one of the seven chiranjivis — he still resides on Mount Mahend
 - **Akshaya Tritiya acts:** This tithi is self-proven — begin new undertakings, purchase gold and silver, perform pitru-tarpana; no separate muhurta is needed for any auspicious work.
 - **Charity:** Give gifts of food, scripture, a water-pot, sandalwood to brahmanas and scholars — charity given on this akshaya tithi yields imperishable fruit.
 - **Special:** Sadhus, soldiers, or those who follow kshatradharma should perform puja of their weapons on this day.
-- **2026 date:** TODO-VERIFY (Vaishakha Shukla Tritiya)
 
 ## Mantras
 

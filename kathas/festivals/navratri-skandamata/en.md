@@ -86,7 +86,6 @@ The colour of the fifth day is green — a symbol of nature, life, and new begin
 - **Fasting:** Devotees observing the nine-day fast should remain without food or on a fruit diet; a single sattvik meal — kuttu, sabudana, or fruit — may be taken.
 - **Special devotion:** Worship on this day is especially fruitful for the blessing of children and the welfare of the family; meditate while beholding the image of the Goddess with infant Skanda in her arms.
 - **Conclude:** Perform aarti and distribute prasad.
-- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Panchami — ~15 October 2026).
 
 ## Mantras
 

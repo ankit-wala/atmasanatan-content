@@ -101,7 +101,6 @@ The Vālmīki Rāmāyaṇa is not merely a story — it is a mirror of Rāma's c
 - **Bhajan-Kīrtana:** Hold programmes of Rāma-bhajans and Vālmīki-stutis; sing kīrtana on the story of how 'Mara Mara' became 'Rāma Rāma.'
 - **Śobhāyātrā:** In Vālmīki communities, a decorated image of Vālmīki is placed on a chariot and a procession moves through the streets with chants of "Jai Vālmīki" and "Jai Śrī Rāma."
 - **Dāna:** Donate books — especially the Rāmāyaṇa or other scriptures; offer food to the poor.
-- **2026 date:** TODO-VERIFY (Āśvina Śukla Pūrṇimā / Śarad Pūrṇimā)
 
 ## Mantras
 

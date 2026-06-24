@@ -93,7 +93,6 @@ On Rakshabandhan, a sister ties a rakhi on her brother — the brother pledges t
 - **Yamuna bath:** In Mathura, Vrindavan, and places along the Yamuna, bathing in the river holds special significance; those not on the Yamuna's banks may bathe at home using Yamuna water.
 - **Yama tarpan (optional):** In some traditions Yamaraj is remembered and tarpan is offered.
 - **Special:** This day is the final day of the five-day Diwali festival (Dhanteras → Narak Chaturdashi → Diwali → Govardhan Puja → Bhai Dooj) — the formal conclusion of the celebrations.
-- **2026 date:** TODO-VERIFY (Kartik Shukla Dvitiya)
 
 ## Mantras
 

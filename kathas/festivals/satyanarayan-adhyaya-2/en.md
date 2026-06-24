@@ -99,7 +99,6 @@ The katha also teaches that honouring prasad is itself an act of devotion. Whoev
 - **Aarti:** Perform the Lord's aarti after the katha.
 - **Prasad:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana); give prasad to every person present — no one should leave without it; leaving or refusing prasad is inauspicious.
 - **Paran:** Break the fast after receiving prasad.
-- **2026 Date:** TODO-VERIFY — confirmation on DrikPanchang required.
 
 ## Mantras
 

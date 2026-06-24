@@ -61,7 +61,6 @@ The bath at the Triveni Sangam of Ganga, Yamuna, and Saraswati on Mauni Amavasya
 - **Dana:** Give sesame, blankets, grain, and clothing to brahmanas and those in need — dana given during Magh is especially meritorious.
 - **Conduct:** Avoid anger, speaking ill of others, untruth, and argument — mauna means not only silence of speech but also peace of mind; the auspicious window runs from sunrise to sunset.
 - **Special merit:** Bathing at Prayagraj (Triveni Sangam), Haridwar, Kashi, or Nashik on this day carries the highest merit — this is the Amrit Snan of the Kumbh and Magh Mela.
-- **2026 date:** TODO-VERIFY (Magh Amavasya)
 
 ## Mantras
 

@@ -80,7 +80,6 @@ The colour of Saptami is **royal blue** or **black** — in some traditions, dee
 - **Fasting:** Continue the Navratri fast on Saptami — fruit diet or a single meal. Those who cannot fast all nine days should observe a special fast on this day.
 - **Colour:** Saptami colour is **blue** (deep blue / royal blue) — symbol of the infinite sky and divine power; **black** is also accepted in some traditions.
 - **At night:** Ratri-jagaran — worship of Kalaratri is especially fruitful after dark; sing bhajans and kirtans and continue recitation of the Durga Saptashati.
-- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Saptami — ~17 October 2026).
 
 ## Mantras
 

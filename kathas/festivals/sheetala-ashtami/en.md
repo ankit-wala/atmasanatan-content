@@ -42,7 +42,6 @@ In religious terms, Sheetala Mata is a compassionate mother, not a wrathful godd
 - **Puja:** Perform abhishek on Mata's image with cold water; offer sindhur, akshat, flowers, and the basi bhojan; place neem leaves at her feet; light incense and a lamp.
 - **Neem:** Offering neem leaves is essential — neem is Sheetala Mata's sacred tree; tie a neem branch above the doorway for protection against disease; taking a little neem juice or a few tender neem leaves after puja is also traditional.
 - **Prasad:** After puja, the basi bhojan is distributed as prasad and everyone in the household eats only this food through the day.
-- **2026 date:** TODO-VERIFY (Chaitra Krishna Ashtami)
 
 ## Mantras
 

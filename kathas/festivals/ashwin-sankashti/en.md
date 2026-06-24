@@ -69,7 +69,6 @@ Sankashti = the one who removes obstacles. The Krishna paksha Chaturthi is Ganes
 - **Evening puja:** Install the image or picture of Ganesha; offer modak, durva (21 or 28 blades), and red flowers; light a lamp; chant OM Gam Ganapataye Namah; meditate on Ekadanta Ganesha — unmoved, serene, single-pointed; perform Ganesha aarti.
 - **At moonrise:** Offer naivedya and modak to Ganesha; offer arghya of water to the moon; receive prasad and break the fast.
 - **Special spirit:** Amidst the celebrations of Navaratri and Dashehra, this vrata is an occasion to examine the inner ego — the resolve to maintain inner humility alongside outward victory.
-- **2026 date:** TODO-VERIFY (Ashwin Krishna Chaturthi)
 
 ## Mantras
 

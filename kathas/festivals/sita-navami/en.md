@@ -80,7 +80,6 @@ Observing the vrat of Sita Navami in the month of Vaishakha brings the special b
 - **Abhisheka and naivedya:** Perform abhisheka of Sita-Rama with panchamrita (milk, curd, ghee, honey, sugar); place kheer, mishri, and seasonal fruit as naivedya.
 - **Katha-path:** Recite the Janaka-Sita birth-katha — the episode of Janaka's plowing in the Bala Kanda of the Valmiki Ramayana; gather the family to hear it together.
 - **Fasting:** Fast on fruit; many devotees observe nirjala vrat; break the fast (parana) after sunrise on the Dashami tithi.
-- **2026 date:** TODO-VERIFY (Vaishakha Shukla Navami)
 
 ## Mantras
 

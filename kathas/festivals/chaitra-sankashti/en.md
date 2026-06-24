@@ -71,7 +71,6 @@ The Hindu New Year begins with Chaitra Shukla Pratipada. In that same Chaitra â€
 - **Matsara-mukti practice:** After puja, bring to mind someone whose success has caused comparison or contraction in your mind â€” send them sincere good wishes from the heart; throughout the day, whenever a comparative thought arises chant "OM Gam Ganapataye Namah" and kindle goodwill. This is the living form of Vakratunda's worship.
 - **Katha:** Read the Chaitra Sankashti katha.
 - **Moonrise:** The vrata is complete only after sighting the moon; offer arghya to the moon and then observe parana.
-- **2026 date:** TODO-VERIFY (Chaitra Krishna Chaturthi)
 
 ## Mantras
 

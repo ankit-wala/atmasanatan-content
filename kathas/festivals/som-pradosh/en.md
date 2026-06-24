@@ -46,7 +46,6 @@ For those whose Chandra is afflicted in the birth chart, or who have an unsettle
 - **Mantras:** Along with *Oṃ Namaḥ Śivāya*, recite the Mahamrityunjaya Mantra; if possible, worship while remembering the Somnath Jyotirlinga.
 - **Special:** Light a lamp during the Monday evening puja as the symbol of Chandra's light.
 - **Breaking the fast:** On Chaturdashi (Tuesday) after sunrise, with remembrance of Shiva.
-- **2026 date:** TODO-VERIFY (Som-Pradosh — Trayodashi falling on Monday)
 
 ## Mantras
 

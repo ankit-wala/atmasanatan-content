@@ -97,7 +97,6 @@ In South India this is celebrated as a Shadai (six-day) fast and Soorasamharam. 
 - **Dhyana:** Chant *Oṃ Śaravaṇabhava namaḥ* 108 times each day during the six-day period.
 - **Kavadi (South India):** Carry the kavadi — a semicircular bamboo frame — on the shoulders and undertake a foot pilgrimage to a Murugan temple.
 - **On Shashthi (Soorasamharam):** Special celebration — remember the lila of the slaying of Surapadman; in South India, witness the dramatic temple enactment; in North India, worship a Shadanana (six-faced) image and perform abhisheka of the vel; break the fast after the evening puja and aarti.
-- **2026 date:** TODO-VERIFY (Kartik Shukla Shashthi — approx. October/November 2026)
 
 ## Mantras
 

@@ -84,7 +84,6 @@ This Ekadashi is also called "Vamana Ekadashi" because the Vamana-Bali katha is 
 - **During the day:** Hear the Parivartini Ekadashi katha — the story of Vamana and Bali.
 - **At night:** Keep vigil through the night singing kirtan of the Lord's names — night vigil on this Ekadashi is especially meritorious.
 - **Breaking the fast:** On Dwadashi morning, before Rahu-kaal.
-- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Ekadashi)
 
 ## Mantras
 

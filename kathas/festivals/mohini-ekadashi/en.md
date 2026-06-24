@@ -48,7 +48,6 @@ The month of Vaishakh is itself considered sacred — in this month, service to 
 - **Night vigil:** Stay awake through the night repeating Hari's name, singing bhajans and kirtan, or reciting the Ekadashi mahatmya — night vigil is an especially vital part of this vrat.
 - **Conduct:** Avoid speaking falsehood, anger, and speaking ill of others throughout the vrat.
 - **Parana (Dwadashi):** After sunrise, within the Dwadashi tithi, break the fast while remembering Hari; take tulsi leaves at parana; offer a meal and dakshina to a Brahmin to complete the sankalpa.
-- **2026 date:** TODO-VERIFY (Vaishakh Shukla Ekadashi)
 
 ## Mantras
 

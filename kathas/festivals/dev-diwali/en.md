@@ -107,7 +107,6 @@ The Shiva Purana tradition holds that one who bathes in the Ganga and performs l
 - **Charity:** Give food, clothing, and til-gur in charity according to one's means; distribute prasad among neighbours and the poor.
 - **Completion of Kartik Snana Vrat:** For those who have bathed daily in a sacred river throughout the month of Kartik, this Purnima concludes that vrat; the lamp offering on the night of the full moon completes the vow.
 - **What to avoid:** Do not consume meat or intoxicants on this night.
-- **2026 date:** TODO-VERIFY (Kartik Shukla Purnima — fifteen days after Diwali)
 
 ## Mantras
 

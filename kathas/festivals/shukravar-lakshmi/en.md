@@ -85,7 +85,6 @@ This vrat is also a celebration of the Grihalakshmi — the woman of the house. 
 - **Fasting:** No food all day, or fruit only; avoid salty and tamasic food; break the fast after the evening puja.
 - **Colour of worship:** Red throughout — flowers, chunari, sindoor — the colour of Lakshmi's energy.
 - **Udyapan:** On the seventh Friday, feed seven married women a meal; offer red chunari, sindoor, and haldi-kumkum as prasad.
-- **2026 date:** This is a weekly vrat — it may be begun on any Friday (shukla paksha Friday preferred).
 
 ## Mantras
 

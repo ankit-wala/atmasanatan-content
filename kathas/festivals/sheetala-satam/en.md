@@ -65,7 +65,6 @@ This festival is observed primarily in Gujarat on Bhadrapada Krishna Saptami. In
 - **At dawn:** Bathe (some traditions prescribe neem-infused water); take the vow to observe Mother Sheetala's worship.
 - **Puja:** Pour cold water over the idol or image of Mother Sheetala; offer fresh neem leaves and a neem branch; place the cold offering — day-old food, curd, buttermilk, sweet kheer; perform worship with turmeric, roli, and flowers.
 - **Cold food:** Eat only cold, day-old food throughout the day — this is not merely tradition but the symbol of the mother's prayer for her children's protection; curd, buttermilk, neem leaves are Mother's preferred offerings.
-- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Saptami — approximately September 3–4, 2026)
 
 ## Mantras
 

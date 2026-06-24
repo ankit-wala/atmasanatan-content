@@ -69,7 +69,6 @@ This story also teaches that not a single moment of merit is ever destroyed. The
 - **Evening puja:** Perform Vishnu puja again; offer food or clothing to the poor — feeding the hungry on this day yields exceptional merit.
 - **At night:** Keep vigil with Hari kirtan, bhajans, and recitation of Vishnu Sahasranama.
 - **Breaking the fast:** On Dwadashi morning, before Rahu Kala — break the fast with tulsi water, fruit, and light sattvic food.
-- **2026 date:** TODO-VERIFY (Ashwin Shukla Ekadashi)
 
 ## Mantras
 

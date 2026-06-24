@@ -52,7 +52,6 @@ This sacred night also carries the tradition of the marriage of Shiva and Parvat
 - **Bilva/bel leaves:** Offer three-leaved, unbroken bel leaves with the smooth surface facing upward; silently repeat *Om Namah Shivaya* with each leaf; datura, bhang, white flowers, sandalwood, and raw milk are also dear to Shiva.
 - **Night vigil:** Staying awake through the entire night is the life-force of this vrat — whether through Shiva-nama, stotra recitation, silent meditation, or listening to the Shiva Purana; do not let sleep come.
 - **Breaking the fast:** The next day, on amavasya or pratipada, offer food to a Brahmin first, then take your own meal; sattvic food is appropriate.
-- **2026 date:** TODO-VERIFY (Phalguna Krishna Chaturdashi)
 
 ---
 

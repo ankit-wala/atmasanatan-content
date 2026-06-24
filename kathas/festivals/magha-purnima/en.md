@@ -51,7 +51,6 @@ This tithi is also the founding date of the Raghuvamsha — the root of the dyna
 - **Katha shravan:** Recite or listen to the Satyanarayan Katha (fourth adhyaya) — it holds special significance on Magha Purnima.
 - **Kalpavasi:** Those who have remained at the Prayagraj Sangam throughout the month of Magha complete their Kalpavasa on this very Purnima.
 - **Throughout the day:** Speak truthfully, avoid anger, and observe restraint of the senses; in the evening, light a lamp and perform the aarti of Lord Vishnu.
-- **2026 date:** TODO-VERIFY (Magha Purnima)
 
 ## Mantras
 

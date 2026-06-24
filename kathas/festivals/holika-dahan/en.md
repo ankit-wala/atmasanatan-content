@@ -43,7 +43,6 @@ Prahlada's character also teaches that true devotion is not obstructed by age, b
 - **Pradakshina:** The pandit or family elder kindles the fire; all present perform seven circumambulations (three if seven are not possible); with each pradakshina, pour a stream of water toward the fire while keeping Narayana's name in the mind; offer new grain stalks to the fire as an act of gratitude.
 - **Bhajan-kirtan:** Sit around the fire singing bhajans of Lord Narasimha and Prahlada; spend the night in jagaran with "Jai Narasimha" and "Prahlada ki Jai" — this is worship, not merely celebration.
 - **Dhulendi (next morning):** Apply the cooled bhasm of Holika as a tilak on the forehead as bhasm-prasad; then play with colours — setting aside anger and enmity, embracing everyone.
-- **2026 date:** TODO-VERIFY (Phalguna Shukla Purnima)
 
 ## Mantras
 

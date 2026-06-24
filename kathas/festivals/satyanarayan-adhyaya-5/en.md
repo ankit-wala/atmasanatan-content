@@ -90,7 +90,6 @@ The fifth adhyaya is the key that closes all five doors of the Satyanarayan Kath
 - **Prasad:** Suji halwa is the traditional prasad — roast semolina in ghee until golden, add sugar syrup, stir in pieces of banana; distribute to every person present without exception; do not defer or hesitate; neglect of prasad was the root of calamity in the third and fourth adhyayas.
 - **Special:** Once the puja begins, do not leave the home until after prasad has been distributed — the lesson of Kalavati's story in the fourth adhyaya.
 - **Paran:** Receive the prasad and conclude the vrat.
-- **2026 date:** TODO-VERIFY — confirmation on DrikPanchang is required.
 
 ## Mantras
 

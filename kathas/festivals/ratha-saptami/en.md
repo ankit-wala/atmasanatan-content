@@ -45,7 +45,6 @@ Suryadev is the lord of health, longevity, and radiance. Worship performed on th
 - **Donation:** Donate sesame, jaggery, and cloth to a brahmin.
 - **Breaking the fast:** Parana after sunset.
 - **Special:** Recitation of the Aditya Hridayam on this day is held to be especially fruitful.
-- **2026 date:** TODO-VERIFY (Magha Shukla Saptami)
 
 ## Mantras
 

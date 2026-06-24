@@ -44,7 +44,6 @@ From a social perspective, Pola is the **midpoint of the agricultural calendar**
 - **Clay Pola:** Children purchase and worship clay bullocks — connecting the next generation to the festival's spirit.
 - **Shared meal:** Puran poli, karanji, and jaggery-rice are prepared; field labourers and neighbours are invited to share the meal.
 - **Fasting:** Pola is principally a festival of worship, not strict fasting; some devotees observing Shiva-Nandi bhakti keep ekāhāra (eating only once).
-- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Paksha Amavasya)
 
 ## Mantras
 

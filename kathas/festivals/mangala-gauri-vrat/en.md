@@ -63,7 +63,6 @@ This vrat is especially meant for newly-wed women — but every married woman ma
 - **Shringar offerings:** Also offer sindoor, bangles, and bindi.
 - **Katha and aarti:** Listen to or read the Mangala Gauri Katha; then perform the aarti.
 - **Fasting:** Observe the fast — one sattvic meal; break the fast after the evening puja, or the following morning.
-- **2026 date:** TODO-VERIFY (Shravan Tuesdays — approx. August 4, 11, 18, 25)
 
 ## Mantras
 

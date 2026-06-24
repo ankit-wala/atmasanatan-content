@@ -44,7 +44,6 @@ The month of Vaishakh is itself supremely sacred — it is Lord Vishnu's beloved
 - **Puja:** Light a ghee lamp before an image, shaligram, or picture of Lord Vishnu; offer tulasi leaves, yellow flowers, sandal paste, incense, and naivedya; perform shodashopachara worship chanting "Om Namo Bhagavate Vasudevaya"; read or listen to the Varuthini Ekadashi katha; in the evening worship the Lord again and recite Vishnu Sahasranama.
 - **Night-vigil:** Spend the entire night in bhajans, kirtan, japa of Vishnu's name, or recitation of the Ekadashi Mahatmya — the vigil multiplies the fruit of the vrat many times over.
 - **Parana (Dvadashi):** Perform parana after sunrise and before the Dvadashi tithi ends; begin by taking tulasi leaves and water; offer food and dakshina to a Brahmin to complete the vrat sankalpa; at the time of parana offer this prayer: "O Madhusudana, this vrat is now complete — destroy all my sins and sorrows."
-- **2026 date:** TODO-VERIFY (Vaishakh Krishna Ekadashi).
 
 ## Mantras
 

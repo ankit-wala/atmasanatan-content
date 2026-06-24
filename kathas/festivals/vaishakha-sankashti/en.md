@@ -71,7 +71,6 @@ In the tradition of the Ganesha Purana, it is said that by hearing this katha of
 - **Katha:** Hear the katha of Ekadanta Ganesha during puja.
 - **Evening:** Await moonrise; check the moonrise time for the tithi on DrikPanchang — that is the parana time.
 - **Parana:** Upon sighting the moon, offer arghya with water in Ganesha's name; then break the fast with food.
-- **2026 date:** TODO-VERIFY (Vaishakha Krishna Chaturthi)
 
 ## Mantras
 

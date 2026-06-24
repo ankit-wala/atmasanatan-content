@@ -44,7 +44,6 @@ The scriptures note that Pausha Putrada and Shravana Putrada are two distinct Ek
 - **For whom:** Couples longing for a child should worship together and make their sankalpa before the Lord with sincere hearts; offer tulasi leaves always — tulasi is especially dear to Lord Vishnu.
 - **At night:** Keep vigil through the night — sing the Lord's name or read scripture; staying awake until midnight also earns great merit.
 - **Breaking the fast:** After sunrise on Dwadashi, before midday — take tulasi water and the Lord's prasad first, then break the fast; offer a meal and donation to a Brahmin or someone in need.
-- **2026 date:** TODO-VERIFY (Pausha Shukla Ekadashi)
 
 ## Mantras
 

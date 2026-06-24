@@ -71,7 +71,6 @@ Among the twenty-four ekadashis, this is the only one whose merit can be offered
 - **Sankalpa for ancestors:** At dusk, while offering water (tarpan), make the sankalpa — *"I dedicate the merit of the Mokshada Ekadashi vrat to the liberation of my ancestors"*; if regular shraddha has not been performed, this is a special opportunity to offer merit in the name of one's forebears.
 - **Night vigil:** Spend the night in bhajan-kirtan or listening to the Gita.
 - **Parana (Dwadashi):** Perform parana after sunrise and within the Dwadashi tithi — consult DrikPanchang for the parana muhurta; parana before sunrise or after the Dwadashi tithi ends breaks the vrat; before parana, offer a meal to a brahmin or someone in need.
-- **2026 date:** TODO-VERIFY (Margashirsha Shukla Ekadashi)
 
 ## Mantras
 

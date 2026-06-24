@@ -42,7 +42,6 @@ For those going through Shani's Sade-Sati or Dhaiya, those in the Mahadasha of S
 - **Peepal:** Offer water to a peepal tree and remember Shani Dev — this is also auspicious on Shani-Pradosh.
 - **Paran:** Break the fast on Sunday morning after sunrise, with remembrance of Shiva.
 - **Donation:** Give black sesame, black garments, and mustard oil — donating Shani-associated materials on this day is especially meritorious.
-- **2026 date:** TODO-VERIFY (Shani-Pradosh — Saturday Trayodashi)
 
 ## Mantras
 

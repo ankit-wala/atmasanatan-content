@@ -56,7 +56,6 @@ This is Lakshmi's nature — she seeks out her devotees herself.
 - **Puja:** Perform the shodashopachara puja with kumkum, turmeric, flowers, fruits, and naivedyam; in the South Indian regional tradition, tie a nine-thread sacred cord (thoranam/kankana) on the right wrist.
 - **Katha:** Listen to or read the Varalakshmi Vrat katha.
 - **Communal worship:** This vrat has a tradition of gathering neighborhood women for the puja together — just as Charumati did; distribute prasad among family and neighbors.
-- **2026 date:** Confirm on DrikPanchang — the Friday before Shravan Purnima (~August 21, 2026).
 
 ## Mantras
 

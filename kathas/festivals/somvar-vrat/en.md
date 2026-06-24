@@ -65,7 +65,6 @@ The Monday fast is not tied to any particular month. It can be begun on any Mond
 - **Fasting:** Complete fast or ekahara (one meal a day); abstaining from grains and taking fruit once is also observed. In some regions, giving up salt is traditional.
 - **Evening puja:** Performing Shiva puja during Pradosha Kala (approximately ninety minutes after sunset) is especially fruitful. When Monday and Pradosha coincide, it is called *Som-Pradosha* — the most auspicious Monday of the year.
 - **Breaking the fast:** On Tuesday morning after sunrise, with Shiva's name on one's lips.
-- **2026 date:** TODO-VERIFY (any Monday; Shravan Mondays especially auspicious)
 
 ## Mantras
 

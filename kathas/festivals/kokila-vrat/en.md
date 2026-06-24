@@ -65,7 +65,6 @@ Ashadha Purnima — the tithi on which Shiva and Parvati were reunited — is a 
 - **Katha-śravaṇa:** In the evening, listen to or read the Kokila Vrat katha — this is considered essential; the vrat is not complete without it.
 - **Special:** If the cuckoo's voice is heard on the day of the vrat, receive it as auspicious — it is the blessing of Parvati.
 - **Breaking the fast:** Break the fast after the Purnima night pūjā, or early the next morning; before pāraṇa, bow to Shiva and Parvati and offer dāna-dakṣiṇā.
-- **2026 date:** TODO-VERIFY (Ashadha Purnima)
 
 ## Mantras
 

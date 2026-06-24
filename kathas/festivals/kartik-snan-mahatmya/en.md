@@ -85,7 +85,6 @@ On Kartika Shukla Ekadashi or Dvadashi, Tulasi Vivaha takes place — the symbol
 - **Month-long continuity:** This is a month-long vrata — if one day is missed, take the sankalpa again and resume without discouragement.
 - **Devuthani Ekadashi:** On Kartika Shukla Ekadashi, Bhagavan Vishnu awakens from chaturmas sleep; the fast and night-vigil on that day complete the Kartika Snan vrata.
 - **Conclusion:** The vrata concludes on Kartika Purnima (Dev-Diwali) — by dipadan in the river and hosting a feast for brahmanas.
-- **2026 date:** TODO-VERIFY (Kartika month: Kartika Krishna Pratipad to Kartika Purnima)
 
 ## Mantras
 

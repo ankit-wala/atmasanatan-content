@@ -50,7 +50,6 @@ This festival is the very identity of Bihar, Jharkhand, and eastern Uttar Prades
 - **Fasting:** The main fast runs approximately 36 hours (Kharna evening to Usha Arghya) without water; standing waist-deep in water at both arghya timings is the most essential requirement.
 - **For whom:** Women primarily observe this vrat but men may also do so; it is observed especially for the long life and health of one's children; once begun it must be observed every year — a prescribed ritual exists for those who need to discontinue it.
 - **Purity:** Maintain purity throughout; wear new or freshly washed clothes; the offerings in the bamboo basket must not be touched by anyone else.
-- **2026 date:** TODO-VERIFY (Kartik Shukla Shashthi)
 
 ## Mantras
 

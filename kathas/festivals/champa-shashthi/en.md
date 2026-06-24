@@ -41,7 +41,6 @@ The final surrender of Mani and Malla is the deepest spiritual lesson of this ka
 - **Breaking the fast:** Devotees observing the vrat may break their fast after accepting prasad following the Shashthi puja.
 - **At Jejuri:** Carry packets of turmeric to the Khandoba temple — releasing bhandardara at the temple is the hallmark of this festival; Jejuri (near Pune) is his principal abode.
 - **Note:** This is primarily a regional festival of Maharashtra, celebrated with particular fervour in Pune, Solapur, Nashik, and Kolhapur districts.
-- **2026 date:** TODO-VERIFY (Margashirsha Shukla Shashthi)
 
 ## Mantras
 

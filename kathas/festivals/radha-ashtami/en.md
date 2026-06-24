@@ -93,7 +93,6 @@ Janmashtami falls on Bhadrapada Krishna Ashtami. Radha Ashtami is Bhadrapada Shu
 - **Radha-Krishna together:** Worship of Radha ji is not complete alone — it is fulfilled only alongside Krishna; offer tulasi, bel-patra, makhan-mishri (butter and sugar), and pedas.
 - **Kirtan:** Chanting and kirtan of "Radhe Radhe" is the central devotion; recite the Radha Sahasranama or Radha-stuti; sing Radha padavalis of Vrindavan.
 - **Special:** Radha Ashtami is observed with special grandeur in Barsana — darshan, magnificent puja, and raas-leela.
-- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Ashtami)
 
 ## Mantras
 

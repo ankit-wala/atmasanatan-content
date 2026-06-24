@@ -49,7 +49,6 @@ A deep message lies hidden in Lalita's story — that love and duty are not oppo
 - **Evening puja:** Worship again; recite Vishnu Sahasranama or sing Hari kirtan.
 - **Night vigil:** Remain awake through the night in bhajan, kirtan, naam-japa, or recitation of the Ekadashi mahatmya — the vigil multiplies the merit of the vrat manifold.
 - **Breaking the fast (Dvadashi):** Perform parana after sunrise, within the Dvadashi tithi; take tulasi leaves at parana; if keeping the vrat for a particular wish, offer that wish to the Lord at the time of parana; feed a Brahmin and offer dakshina to complete the vrat sankalpa.
-- **2026 date:** TODO-VERIFY (Chaitra Shukla Ekadashi).
 
 ## Mantras
 

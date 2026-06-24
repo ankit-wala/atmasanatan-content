@@ -67,7 +67,6 @@ Astika's katha teaches something more — compassion and forgiveness prevail. Wh
 - **Temple/burrow:** Offer milk at a serpent's burrow or at a naga temple; chant the naga mantra.
 - **Fasting:** Not obligatory — but some devotees observe a one-meal sattvic fast.
 - **Restrictions:** Do not harm serpents in any form; do not dig the earth (mark of respect for the naga's dwelling); in some regional traditions, avoid working with needles and thread.
-- **2026 date:** Confirm on DrikPanchang (~August 17, 2026, Shravan Shukla Panchami).
 
 ## Mantras
 

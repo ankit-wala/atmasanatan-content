@@ -109,7 +109,6 @@ Parashurama Jayanti and Akshaya Tritiya fall on the same tithi — Vaishakha Shu
 - **Giving:** Give to brahmins according to your means — anna-dana and shastra-dana are especially meritorious.
 - **Special (Akshaya Tritiya):** This tithi is also Akshaya Tritiya — dana, japa, and puja performed on this day bring akshaya (imperishable) fruit; purchasing gold, beginning new undertakings, and pitru-tarpana are also among the special observances.
 - **Evening puja:** Perform aarti again at dusk.
-- **2026 date:** TODO-VERIFY (Vaishakha Shukla Tritiya)
 
 ## Mantras
 

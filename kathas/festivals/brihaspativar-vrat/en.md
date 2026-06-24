@@ -66,7 +66,6 @@ Yellow is Brihaspati's colour — the light of knowledge, the richness of gold. 
 - **Prasad and charity:** Distribute chana dal, jaggery, and banana as prasad; donate bananas to a brahmin, at the temple, or to someone in need — considered highly meritorious; yellow foods (turmeric-tinted rice, besan halwa) hold special importance.
 - **What to avoid:** Do not wash or cut hair on this day.
 - **Breaking the fast:** Paran on Friday morning after sunrise, with gratitude to Brihaspati Dev and Vishnu.
-- **2026 dates:** Confirm on DrikPanchang.
 
 ## Mantras
 

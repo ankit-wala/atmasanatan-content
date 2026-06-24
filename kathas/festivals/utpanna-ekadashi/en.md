@@ -89,7 +89,6 @@ The katha of Ekadashi Devi also reveals that the Lord's power already dwells wit
 - **Puja:** Establish an image or picture of Lord Vishnu; worship with tulasi, yellow flowers, incense, a lamp, and panchamrita; recite the Vishnu Sahasranama.
 - **Overnight vigil:** Night-long waking holds special importance on this Ekadashi — spend the night chanting "Hari Hari," singing bhajans, and doing kirtan.
 - **Parana (breaking the fast):** Break the fast on Dwadashi morning, after sunrise and before the Dwadashi tithi ends, with simple sattvic food.
-- **2026 date:** TODO-VERIFY (Margashirsha Krishna Ekadashi)
 
 ## Mantras
 

@@ -71,7 +71,6 @@ Aditi's Payovrata is proof of this truth: when a mother meditates on the divine 
 - **Fasting:** Those who fasted on Parivartini Ekadashi (Bhadrapada Shukla Ekadashi) complete the fast with paran on this Dwadashi morning at the correct time.
 - **Janmotsava:** Vamana Jayanti is a birth celebration — katha recitation, bhajan-kirtan, Bhagavata Purana reading; night kirtan with chanting of Lord Vamana's names.
 - **Special:** In Kerala, the ten-day Onam Mahotsava reaches its climax on this day.
-- **2026 date:** Confirm on DrikPanchang (Bhadrapada Shukla Dwadashi — ~September 23, 2026).
 
 ## Mantras
 

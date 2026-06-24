@@ -61,7 +61,6 @@ Devi Gayatri is not merely a goddess — she is the living form of the mantra th
 - **Havan/Yajna:** Offer oblations with til, barley, ghee, and samidha, saying "Oṃ bhūr bhuvaḥ svaḥ... svāhā" with each oblation; participating in a collective havan at a temple or ashram is equally meritorious.
 - **Fasting:** Since this is an Ekadashi, nirjala (waterless) or phalahar (fruit diet) is acceptable; abstaining from grains, lentils, onion, and garlic is essential; avoid harsh speech, anger, and falsehood on this day.
 - **Parana:** Break the fast on Dwadashi after sunrise with tulsi water or Ganga water, then take sattvic food.
-- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Ekadashi)
 
 ## Mantras
 

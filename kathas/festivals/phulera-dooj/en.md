@@ -37,7 +37,6 @@ Flowers here are not merely decoration — they are the symbol of pure devotion.
 - **Svayamsiddha muhurta:** No auspicious time need be consulted — the entire tithi from sunrise to sunset is a svayamsiddha muhurta; marriages, engagements, griha-pravesh, and new beginnings may all be commenced freely on this day.
 - **Temple visit:** Visit a Radha-Krishna temple if possible and offer flowers there.
 - **Evening bhajan-kirtan:** Sing Braj bhajans such as "Hori Khelat Nandlal" and "Phulan ki Hori"; play Holi with flowers before the Radha-Krishna deity together with family.
-- **2026 date:** TODO-VERIFY (Phalgun Shukla Dvitiya)
 
 ## Mantras
 

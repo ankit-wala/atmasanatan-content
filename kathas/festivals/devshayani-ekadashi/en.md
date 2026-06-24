@@ -51,7 +51,6 @@ Vishnu wakes from his rest on Devutthana Ekadashi (also called Prabodhini Ekadas
 - **Evening prayer:** Sing Vishnu bhajans or recite Vishnu Sahasranama in the evening; stay awake in prayer if possible, especially into the night.
 - **Breaking the fast (Dwadashi parana):** Break the fast after sunrise but before the Dwadashi tithi ends — always verify the exact parana window on DrikPanchang; offer food to a Brahmin or any hungry person before eating yourself.
 - **Chaturmas sankalpa:** Many devotees use this day to take a four-month commitment — giving up a particular food, waking earlier, doing extra japa, or reading one scripture chapter daily; these commitments are released on Devutthana Ekadashi in Kartik.
-- **2026 date:** TODO-VERIFY (Ashadha Shukla Ekadashi)
 
 ## Mantras
 

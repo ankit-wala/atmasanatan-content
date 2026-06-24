@@ -47,7 +47,6 @@ The celebration of Vijayadashami takes a different form in every corner of India
 - **Ayudha Puja (southern tradition):** Worship vehicles, tools, books, and craft instruments; householders may worship the tools of their own livelihood.
 - **Ravan Dahan:** In the evening, participate in the local burning of effigies of Ravana, Kumbhakarna, and Meghnada — a resolve to destroy the ten inner vices.
 - **Exchange and aarti:** Send Shami leaves or sweets to family and friends as a symbol of victory and abundance; perform evening aarti of Rama, Durga, or the family deity and receive prasad.
-- **2026 date:** TODO-VERIFY (Ashwin Shukla Dashami)
 
 ## Mantras
 

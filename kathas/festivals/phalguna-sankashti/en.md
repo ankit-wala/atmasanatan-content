@@ -64,7 +64,6 @@ Phalguna is the last month of the Hindu samvat. Mahashivaratri and Holi fall wit
 - **Year-end offering:** After puja, write on a piece of paper the matters that remained stuck in the past year — place it before Ganesha and pray that he look with his three eyes and show the way.
 - **Katha:** Read the katha of Phalguna Sankashti.
 - **Moonrise parana:** After moonrise, offer arghya to the moon and observe parana; if clouds are present, parana may be done at the designated moonrise time.
-- **2026 date:** TODO-VERIFY (Phalguna Krishna Chaturthi)
 
 ## Mantras
 

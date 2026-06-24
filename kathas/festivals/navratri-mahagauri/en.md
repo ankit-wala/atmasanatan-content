@@ -52,7 +52,6 @@ Maa Mahagauri is the presiding deity of the eighth day of Navratri. Among the ni
 - **Fasting:** Continue the Navratri fast on Ashtami — fruit diet or nirjala; abstain from grain and salt; the fast may be broken on the evening of Ashtami or the morning of Navami after kanya pujan.
 - **Sattvic conduct:** Maintain purity of mind, speech, and action throughout these days — avoid anger, ego, and falsehood; this is the true meaning of upavasa.
 - **Preparation:** On the night of Ashtami, gather materials for the Navami havan and parana in preparation for Maa Siddhidatri.
-- **2026 date:** TODO-VERIFY — Ashwin Shukla Ashtami (~October 2026; confirm tithi on DrikPanchang).
 
 ---
 

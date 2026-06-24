@@ -65,7 +65,6 @@ Til-gud holds special significance. Til is Shani's symbol — dark and deep; jag
 - **Fasting:** This is a festival, not a strict vrat — fasting is not required; eat sattvic food and avoid tamasic food (meat, alcohol).
 - **Regional observance:** In Uttar Pradesh and Bihar, khichdi (rice and urad dal) is eaten and donated — giving rise to the name "Khichdi"; in Gujarat and Rajasthan, kite-flying marks the celebration of Uttarayan.
 - **Timing:** Bathing and dana after sunset are forbidden — the Sankranti punya-kala ends at sunset.
-- **2026 date:** TODO-VERIFY (Makar Sankranti — Surya's entry into Makar Rashi)
 
 ## Mantras
 

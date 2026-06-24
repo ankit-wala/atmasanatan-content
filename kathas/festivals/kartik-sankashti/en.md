@@ -75,7 +75,6 @@ Kartik Krishna Chaturthi is the same tithi as Karva Chauth. On Karva Chauth, mar
 - **Offerings:** Modak is most dear to Ganesha — making it at home is especially auspicious; also offer durva and seasonal fruits.
 - **After moonrise:** As soon as the moon is visible, offer naivedya to Ganesha; offer arghya of water to the moon; receive prasad and break the fast.
 - **For Karva Chauth coincidence:** When Karva Chauth falls on the same day, first perform Ganesha worship, then follow the Karva Chauth vidhi; women keeping the waterless fast of Karva Chauth thereby fulfil both vratas together, as both have parana after sighting the moon.
-- **2026 date:** TODO-VERIFY (Kartik Krishna Chaturthi)
 
 ## Mantras
 

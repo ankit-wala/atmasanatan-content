@@ -105,7 +105,6 @@ In some traditions the colour of Tritiya is **orange** — symbol of energy and 
 - **Bell:** Ring a bell in the temple or at home — this is the specific tradition of Tritiya, in remembrance of the bell-shaped crescent on Maa's forehead; the sound drives away negative forces.
 - **Mantras:** Recite the dhyana shloka of Maa Chandraghanta and the Ya Devi stuti (see Mantras).
 - **Fasting:** The Navratri vrat continues — devotees keeping the nine-day fast should continue with a fruit diet or one meal.
-- **2026 date:** Confirm on DrikPanchang (~October 13, 2026, Ashwin Shukla Tritiya).
 
 ## Mantras
 

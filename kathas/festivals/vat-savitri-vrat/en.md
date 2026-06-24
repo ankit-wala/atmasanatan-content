@@ -154,7 +154,6 @@ Vat Savitri Vrat is the vrat of married women — for the long life, health, and
 - **Image and katha:** Establish an image of Savitri and Satyavan beneath the Vat tree; listen to the complete Vat Savitri Vrat Katha with family — the puja is incomplete without the katha.
 - **Dakshina:** Offer dakshina to Brahmins; present gifts to the mother-in-law or elder women.
 - **Breaking the fast:** On the evening of Amavasya or the following morning, after the final puja, take parana with sattvic food or fruit.
-- **2026 date:** TODO-VERIFY (Jyeshtha Krishna Amavasya)
 
 ## Mantras
 

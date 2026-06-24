@@ -55,7 +55,6 @@ On Vasant Panchami, three streams converge as one:
 - **Vidyarambham:** Have children write their first letter under the guidance of a teacher or elder — this is the auspicious rite of beginning new learning.
 - **Observance:** On this day books, musical instruments, and implements of one's art are not placed on the floor — they rest at Ma's feet; wearing yellow garments is the tradition of this festival.
 - **Special:** In some families this is also Ayudha Puja — artists worship the tools of their calling; after puja, sing the songs of spring; distribute yellow prasad — saffron rice, besan laddus, or sweet yellow rice; books are taken up again the following day.
-- **2026 date:** TODO-VERIFY (Magha Shukla Panchami).
 
 ## Mantras
 

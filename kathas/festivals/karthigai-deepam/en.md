@@ -53,7 +53,6 @@ Karthigai Deepam is not merely a festival of lights — it is the deepest expres
 - **Murugan/Kartikeya puja:** Light a lamp before Murugan (Kartikeya/Skanda); offer red flowers, fruits, and peacock feathers; perform special abhisheka on the Krittika nakshatra day; recite the shadakshara mantra *Oṃ Śaravaṇabhava*.
 - **Arati and circumambulation:** Perform arati for both Shiva and Murugan; visit a nearby Shiva temple for darshan; at Tiruvannamalai, giri-pradakshina (circumambulation of Arunachala) holds special significance.
 - **Fasting:** No strict fast is prescribed; phalahar (fruit diet) or eating once is meritorious; some devotees abstain from tamasic food (meat, alcohol); maintain restraint, speak truth, and avoid anger — remembering Brahma's untruth, strengthen truth in your own life.
-- **2026 date:** TODO-VERIFY (Margashirsha Purnima, Krittika nakshatra)
 
 ## Mantras
 

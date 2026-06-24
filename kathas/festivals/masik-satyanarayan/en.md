@@ -51,7 +51,6 @@ The importance lies in it happening every month — regularly. Performing a puja
 - **Tithi flexibility:** This puja may be performed on any auspicious day — Purnima, Ekadashi, or the first day of the month; Purnima is the most widely observed.
 - **Regularity:** Beginning with a sankalpa to observe the vrat on every Purnima for a year is the ideal approach; performing it once in hardship and then forgetting is not true observance.
 - **Sankalpa fulfillment:** When a wish is fulfilled through a puja performed for a specific purpose, perform the udyapana (concluding puja) and feed brahmins.
-- **2026 date:** TODO-VERIFY (Purnima)
 
 ## Mantras
 

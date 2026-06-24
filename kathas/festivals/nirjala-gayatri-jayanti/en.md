@@ -50,7 +50,6 @@ This confluence does not come every year. In the year it comes, that day is an o
 - **Night vigil:** Keep vigil through the night with bhajana and kirtana.
 - **Parana (Dvadashi):** Break the fast after sunrise; feed a Brahmin or someone in need at Parana.
 - **For those who cannot fast fully:** Observe phalahar with water at minimum and chant Gayatri japa; remembrance of Vishnu and listening to the katha earn merit.
-- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Ekadashi — confluence year must be confirmed).
 
 ## Mantras
 

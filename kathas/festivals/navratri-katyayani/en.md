@@ -92,7 +92,6 @@ On the sixth day of Navratri the practice centres on the Ajna Chakra — the poi
 - **Recitation:** Recite the dhyana shloka and the Ya Devi stotra; chant "Om Katyainyai Namah" 108 times; distribute prasad.
 - **Fasting:** The Navratri fast continues — a single sattvik meal (fruit, milk, sabudana) or complete fasting according to the devotee's strength and resolve.
 - **Special sankalpa:** On this day resolve in the heart — may Maa Katyayani destroy whatever 'Mahishasura' lives within (fear, arrogance, adharma).
-- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Shashthi — ~October 16, 2026).
 
 ## Mantras
 

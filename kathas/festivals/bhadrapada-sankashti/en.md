@@ -82,7 +82,6 @@ Both fall in the same month, but the spirit and the tithi of each are different.
 - **Evening:** Check moonrise time for the tithi on DrikPanchang; await moonrise.
 - **Breaking the fast:** Upon sighting the moon, offer arghya with water and Ganesha's name, then take food.
 - **Note:** On Bhadrapada Shukla Chaturthi (Ganesha Chaturthi) sighting the moon is prohibited; on this Sankashti (Krishna Chaturthi) sighting the moon is required — the rules of the two are different.
-- **2026 date:** Confirm on DrikPanchang.
 
 ## Mantras
 

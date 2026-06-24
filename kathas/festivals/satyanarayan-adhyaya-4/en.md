@@ -120,7 +120,6 @@ Two chapters, two different characters, two different lapses — but one teachin
 - **Prasad:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana); offer prasad to every person present — not one person should leave without it; do not treat prasad as trifling or hold it back.
 - **Pūrṇāhuti first:** If a Satyanarayan puja is underway at home, complete the pūrṇāhuti and distribution of prasad before leaving for any other task — the lesson of Kalavati's departure in this chapter.
 - **Accepting Bhagavan's grace:** When asked about wealth, health, or blessings received — answer with humility and gratitude, not with pride; in this katha, calling them "straw" was the cause of calamity.
-- **2026 date:** TODO-VERIFY — confirmation on DrikPanchang is required.
 
 ## Mantras
 

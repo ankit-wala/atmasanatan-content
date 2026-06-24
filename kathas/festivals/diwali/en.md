@@ -62,7 +62,6 @@ There is another meaning that runs deep within this festival. The cleaning of th
 - **Lakshmi puja:** Light incense and a lamp; offer Lakshmi lotus flowers, kumkum, sweets, and lava (puffed grain); chant the Lakshmi Gayatri Mantra (given below); perform aarti and distribute prasad.
 - **Night vigil (rātri jāgaraṇ):** Keep one lamp burning at the door through the night. Lakshmi moves through the world during Pradosh Kaal (after dusk) and Nishith Kaal (around midnight) — the family that is awake at these hours, performing puja and keeping lamps burning, is where Lakshmi stays. *Ko jāgarti?* — this is what she asks.
 - **Special:** On this night, giving to those in need and coming together in goodwill also carry great importance — bringing light to those who live in want is the dharma of this night.
-- **2026 date:** TODO-VERIFY (Kartik Amavasya)
 
 ## Mantras
 

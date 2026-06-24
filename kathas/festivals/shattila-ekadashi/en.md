@@ -47,7 +47,6 @@ The merit of til-daan lightens the burden of karmas accumulated across many life
 - **Puja:** Chant *Oṃ Namo Bhagavate Vāsudevāya*; recite Bhagavata Katha or Vishnu Sahasranama.
 - **Breaking the fast (Dwadashi):** Break the fast within the paran-kala after sunrise; offer til in daan to a Brahmin and feed him a meal first before eating oneself.
 - **Special:** In the cold of Magha, bathing and applying ubtana with til also provide bodily warmth — this vrat is perfectly in harmony with the season.
-- **2026 date:** TODO-VERIFY (Magha Krishna Ekadashi)
 
 ## Mantras
 

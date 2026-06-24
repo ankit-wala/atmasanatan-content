@@ -46,7 +46,6 @@ Magha Shukla Ekadashi is considered particularly fruitful for those who are stru
 - **Through the day:** keep the mind in bhajan, kirtan, and Vishnu-smarana; recitation of the Vishnu Sahasranama or Ekadashi Mahatmya is especially meritorious.
 - **Night vigil:** remain awake through the night in bhajan, kirtan, or chanting of Vishnu's name — in the katha itself, it was the unwitting vigil that became the direct cause of liberation; this night is especially fruitful.
 - **Breaking the fast:** on Dwadashi after sunrise, break the fast within the appointed parana muhurta; offer bhog to the Lord and receive tulsi water first.
-- **2026 date:** TODO-VERIFY (Magha Shukla Ekadashi)
 
 ## Mantras
 

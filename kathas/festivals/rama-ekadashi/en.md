@@ -90,7 +90,6 @@ In some traditions this Ekadashi is also called **Rambha Ekadashi** — 'Rambha'
 - **Diwali context:** Diwali falls two days after this Ekadashi — clean the home, light lamps, and take a resolve of Lakshmi's invocation on this day; it is considered auspicious preparation.
 - **Offering merit:** Following Chandrabhaga's tradition, the merit of this Ekadashi may be offered in the name of a beloved one who has departed.
 - **Breaking the fast (Paran):** On Dwadashi morning, break the fast after sunrise before Rahu-kalam ends, within the Dwadashi tithi.
-- **2026 date:** TODO-VERIFY (Kartik Krishna Ekadashi — two days before Diwali)
 
 ## Mantras
 

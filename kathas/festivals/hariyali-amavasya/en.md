@@ -57,7 +57,6 @@ This festival reminds humanity that dharma is not confined to the temple — mai
 - **Pitṛ-tarpaṇa:** Sit facing south; with both hands pour water mixed with black sesame seeds three times, holding the intention "May my ancestors receive this tarpaṇa, may they be satisfied, may they be liberated"; offer dākṣiṇā and food to a brāhmaṇa. Tarpaṇa on Śrāvaṇa amāvasyā is especially fruitful per the Padma Purāṇa and satisfies seven generations.
 - **Śiva-pūjana:** Perform abhiṣeka of the Śivalinga with water and milk; offer belpatra, bhāṅg, dhatūra, and white flowers; chant "Oṃ Namaḥ Śivāya" 108 times; recite a Śiva-stotra or the Mahāmṛtyuñjaya Mantra; offer pañcāmṛta and fruit as prasāda. If no Śiva temple is nearby, perform abhiṣeka at home.
 - **Fasting:** Optional — some devotees observe a nirjalā or fruit-only fast; at minimum, abstain from meat, alcohol, and tāmasika food on this day.
-- **2026 date:** TODO-VERIFY (Śrāvaṇa Kṛṣṇa Amāvasyā)
 
 ## Mantras
 

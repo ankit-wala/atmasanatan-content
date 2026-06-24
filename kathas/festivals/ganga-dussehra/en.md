@@ -105,7 +105,6 @@ On Ganga Dussehra, multitudes of devotees pour onto the riverbanks — from Hari
 - **Deepdan:** At dusk, light a lamp and set it afloat on the Ganga — or in flowing water at home; remembering departed members of one's family, pray for their liberation.
 - **Ganga Aarti:** Join the evening aarti at the Ganga's bank — especially magnificent at Haridwar and Varanasi on this day; at home, perform aarti before a vessel filled with Gangajal.
 - **Fasting:** Optional — some devotees observe a single meal (ekahara) or take only fruit; abstaining from meat, intoxicants, and tamasic food is especially enjoined on this day.
-- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Dashami)
 
 ## Mantras
 

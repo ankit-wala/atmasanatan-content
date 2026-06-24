@@ -93,7 +93,6 @@ Sundarkand — which is recited with special devotion on this day — is the acc
 - **Sundarkand path:** Recite the complete Sundarkand alone or in a group — this day is regarded as its most auspicious occasion. Those unable to complete the full text should at minimum recite the Hanuman Chalisa eleven times.
 - **Offerings:** Offer boondi, panjiri, or seasonal fruit as prasad; perform aarti again in the evening.
 - **Fasting:** Observe a nirjala or fruit-only fast; those unable to fast completely should abstain from grain and take only fruit; break the fast after sunset.
-- **2026 date:** TODO-VERIFY (Chaitra Shukla Purnima)
 
 ---
 

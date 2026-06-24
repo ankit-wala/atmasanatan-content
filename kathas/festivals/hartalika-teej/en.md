@@ -79,7 +79,6 @@ This vrat is observed especially in Bihar, Jharkhand, Uttar Pradesh, Rajasthan, 
 - **All-night vigil (essential):** One must not sleep; spend the night in Shiva-Parvati bhajans, naam-jap, and katha-shravan.
 - **Chaturthi morning — paran:** After sunrise, complete the morning puja; immerse the sand/clay image in a river or water source; then break the fast.
 - **For whom:** Observed by both unmarried women ("May I receive a husband like Shiva") and married women ("May my husband have long life; may my saubhagya remain unbroken"). Observed especially in Bihar, Jharkhand, UP, Rajasthan, Maharashtra, and Nepal.
-- **2026 date:** 14 September 2026 (Bhadrapada Shukla Tritiya — verified on DrikPanchang)
 
 ## Mantras
 

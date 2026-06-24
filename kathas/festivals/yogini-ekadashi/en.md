@@ -47,7 +47,6 @@ Coming two weeks before Devshayani, this Ekadashi is a kind of preparation — a
 - **Night vigil:** Stay awake in prayer if possible, singing bhajans through the night.
 - **Breaking the fast:** On Dwadashi, after sunrise but before the Dwadashi tithi ends — check DrikPanchang for the exact parana window for your location.
 - **Special note for 2026 parana:** Ekadashi tithi ends at 5:22 AM on July 11 — before sunrise — so the Dwadashi tithi is already running at sunrise; the parana window may be unusually narrow. Confirm on DrikPanchang.
-- **2026 date:** TODO-VERIFY (Ashadha Krishna Ekadashi)
 
 ## Mantras
 

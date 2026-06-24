@@ -77,7 +77,6 @@ This story is not merely the story of a miracle. It carries a profound message:
 - **Circumambulation:** Take parikrama of the Govardhan form seven times (or at least three times) remembering Govardhan Maharaj in your heart. Those near Mathura-Vrindavan undertake the full ~21 km circumambulation of Govardhan Hill — barefoot, singing bhajans — which is considered greatly meritorious.
 - **Annakut prasad:** After puja, distribute all dishes as prasad among family and neighbours. Temples — particularly at Vrindavan and Nathdwara (Rajasthan) — arrange large community Annakut displays.
 - **Vrat (optional):** Some devotees eat only once (ekahaar) or only fruit (falahaar) on this day; this is not obligatory — worship and devotion are what matter most.
-- **2026 date:** TODO-VERIFY (Kartik Shukla Pratipada)
 
 ## Mantras
 

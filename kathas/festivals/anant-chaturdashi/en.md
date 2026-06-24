@@ -99,7 +99,6 @@ In the tradition of the Bhavishya Purana, it is said that Lord Sri Krishna taugh
 - **Fasting:** Complete fast or one meal (ekabhukta) — hearing the katha is mandatory.
 - **Vrat commitment:** Once tied, the Anant Sutra vrat is observed annually for fourteen years; in the fourteenth year, the final sutra is immersed in water.
 - **Ganesh Visarjan:** On this final day of Ganapati Utsava, the Ganesha image is immersed with a grand procession in the evening.
-- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Chaturdashi — ~September 25, 2026)
 
 ## Mantras
 

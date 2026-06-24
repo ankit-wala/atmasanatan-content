@@ -58,7 +58,6 @@ From a spiritual standpoint, water donation (jal-dan) holds special significance
 - **Night vigil:** Keep vigil through the night with bhajans and kirtan of Lord Vishnu.
 - **Parana (Dvadashi):** Break the fast after sunrise during Parana time (after Hari-Vasar ends); first take Tulsi water, then Panchamrita, then sattvic food; feed a Brahmin or someone in need at Parana — this is essential.
 - **For those who cannot fast:** The ill, elderly, or pregnant may take phalahar with water but must give up grains; remembrance of Vishnu and listening to the katha earn merit.
-- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Ekadashi).
 
 ## Mantras
 

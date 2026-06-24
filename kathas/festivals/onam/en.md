@@ -143,7 +143,6 @@ Onam falls in the Malayalam month of Chingam (Bhadrapada) — this is the time o
 - **Onam Sadya:** Partake of the Sadya on a banana leaf with the family — rice, sambar, avial, payasam, and traditional dishes; the shared meal is a remembrance of Mahabali's golden reign when all were equal.
 - **Vallam Kali (Boat Race):** Boat races on Kerala's rivers and backwaters are the central communal celebration of Onam — a symbol of collective joy.
 - **Deepa dana:** In the evening, light lamps at the entrance of the home and beside the pookalam.
-- **2026 date:** TODO-VERIFY (Thiruvonam nakshatra in Bhadrapada / Malayalam month Chingam).
 
 ## Mantras
 

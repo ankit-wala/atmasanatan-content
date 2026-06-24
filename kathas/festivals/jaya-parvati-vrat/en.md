@@ -58,7 +58,6 @@ In Gujarat, this is considered the most important vrat for unmarried girls. Five
 - **Eating:** once a day, phalahar only (fruits, milk, dry fruits) — or observe a full fast; sleep on the ground.
 - **Breaking the fast:** on Shravan Krishna Tritiya after sunrise, after completing the day's puja and offering dakshina.
 - **Udyapan:** on the fifth day, feed unmarried girls and offer them dakshina — this is the formal completion of the vrat.
-- **2026 dates:** Vrat begins Jul 27 (Ashadha Shukla Trayodashi); parana Aug 1 after sunrise
 
 ## Mantras
 

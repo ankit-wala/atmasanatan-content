@@ -102,7 +102,6 @@ In some traditions — according to the Brahma Vaivarta Purana — Vishnu went t
 - **Katha shravan:** After the puja, hear or recite the Ganesha birth katha — this is the heart of the festival; perform aarti with "Jai Ganesh Jai Ganesh Deva" and distribute prasad (modak and fruit).
 - **Visarjan:** For home installations, immersion may be on the 1.5th day, the 5th, 7th, or 10th day; for public pandals, immersion takes place on Anant Chaturdashi.
 - **Note:** Do not look at the moon on this night. If you accidentally see it, hear the Syamantaka Mani katha — that entry is separate.
-- **2026 date:** TODO-VERIFY (Bhadrapada Shukla Chaturthi)
 
 ## Mantras
 

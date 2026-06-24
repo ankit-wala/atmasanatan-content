@@ -66,7 +66,6 @@ Maa Brahmacharini holds a japa-mala in her right hand and a kamandalu in her lef
 - **Aarti:** Perform aarti and distribute prasad; aarti and japa may also be repeated in the evening.
 - **Fasting:** The Navratri vrat continues from Pratipada — one sattvic meal (fruit, milk, sabudana) or complete fasting according to the seeker's strength and resolve.
 - **Special intention:** Hold in heart the resolve of patience and steadfastness; pray to Maa that whatever sadhana is unfolding in life may reach completion.
-- **2026 date:** Confirm on DrikPanchang (~October 12, 2026, Ashwin Shukla Dwitiya).
 
 ## Mantras
 

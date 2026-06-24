@@ -110,7 +110,6 @@ Kanya pujan is considered mandatory on Navami. Nine girls are honoured as the ni
 - **Kanya pujan (mandatory):** Invite nine girls under ten years of age; honour them as the nine Goddess-forms — wash their feet, apply tilak, offer halwa-puri-chana, and give dakshina; Navratri is not complete without this rite.
 - **Breaking the fast:** After kanya pujan, receive prasad to perform parana; this completes the udyapan of the nine-day vrat.
 - **Note:** Vijayadashami (Dussehra) falls the next day (Dashami) — Navami night is for the Mother's worship; the following day celebrates victory of dharma.
-- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Navami — ~19 October 2026).
 
 ## Mantras
 

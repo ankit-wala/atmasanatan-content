@@ -56,7 +56,6 @@ The spirit of the day remains the same. A sister's thread for her brother is a b
 - **Aarti:** Perform the aarti of the brother.
 - **Tying the rakhi:** Tie the rakhi on his right wrist while reciting the mantra; offer sweets.
 - **Brother's vow:** The brother takes a vow to protect his sister.
-- **2026 date:** TODO-VERIFY (~August 28, 2026, Shravan Purnima)
 
 ## Mantras
 

@@ -63,7 +63,6 @@ The offering of til-gud suits the winter month of Pausha — both sesame and jag
 - **At night:** Sight the moon at chandrodaya — the fast is not broken before beholding the moon (this rule is binding); offer bhog and jal arpan to Ganesha; receive prasad and break the fast.
 - **Offerings:** Til-gud laddoos, modak, and seasonal fruit; offer to Ganesha first, then receive as prasad.
 - **For whom:** Observed primarily by mothers for the welfare of their sons; may also be kept for a daughter; in many regions married women keep it for both husband and son.
-- **2026 date:** TODO-VERIFY (Pausha Krishna Chaturthi)
 
 ## Mantras
 

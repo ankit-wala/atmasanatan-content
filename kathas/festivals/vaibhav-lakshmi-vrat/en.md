@@ -64,7 +64,6 @@ Vaibhav Lakshmi Vrat is not a vrata propounded in any ancient Purana — it is a
 - **Fasting:** Throughout the day on fruit or light food; avoid salty and tamasic food; take the full meal only after the evening puja.
 - **Udyapan (eleventh Friday):** Invite eleven women (neighbours, relatives, or those in need); feed them sweet rice; gift each one a piece of blouse cloth, turmeric-kumkum, and prasad — the udyapan is essential and without it the vrata is considered incomplete.
 - **Special:** The foremost requirement is a true heart — not greed but devotion; beginning the vrata on a Shukla Paksha Friday is considered especially auspicious.
-- **2026 dates:** Weekly vrata — may be begun on any Friday; no single fixed date.
 
 ## Mantras
 

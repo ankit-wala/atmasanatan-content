@@ -95,7 +95,6 @@ The avoidance of sour is the central discipline of this vrat — it is not merel
 - **Fasting:** No food all day, or fruit only; break the fast after the evening puja.
 - **Critical rule — sour is strictly forbidden:** Nothing sour in any form on Fridays — no tamarind, no lemon, no curd, no dry mango powder; even contact with sour ingredients is said to break the vrat (the katha of Satyavati teaches this directly).
 - **Udyapan:** After all sixteen Fridays are complete, udyapan is obligatory — feed sixteen married women a meal of halwa-puri (no sour ingredients) and offer them a dakshina according to the household's means.
-- **2026 date:** This is a weekly vrat — it may be begun on any Friday.
 
 ## Mantras
 

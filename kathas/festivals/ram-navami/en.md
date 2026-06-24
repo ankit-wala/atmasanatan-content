@@ -51,7 +51,6 @@ Ram Navami in the Chaitra month holds special significance because it falls nine
 - **Madhyahna Abhisheka (noon):** At precisely noon — when the sun is at its highest — bathe the infant Rama image with milk, curd, honey, ghee, and Gangajal; blow the conch; light lamps; proclaim "Jai Shri Ram!" and announce Ram Janma — this is the central moment of the festival.
 - **Ramayana recitation:** Recite the Bala Kanda of the Valmiki Ramayana or the Ramcharitmanas; the birth passage from "tato yajñe samāpte tu..." through the naming of Rama should be read with special attention; group recitation and the Sundara Kanda are also meritorious.
 - **Evening:** Perform the aarti and distribute prasad.
-- **2026 date:** TODO-VERIFY (Chaitra Shukla Navami)
 
 ## Mantras
 

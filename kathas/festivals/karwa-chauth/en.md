@@ -93,7 +93,6 @@ Veeravati's katha says something profound — a lapse in devotion means the fast
 - **Karva puja:** Fill the earthen karva with water; draw a swastika on its mouth with roli; circle the karva seven times and offer it to a neighbour saying *"Leve karva, deve suhag"* ("Take the karva, give the blessing of a husband").
 - **Moon viewing and arghya:** When the moon rises, first view it through the chhalni (sieve), then through the same sieve look at your husband's face; offer water through the chhalni to Chandra Dev.
 - **Paran (breaking the fast):** Receive the first water and food from your husband's hand — this is the final and most important act of the vrat.
-- **2026 date:** TODO-VERIFY (Kartik Krishna Chaturthi — approximately October 29, 2026)
 
 ## Mantras
 

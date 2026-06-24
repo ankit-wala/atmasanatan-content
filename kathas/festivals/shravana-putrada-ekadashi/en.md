@@ -54,7 +54,6 @@ Ekadashi takes up that weight.
 - **For whom:** Husband and wife should observe this vrat together; state the desire for a child clearly before the Lord in prayer.
 - **Pavitraka:** On Dvadashi, make a pavitraka — a sacred cord of gold, silver, silk, or lotus — and offer it to brahmins as a ritual gift; this is the distinctive tradition of this Ekadashi.
 - **Breaking the fast:** Break the fast on Dvadashi after sunrise, before the Dvadashi tithi ends.
-- **2026 date:** TODO-VERIFY (Shravana Shukla Ekadashi)
 
 ## Mantras
 

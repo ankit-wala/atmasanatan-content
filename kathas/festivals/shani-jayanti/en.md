@@ -103,7 +103,6 @@ Jyeshtha Krishna Amavasya is also the tithi on which Vat Savitri Vrat is observe
 - **Shani Stotra:** Recite the Dasharatha-composed Shani Stuti or the Shani Chalisa — this stuti, which King Dasharatha recited during Sade Sati, is considered especially fruitful on this day.
 - **Mantra japa:** Chant Oṃ Śaṃ Śanaiścarāya Namaḥ at least one mala (108 times); at sunset light an oil lamp and meditate on Shani.
 - **Donation:** Give an iron vessel, a black blanket, black footwear, black sesame seeds, and urad lentils to someone poor or to a labourer — donating Shani-related items on this day is a direct path to his grace.
-- **2026 date:** TODO-VERIFY (Jyeshtha Krishna Amavasya)
 
 ## Mantras
 

@@ -79,7 +79,6 @@ Wherever the pieces of Sati's body fell, a Shakti Peetha was formed — 51 peeth
 - **Puja:** Establish an image or idol of Maa Shailputri; light a lamp of cow's ghee; recite the dhyana shloka of Maa Shailputri.
 - **Offerings:** Red flowers (hibiscus is especially auspicious); tulsi and bel leaves.
 - **Fasting:** The nine-day Navratri fast begins from Pratipada — fruit diet or one meal a day.
-- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Pratipada — ~October 11, 2026).
 
 ## Mantras
 

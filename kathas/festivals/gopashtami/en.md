@@ -81,7 +81,6 @@ In Vrindavan, Mathura, and the Braj region, a **procession of the sacred cows** 
 - **Godaan:** The gift of a cow (godaan) on this day is considered especially meritorious.
 - **Vrindavan-Mathura tradition:** The procession of the sacred cows moves through Braj on this day; if possible, visit Vrindavan or a goshala for darshan.
 - **Fasting:** Not mandatory — devotees observe ekabhukta (one meal only) or take only fruit.
-- **2026 date:** TODO-VERIFY (Kartik Shukla Ashtami)
 
 ## Mantras
 

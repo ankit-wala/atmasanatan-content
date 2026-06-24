@@ -91,7 +91,6 @@ Narasimha Jayanti is not only the victory of a deity but the victory of a child 
 - **Narasimha Kavach:** Recite at sandhyakala — Narada Muni gave this kavach to Prahlad's mother Kayadhu; it is the foremost stotra for complete-body protection and freedom from fear.
 - **Katha:** Read or listen to the Narasimha avatar katha from Bhagavata Purana Skandha 7.
 - **Night vigil:** Keep kirtan or vigil with the chant of "Jai Narasimha, Jai Narasimha."
-- **2026 date:** TODO-VERIFY (Vaishakh Shukla Chaturdashi).
 
 ## Mantras
 

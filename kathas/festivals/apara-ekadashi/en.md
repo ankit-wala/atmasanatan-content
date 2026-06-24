@@ -74,7 +74,6 @@ The katha of Mahidhvaja also tells us that a life lived by dharma is never spent
 - **Daytime observance:** Recite Vishnu Sahasranama, a chapter of the Bhagavad Gita, or chant "Om Namo Bhagavate Vasudevaya."
 - **Night vigil:** Spend the night in kirtan — chanting "Narayana… Narayana…" or "Om Namo Bhagavate Vasudevaya"; if any member of your family has died an untimely death, offer a prayer for their peace this night.
 - **Breaking the fast:** On Dwadashi morning, after sunrise and before the Dwadashi tithi ends; check the exact parana muhurta on DrikPanchang.
-- **2026 date:** TODO-VERIFY (Jyeshtha Krishna Ekadashi)
 
 ## Mantras
 

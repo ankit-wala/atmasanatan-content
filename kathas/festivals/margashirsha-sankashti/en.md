@@ -75,7 +75,6 @@ Margashirsha Sankashti is especially for those devotees who are in their life's 
 - **Offerings:** Modak, durva, til laddus (til is especially auspicious in Margashirsha and suitable for the Bhanu form), and seasonal fruits.
 - **Deepadana:** Place one or more lamps at the door of the home — a welcome to Bhanu Ganesha and a symbol of the inner light.
 - **Special intention:** If any situation in life feels dark or without a path, make only one request on this Sankashti: "Lord, please send some light."
-- **2026 date:** TODO-VERIFY (Margashirsha Krishna Chaturthi)
 
 ## Mantras
 

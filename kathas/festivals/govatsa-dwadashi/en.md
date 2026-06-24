@@ -62,7 +62,6 @@ Surabhi emerged from the churning of the ocean — born through the grace of Lor
 - **Fasting:** Foods made from wheat (roti, puri, etc.) and from cow's milk (curd, ghee, paneer) are forbidden on this day — take barley, rice, fruit, and vegetables instead. This rule exists because the cow is honoured as mother, and one does not consume a mother's milk.
 - **For whom:** This festival is observed especially by women — for the long life of their children and the happiness and prosperity of the family; the whole family may participate in the Gopuja.
 - **At dusk:** Light a lamp at the doorstep and near the Tulsi plant — this is the first lamp of the Diwali festival sequence.
-- **2026 date:** TODO-VERIFY (Kartik Krishna Dwadashi)
 
 ## Mantras
 

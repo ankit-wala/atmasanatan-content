@@ -50,7 +50,6 @@ The message is stark and beautiful: the Lord who lives behind temple walls goes 
 - **Mahaprasad:** the prasad from the Puri temple is supremely sacred and may be received by anyone regardless of caste — before the Lord, all distinctions fall away.
 - **Seven days:** the full seven days of the festival carry special merit — per the Skanda Purana, the Lord himself said darshan of each day accumulates differently; darshan at night carries ten times the merit of day.
 - **Bahuda Yatra:** nine days after Rath Yatra (Ashadha Shukla Dashami) the three deities return to the main temple — observe with equal devotion.
-- **2026 date:** TODO-VERIFY (Ashadha Shukla Dwitiya)
 
 ## Mantras
 

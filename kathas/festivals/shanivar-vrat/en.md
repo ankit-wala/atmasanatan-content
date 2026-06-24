@@ -141,7 +141,6 @@ In astrology, Shani's **Sade Sati** (a transit of seven and a half years) and **
 - **Breaking the fast:** Take one meal after sunset; the meal may include black sesame, urad, or sesame laddoos.
 - **What not to do:** Do not oil your body (oil is offered to Shani, not used for oneself); do not cut hair; do not buy or sell iron objects; do not behave harshly with anyone.
 - **For whom especially:** Those in Sade Sati, Dhaiya, or Shani's Mahadasha / Antardasha; devotees of Shani; natives of Makara and Kumbha rashis; the vrat may be kept weekly or for a sankalpa of 3, 5, 7, or 21 consecutive Saturdays.
-- **2026 date:** Every Saturday (ongoing weekly vrat)
 
 ## Mantras
 

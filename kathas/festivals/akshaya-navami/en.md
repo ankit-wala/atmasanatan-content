@@ -81,7 +81,6 @@ Akshaya Navami is the tithi of **the meeting of nature and the Divine**.
 - **Meal beneath the tree:** Sit beneath the amla tree and take a meal together as a family — this is the most important observance; include amla (murabba, chutney, or pickle). This meal serves as the pāraṇa for those fasting.
 - **Charity:** Offer a meal to a brahmin, clothing or grain to the poor — charity given on this akshaya tithi bears inexhaustible fruit; include amla in the gift.
 - **Note:** Kartik Shukla Navami falls two days before Devuthani Ekadashi — the ongoing Kartik snan further multiplies the merit of this festival.
-- **2026 date:** TODO-VERIFY (Kartik Shukla Navami)
 
 ## Mantras
 

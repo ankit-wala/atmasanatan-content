@@ -46,7 +46,6 @@ Her principal shrine is at Shankambhara near Sambhar in Rajasthan, where on Shak
 - **Vrat restrictions:** Onion, garlic, meat, alcohol, and all tamasic food are forbidden; fresh vegetables and fruits may be taken during the vrat period.
 - **Breaking the fast:** Break the vrat after worship on Purnima; take sattvic food for the paran.
 - **Annadaan:** On Purnima, giving a meal to a hungry person is considered direct worship of Ma Shakambhari; offering fresh green fodder to cows is also deeply meritorious.
-- **2026 date:** TODO-VERIFY (Paush Shukla Purnima)
 
 ## Mantras
 

@@ -159,7 +159,6 @@ This is not a story of submission — it is a story of power. Savitri chose, Sav
 - **Vat-vriksha puja:** Go to a vat-vriksha (if none nearby, bring a branch home in a clay pot); offer water, haldi-kumkum, and flowers at the root; arrange five or seven kinds of grain in a thali and offer them at the root — a rite characteristic of Maharashtra's tradition; establish an image or picture of Savitri-Satyavan beneath the vat.
 - **Tying the thread:** Walk around the vat seven times wrapping raw thread (sutra) with each circumambulation — making the wish for the husband's long life; this thread is the symbol of a bond that even death cannot break; listen to the Vat Purnima vrat katha together with family after the puja.
 - **Breaking the fast:** On Purnima evening, after sighting the full moon and offering arghya, conclude the vrat; break the fast with sattvic food or fruit; offer haldi-kumkum, coconut, and gifts to Brahmins or suhagin women.
-- **2026 date:** TODO-VERIFY (Jyeshtha Shukla Purnima).
 
 ## Mantras
 

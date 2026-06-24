@@ -87,7 +87,6 @@ The Padma Purana declares — the devotee who performs Tulsi Vivah receives meri
 - **Charity:** According to one's means, feed brahmins; give in charity — a cow, clothing, and grain; distribute prasad to neighbours and the needy.
 - **Special:** From this day Chaturmas concludes — sadhus who observed the vow may resume travel; auspicious wedding dates begin falling in Margashirsha, Pausha, and Magha.
 - **Note:** Do not pluck Tulsi leaves on this day; collect leaves for puja the day before (Tulsi leaves are also never plucked on Sundays).
-- **2026 date:** TODO-VERIFY (Kartik Shukla Dwadashi)
 
 ## Mantras
 

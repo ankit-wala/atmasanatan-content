@@ -110,7 +110,6 @@ This katha also teaches that the concluding rites of a vow are as important as t
 - **Prasad:** Prepare panjiri or sheera (wheat flour, ghee, sugar, banana); offer prasad to every person present without exception — to skip, refuse, or receive prasad carelessly is inauspicious (the direct teaching of this third chapter).
 - **Completing a manauti:** If a manauti was made to Lord Satyanarayan, perform the vrat and puja in good time once the boon is received — delay is not appropriate.
 - **Paran:** Break the fast after the katha and prasad.
-- **2026 Date:** TODO-VERIFY — confirmation on DrikPanchang is required.
 
 ## Mantras
 

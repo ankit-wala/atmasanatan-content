@@ -93,7 +93,6 @@ In the Vedas, Surya is called **Savitri** — the one who generates and inspires
 - **For whom:** Primarily observed by mothers for the health of their children; also for household prosperity, cure of disease, and pacification of a weak Surya graha.
 - **Duration:** Observed every Sunday, or with a sankalpa for seven, twenty-one, or twelve consecutive Sundays.
 - **Special:** On Magha Shukla Saptami (Ratha Saptami), performing special puja alongside the Sunday fast multiplies the fruit many times over.
-- **2026 date:** Every Sunday (weekly vrat)
 
 ## Mantras
 

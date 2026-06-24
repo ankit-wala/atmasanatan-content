@@ -39,7 +39,6 @@ However deep the sins may be, the fast of Ekadashi can sever them — this is th
 - **Fasting:** Observe a complete nirjala fast through the day; those unable may take fruit, milk, and water.
 - **Night vigil:** In the evening perform Vishnu kirtan and stay awake through the night chanting or singing Hari's name — this is an essential part of the vrat.
 - **Breaking the fast (paran):** On Dwadashi, break the fast after sunrise while remembering Hari; be sure to take tulsi leaves during paran; conclude by offering food and dakshina to a Brahmin.
-- **2026 date:** TODO-VERIFY (Pausha Krishna Ekadashi)
 
 ## Mantras
 

@@ -66,7 +66,6 @@ The deeper meaning of the Vyadha-Katha is that Shiva's devotion demands no exter
 - **What to avoid:** Anger, falsehood, meat, and intoxicants are prohibited on this day.
 - **Paran (breaking fast):** The following morning — on Krishna Paksha Pratipada or Dvitiya — bathe, remember Shiva, then break the fast.
 - **Regularity:** Greater fruit comes from observing Masik Shivaratri every month; beginning in Shravan with a sankalpa for all twelve vrats of the year is considered auspicious.
-- **2026 date:** TODO-VERIFY (Krishna Chaturdashi)
 
 ## Mantras
 

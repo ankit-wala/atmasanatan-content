@@ -57,7 +57,6 @@ Amalaki Ekadashi falls just before **Holashtak** and **Holi**. It is the festiva
 - **Fasting:** Observe a nirjal (waterless) or fruit-only fast; grains, lentils, and rice are forbidden; meat, alcohol, and tamasic food are also prohibited; do not cut hair; avoid anger and quarrelling.
 - **Night vigil:** Keep vigil through the night beneath the dhatrī with kirtan — this is the central practice and the tradition of Chandramati.
 - **Breaking the fast:** On dvadashi, after sunrise and before Rahu Kala; consuming tulasi-water and amla on the parana is especially auspicious.
-- **2026 date:** TODO-VERIFY (Phalguna Shukla Ekadashi)
 
 ## Mantras
 

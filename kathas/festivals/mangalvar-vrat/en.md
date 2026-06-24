@@ -64,7 +64,6 @@ Tuesday is the day of two deities — Mangal Dev and Hanuman.
 - **Breaking the fast:** Wednesday morning after sunrise.
 - **Sankalpa for twenty-one Tuesdays:** Take a sankalpa for twenty-one consecutive Tuesdays for removal of Mangal Dosha or protection of good fortune; on the twenty-first Tuesday perform udyapan — prepare prasad and distribute it.
 - **Note:** If a sankalpa for twenty-one Tuesdays has been taken and one Tuesday is missed, some traditions require the vrat to be begun again — follow the terms of the sankalpa.
-- **2026 date:** TODO-VERIFY (Mangalvar Vrat — any Tuesday)
 
 ## Mantras
 

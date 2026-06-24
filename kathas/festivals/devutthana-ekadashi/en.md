@@ -62,7 +62,6 @@ And Devutthana Ekadashi is the celebration of that inward journey's completion �
 - **Breaking the fast (Dwadashi parana):** Break the fast after sunrise and within the Dwadashi tithi; check the precise parana time on DrikPanchang; feed a brahmin or someone in need before breaking the fast yourself.
 - **Tulsi Vivah:** On this day or on Dwadashi, arrange the Tulsi-Shaligram wedding at home, or participate in a Tulsi Vivah at a temple.
 - **Completion of Chaturmas sankalpa:** Devotees who took a Chaturmas sankalpa on Devshayani — a vow to give up something, daily recitation, simple eating — should consider that sankalpa fulfilled today, release it formally, and offer thanks to the Lord.
-- **2026 date:** TODO-VERIFY (Kartik Shukla Ekadashi)
 
 ## Mantras
 

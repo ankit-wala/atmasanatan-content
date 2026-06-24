@@ -52,7 +52,6 @@ Guru Purnima is for all teachers: the teacher of scripture, the teacher of life,
 - **Fasting (optional):** A fast on this day is not required — this is a festival, not a vrat; eat simply and sattvic if you choose to eat.
 - **Study commitment:** Taking on a learning commitment on Guru Purnima is a cherished practice — one text or one chapter to be read through all of Chaturmas. This is real reverence to the guru.
 - **Note:** Guru Purnima falls just four days before Devshayani Ekadashi and the beginning of Chaturmas; the commitment taken here becomes the foundation of the four months of practice that follow.
-- **2026 date:** TODO-VERIFY (Ashadha Purnima)
 
 ## Mantras
 

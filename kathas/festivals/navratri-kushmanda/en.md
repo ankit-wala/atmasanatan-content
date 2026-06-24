@@ -76,7 +76,6 @@ Her eight arms are a symbol of the expansion of power in all eight directions. T
 - **Offerings:** Yellow flowers (marigolds or yellow roses); **pumpkin (kushmanda/kaddu)**; **honey** — a sweet offering especially dear to her.
 - **Fasting:** The Navratri fast continues on the fourth day — fruit diet or a single meal; those observing the full nine-day fast keep the vrat on this day as well.
 - **Anahata meditation:** During worship, rest attention at the heart centre — visualise the Goddess's smile and the amrit kalash she holds.
-- **2026 date:** Confirm on DrikPanchang (Ashwin Shukla Chaturthi — ~October 14, 2026).
 
 ## Mantras
 

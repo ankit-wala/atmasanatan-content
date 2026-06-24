@@ -68,7 +68,6 @@ Sharad Purnima is the setting for the Raas Panchadhyayi of the Bhagavata Purana 
 - **Night vigil:** Stay awake through the whole night or as long as possible — with bhajans, kirtan, remembrance of Lord Vishnu, or recitation of the Ramayana or Bhagavata; staying awake until midnight or through the entire night is considered the highest observance.
 - **Arghya:** Offer water as arghya to the full moon on this night — this is auspicious.
 - **At dawn:** Offer salutations to the moon; distribute the moon-bathed kheer among the entire family as prasad — it is held to be both medicinal and meritorious.
-- **2026 date:** TODO-VERIFY (Ashwin Shukla Purnima — October 2026)
 
 ## Mantras
 

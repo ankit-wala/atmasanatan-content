@@ -82,7 +82,6 @@ This puja falls on Kartik Shukla Dwitiya — the same day as Bhai Dooj. The reun
 - **For Kayastha families:** This is the principal festival of the Kayastha community. All family members gather for collective worship of Chitragupta, their ancestral deity.
 - **New accounts:** Beginning new account books and ledgers on this day is highly auspicious — those in trade and administration open their new accounts today.
 - **Alongside Bhai Dooj:** In households where Bhai Dooj is celebrated, Chitragupta Puja is observed together with it on the same tithi.
-- **2026 date:** TODO-VERIFY (Kartik Shukla Dwitiya — the day of Bhai Dooj)
 
 ## Mantras
 

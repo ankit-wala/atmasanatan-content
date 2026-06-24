@@ -61,7 +61,6 @@ On this day, married women swing on jhulas, apply mehndi, wear new clothes, and 
 - **Fasting:** Some traditions observe a nirjal (waterless) fast; others allow fruits — observe according to one's strength.
 - **Breaking the fast:** The following morning (Chaturthi), after the morning bath.
 - **For newly-wed women:** The first Hariyali Teej is especially significant — in many regional traditions, it is observed at one's parents' home.
-- **2026 date:** TODO-VERIFY (Shravan Shukla Tritiya)
 
 ## Mantras
 

@@ -56,7 +56,6 @@ For devotees, Janmashtami is not only a birthday. It is a reminder that when dar
 - **Midnight offerings:** place butter and makhan before the idol (his most beloved offering); light a ghee diya, ring a bell, sing the aarti; rock the cradle and announce: *"Nand Ghar Anand Bhayo, Jai Kanhaiya Lal Ki."*
 - **Breaking the fast:** properly after the midnight puja and ideally after sunrise on Navami; verify exact Ashtami/Navami timing on DrikPanchang — if Ashtami ends before midnight in a given year, parana rules may shift.
 - **Rohini nakshatra:** some families observe on whichever day carries Rohini nakshatra rather than Ashtami tithi — both practices are valid; follow your family or sampradaya's calendar.
-- **2026 date:** TODO-VERIFY (Bhadrapada Krishna Ashtami)
 
 ## Mantras
 
