@@ -4,7 +4,7 @@ Target: English first, then Hindi. 108 kathas, ordered from July 15, 2026.
 
 ---
 
-## 1. Curate 108 kathas
+## ✅ 1. Curate 108 kathas — DONE
 
 Current corpus: 150 entries. Each language edition selects its own 108, tuned to its audience.
 The corpus stays at 150 — curation is a config/constant in the build script, not file deletions.
@@ -134,7 +134,7 @@ vijaya-ekadashi, vivah-panchami, yogini-ekadashi
 
 Everything not listed as Hindi-only or English-only above.
 
-**Confirm both lists before implementing the build config constants.**
+**Lists confirmed. Implement as `SLUGS_108_HI` / `SLUGS_108_EN` constants in `to_full_book.py`.**
 
 ---
 
