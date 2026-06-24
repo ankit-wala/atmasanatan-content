@@ -103,6 +103,21 @@ SLUG_SETS = {"en": SLUGS_108_EN, "hi": SLUGS_108_HI,
              "mr": SLUGS_108_EN, "gu": SLUGS_108_EN}
 
 
+def add_mantra_linebreaks(body: str) -> str:
+    """Add pandoc hard line breaks (trailing backslash) between consecutive
+    blockquote lines so each half-verse renders on its own line in the PDF."""
+    lines = body.split('\n')
+    out = []
+    for i, line in enumerate(lines):
+        stripped = line.rstrip()
+        next_is_bq = (i + 1 < len(lines) and lines[i + 1].lstrip().startswith('>'))
+        if stripped.lstrip().startswith('>') and next_is_bq and not stripped.endswith('\\'):
+            out.append(stripped + '\\')
+        else:
+            out.append(line)
+    return '\n'.join(out)
+
+
 def order_by_date(entries: list, cutoff: str = "2026-07-15") -> list:
     """Sort entries: date_2026 >= cutoff first (chronological), then the rest."""
     def sort_key(e):
@@ -163,8 +178,6 @@ def front_matter(lang: str) -> str:
 
             :::
 
-            # मंगलाचरण
-
             ::: {.invocation}
 
             **श्री गणेशाय नमः**
@@ -223,8 +236,6 @@ def front_matter(lang: str) -> str:
         Published by Atma Sanatan · First edition, 2026
 
         :::
-
-        # Invocation
 
         ::: {.invocation}
 
@@ -287,6 +298,8 @@ def format_chapter(entry, lang: str) -> str:
             if sec == "Katha":
                 lines.append(f"\n{body}\n")
             else:
+                if sec == "Mantras":
+                    body = add_mantra_linebreaks(body)
                 label = SECTION_LABELS.get(sec, sec)
                 lines.append(f"\n## {label}\n\n{body}\n")
 

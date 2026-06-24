@@ -1,7 +1,7 @@
 ---
 slug: ganesh-chaturthi-janma
 lang: en
-title: "Ganesh Chaturthi — How Ganesha Was Born and Became First Among Gods"
+title: "Ganesh Chaturthi — The Birth of Ganesha, Agrapujya"
 subtitle: "The one destined to be worshipped before all others first had to pass through a crisis to be born at all"
 summary: "On Bhadrapada Shukla Chaturthi, Parvati created a son from the paste of her own body and set him as her guardian at the door. Shiva unknowingly beheaded him. But through Parvati's fury and the pleading of the gods, the boy was brought back to life with an elephant's head — and declared Agrapujya, first in all worship, for eternity."
 reel_hook: "Shiva beheaded his own son — and who was that son? The very one who is worshipped first in all three worlds."

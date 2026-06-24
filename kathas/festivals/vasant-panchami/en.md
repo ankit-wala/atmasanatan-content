@@ -1,7 +1,7 @@
 ---
 slug: vasant-panchami
 lang: en
-title: "Vasant Panchami — The Manifestation of the Goddess of Learning, Speech, and Music"
+title: "Vasant Panchami — Saraswati, Goddess of Learning and Speech"
 subtitle: "When the Universe Heard Its First Sound"
 summary: "The katha of Mata Saraswati's manifestation on Vasant Panchami — the day Ma Saraswati played the veena and creation was given its voice."
 reel_hook: "Creation was complete — yet it had no melody, no word, no music. What happened next?"

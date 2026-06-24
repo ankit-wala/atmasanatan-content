@@ -1,7 +1,7 @@
 ---
 slug: kartik-snan-mahatmya
 lang: en
-title: "Kartik Snan Mahatmya — When Lakshmi Herself Descends into the Yamuna"
+title: "Kartik Snan Mahatmya — Lakshmi Descends into the Yamuna"
 subtitle: "The tale from the Padma Purana that reveals who else bathes in the Kartik dawn"
 summary: "The daily pre-dawn bath during the month of Kartika — Kartik Snan — is the most sacred month-long vrata of Vishnu devotees. The Padma Purana declares: in this month the Lord is near to the earth, and the flame of a single lamp equals ten thousand ordinary lamps."
 reel_hook: "The old woman who bathed with her in the cold of that dawn at the Yamuna — she was Lakshmi. And the Lord revealed it in a dream."

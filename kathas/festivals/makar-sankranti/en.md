@@ -1,7 +1,7 @@
 ---
 slug: makar-sankranti
 lang: en
-title: "Makar Sankranti — Uttarayan, the Surya-Shani Reunion, and Bhishma's Mahaprayan"
+title: "Makar Sankranti — Uttarayan, Surya-Shani, and Bhishma's Departure"
 subtitle: "When a father and son's estrangement ended, and a great warrior chose his moment to die"
 summary: "Makar Sankranti is the sacred day when Suryadev enters Makar Rashi and Uttarayan begins. The tale of the Surya-Shani reunion from the Bhavishya Purana, and the tradition of Bhishma Pitamah's mahaprayan from the Mahabharata, fill this festival with divinity and depth."
 reel_hook: "Bhishma Pitamah lay on his shara-shaiya for months, waiting — what exactly was he waiting for?"

@@ -1,7 +1,7 @@
 ---
 slug: amalaki-ekadashi
 lang: en
-title: "Amalaki Ekadashi — When Vishnu Himself Appeared in the Amalaki Tree"
+title: "Amalaki Ekadashi — When Vishnu Appeared in the Amalaki Tree"
 subtitle: "The devotion of the merchant Chandramati and the effortless redemption of the hunter Malyadhwaj"
 summary: "The ekadashi of Phalguna Shukla Paksha is called Amalaki Ekadashi. On this day, worshipping the amalaki/amla (Indian gooseberry) tree is the same as worshipping Vishnu himself — for the Lord himself dwells within the dhatrī (nourisher). The Brahma Vaivarta Purana records how Sri Krishna told Yudhishthira that the devotion of the merchant Chandramati of Vaidisha city brought liberation to his entire lineage, and how the glory of this very ekadashi transformed the hunter Malyadhwaj into a virtuous king in his next life."
 reel_hook: "A hunter spent the night beneath a certain tree — and that night, the course of his life changed forever. That tree was no ordinary tree."

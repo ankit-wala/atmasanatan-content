@@ -24,15 +24,16 @@ body {
 }
 
 h1 {
-    font-size: 22pt;
+    font-size: 16pt;
+    line-height: 1.25;
     font-weight: bold;
     text-align: center;
     color: #2a1000;
     border-bottom: 1.5pt solid #8B1A1A;
     padding-bottom: 8pt;
-    margin-top: 12pt;
+    margin-top: 0.7in;
     margin-bottom: 4pt;
-    page-break-before: always;
+    page-break-before: auto;
     page-break-after: avoid;
 }
 
@@ -63,7 +64,14 @@ p {
     text-indent: 1.5em;
     text-align: justify;
     hyphens: auto;
+    orphans: 3;
+    widows: 3;
 }
+/* keep subtitle and first paragraph with chapter title — no orphaned headings */
+h1 + p, h1 + p + p {
+    page-break-before: avoid;
+}
+
 /* suppress indent only for structural/transition paragraphs and the chapter subtitle */
 h1 + p, blockquote + p, hr + p, .chapter-end + p {
     text-indent: 0;
@@ -102,19 +110,18 @@ blockquote {
     page-break-inside: avoid;
     page-break-after: avoid;
 }
-blockquote p { margin: 0; text-align: left; }
-/* keep mantra title (bold paragraph) with the blockquote that follows it */
+blockquote p { margin: 0; text-align: center; text-indent: 0; }
+/* keep mantra title (bold p) with the Devanagari blockquote */
 p + blockquote {
     page-break-before: avoid;
 }
-/* keep IAST transliteration line with blockquote above and meaning line below */
+/* ensure at least one line of IAST follows the blockquote on the same page;
+   the meaning paragraph may flow freely — orphans:1 lets even one line stay */
 blockquote + p {
     page-break-before: avoid;
-    page-break-after: avoid;
 }
-/* keep meaning/translation paragraph with IAST line above */
 blockquote + p + p {
-    page-break-before: avoid;
+    orphans: 1;
 }
 
 hr {
@@ -185,11 +192,11 @@ tr:nth-child(even) td { background-color: #fdf9f2; }
     page-break-after: always;
     text-align: center;
 }
-/* override the global page-break-before on h1 inside .title-page */
+/* override chapter h1 rules for the title page */
 .title-page h1 {
-    page-break-before: auto;
     border-bottom: none;
     font-size: 28pt;
+    line-height: 1.2;
     margin-top: 1.4in;
     margin-bottom: 8pt;
     padding-bottom: 0;
