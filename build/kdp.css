@@ -33,9 +33,9 @@ h1 {
     text-align: center;
     color: #2a1000;
     border-bottom: 1.5pt solid #8B1A1A;
-    padding-bottom: 8pt;
-    margin-top: 0.7in;
-    margin-bottom: 4pt;
+    padding-bottom: 4pt;
+    margin-top: 0.5in;
+    margin-bottom: 2pt;
     page-break-before: auto;
     page-break-after: avoid;
 }
@@ -87,8 +87,8 @@ h1 + p em {
     font-style: italic;
     color: #666;
     font-size: 9.5pt;
-    margin-top: 2pt;
-    margin-bottom: 14pt;
+    margin-top: 1pt;
+    margin-bottom: 5pt;
 }
 
 p.panchang-date {
@@ -196,8 +196,8 @@ tr:nth-child(even) td { background-color: #fdf9f2; }
     color: #999;
     font-style: italic;
     text-indent: 0;
-    margin-top: 2pt;
-    margin-bottom: 10pt;
+    margin-top: 1pt;
+    margin-bottom: 5pt;
     letter-spacing: 0.3pt;
 }
 

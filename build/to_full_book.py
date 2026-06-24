@@ -515,8 +515,8 @@ def build_css(roman: bool = False, lang: str = "en") -> str:
     lang_override = ""
     if lang != "en":
         lang_override = textwrap.dedent("""\
-            body       { font-size: 12pt; line-height: 14.0pt; }
-            blockquote { font-size: 12pt; line-height: 16.5pt; }
+            body       { font-size: 12pt; line-height: 15pt; }
+            blockquote { font-size: 12pt; line-height: 18pt; }
         """)
 
     return font_faces + "\n" + base_css + "\n" + page_override + "\n" + lang_override
