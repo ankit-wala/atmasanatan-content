@@ -466,7 +466,7 @@ def assemble_front_md(entries: list, lang: str, page_nums: dict) -> str:
 
 # ── CSS ────────────────────────────────────────────────────────────────────────
 
-def build_css(roman: bool = False) -> str:
+def build_css(roman: bool = False, lang: str = "en") -> str:
     """Generate PDF CSS.  roman=True for the front-matter PDF (Roman page numbers,
     title page suppressed); roman=False for the chapters PDF (Arabic from 1)."""
     kdp_css_path = os.path.join(BUILD_DIR, "kdp.css")
@@ -507,7 +507,19 @@ def build_css(roman: bool = False) -> str:
     """)
     if roman:
         page_override += "@page:first { @bottom-center { content: none; } }\n"
-    return font_faces + "\n" + base_css + "\n" + page_override
+
+    # Devanagari glyphs render visually smaller than Latin at the same pt size.
+    # Scale body + blockquote up by 1pt while pinning line-height as an absolute
+    # value (11pt × 1.4 = 15.4pt) so the line pitch — and therefore page count —
+    # stays identical to the English build.
+    lang_override = ""
+    if lang != "en":
+        lang_override = textwrap.dedent("""\
+            body       { font-size: 12pt; line-height: 14.0pt; }
+            blockquote { font-size: 12pt; line-height: 16.5pt; }
+        """)
+
+    return font_faces + "\n" + base_css + "\n" + page_override + "\n" + lang_override
 
 
 # ── Build steps ────────────────────────────────────────────────────────────────
@@ -622,7 +634,7 @@ def build_pdf(entries: list, lang: str, html_path: str, pdf_path: str) -> None:
     chap_html     = html_path.replace(".html", "-chapters.html")
     chap_pdf      = pdf_path.replace(".pdf",  "-chapters.pdf")
     with open(chap_css_path, "w") as f:
-        f.write(build_css(roman=False))
+        f.write(build_css(roman=False, lang=lang))
     _build_html(chap_md, chap_html, chap_css_path)
     print("  Rendering chapters PDF …")
     _run_weasyprint(chap_html, chap_pdf)
@@ -637,7 +649,7 @@ def build_pdf(entries: list, lang: str, html_path: str, pdf_path: str) -> None:
     front_html     = html_path.replace(".html", "-front.html")
     front_pdf      = pdf_path.replace(".pdf",  "-front.pdf")
     with open(front_css_path, "w") as f:
-        f.write(build_css(roman=True))
+        f.write(build_css(roman=True, lang=lang))
     _build_html(front_md, front_html, front_css_path)
     print("  Rendering front-matter PDF …")
     _run_weasyprint(front_html, front_pdf)
