@@ -22,8 +22,28 @@ import sys
 import textwrap
 from datetime import datetime
 
+import re
+
 sys.path.insert(0, os.path.dirname(__file__))
 from _corpus import SECTIONS, OUTPUT_DIR, load_entries
+
+# IAST diacritics that never appear in Devanagari/Hindi/Marathi/Gujarati text
+_IAST_RE = re.compile(r'[āīūṃṁṅñṭḍṇśṣḥṛḷĀĪŪṂṁṄÑṬḌṆŚṢḤṚ]')
+
+
+def strip_iast_lines(text: str) -> str:
+    """Remove standalone IAST transliteration lines for non-English builds."""
+    out = []
+    for line in text.splitlines():
+        s = line.strip()
+        # Always keep: empty lines, blockquotes, headings, bold labels, list items
+        if not s or s.startswith('>') or s.startswith('#') or s.startswith('**') or s.startswith('-'):
+            out.append(line)
+        elif _IAST_RE.search(s):
+            pass  # IAST transliteration line — drop it
+        else:
+            out.append(line)
+    return '\n'.join(out)
 
 # ── Curated 108 slugs — audience-tuned per language ──────────────────────────
 # Order is derived at runtime from date_2026: entries >= July 15 first
@@ -203,7 +223,7 @@ def front_matter(lang: str) -> str:
 
             ## इस पुस्तक का उपयोग कैसे करें
 
-            यह पुस्तक **15 जुलाई** से आरंभ होती है और हिन्दू पंचांग के अनुसार अगले जुलाई तक चलती है — ताकि आप प्रत्येक उत्सव से पहले उसे पढ़ सकें। प्रत्येक अध्याय में **महत्त्व** उत्सव को धार्मिक परंपरा में स्थापित करता है, **विधि** पूजन एवं व्रत की क्रमिक विधि देती है, और **मंत्र** देवनागरी, IAST एवं अर्थ सहित प्रमुख स्तोत्र प्रस्तुत करते हैं।
+            यह पुस्तक **15 जुलाई** से आरंभ होती है और हिन्दू पंचांग के अनुसार अगले जुलाई तक चलती है — ताकि आप प्रत्येक उत्सव से पहले उसे पढ़ सकें। प्रत्येक अध्याय में **महत्त्व** उत्सव को धार्मिक परंपरा में स्थापित करता है, **विधि** पूजन एवं व्रत की क्रमिक विधि देती है, और **मंत्र** देवनागरी एवं अर्थ सहित प्रमुख स्तोत्र प्रस्तुत करते हैं।
 
             प्रत्येक अध्याय के शीर्षक के नीचे 2026 और 2027 की तिथियाँ दी गई हैं — ताकि आप अगला उत्सव कब है, यह तुरंत देख सकें। पुस्तक के अंत में अनुक्रमणिका (Index) दी गई है जिसमें सभी 108 प्रविष्टियों के पृष्ठ क्रमांक हैं।
 
@@ -306,6 +326,8 @@ def format_chapter(entry, lang: str) -> str:
                 lines.append(f"\n{body}\n")
             else:
                 if sec == "Mantras":
+                    if lang != "en":
+                        body = strip_iast_lines(body)
                     body = add_mantra_linebreaks(body)
                 label = SECTION_LABELS.get(sec, sec)
                 lines.append(f"\n## {label}\n\n{body}\n")
