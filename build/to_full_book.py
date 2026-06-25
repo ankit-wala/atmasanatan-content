@@ -32,7 +32,7 @@ _IAST_RE = re.compile(r'[āīūṃṁṅñṭḍṇśṣḥṛḷĀĪŪṂṁṄ
 
 
 def strip_iast_lines(text: str) -> str:
-    """Remove standalone IAST transliteration lines for non-English builds."""
+    """Remove standalone IAST transliteration lines (all builds)."""
     out = []
     for line in text.splitlines():
         s = line.strip()
@@ -293,7 +293,7 @@ def front_matter(lang: str) -> str:
 
         ## How to Use This Book
 
-        This book opens on **July 15** and follows the Hindu calendar year through to the following July — so you can read ahead of each festival as it approaches. Each chapter covers one festival or vrat. **Significance** places it in the wider dharmic picture. **Vidhi** gives the step-by-step puja and fast. **Mantras** gives the key prayers with Devanagari script, IAST transliteration, and English meaning.
+        This book opens on **July 15** and follows the Hindu calendar year through to the following July — so you can read ahead of each festival as it approaches. Each chapter covers one festival or vrat. **Significance** places it in the wider dharmic picture. **Vidhi** gives the step-by-step puja and fast. **Mantras** gives the key prayers with Devanagari script and English meaning.
 
         Each chapter shows the 2026 and 2027 dates directly below its title — so you always know when the next occurrence falls. The index at the back lists all 108 festivals with page numbers.
 
@@ -326,8 +326,7 @@ def format_chapter(entry, lang: str) -> str:
                 lines.append(f"\n{body}\n")
             else:
                 if sec == "Mantras":
-                    if lang != "en":
-                        body = strip_iast_lines(body)
+                    body = strip_iast_lines(body)
                     body = add_mantra_linebreaks(body)
                 labels = SECTION_LABELS.get(lang, SECTION_LABELS["en"])
                 label = labels.get(sec, sec)

@@ -283,12 +283,36 @@ Translate `mr.md` and `gu.md` directly from `hi.md`, not from `en.md`.
 
 ## Publishing targets
 
-- **KDP (Kindle Direct Publishing)** — ebook (global) + print-on-demand paperback (US/global).
-  Use KDP Select for 70% royalty on Amazon.in (India); without Select, India ebooks earn 35%.
-- **Notion Press / Pothi.com** — Indian POD for local printing + Flipkart/physical retail.
-  Both are non-exclusive for paperbacks, so the same book can be on KDP + Notion Press/Pothi
-  simultaneously without conflict.
-- All three platforms are non-exclusive for paperbacks — publish everywhere in parallel.
+All platforms are non-exclusive for paperbacks — publish everywhere in parallel.
+
+### Channel split (decided June 2026)
+
+**KDP does not distribute print books to Amazon.in** — Amazon.in is not a supported KDP print
+marketplace. This means there is no conflict: each platform covers completely non-overlapping
+channels for print.
+
+| Format | Platform | Marketplaces |
+|--------|----------|--------------|
+| Kindle ebook | KDP (worldwide) | Amazon.com, Amazon.co.uk, Amazon.in Kindle store — one global Kindle listing |
+| Paperback + Hardcover | KDP | Amazon.com, Amazon.co.uk, Amazon.de, Amazon.ca, Amazon.com.au — global Amazon **except** India |
+| Paperback + Hardcover | Notion Press | Amazon.in + Flipkart + local Indian bookstores — India print exclusively |
+
+No territory exclusion needed in KDP settings — KDP simply won't appear on Amazon.in for print.
+Use different ISBNs per platform per format (two separate Amazon.in vs Amazon.com product pages,
+exactly like every traditionally published book with separate Indian and US editions).
+
+### Notion Press international pricing note
+Notion Press requires a **minimum $22 USD** for international sales, yielding only ~$2–3 royalty —
+worse than KDP at $12.99. Do **not** enable Notion Press international distribution; India-only
+channels only (Amazon.in + Flipkart + local retail). All global print sales go through KDP.
+
+### KDP pricing (US, 477 pages, 6×9, B&W — June 2026)
+- Paperback print cost: $1.00 + (477 × $0.012) = **$6.72**
+- Hardcover print cost: $6.80 + (477 × $0.012) = **$12.52**
+- At $12.99 paperback: royalty = 0.60 × ($12.99 − $6.72) = **$3.76/copy**
+- At $14.99 paperback: royalty = 0.60 × ($14.99 − $6.72) = **$4.96/copy**
+- At $24.99 hardcover: royalty = 0.60 × ($24.99 − $12.52) = **$7.48/copy**
+- Shipping: paid by buyer (free for Prime); does not affect author royalty calculation.
 
 ---
 
