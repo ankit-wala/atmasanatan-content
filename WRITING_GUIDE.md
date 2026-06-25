@@ -150,7 +150,7 @@ reel_hook: "Why did a tyrant king fear his own nephew before the child was even 
 - **reel_hook**: a question that creates suspense or curiosity. This is the opening of a
   30-second Instagram reel. Make it scroll-stopping.
 
-### 3b. `## Katha` — the story (300–700 words)
+### 3b. `## Katha` — the story (500–900 words)
 
 This is the most important section. Write it as **narrative prose** — not bullet points,
 not a summary, not a Wikipedia article. Tell the story.
@@ -208,6 +208,52 @@ know the story and they tell it. That is what we are doing.
 - Do NOT add the word "auspicious" more than once per entry (it is overused in this genre).
 - Sanskrit deity names use the familiar popular spelling (Krishna, not Kṛṣṇa) throughout
   the Katha prose. IAST is reserved for the Mantras section only.
+
+---
+
+### Elaboration rules (for expanding existing kathas)
+
+When elaborating an existing `hi.md` Katha from ~400 words to 650–800 words, these rules apply
+on top of all rules above. Elaboration is not rewriting — it is deepening what is already there.
+
+**What you may add (verified elaboration):**
+- The devotee's inner state — fear, longing, exhaustion, faith — inferred naturally from the
+  situation as described in the source. A devotee who has fasted for days is tired; a mother
+  praying for her child is anxious. These are not inventions — they are the human truth of the
+  situation the source describes.
+- The physical world of the scene — time of day, season, setting — if consistent with what the
+  source implies or states. Do not contradict the source's setting.
+- The weight of the divine moment — slow down the turning point. If the god appears, describe
+  what that presence felt like. This is a kathakaar's craft, not fabrication.
+- Dialogue that is directly stated or clearly implied by the source. If the source says "the
+  king asked for a boon," you may write that dialogue. Do not invent speeches the source does
+  not support.
+
+**What you must NOT add:**
+- Any event, character, sub-plot, or miracle not found in the scripture or tradition.
+- Any detail you cannot trace to the `sources:` list in `meta.yaml` or to widely accepted
+  traditional accounts (e.g. Bhagavata Purana, Skanda Purana, Valmiki Ramayana, Mahabharata).
+- If you are unsure whether a detail is from the tradition or your imagination — leave it out
+  and mark a `TODO-VERIFY` comment so it can be checked.
+
+**Seamless integration — no abrupt insertions:**
+New content must feel as if it was always part of the story, not stitched in. Read the passage
+before and after every addition and ask: does the prose flow naturally from one sentence to the
+next? Is the register the same — the rhythm, the vocabulary, the emotional pitch? If a new
+paragraph feels like it came from a different writer or a different tradition, rewrite until it
+doesn't. The reader must never sense a join.
+
+**Step-by-step verification before finalising:**
+1. Identify each new sentence or paragraph added in the elaboration.
+2. For each addition, ask: which source supports this? If it is atmospheric detail (not plot),
+   is it consistent with what the source describes?
+3. Cross-check character names, relationships, boon-text, and numbers against the existing
+   entry's `## Katha` and `meta.yaml sources:`. Nothing may contradict these.
+4. Read the full elaborated Katha aloud (mentally) — does it flow as one continuous story?
+5. Check the final word count: 500–900 words. Stop when the story is fully told, not at a
+   target number.
+
+---
 
 ### 3c. `## Significance` (100–200 words)
 
@@ -800,14 +846,18 @@ Batch procedure:
 
 | Section | Minimum | Target | Maximum |
 |---|---|---|---|
-| Katha | 250 | 400–550 | 700 |
+| Katha | 500 | 650–800 | 900 |
 | Significance | 80 | 120–180 | 250 |
 | Vidhi | 60 | 100–150 | 200 |
-| Observance (vrats) | 60 | 80–120 | 150 |
 | Mantras | 1 mantra | 1–2 mantras | 3 mantras |
-| **Total per entry** | ~500 | ~700–900 | ~1200 |
+| **Total per entry** | ~700 | ~950–1200 | ~1500 |
 
-At 800 words/entry × 108 entries = ~86,000 words = ~350–380 pages at 6×9.
+At 1000 words/entry × 108 entries = ~108,000 words ≈ 430–470 pages (Hindi, 6×9).
+
+**The word count is a guide, not a quota.** Do not pad a katha to hit 650 words if the story is
+fully told in 550. The test is: does the narrative have genuine texture — setting, emotional
+weight, the devotee's journey — or does it read like a plot summary? If the latter, it needs
+more. If it reads like a full story, it is done.
 
 ---
 

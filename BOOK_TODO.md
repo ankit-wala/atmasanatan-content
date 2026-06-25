@@ -247,15 +247,58 @@ gutter (0.75") than 6×9 at under 500 pages (0.625") — the thicker spine costs
 
 ---
 
-## Order of work (suggested)
+## 11. Hindi katha elaboration (all 108 entries) ← CURRENT PRIORITY
 
-1. Confirm 108 katha list (user review)
-2. Remove date bullets from Vidhi (bulk script)
-3. Add `date_2028` + verify dates (manual DrikPanchang work)
-4. Build `to_full_book.py` with July 15 ordering
-5. Write/finalise front + back matter
-6. QR code (once URL received)
-7. Generate final English PDF, proof-read
-8. Cover design
-9. Upload English → KDP + Notion Press + Pothi
-10. Hindi build + upload
+**Goal:** Expand the `## Katha` section in every `hi.md` from ~2 pages (~400–500 words) to
+3–4 pages (~650–800 words). Rules are in WRITING_GUIDE.md (elaboration rules section).
+
+**What elaboration means:**
+- Full emotional texture — the devotee's state of mind, the stakes, the turning moment
+- Natural dialogue where the source supports it (no invented speech)
+- Atmospheric setting details consistent with tradition
+- The journey, not just the miracle — show the devotion that earned the grace
+- No padding: if the story is fully told in 600 words, stop there
+
+**Workflow — phases of 5 entries:**
+- Each phase: elaborate 5 `hi.md` Katha sections → user reviews → approve/fix → next phase
+- After every 20 entries (4 phases): rebuild Hindi PDF, spot-check, confirm page count
+- All 108 Hindi kathas done → Hindi PDF finalised → **publish Hindi book**
+- Then return to English: re-translate elaborated hi.md → en.md → mr.md → gu.md
+
+**Phase tracker (22 phases × 5 = 108 + 3 final):**
+
+| Phase | Slugs | Status |
+|-------|-------|--------|
+| 1  | jagannath-rath-yatra · guru-purnima · shravan-somvar-vrat · somvar-vrat · nag-panchami | ☐ pending |
+| 2  | (next 5 — assign when Phase 1 approved) | — |
+| … | … | — |
+
+**Page budget:** Hindi 387pp → target ≤ 490pp after elaboration.
+
+---
+
+## 12. English book length reduction (parked)
+
+- [ ] Try **10.5pt body font, line-height 1.35** (currently 11pt / 1.4)
+- [ ] Estimated saving: ~20–25 pages (454pp → ~430pp)
+- [ ] Decision: revisit after Hindi elaboration is done and EN is re-translated from elaborated HI
+
+---
+
+## Order of work
+
+1. ~~Confirm 108 katha list~~ ✅
+2. ~~Remove date bullets from Vidhi~~ ✅
+3. ~~Build `to_full_book.py` with July 15 ordering~~ ✅
+4. **Hindi katha elaboration — 22 phases of 5 (§11)** ← NOW
+5. Finalise Hindi front + back matter (§6)
+6. QR code for Hindi (§7)
+7. Hindi cover design (§8)
+8. **Publish Hindi book** → KDP (ebook) + Notion Press (India print) + KDP global print
+9. — (pause English until Hindi is live) —
+10. Re-translate elaborated hi.md → en.md → mr.md → gu.md
+11. English font reduction to 10.5pt (§12)
+12. Finalise English front + back matter
+13. English cover design
+14. Publish English book
+15. Add `date_2028` to all entries (lower priority — next year)
