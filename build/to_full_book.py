@@ -159,15 +159,34 @@ SECTION_LABELS = {
 
 BUILD_DIR  = os.path.dirname(os.path.abspath(__file__))
 SAMPLE_DIR = os.path.join(BUILD_DIR, "sample")
-FONTS_DIR  = os.path.join(BUILD_DIR, "fonts", "Mangal")
+_NOTO_DIR = os.path.join(BUILD_DIR, "fonts", "NotoSerifDevanagari", "unhinted", "ttf")
 
-FONT_REGULAR = os.path.join(FONTS_DIR, "mangal.ttf")
-FONT_BOLD    = os.path.join(FONTS_DIR, "mangalb.ttf")
+FONT_REGISTRY = {
+    "noto": {
+        "name":    "NotoSerifDevanagari",
+        "regular": os.path.join(_NOTO_DIR, "NotoSerifDevanagari-Regular.ttf"),
+        "bold":    os.path.join(_NOTO_DIR, "NotoSerifDevanagari-Bold.ttf"),
+    },
+    "mangal": {
+        "name":    "Mangal",
+        "regular": os.path.join(BUILD_DIR, "fonts", "Mangal", "mangal.ttf"),
+        "bold":    os.path.join(BUILD_DIR, "fonts", "Mangal", "mangalb.ttf"),
+    },
+    "nirmala": {
+        "name":    "NirmalaUI",
+        "regular": os.path.join(BUILD_DIR, "fonts", "Nirmala", "NirmalaUI.ttf"),
+        "bold":    os.path.join(BUILD_DIR, "fonts", "Nirmala", "NirmalaUIB.ttf"),
+    },
+}
 
-# Noto Serif Devanagari kept for EPUB embedding only
-EPUB_FONTS_DIR  = os.path.join(BUILD_DIR, "fonts", "NotoSerifDevanagari", "unhinted", "ttf")
-EPUB_FONT_REGULAR = os.path.join(EPUB_FONTS_DIR, "NotoSerifDevanagari-Regular.ttf")
-EPUB_FONT_BOLD    = os.path.join(EPUB_FONTS_DIR, "NotoSerifDevanagari-Bold.ttf")
+# Resolved at runtime by --font; defaults to noto
+FONT_REGULAR = FONT_REGISTRY["noto"]["regular"]
+FONT_BOLD    = FONT_REGISTRY["noto"]["bold"]
+FONT_NAME    = FONT_REGISTRY["noto"]["name"]
+
+# EPUB always embeds Noto Serif Devanagari regardless of --font
+EPUB_FONT_REGULAR = FONT_REGISTRY["noto"]["regular"]
+EPUB_FONT_BOLD    = FONT_REGISTRY["noto"]["bold"]
 
 
 # ── Content helpers ────────────────────────────────────────────────────────────
@@ -487,14 +506,14 @@ def build_css(roman: bool = False, lang: str = "en") -> str:
     if os.path.exists(FONT_REGULAR):
         font_faces += (
             f"@font-face {{\n"
-            f"    font-family: 'Mangal';\n"
+            f"    font-family: '{FONT_NAME}';\n"
             f"    src: url('file://{FONT_REGULAR}');\n"
             f"    font-weight: normal;\n}}\n"
         )
     if os.path.exists(FONT_BOLD):
         font_faces += (
             f"@font-face {{\n"
-            f"    font-family: 'Mangal';\n"
+            f"    font-family: '{FONT_NAME}';\n"
             f"    src: url('file://{FONT_BOLD}');\n"
             f"    font-weight: bold;\n}}\n"
         )
@@ -525,11 +544,11 @@ def build_css(roman: bool = False, lang: str = "en") -> str:
     # stays identical to the English build.
     lang_override = ""
     if lang != "en":
-        lang_override = textwrap.dedent("""\
-            body       { font-size: 12pt; line-height: 16pt; font-family: 'Mangal', Georgia, serif; }
-            blockquote { font-size: 12pt; line-height: 19pt; }
-            .festival-index table { line-height: 1.45; }
-            h2         { font-size: 9.5pt; letter-spacing: 0.5pt; }
+        lang_override = textwrap.dedent(f"""\
+            body       {{ font-size: 12pt; line-height: 16pt; font-family: '{FONT_NAME}', Georgia, serif; }}
+            blockquote {{ font-size: 12pt; line-height: 19pt; }}
+            .festival-index table {{ line-height: 1.45; }}
+            h2         {{ font-size: 9.5pt; letter-spacing: 0.5pt; }}
         """)
 
     return font_faces + "\n" + base_css + "\n" + page_override + "\n" + lang_override
@@ -687,8 +706,16 @@ def build_pdf(entries: list, lang: str, html_path: str, pdf_path: str) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--lang", default="en", choices=["en", "hi", "mr", "gu"])
+    parser.add_argument("--font", default="noto", choices=list(FONT_REGISTRY),
+                        help="PDF body font (noto|mangal|nirmala). EPUB always uses noto.")
     args = parser.parse_args()
     lang = args.lang
+
+    global FONT_REGULAR, FONT_BOLD, FONT_NAME
+    _f = FONT_REGISTRY[args.font]
+    FONT_REGULAR = _f["regular"]
+    FONT_BOLD    = _f["bold"]
+    FONT_NAME    = _f["name"]
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
