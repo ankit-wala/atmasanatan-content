@@ -159,10 +159,15 @@ SECTION_LABELS = {
 
 BUILD_DIR  = os.path.dirname(os.path.abspath(__file__))
 SAMPLE_DIR = os.path.join(BUILD_DIR, "sample")
-FONTS_DIR  = os.path.join(BUILD_DIR, "fonts", "NotoSerifDevanagari", "unhinted", "ttf")
+FONTS_DIR  = os.path.join(BUILD_DIR, "fonts", "Mangal")
 
-FONT_REGULAR = os.path.join(FONTS_DIR, "NotoSerifDevanagari-Regular.ttf")
-FONT_BOLD    = os.path.join(FONTS_DIR, "NotoSerifDevanagari-Bold.ttf")
+FONT_REGULAR = os.path.join(FONTS_DIR, "mangal.ttf")
+FONT_BOLD    = os.path.join(FONTS_DIR, "mangalb.ttf")
+
+# Noto Serif Devanagari kept for EPUB embedding only
+EPUB_FONTS_DIR  = os.path.join(BUILD_DIR, "fonts", "NotoSerifDevanagari", "unhinted", "ttf")
+EPUB_FONT_REGULAR = os.path.join(EPUB_FONTS_DIR, "NotoSerifDevanagari-Regular.ttf")
+EPUB_FONT_BOLD    = os.path.join(EPUB_FONTS_DIR, "NotoSerifDevanagari-Bold.ttf")
 
 
 # ── Content helpers ────────────────────────────────────────────────────────────
@@ -482,14 +487,14 @@ def build_css(roman: bool = False, lang: str = "en") -> str:
     if os.path.exists(FONT_REGULAR):
         font_faces += (
             f"@font-face {{\n"
-            f"    font-family: 'NotoSerifDevanagari';\n"
+            f"    font-family: 'Mangal';\n"
             f"    src: url('file://{FONT_REGULAR}');\n"
             f"    font-weight: normal;\n}}\n"
         )
     if os.path.exists(FONT_BOLD):
         font_faces += (
             f"@font-face {{\n"
-            f"    font-family: 'NotoSerifDevanagari';\n"
+            f"    font-family: 'Mangal';\n"
             f"    src: url('file://{FONT_BOLD}');\n"
             f"    font-weight: bold;\n}}\n"
         )
@@ -521,7 +526,7 @@ def build_css(roman: bool = False, lang: str = "en") -> str:
     lang_override = ""
     if lang != "en":
         lang_override = textwrap.dedent("""\
-            body       { font-size: 12pt; line-height: 16pt; font-family: 'NotoSerifDevanagari', Georgia, serif; }
+            body       { font-size: 12pt; line-height: 16pt; font-family: 'Mangal', Georgia, serif; }
             blockquote { font-size: 12pt; line-height: 19pt; }
             .festival-index table { line-height: 1.45; }
             h2         { font-size: 9.5pt; letter-spacing: 0.5pt; }
@@ -621,10 +626,10 @@ def build_epub(combined_md: str, out_path: str, lang: str) -> None:
         "--css", epub_css,
         "-o", out_path,
     ]
-    if os.path.exists(FONT_REGULAR):
-        cmd += ["--epub-embed-font", FONT_REGULAR]
-    if os.path.exists(FONT_BOLD):
-        cmd += ["--epub-embed-font", FONT_BOLD]
+    if os.path.exists(EPUB_FONT_REGULAR):
+        cmd += ["--epub-embed-font", EPUB_FONT_REGULAR]
+    if os.path.exists(EPUB_FONT_BOLD):
+        cmd += ["--epub-embed-font", EPUB_FONT_BOLD]
     subprocess.run(cmd, input=combined_md.encode(), check=True)
 
 
