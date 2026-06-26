@@ -192,6 +192,7 @@ EPUB_FONT_BOLD    = FONT_REGISTRY["noto"]["bold"]
 # ── Content helpers ────────────────────────────────────────────────────────────
 
 def front_matter(lang: str) -> str:
+    _qr = f"file://{os.path.join(BUILD_DIR, 'app-qr.svg')}"
     if lang == "hi":
         return textwrap.dedent("""\
             ::: {.title-page}
@@ -250,7 +251,20 @@ def front_matter(lang: str) -> str:
 
             प्रत्येक अध्याय के शीर्षक के नीचे 2026 और 2027 की तिथियाँ दी गई हैं — ताकि आप अगला उत्सव कब है, यह तुरंत देख सकें। पुस्तक के अंत में अनुक्रमणिका (Index) दी गई है जिसमें सभी 108 प्रविष्टियों के पृष्ठ क्रमांक हैं।
 
-        """)
+            ::: {.app-page}
+
+            ## आत्म सनातन ऐप
+
+            इस पुस्तक की सभी कथाएँ **आत्म सनातन** ऐप पर भी उपलब्ध हैं —
+            ऑडियो, पंचांग और विस्तृत विधि के साथ।
+
+            ![](APP_QR_PATH){.app-qr}
+
+            **app.atmasanatan.com**
+
+            :::
+
+        """).replace("APP_QR_PATH", _qr)
     return textwrap.dedent("""\
         ::: {.title-page}
 
@@ -321,7 +335,20 @@ def front_matter(lang: str) -> str:
 
         Dates in this book are verified against the DrikPanchang. Tithi timings vary by location — always confirm on DrikPanchang before observing.
 
-    """)
+        ::: {.app-page}
+
+        ## Atma Sanatan App
+
+        All the kathas in this book are also available on the **Atma Sanatan** app —
+        with audio, panchang, and detailed vidhi.
+
+        ![](APP_QR_PATH){.app-qr}
+
+        **app.atmasanatan.com**
+
+        :::
+
+    """).replace("APP_QR_PATH", _qr)
 
 
 def format_chapter(entry, lang: str) -> str:

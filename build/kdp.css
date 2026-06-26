@@ -330,3 +330,39 @@ tr:nth-child(even) td { background-color: #f2f2f2; }
     text-indent: 0;
     margin-bottom: 7pt;
 }
+
+/* ── App page ───────────────────────────────────────────────────────────────── */
+.app-page {
+    page-break-before: always;
+    page-break-after: always;
+    text-align: center;
+    padding-top: 1.8in;
+}
+.app-page h2 {
+    font-size: 11pt;
+    font-weight: bold;
+    text-transform: none;
+    letter-spacing: 0.3pt;
+    color: #1a1a1a;
+    border-bottom: none;
+    margin-bottom: 14pt;
+}
+.app-page p {
+    text-indent: 0;
+    text-align: center;
+    font-size: 9.5pt;
+    color: #444;
+    line-height: 1.5;
+    margin-bottom: 14pt;
+}
+.app-page strong {
+    font-size: 10pt;
+    color: #1a1a1a;
+    letter-spacing: 0.3pt;
+}
+.app-qr {
+    width: 1.6in;
+    height: 1.6in;
+    display: block;
+    margin: 0 auto 12pt auto;
+}
