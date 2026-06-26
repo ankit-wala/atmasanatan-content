@@ -111,4 +111,4 @@ Oṃ namo bhagavate dhanvantaraye amṛtakalaśahastāya sarvāmaya vināśāya 
 
 Mṛtyunā pāśadaṇḍābhyāṃ kālena śyāmayā saha | tebhyo lokahitāya ca dīpo yama-prītaye ||
 
-अर्थ: "मृत्यु, पाश, दंड, काल और श्याम — इन यम-परिकरों की प्रसन्नता के लिए और लोक-हित के लिए यह दीप जलाया जाता है।"
+अर्थ: "मृत्यु, पाश, दंड, काल और श्याम — इन यमराज के साथियों की प्रसन्नता के लिए और लोक-हित के लिए यह दीप जलाया जाता है।"
