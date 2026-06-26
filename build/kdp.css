@@ -32,7 +32,7 @@ h1 {
     font-weight: bold;
     text-align: center;
     color: #2a1000;
-    border-bottom: 1.5pt solid #8B1A1A;
+    border-bottom: 1.5pt solid #333;
     padding-bottom: 4pt;
     margin-top: 0.5in;
     margin-bottom: 2pt;
@@ -45,8 +45,8 @@ h2 {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1.6pt;
-    color: #8B1A1A;
-    border-bottom: 0.5pt solid #e8d5c0;
+    color: #444;
+    border-bottom: 0.5pt solid #ccc;
     padding-bottom: 3pt;
     margin-top: 18pt;
     margin-bottom: 7pt;
@@ -116,8 +116,10 @@ blockquote {
     line-height: 1.65;
     margin: 6pt 4pt;
     padding: 5pt 10pt;
-    border-left: 2pt solid #8B1A1A;
-    background-color: #fdf9f2;
+    border-left: none;
+    border-top: 0.5pt solid #bbb;
+    border-bottom: 0.5pt solid #bbb;
+    background-color: transparent;
     color: #1a0800;
     page-break-inside: avoid;
     break-inside: avoid;
@@ -145,14 +147,14 @@ blockquote + p + p {
 
 hr {
     border: none;
-    border-top: 0.5pt solid #e8d5c0;
+    border-top: 0.5pt solid #ccc;
     width: 50%;
     margin: 8pt auto;
 }
 
 .chapter-end {
     text-align: center;
-    color: #8B1A1A;
+    color: #444;
     font-size: 10pt;
     letter-spacing: 6pt;
     margin: 8pt 0 10pt 0;
@@ -195,7 +197,7 @@ table {
     font-size: 9pt;
 }
 th {
-    background-color: #8B1A1A;
+    background-color: #333;
     color: #fff;
     padding: 4pt 7pt;
     text-align: left;
@@ -204,10 +206,10 @@ th {
 }
 td {
     padding: 4pt 7pt;
-    border-bottom: 0.5pt solid #e8d5c0;
+    border-bottom: 0.5pt solid #ccc;
     vertical-align: top;
 }
-tr:nth-child(even) td { background-color: #fdf9f2; }
+tr:nth-child(even) td { background-color: #f2f2f2; }
 
 #toc a { color: #2a1000; text-decoration: none; }
 
@@ -240,18 +242,18 @@ tr:nth-child(even) td { background-color: #fdf9f2; }
     line-height: 1.3;
 }
 /* Single rule below header; thead repeats on every page in WeasyPrint.
-   Override the general th rule (crimson bg + white text) for the index. */
+   Override the general th rule (dark bg + white text) for the index. */
 .festival-index thead th {
     background-color: transparent;
     font-size: 7.5pt;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.8pt;
-    color: #8B1A1A;
+    color: #333;
     border-top: none;
     border-left: none;
     border-right: none;
-    border-bottom: 1pt solid #8B1A1A;
+    border-bottom: 1pt solid #333;
     padding: 3pt 4pt 4pt 4pt;
 }
 /* No borders on body cells; light alternating grey rows */
