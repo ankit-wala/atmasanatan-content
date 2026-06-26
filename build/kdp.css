@@ -121,10 +121,16 @@ blockquote {
     break-after: avoid;
 }
 blockquote p { margin: 0; text-align: center; text-indent: 0; }
-/* keep mantra title (bold p) with the Devanagari blockquote */
+/* keep mantra title (bold p) with the Devanagari blockquote — both directions:
+   the blockquote won't break from the label, and the label won't break from
+   the blockquote (so if blockquote moves to next page, the label moves too) */
 p + blockquote {
     page-break-before: avoid;
     break-before: avoid;
+}
+p:has(+ blockquote) {
+    page-break-after: avoid;
+    break-after: avoid;
 }
 /* keep explanation on same page as mantra — even one line of explanation
    is enough; orphans:1 tells WeasyPrint not to require a minimum line count */
