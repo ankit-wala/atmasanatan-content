@@ -67,8 +67,8 @@ p {
     text-indent: 1.5em;
     text-align: justify;
     hyphens: auto;
-    orphans: 3;
-    widows: 3;
+    orphans: 2;
+    widows: 1;
 }
 /* keep subtitle, dates, and first 3 lines of content with chapter title.
    If the full chain doesn't fit, WeasyPrint floats the h1 to the next page. */
@@ -83,6 +83,10 @@ h1 + p, h1 + p + p {
 /* suppress indent only for structural/transition paragraphs and the chapter subtitle */
 h1 + p, blockquote + p, hr + p, .chapter-end + p {
     text-indent: 0;
+}
+/* section heading only starts on a page if at least 2 lines of content can follow */
+h2 + p {
+    orphans: 2;
 }
 
 /* subtitle line directly under chapter title */
@@ -117,8 +121,6 @@ blockquote {
     color: #1a0800;
     page-break-inside: avoid;
     break-inside: avoid;
-    page-break-after: avoid;
-    break-after: avoid;
 }
 blockquote p { margin: 0; text-align: center; text-indent: 0; }
 /* keep mantra title (bold p) with the Devanagari blockquote — both directions:
@@ -132,12 +134,10 @@ p:has(+ blockquote) {
     page-break-after: avoid;
     break-after: avoid;
 }
-/* keep explanation on same page as mantra — even one line of explanation
-   is enough; orphans:1 tells WeasyPrint not to require a minimum line count */
+/* explanation after mantra: allow it to flow freely, but never orphan just 1 line */
 blockquote + p {
-    page-break-before: avoid;
-    break-before: avoid;
-    orphans: 1;
+    orphans: 2;
+    widows: 1;
 }
 blockquote + p + p {
     orphans: 1;
