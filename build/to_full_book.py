@@ -495,7 +495,6 @@ def assemble(entries, lang: str) -> str:
         chapter = format_chapter(entry, lang)
         if chapter:
             parts.append(chapter)
-    parts.append(back_matter(lang))
     return "\n\n".join(parts)
 
 
@@ -507,7 +506,6 @@ def assemble_chapters_md(entries: list, lang: str) -> str:
         chapter = format_chapter(entry, lang)
         if chapter:
             parts.append(chapter)
-    parts.append(back_matter(lang))
     return "\n\n".join(parts)
 
 
@@ -733,13 +731,14 @@ def build_pdf(entries: list, lang: str, html_path: str, pdf_path: str) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--lang", default="en", choices=["en", "hi", "mr", "gu"])
-    parser.add_argument("--font", default="noto", choices=list(FONT_REGISTRY),
-                        help="PDF body font (noto|mangal|nirmala). EPUB always uses noto.")
+    parser.add_argument("--font", default=None, choices=list(FONT_REGISTRY),
+                        help="PDF body font (noto|mangal|nirmala). EPUB always uses noto. Defaults to nirmala for hi, noto otherwise.")
     args = parser.parse_args()
     lang = args.lang
 
     global FONT_REGULAR, FONT_BOLD, FONT_NAME
-    _f = FONT_REGISTRY[args.font]
+    font_key = args.font or ("nirmala" if lang == "hi" else "noto")
+    _f = FONT_REGISTRY[font_key]
     FONT_REGULAR = _f["regular"]
     FONT_BOLD    = _f["bold"]
     FONT_NAME    = _f["name"]
