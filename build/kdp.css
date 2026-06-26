@@ -116,17 +116,22 @@ blockquote {
     background-color: #fdf9f2;
     color: #1a0800;
     page-break-inside: avoid;
+    break-inside: avoid;
     page-break-after: avoid;
+    break-after: avoid;
 }
 blockquote p { margin: 0; text-align: center; text-indent: 0; }
 /* keep mantra title (bold p) with the Devanagari blockquote */
 p + blockquote {
     page-break-before: avoid;
+    break-before: avoid;
 }
-/* ensure at least one line of IAST follows the blockquote on the same page;
-   the meaning paragraph may flow freely — orphans:1 lets even one line stay */
+/* keep explanation on same page as mantra — even one line of explanation
+   is enough; orphans:1 tells WeasyPrint not to require a minimum line count */
 blockquote + p {
     page-break-before: avoid;
+    break-before: avoid;
+    orphans: 1;
 }
 blockquote + p + p {
     orphans: 1;
