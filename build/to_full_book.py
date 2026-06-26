@@ -249,7 +249,7 @@ def front_matter(lang: str) -> str:
 
             यह पुस्तक **15 जुलाई** से आरंभ होती है और हिन्दू पंचांग के अनुसार अगले जुलाई तक चलती है — ताकि आप प्रत्येक उत्सव से पहले उसे पढ़ सकें। प्रत्येक अध्याय में **महत्त्व** उत्सव को धार्मिक परंपरा में स्थापित करता है, **विधि** पूजन एवं व्रत की क्रमिक विधि देती है, और **मंत्र** देवनागरी एवं अर्थ सहित प्रमुख स्तोत्र प्रस्तुत करते हैं।
 
-            प्रत्येक अध्याय के शीर्षक के नीचे 2026 और 2027 की तिथियाँ दी गई हैं — ताकि आप अगला उत्सव कब है, यह तुरंत देख सकें। पुस्तक के अंत में अनुक्रमणिका (Index) दी गई है जिसमें सभी 108 प्रविष्टियों के पृष्ठ क्रमांक हैं।
+            प्रत्येक अध्याय के शीर्षक के नीचे 2026 और 2027 की तिथियाँ दी गई हैं — ताकि आप अगला उत्सव कब है, यह तुरंत देख सकें। पुस्तक के आरंभ में अनुक्रमणिका (Index) दी गई है जिसमें सभी 108 प्रविष्टियों के पृष्ठ क्रमांक हैं।
 
             ::: {.app-page}
 
@@ -332,7 +332,7 @@ def front_matter(lang: str) -> str:
 
         This book opens on **July 15** and follows the Hindu calendar year through to the following July — so you can read ahead of each festival as it approaches. Each chapter covers one festival or vrat. **Significance** places it in the wider dharmic picture. **Vidhi** gives the step-by-step puja and fast. **Mantras** gives the key prayers with Devanagari script and English meaning.
 
-        Each chapter shows the 2026 and 2027 dates directly below its title — so you always know when the next occurrence falls. The index at the back lists all 108 festivals with page numbers.
+        Each chapter shows the 2026 and 2027 dates directly below its title — so you always know when the next occurrence falls. The index at the front lists all 108 festivals with page numbers.
 
         Dates in this book are verified. Tithi timings vary by location — always confirm on the Atma Sanatan app before observing.
 
