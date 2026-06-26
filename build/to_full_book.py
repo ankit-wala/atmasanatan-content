@@ -543,8 +543,8 @@ def build_css(roman: bool = False, lang: str = "en") -> str:
     lang_override = ""
     if lang != "en":
         lang_override = textwrap.dedent(f"""\
-            body       {{ font-size: 12pt; line-height: 16pt; font-family: '{FONT_NAME}', Georgia, serif; }}
-            blockquote {{ font-size: 12pt; line-height: 19pt; }}
+            body       {{ font-size: 11pt; line-height: 16pt; font-family: '{FONT_NAME}', Georgia, serif; }}
+            blockquote {{ font-size: 11pt; line-height: 19pt; }}
             .festival-index table {{ line-height: 1.45; }}
             h2         {{ font-size: 9.5pt; letter-spacing: 0.5pt; }}
         """)
