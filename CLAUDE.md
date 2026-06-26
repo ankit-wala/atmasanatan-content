@@ -25,6 +25,13 @@ nothing drifts.
 - `hindusaar-web-backend/` — Django backend + DB + seeders (imports the seed JSON this repo emits).
 - `atmasanatan-assets/` — reel/carousel production tooling and marketing assets.
 
+### Atma Sanatan app — description (for book front matter and marketing copy)
+
+A companion app for all things devotional. Current features: bhajans, mantras, daily shlokas,
+rashifal, panchang, festivals calendar, and wallpapers — with more features coming soon.
+Kathas are a planned feature (will be added once book sales are underway).
+App URL: app.atmasanatan.com · Deep-link for book readers: app.atmasanatan.com/Yu6EECT
+
 ---
 
 ## Repository layout
