@@ -29,7 +29,7 @@ nothing drifts.
 
 A companion app for all things devotional. Current features: bhajans, mantras, daily shlokas,
 rashifal, panchang, festivals calendar, and wallpapers — with more features coming soon.
-Kathas are a planned feature (will be added once book sales are underway).
+Kathas will be live on the app by the time the book reaches buyers — do not say "coming soon" in book copy.
 App URL: app.atmasanatan.com · Deep-link for book readers: app.atmasanatan.com/Yu6EECT
 
 ---

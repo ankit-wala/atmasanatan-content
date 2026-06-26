@@ -255,10 +255,9 @@ def front_matter(lang: str) -> str:
 
             ## आत्म सनातन ऐप
 
-            इस पुस्तक की कथाएँ सुनने के लिए **आत्म सनातन** ऐप डाउनलोड करें —
-            कथाएँ शीघ्र ऐप पर उपलब्ध होंगी।
+            इस पुस्तक की कथाएँ सुनने के लिए **आत्म सनातन** ऐप डाउनलोड करें।
 
-            ऐप पर अभी उपलब्ध: भजन · मंत्र · दैनिक श्लोक · राशिफल · पंचांग · त्योहार · वॉलपेपर
+            भजन · मंत्र · दैनिक श्लोक · राशिफल · पंचांग · त्योहार · वॉलपेपर और बहुत कुछ
 
             ![](APP_QR_PATH){.app-qr}
 
@@ -341,10 +340,9 @@ def front_matter(lang: str) -> str:
 
         ## Atma Sanatan App
 
-        To listen to the kathas in this book, download the **Atma Sanatan** app —
-        kathas are coming to the app soon.
+        To listen to the kathas in this book, download the **Atma Sanatan** app.
 
-        Also on the app: bhajans · mantras · daily shlokas · rashifal · panchang · festivals · wallpapers
+        Bhajans · mantras · daily shlokas · rashifal · panchang · festivals · wallpapers and more
 
         ![](APP_QR_PATH){.app-qr}
 
