@@ -69,7 +69,7 @@ In the tradition of the Ganesha Purana, it is said that by hearing this katha of
 - **Morning puja:** Bathe and install the image or picture of Ekadanta Ganesha; perform panchopachara puja — water, fragrance, flowers, incense, lamp.
 - **Offerings:** Offer 21 (or 3) durva grass; offer red flowers; apply sindoor; offer modak or laddus as bhoga.
 - **Katha:** Hear the katha of Ekadanta Ganesha during puja.
-- **Evening:** Await moonrise; check the moonrise time for the tithi on DrikPanchang — that is the parana time.
+- **Evening:** Await moonrise; check the moonrise time for the tithi on the Atma Sanatan app — that is the parana time.
 - **Parana:** Upon sighting the moon, offer arghya with water in Ganesha's name; then break the fast with food.
 
 ## Mantras

@@ -45,8 +45,8 @@ Coming two weeks before Devshayani, this Ekadashi is a kind of preparation — a
 - **Puja:** Perform abhishek with panchamrita or clean water; offer tulsi leaves, yellow flowers, and a ghee diya — tulsi is especially dear to Vishnu.
 - **Evening:** Recite the Vishnu Sahasranama or the Ekadashi Mahatmya.
 - **Night vigil:** Stay awake in prayer if possible, singing bhajans through the night.
-- **Breaking the fast:** On Dwadashi, after sunrise but before the Dwadashi tithi ends — check DrikPanchang for the exact parana window for your location.
-- **Special note for 2026 parana:** Ekadashi tithi ends at 5:22 AM on July 11 — before sunrise — so the Dwadashi tithi is already running at sunrise; the parana window may be unusually narrow. Confirm on DrikPanchang.
+- **Breaking the fast:** On Dwadashi, after sunrise but before the Dwadashi tithi ends — check the Atma Sanatan app for the exact parana window for your location.
+- **Special note for 2026 parana:** Ekadashi tithi ends at 5:22 AM on July 11 — before sunrise — so the Dwadashi tithi is already running at sunrise; the parana window may be unusually narrow. Confirm on the Atma Sanatan app.
 
 ## Mantras
 

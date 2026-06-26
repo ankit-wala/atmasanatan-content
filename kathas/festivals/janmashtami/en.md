@@ -54,7 +54,7 @@ For devotees, Janmashtami is not only a birthday. It is a reminder that when dar
 - **Through the day:** sing bhajans or listen to the Bhagavata katha through the day and evening.
 - **At midnight — abhishek:** pour each of the five panchamrit items over the idol one by one reciting Krishna's name, then bathe with clean water; dress in fresh clothes and ornaments; offer flowers and tulsi.
 - **Midnight offerings:** place butter and makhan before the idol (his most beloved offering); light a ghee diya, ring a bell, sing the aarti; rock the cradle and announce: *"Nand Ghar Anand Bhayo, Jai Kanhaiya Lal Ki."*
-- **Breaking the fast:** properly after the midnight puja and ideally after sunrise on Navami; verify exact Ashtami/Navami timing on DrikPanchang — if Ashtami ends before midnight in a given year, parana rules may shift.
+- **Breaking the fast:** properly after the midnight puja and ideally after sunrise on Navami; verify exact Ashtami/Navami timing on the Atma Sanatan app — if Ashtami ends before midnight in a given year, parana rules may shift.
 - **Rohini nakshatra:** some families observe on whichever day carries Rohini nakshatra rather than Ashtami tithi — both practices are valid; follow your family or sampradaya's calendar.
 
 ## Mantras

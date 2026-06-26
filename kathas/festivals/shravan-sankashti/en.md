@@ -67,7 +67,7 @@ In the tradition of the Ganesha Purana, it is said that by hearing this katha of
 - **Diet:** Abstain from grains; fruit-based food (fruits, milk, sabudana) may be taken once during the day.
 - **Puja materials:** Modak or laddus, 21 durva grass, red flowers, sindura, ghee lamp.
 - **Morning puja:** Bathe and install the image or picture of Ganesha; perform panchopachara puja — water, fragrance, flowers, incense, lamp; offer 21 or 3 durva grass; offer modak or laddus as bhoga; hear the katha of Lambodara Ganesha.
-- **Evening:** Check the moonrise time for the tithi on DrikPanchang; await moonrise.
+- **Evening:** Check the moonrise time for the tithi on the Atma Sanatan app; await moonrise.
 - **Parana:** Upon sighting the moon, offer arghya with water and Ganesha's name; then break the fast with food.
 
 ## Mantras

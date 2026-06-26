@@ -49,7 +49,7 @@ Vishnu wakes from his rest on Devutthana Ekadashi (also called Prabodhini Ekadas
 - **Offerings:** Offer fresh flowers, tulsi leaves (especially dear to Vishnu — do not skip), and a ghee diya; perform abhishek with panchamrit or clean water while chanting Vishnu's names.
 - **Fasting:** Observe the fast through the day; grain, rice, wheat, dals, and legumes are forbidden; onion, garlic, leafy greens, and eggplant are also avoided in many traditions; fruit, milk, sabudana (sago), singhare ki roti, and sendha namak are allowed.
 - **Evening prayer:** Sing Vishnu bhajans or recite Vishnu Sahasranama in the evening; stay awake in prayer if possible, especially into the night.
-- **Breaking the fast (Dwadashi parana):** Break the fast after sunrise but before the Dwadashi tithi ends — always verify the exact parana window on DrikPanchang; offer food to a Brahmin or any hungry person before eating yourself.
+- **Breaking the fast (Dwadashi parana):** Break the fast after sunrise but before the Dwadashi tithi ends — always verify the exact parana window on the Atma Sanatan app; offer food to a Brahmin or any hungry person before eating yourself.
 - **Chaturmas sankalpa:** Many devotees use this day to take a four-month commitment — giving up a particular food, waking earlier, doing extra japa, or reading one scripture chapter daily; these commitments are released on Devutthana Ekadashi in Kartik.
 
 ## Mantras

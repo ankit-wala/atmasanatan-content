@@ -59,7 +59,7 @@ And Devutthana Ekadashi is the celebration of that inward journey's completion �
 - **Awakening the Lord:** Sound the conch and recite the Vishnu awakening mantra "Uttiṣṭha Govinda…" (given below); perform the jagaran-song accompanied by bells and conch.
 - **Vishnu puja:** Offer Tulsi leaves, yellow flowers, and panchamrit to the image or idol of Vishnu; perform Vishnu Sahasranama or Vishnu bhajans in the evening; if possible, stay awake through the night in kirtan — this jagaran is the special essence of this Ekadashi.
 - **Fasting:** Observe a full fast throughout the day; grains, rice, wheat, lentils, and legumes are forbidden; onion, garlic, and leafy vegetables are also avoided in many traditions; fruits, milk, sabudana, water chestnut flour, and rock salt may be consumed.
-- **Breaking the fast (Dwadashi parana):** Break the fast after sunrise and within the Dwadashi tithi; check the precise parana time on DrikPanchang; feed a brahmin or someone in need before breaking the fast yourself.
+- **Breaking the fast (Dwadashi parana):** Break the fast after sunrise and within the Dwadashi tithi; check the precise parana time on the Atma Sanatan app; feed a brahmin or someone in need before breaking the fast yourself.
 - **Tulsi Vivah:** On this day or on Dwadashi, arrange the Tulsi-Shaligram wedding at home, or participate in a Tulsi Vivah at a temple.
 - **Completion of Chaturmas sankalpa:** Devotees who took a Chaturmas sankalpa on Devshayani — a vow to give up something, daily recitation, simple eating — should consider that sankalpa fulfilled today, release it formally, and offer thanks to the Lord.
 

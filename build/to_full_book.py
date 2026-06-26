@@ -217,7 +217,7 @@ def front_matter(lang: str) -> str:
 
             **शास्त्र-स्रोत:** इस पुस्तक की कथाएँ वाल्मीकि रामायण, श्रीमद्भागवतम्, स्कंद पुराण, पद्म पुराण, ब्रह्म वैवर्त पुराण एवं अन्य पौराणिक ग्रंथों पर आधारित हैं।
 
-            **तिथियाँ:** सभी तिथियाँ DrikPanchang (drikpanchang.com) से सत्यापित हैं। तिथि का प्रारंभ एवं समापन स्थान के अनुसार भिन्न हो सकता है — व्रत से पूर्व DrikPanchang पर पुष्टि अवश्य करें।
+            **तिथियाँ:** सभी तिथियाँ सत्यापित हैं। तिथि का प्रारंभ एवं समापन स्थान के अनुसार भिन्न हो सकता है — व्रत से पूर्व Atma Sanatan ऐप के पंचांग से पुष्टि अवश्य करें।
 
             प्रकाशक: आत्म सनातन · प्रथम संस्करण, 2026
 
@@ -289,7 +289,7 @@ def front_matter(lang: str) -> str:
 
         **Scripture sources:** The kathas in this book draw on primary Hindu scriptural sources, including the Valmiki Ramayana, the Shrimad Bhagavatam, the Skanda Purana, the Padma Purana, the Brahma Vaivarta Purana, and other Puranic texts.
 
-        **Festival dates:** All dates in this book are verified against DrikPanchang (drikpanchang.com). Tithi timings vary by location — always confirm the exact timing on DrikPanchang before observing.
+        **Festival dates:** All dates in this book are verified. Tithi timings vary by location — always confirm the exact timing on the Atma Sanatan app before observing.
 
         Published by Atma Sanatan · First edition, 2026
 
@@ -334,7 +334,7 @@ def front_matter(lang: str) -> str:
 
         Each chapter shows the 2026 and 2027 dates directly below its title — so you always know when the next occurrence falls. The index at the back lists all 108 festivals with page numbers.
 
-        Dates in this book are verified against the DrikPanchang. Tithi timings vary by location — always confirm on DrikPanchang before observing.
+        Dates in this book are verified. Tithi timings vary by location — always confirm on the Atma Sanatan app before observing.
 
         ::: {.app-page}
 

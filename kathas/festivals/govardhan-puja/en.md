@@ -69,7 +69,7 @@ This story is not merely the story of a miracle. It carries a profound message:
 
 ## Vidhi
 
-- **Morning puja:** Govardhan Puja is performed in the morning; consult DrikPanchang for the precise auspicious hour within Kartik Shukla Pratipada.
+- **Morning puja:** Govardhan Puja is performed in the morning; consult the Atma Sanatan app for the precise auspicious hour within Kartik Shukla Pratipada.
 - **Govardhan form:** In the courtyard or outside the home, shape a form of Govardhan Hill from cow dung; decorate with flowers, leaves, and rangoli. Some families also make figures of Nanda Baba, cows, and Krishna.
 - **Annakut offering:** Prepare as many dishes as possible — traditionally the Chappan Bhog (fifty-six varieties) — and arrange them as an offering to the Lord.
 - **Materials:** Keep roli, akshat, flowers, a lamp, incense, water, and panchamrit ready; invoke Govardhan as a form of Krishna and worship with Panchopchar.

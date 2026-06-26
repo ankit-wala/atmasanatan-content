@@ -79,7 +79,7 @@ Both fall in the same month, but the spirit and the tithi of each are different.
 - **At dawn:** Bathe and install the image or picture of Dhumravarna Ganesha.
 - **Morning puja:** Perform panchopachara puja — water, fragrance, flowers, incense, lamp; offer 21 durva grass; offer modak or laddus as naivedya; hear the katha of Dhumravarna Ganesha.
 - **Materials:** Modak or laddus, 21 durva grass, red flowers, sindura, ghee lamp.
-- **Evening:** Check moonrise time for the tithi on DrikPanchang; await moonrise.
+- **Evening:** Check moonrise time for the tithi on the Atma Sanatan app; await moonrise.
 - **Breaking the fast:** Upon sighting the moon, offer arghya with water and Ganesha's name, then take food.
 - **Note:** On Bhadrapada Shukla Chaturthi (Ganesha Chaturthi) sighting the moon is prohibited; on this Sankashti (Krishna Chaturthi) sighting the moon is required — the rules of the two are different.
 

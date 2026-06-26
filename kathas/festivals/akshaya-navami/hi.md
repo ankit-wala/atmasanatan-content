@@ -113,4 +113,4 @@ Oṃ Namo Bhagavate Vāsudevāya
 
 *(परिक्रमा करते समय और भोजन से पूर्व इस मंत्र का जप करें।)*
 
-<!-- reviewed 2026-06-14: facts sound (Skanda Purana Vishnu-in-Amla tradition, Brahma-tears Amla origin, Akshaya meaning), pronoun usage clean (all वह/उसके refer to वृक्ष or demonstrative, named characters Vishnu/Narada use implicit or वे), all 5 sections present, katha ends with phala-shruti, mantras intact. Fix applied: removed quotation marks from अर्थ: lines in both mantras. date_2026/date_2027 remain TODO-VERIFY — do not publish until verified on DrikPanchang. -->
+<!-- reviewed 2026-06-14: facts sound (Skanda Purana Vishnu-in-Amla tradition, Brahma-tears Amla origin, Akshaya meaning), pronoun usage clean (all वह/उसके refer to वृक्ष or demonstrative, named characters Vishnu/Narada use implicit or वे), all 5 sections present, katha ends with phala-shruti, mantras intact. Fix applied: removed quotation marks from अर्थ: lines in both mantras. date_2026/date_2027 remain TODO-VERIFY — do not publish until verified on Atma Sanatan. -->

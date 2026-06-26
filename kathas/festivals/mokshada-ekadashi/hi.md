@@ -75,7 +75,7 @@ katha_elaborated: "2026-06-25"
 - **गीता-पाठ:** भगवद्गीता का पाठ करें — विशेषकर अध्याय 15 (पुरुषोत्तम योग); यदि सम्पूर्ण गीता न पढ़ सकें तो कम से कम अंतिम श्लोक (18.66) का पाठ और अर्थ-चिंतन अवश्य करें; परिवार में एक साथ बैठकर गीता-पाठ करें — यह गीता जयंती का सबसे सुंदर उत्सव है।
 - **पितृ-संकल्प:** संध्याकाल में जल-अर्पण करते हुए संकल्प करें — *"मोक्षदा एकादशी व्रत का पुण्य मैं अपने पितरों की मुक्ति के लिए अर्पित करता/करती हूँ;"* यदि नियमित श्राद्ध न हुआ हो तो तर्पण और पुण्य-संकल्प अवश्य करें।
 - **रात्रि:** भजन-कीर्तन या गीता का श्रवण करें।
-- **पारण:** द्वादशी को सूर्योदय के बाद और द्वादशी तिथि के भीतर पारण करें (सूर्योदय से पहले या द्वादशी समाप्ति के बाद पारण व्रत-भंग है); DrikPanchang पर उस वर्ष का पारण-काल अवश्य जाँचें; पारण से पहले किसी ब्राह्मण को या जरूरतमंद को भोजन कराएँ।
+- **पारण:** द्वादशी को सूर्योदय के बाद और द्वादशी तिथि के भीतर पारण करें (सूर्योदय से पहले या द्वादशी समाप्ति के बाद पारण व्रत-भंग है); Atma Sanatan ऐप पर उस वर्ष का पारण-काल अवश्य जाँचें; पारण से पहले किसी ब्राह्मण को या जरूरतमंद को भोजन कराएँ।
 
 ## Mantras
 
@@ -117,5 +117,5 @@ MANTRA FORMAT: Both mantras — Devanagari blockquote, plain IAST (no italics, n
 
 STRUCTURE: All five sections present in order (Katha · Significance · Vidhi · Observance · Mantras). Both narrative threads woven throughout. Phala-shruti citing Brahma Vaivarta Purana present at end of Katha (line beginning "ब्रह्म वैवर्त पुराण की परंपरा में...").
 
-ACTION REQUIRED BEFORE PUBLISHING: Verify date_2026 and date_2027 on DrikPanchang and fill meta.yaml fields. Then set status: published.
+ACTION REQUIRED BEFORE PUBLISHING: Verify date_2026 and date_2027 on Atma Sanatan and fill meta.yaml fields. Then set status: published.
 -->

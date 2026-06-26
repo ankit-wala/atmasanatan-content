@@ -12,7 +12,7 @@ Facts: Anasuya pativrata, three-devis urging test, bhikshuk condition, sankalpa 
 Pronouns: All named characters (Anasuya, Atri, Brahma, Vishnu, Shiva, Saraswati, Lakshmi, Parvati, Dattatreya) use they/them throughout.
 Structure: All five sections present. Phala-shruti cites Devi Bhagavata Purana. Mantras in Devanagari + plain IAST + plain Meaning:.
 Note: Atri-instructs-Anasuya restoration is a valid simplified telling; fuller version has the three devis returning — acceptable for this corpus level.
-Status set: reviewed. Dates remain TODO-VERIFY; do not publish until DrikPanchang check.
+Status set: reviewed. Dates remain TODO-VERIFY; do not publish until Atma Sanatan app check.
 -->
 
 ## Katha

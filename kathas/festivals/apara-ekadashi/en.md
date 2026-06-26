@@ -73,7 +73,7 @@ The katha of Mahidhvaja also tells us that a life lived by dharma is never spent
 - **Fasting:** Nirjal or on fruits — both are accepted; grains, lentils, wheat, rice, onion, garlic, leafy vegetables, and brinjal are prohibited; fruits, milk, sabudana, singhara, and rock salt may be taken; avoid anger, harsh speech, and untruth.
 - **Daytime observance:** Recite Vishnu Sahasranama, a chapter of the Bhagavad Gita, or chant "Om Namo Bhagavate Vasudevaya."
 - **Night vigil:** Spend the night in kirtan — chanting "Narayana… Narayana…" or "Om Namo Bhagavate Vasudevaya"; if any member of your family has died an untimely death, offer a prayer for their peace this night.
-- **Breaking the fast:** On Dwadashi morning, after sunrise and before the Dwadashi tithi ends; check the exact parana muhurta on DrikPanchang.
+- **Breaking the fast:** On Dwadashi morning, after sunrise and before the Dwadashi tithi ends; check the exact parana muhurta on the Atma Sanatan app.
 
 ## Mantras
 

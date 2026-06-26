@@ -66,7 +66,7 @@ In the tradition of the Ganesha Purana, it is said that by hearing this katha of
 - **Offerings:** Offer 21 or 3 blades of durva grass; offer modak or laddus as bhoga; hear the katha of Vikata Ganesha.
 - **Fasting:** From sunrise to moonrise; abstain from grains; fruit-based food (fruits, milk, sabudana) may be taken once; no parana before sighting the moon.
 - **Evening:** Await moonrise; upon sighting the moon, offer arghya with water and Ganesha's name; then break the fast.
-- **Note:** Check the moonrise time for the tithi on DrikPanchang — that is the binding time for parana.
+- **Note:** Check the moonrise time for the tithi on the Atma Sanatan app — that is the binding time for parana.
 
 ## Mantras
 

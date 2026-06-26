@@ -88,4 +88,4 @@ nirvighnaṃ kuru me deva sarvakāryeṣu sarvadā ||
 
 अर्थ: हे वक्रतुण्ड, विशाल काय, करोड़ों सूर्यों के समान तेजस्वी — हे देव, मेरे सभी कार्यों में सदा विघ्नों को दूर करें।
 
-<!-- review: 2026-06-14 — facts verified (panchang, deity, ritual sequence, folk katha consistency); pronoun audit passed (Ganesha→वे/उन्होंने throughout; unnamed characters→वह/उसने correct); structure complete (all 5 sections + phala-shruti); fix applied: removed italics from mantra inline in Vidhi §4; dates remain TODO-VERIFY pending DrikPanchang confirmation before publishing. status→reviewed. -->
+<!-- review: 2026-06-14 — facts verified (panchang, deity, ritual sequence, folk katha consistency); pronoun audit passed (Ganesha→वे/उन्होंने throughout; unnamed characters→वह/उसने correct); structure complete (all 5 sections + phala-shruti); fix applied: removed italics from mantra inline in Vidhi §4; dates remain TODO-VERIFY pending Atma Sanatan confirmation before publishing. status→reviewed. -->

@@ -76,7 +76,7 @@ In the tradition of the Ganesha Purana, it is said that by hearing this katha of
 - **Offerings:** Offer 21 or 3 durva grass to Ganesha; offer modak or laddus as bhoga.
 - **Katha:** Hear the katha of Ballal.
 - **Fasting:** Observe a fast from sunrise to moonrise; abstain from grains; fruit-based food (fruits, milk, sabudana) may be taken once.
-- **Evening — moonrise:** Check the moonrise time for that tithi on DrikPanchang; await moonrise and upon sighting the moon offer arghya with water and Ganesha's name.
+- **Evening — moonrise:** Check the moonrise time for that tithi on the Atma Sanatan app; await moonrise and upon sighting the moon offer arghya with water and Ganesha's name.
 - **Breaking the fast:** No parana before sighting the moon; after the moon arghya, take food.
 
 ## Mantras

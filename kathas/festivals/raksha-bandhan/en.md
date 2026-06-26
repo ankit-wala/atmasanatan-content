@@ -51,7 +51,7 @@ The spirit of the day remains the same. A sister's thread for her brother is a b
 
 - **For whom:** The sister observes this rite; brothers receive the rakhi.
 - **Fasting:** The sister fasts and breaks her fast only after tying the rakhi on her brother's wrist.
-- **Auspicious timing:** Tie the rakhi only after Bhadra kala has passed — tying during Bhadra is inauspicious (Bhavishya Purana, Skanda Purana); check DrikPanchang for the exact muhurta.
+- **Auspicious timing:** Tie the rakhi only after Bhadra kala has passed — tying during Bhadra is inauspicious (Bhavishya Purana, Skanda Purana); check the Atma Sanatan app for the exact muhurta.
 - **Preparation:** Seat the brother on an aasan (seat of honour); apply roli or kumkuma tilak on his forehead.
 - **Aarti:** Perform the aarti of the brother.
 - **Tying the rakhi:** Tie the rakhi on his right wrist while reciting the mantra; offer sweets.

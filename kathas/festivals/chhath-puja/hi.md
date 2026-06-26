@@ -93,6 +93,6 @@ All other checks passed:
   All "वह/उस" occurrences are demonstrative (referring to objects or places), not personal pronouns.
 - Structure: All 5 sections present in order. Phala-shruti present at end of Katha. Mantras intact.
 - Mantra format: No italics, no "IAST:" prefix. Plain IAST + plain अर्थ. Correct.
-- date_2026/date_2027 remain TODO-VERIFY — do not publish until verified on DrikPanchang.
+- date_2026/date_2027 remain TODO-VERIFY — do not publish until verified on Atma Sanatan.
 -->
 

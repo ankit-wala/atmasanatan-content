@@ -70,7 +70,7 @@ Among the twenty-four ekadashis, this is the only one whose merit can be offered
 - **Gita recitation:** Recite the Bhagavad Gita — especially Chapter 15 (Purushottama Yoga); if the complete Gita cannot be read, recite at minimum verse 18.66 and contemplate its meaning; listening to or reciting the Gita earns merit equal to the pilgrimage of every sacred tirtha.
 - **Sankalpa for ancestors:** At dusk, while offering water (tarpan), make the sankalpa — *"I dedicate the merit of the Mokshada Ekadashi vrat to the liberation of my ancestors"*; if regular shraddha has not been performed, this is a special opportunity to offer merit in the name of one's forebears.
 - **Night vigil:** Spend the night in bhajan-kirtan or listening to the Gita.
-- **Parana (Dwadashi):** Perform parana after sunrise and within the Dwadashi tithi — consult DrikPanchang for the parana muhurta; parana before sunrise or after the Dwadashi tithi ends breaks the vrat; before parana, offer a meal to a brahmin or someone in need.
+- **Parana (Dwadashi):** Perform parana after sunrise and within the Dwadashi tithi — consult the Atma Sanatan app for the parana muhurta; parana before sunrise or after the Dwadashi tithi ends breaks the vrat; before parana, offer a meal to a brahmin or someone in need.
 
 ## Mantras
 
