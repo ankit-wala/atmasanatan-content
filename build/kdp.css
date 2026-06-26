@@ -153,10 +153,16 @@ hr {
     page-break-before: avoid;
 }
 
-/* invocation page (sample book front matter only) */
+/* invocation — its own page, content pushed to visual vertical center */
 .invocation {
     text-align: center;
-    margin: 30pt auto;
+    margin: 0;
+    padding-top: 2.5in;
+    page-break-after: always;
+}
+.invocation p {
+    text-align: center;
+    text-indent: 0;
 }
 .invocation blockquote {
     border: none;
