@@ -81,7 +81,7 @@ h1 + p, h1 + p + p {
 }
 
 /* suppress indent only for structural/transition paragraphs and the chapter subtitle */
-h1 + p, blockquote + p, hr + p, .chapter-end + p {
+h1 + p, blockquote + p, .chapter-end + p {
     text-indent: 0;
 }
 /* section heading only starts on a page if at least 2 lines of content can follow */
@@ -146,7 +146,9 @@ blockquote + p + p {
 }
 
 hr {
-    display: none;
+    border: none;
+    height: 0;
+    margin: 10pt 0;
 }
 
 .chapter-end {
