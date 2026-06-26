@@ -1,0 +1,212 @@
+ Ph | Slug                                       | Before |  After |  Added
+---------------------------------------------------------------------------
+  1 | jagannath-rath-yatra                       |    468 |    614 |    146
+  1 | guru-purnima                               |    569 |    595 |     26
+  1 | shravan-somvar-vrat                        |    373 |    511 |    138
+  1 | somvar-vrat                                |    452 |    459 |      7
+  1 | nag-panchami                               |    383 |    560 |    177
+    |                        ── phase avg added: |   2245 |   2739 |     99
+
+  2 | devshayani-ekadashi                        |    527 |    626 |     99
+  2 | jaya-parvati-vrat                          |    490 |    553 |     63
+  2 | kokila-vrat                                |    461 |    508 |     47
+  2 | shravan-sankashti                          |    488 |    550 |     62
+  2 | ravivar-vrat                               |    547 |    573 |     26
+    |                        ── phase avg added: |   2513 |   2810 |     59
+
+  3 | solah-somvar-vrat                          |    391 |    502 |    111
+  3 | mangala-gauri-vrat                         |    374 |    465 |     91
+  3 | shravana-putrada-ekadashi                  |    419 |    523 |    104
+  3 | som-pradosh                                |    281 |    491 |    210
+  3 | onam                                       |    812 |    812 |      0
+    |                        ── phase avg added: |   2277 |   2793 |    103
+
+  4 | varalakshmi-vrat                           |    287 |    393 |    106
+  4 | raksha-bandhan                             |    310 |    337 |     27
+  4 | satyanarayan-adhyaya-1                     |    466 |    486 |     20
+  4 | masik-satyanarayan                         |    299 |    341 |     42
+  4 | kajari-teej                                |    267 |    329 |     62
+    |                        ── phase avg added: |   1629 |   1886 |     51
+
+  5 | bhadrapada-sankashti                       |    621 |    621 |      0
+  5 | hal-shashthi                               |    311 |    381 |     70
+  5 | sheetala-satam                             |    373 |    423 |     50
+  5 | janmashtami                                |    778 |    778 |      0
+  5 | aja-ekadashi                               |    563 |    646 |     83
+    |                        ── phase avg added: |   2646 |   2849 |     41
+
+  6 | bhaum-pradosh                              |    239 |    374 |    135
+  6 | pola                                       |    478 |    478 |      0
+  6 | ramdevji-jayanti                           |    707 |    707 |      0
+  6 | hartalika-teej                             |    630 |    630 |      0
+  6 | ganesh-chaturthi-janma                     |    633 |    633 |      0
+    |                        ── phase avg added: |   2687 |   2822 |     27
+
+  7 | ganesh-chaturthi-syamantaka                |    858 |    858 |      0
+  7 | swarna-gowri-vrat                          |    396 |    459 |     63
+  7 | rishi-panchami                             |    317 |    405 |     88
+  7 | mangalvar-vrat                             |    337 |    395 |     58
+  7 | radha-ashtami                              |    335 |    335 |      0
+    |                        ── phase avg added: |   2243 |   2452 |     42
+
+  8 | parivartini-ekadashi                       |    492 |    543 |     51
+  8 | vamana-jayanti                             |    355 |    381 |     26
+  8 | anant-chaturdashi                          |    449 |    482 |     33
+  8 | ashwin-sankashti                           |    434 |    455 |     21
+  8 | jivitputrika                               |    351 |    395 |     44
+    |                        ── phase avg added: |   2081 |   2256 |     35
+
+  9 | indira-ekadashi                            |    322 |    369 |     47
+  9 | mahalaya-pitru-paksha                      |    414 |    489 |     75
+  9 | navratri-shailputri                        |    345 |    398 |     53
+  9 | navratri-brahmacharini                     |    404 |    432 |     28
+  9 | navratri-chandraghanta                     |    550 |    550 |      0
+    |                        ── phase avg added: |   2035 |   2238 |     41
+
+ 10 | navratri-kushmanda                         |    404 |    418 |     14
+ 10 | budhvar-vrat                               |    509 |    548 |     39
+ 10 | navratri-skandamata                        |    472 |    518 |     46
+ 10 | navratri-katyayani                         |    500 |    500 |      0
+ 10 | shukravar-santoshi                         |    560 |    560 |      0
+    |                        ── phase avg added: |   2445 |   2544 |     20
+
+ 11 | shukravar-lakshmi                          |    465 |    536 |     71
+ 11 | vaibhav-lakshmi-vrat                       |    504 |    540 |     36
+ 11 | navratri-kalaratri                         |    436 |    530 |     94
+ 11 | navratri-mahagauri                         |    474 |    474 |      0
+ 11 | navratri-siddhidatri                       |    551 |    645 |     94
+    |                        ── phase avg added: |   2430 |   2725 |     59
+
+ 12 | vijayadashami                              |    389 |    454 |     65
+ 12 | papankusha-ekadashi                        |    434 |    489 |     55
+ 12 | sharad-purnima                             |    501 |    501 |      0
+ 12 | valmiki-jayanti                            |    807 |    807 |      0
+ 12 | kartik-snan-mahatmya                       |    539 |    585 |     46
+    |                        ── phase avg added: |   2670 |   2836 |     33
+
+ 13 | karwa-chauth                               |    493 |    576 |     83
+ 13 | kartik-sankashti                           |    474 |    474 |      0
+ 13 | ahoi-ashtami                               |    506 |    506 |      0
+ 13 | rama-ekadashi                              |    636 |    676 |     40
+ 13 | govatsa-dwadashi                           |    366 |    366 |      0
+    |                        ── phase avg added: |   2475 |   2598 |     25
+
+ 14 | dhanteras                                  |    557 |    605 |     48
+ 14 | narak-chaturdashi                          |    410 |    454 |     44
+ 14 | diwali                                     |    411 |    444 |     33
+ 14 | govardhan-puja                             |    645 |    645 |      0
+ 14 | bhai-dooj                                  |    430 |    454 |     24
+    |                        ── phase avg added: |   2453 |   2602 |     30
+
+ 15 | chitragupta-puja                           |    449 |    504 |     55
+ 15 | brihaspativar-vrat                         |    459 |    494 |     35
+ 15 | chhath-puja                                |    525 |    577 |     52
+ 15 | skanda-shashthi                            |    526 |    562 |     36
+ 15 | gopashtami                                 |    399 |    433 |     34
+    |                        ── phase avg added: |   2358 |   2570 |     42
+
+ 16 | akshaya-navami                             |    460 |    495 |     35
+ 16 | devutthana-ekadashi                        |    387 |    486 |     99
+ 16 | tulsi-vivah                                |    669 |    706 |     37
+ 16 | dev-diwali                                 |    599 |    639 |     40
+ 16 | satyanarayan-adhyaya-2                     |    482 |    520 |     38
+    |                        ── phase avg added: |   2597 |   2846 |     50
+
+ 17 | karthigai-deepam                           |    657 |    692 |     35
+ 17 | margashirsha-sankashti                     |    440 |    469 |     29
+ 17 | shanivar-vrat                              |    799 |    839 |     40
+ 17 | kalabhairav-jayanti                        |    445 |    476 |     31
+ 17 | utpanna-ekadashi                           |    545 |    608 |     63
+    |                        ── phase avg added: |   2886 |   3084 |     40
+
+ 18 | shani-pradosh                              |    279 |    319 |     40
+ 18 | vivah-panchami                             |    591 |    625 |     34
+ 18 | champa-shashthi                            |    440 |    465 |     25
+ 18 | mokshada-ekadashi                          |    453 |    470 |     17
+ 18 | ekadashi-mahatmya                          |    456 |    512 |     56
+    |                        ── phase avg added: |   2219 |   2391 |     34
+
+ 19 | dattatreya-jayanti                         |    442 |    459 |     17
+ 19 | satyanarayan-adhyaya-3                     |    493 |    565 |     72
+ 19 | saphala-ekadashi                           |    400 |    472 |     72
+ 19 | pausha-putrada-ekadashi                    |    489 |    611 |    122
+ 19 | shakambhari-purnima                        |    409 |    467 |     58
+    |                        ── phase avg added: |   2233 |   2574 |     68
+
+ 20 | sakat-chauth                               |    496 |    552 |     56
+ 20 | magha-sankashti                            |    369 |    458 |     89
+ 20 | lohri                                      |    348 |    399 |     51
+ 20 | makar-sankranti                            |    602 |    651 |     49
+ 20 | shattila-ekadashi                          |    463 |    495 |     32
+    |                        ── phase avg added: |   2278 |   2555 |     55
+
+ 21 | mauni-amavasya                             |    442 |    495 |     53
+ 21 | vasant-panchami                            |    440 |    505 |     65
+ 21 | ratha-saptami                              |    459 |    520 |     61
+ 21 | bhishma-ashtami                            |    453 |    497 |     44
+ 21 | jaya-ekadashi                              |    472 |    530 |     58
+    |                        ── phase avg added: |   2266 |   2547 |     56
+
+ 22 | magha-purnima                              |    477 |    596 |    119
+ 22 | satyanarayan-adhyaya-4                     |    563 |    589 |     26
+ 22 | phalguna-sankashti                         |    397 |    525 |    128
+ 22 | vijaya-ekadashi                            |    462 |    537 |     75
+ 22 | pradosh-vrat                               |    404 |    445 |     41
+    |                        ── phase avg added: |   2303 |   2692 |     78
+
+ 23 | maha-shivaratri                            |    502 |    578 |     76
+ 23 | phulera-dooj                               |    323 |    357 |     34
+ 23 | amalaki-ekadashi                           |    470 |    513 |     43
+ 23 | holika-dahan                               |    572 |    572 |      0
+ 23 | chaitra-sankashti                          |    396 |    448 |     52
+    |                        ── phase avg added: |   2263 |   2468 |     41
+
+ 24 | rangpanchami                               |    384 |    442 |     58
+ 24 | sheetala-ashtami                           |    497 |    548 |     51
+ 24 | papmochani-ekadashi                        |    626 |    690 |     64
+ 24 | gudi-padwa                                 |    384 |    437 |     53
+ 24 | gangaur                                    |    475 |    516 |     41
+    |                        ── phase avg added: |   2366 |   2633 |     53
+
+ 25 | ram-navami                                 |    536 |    598 |     62
+ 25 | kamada-ekadashi                            |    604 |    655 |     51
+ 25 | hanuman-jayanti                            |    773 |    828 |     55
+ 25 | vaishakha-sankashti                        |    524 |    576 |     52
+ 25 | varuthini-ekadashi                         |    535 |    603 |     68
+    |                        ── phase avg added: |   2972 |   3260 |     58
+
+ 26 | akshaya-tritiya                            |    594 |    691 |     97
+ 26 | parashurama-jayanti                        |    690 |    780 |     90
+ 26 | akshaya-tritiya-parashuram                 |    637 |    716 |     79
+ 26 | ganga-saptami                              |    455 |    541 |     86
+ 26 | sita-navami                                |    577 |    667 |     90
+    |                        ── phase avg added: |   2953 |   3395 |     88
+
+ 27 | mohini-ekadashi                            |    513 |    599 |     86
+ 27 | narasimha-jayanti                          |    601 |    684 |     83
+ 27 | buddha-purnima                             |    580 |    667 |     87
+ 27 | satyanarayan-adhyaya-5                     |    570 |    656 |     86
+ 27 | jyeshtha-sankashti                         |    517 |    607 |     90
+    |                        ── phase avg added: |   2781 |   3213 |     86
+
+ 28 | apara-ekadashi                             |    594 |    686 |     92
+ 28 | vat-savitri-vrat                           |    809 |    876 |     67
+ 28 | shani-jayanti                              |    791 |    878 |     87
+ 28 | ganga-dussehra                             |    775 |    851 |     76
+ 28 | somvati-amavasya                           |    391 |    471 |     80
+    |                        ── phase avg added: |   3360 |   3762 |     80
+
+ 29 | nirjala-ekadashi                           |    513 |    593 |     80
+ 29 | gayatri-jayanti                            |    430 |    510 |     80
+ 29 | nirjala-gayatri-jayanti                    |    374 |    444 |     70
+ 29 | vat-purnima                                |    835 |    910 |     75
+ 29 | ashadha-sankashti                          |    580 |    656 |     76
+    |                        ── phase avg added: |   2732 |   3113 |     76
+
+ 30 | yogini-ekadashi                            |    459 |    532 |     73
+ 30 | kamika-ekadashi                            |    323 |    392 |     69
+ 30 | masik-shivaratri                           |    432 |    499 |     67
+ 30 | hariyali-amavasya                          |    535 |    604 |     69
+ 30 | hariyali-teej                              |    322 |    398 |     76
+    |                        ── phase avg added: |   2071 |   2425 |     71
+

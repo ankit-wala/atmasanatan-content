@@ -247,33 +247,63 @@ gutter (0.75") than 6×9 at under 500 pages (0.625") — the thicker spine costs
 
 ---
 
-## 11. Hindi katha elaboration (all 108 entries) ← CURRENT PRIORITY
+## 11. Katha elaboration — all 150 entries ← CURRENT PRIORITY
 
-**Goal:** Expand the `## Katha` section in every `hi.md` from ~2 pages (~400–500 words) to
-3–4 pages (~650–800 words). Rules are in WRITING_GUIDE.md (elaboration rules section).
+**Scope:** All 150 hi.md Katha sections. Hindi first (feeds the book), then re-translate to en/mr/gu.
+
+**Goal:** Expand each `## Katha` section from ~400–500 words to ~600–650 where content
+genuinely supports it. Rules are in WRITING_GUIDE.md (elaboration rules section).
 
 **What elaboration means:**
 - Full emotional texture — the devotee's state of mind, the stakes, the turning moment
 - Natural dialogue where the source supports it (no invented speech)
 - Atmospheric setting details consistent with tradition
 - The journey, not just the miracle — show the devotion that earned the grace
-- No padding: if the story is fully told in 600 words, stop there
+- No padding: if a story is fully told in 550 words, stop there; don't invent to reach a target
 
 **Workflow — phases of 5 entries:**
 - Each phase: elaborate 5 `hi.md` Katha sections → user reviews → approve/fix → next phase
 - After every 20 entries (4 phases): rebuild Hindi PDF, spot-check, confirm page count
-- All 108 Hindi kathas done → Hindi PDF finalised → **publish Hindi book**
-- Then return to English: re-translate elaborated hi.md → en.md → mr.md → gu.md
+- All 108 Hindi-book kathas done → Hindi PDF finalised → **publish Hindi book**
+- Remaining 42 kathas (English-only etc.) elaborated for EN translation pass
+- Then re-translate all elaborated hi.md → en.md → mr.md → gu.md
 
-**Phase tracker (22 phases × 5 = 108 + 3 final):**
+**Phase tracker (30 phases × 5 = 150 total):**
 
 | Phase | Slugs | Status |
 |-------|-------|--------|
-| 1  | jagannath-rath-yatra · guru-purnima · shravan-somvar-vrat · somvar-vrat · nag-panchami | ☐ pending |
-| 2  | (next 5 — assign when Phase 1 approved) | — |
-| … | … | — |
+| 1  | jagannath-rath-yatra · guru-purnima · shravan-somvar-vrat · somvar-vrat · nag-panchami | ✅ done |
+| 2  | devshayani-ekadashi · jaya-parvati-vrat · kokila-vrat · shravan-sankashti · ravivar-vrat | ✅ done |
+| 3  | solah-somvar-vrat · mangala-gauri-vrat · shravana-putrada-ekadashi · som-pradosh · onam | ✅ done |
+| 4  | varalakshmi-vrat · raksha-bandhan · satyanarayan-adhyaya-1 · masik-satyanarayan · kajari-teej | ✅ done |
+| 5  | bhadrapada-sankashti · hal-shashthi · sheetala-satam · janmashtami · aja-ekadashi | ✅ done |
+| 6  | bhaum-pradosh · pola · ramdevji-jayanti · hartalika-teej · ganesh-chaturthi-janma | ✅ done |
+| 7  | ganesh-chaturthi-syamantaka · swarna-gowri-vrat · rishi-panchami · mangalvar-vrat · radha-ashtami | ✅ done |
+| 8  | parivartini-ekadashi · vamana-jayanti · anant-chaturdashi · ashwin-sankashti · jivitputrika | ✅ done |
+| 9  | indira-ekadashi · mahalaya-pitru-paksha · navratri-shailputri · navratri-brahmacharini · navratri-chandraghanta | ✅ done |
+| 10 | navratri-kushmanda · budhvar-vrat · navratri-skandamata · navratri-katyayani · shukravar-santoshi | ✅ done |
+| 11 | shukravar-lakshmi · vaibhav-lakshmi-vrat · navratri-kalaratri · navratri-mahagauri · navratri-siddhidatri | ✅ done |
+| 12 | vijayadashami · papankusha-ekadashi · sharad-purnima · valmiki-jayanti · kartik-snan-mahatmya | ✅ done |
+| 13 | karwa-chauth · kartik-sankashti · ahoi-ashtami · rama-ekadashi · govatsa-dwadashi | ✅ done |
+| 14 | dhanteras · narak-chaturdashi · diwali · govardhan-puja · bhai-dooj | ✅ done |
+| 15 | chitragupta-puja · brihaspativar-vrat · chhath-puja · skanda-shashthi · gopashtami | ✅ done |
+| 16 | akshaya-navami · devutthana-ekadashi · tulsi-vivah · dev-diwali · satyanarayan-adhyaya-2 | ✅ done |
+| 17 | karthigai-deepam · margashirsha-sankashti · shanivar-vrat · kalabhairav-jayanti · utpanna-ekadashi | ✅ done |
+| 18 | shani-pradosh · vivah-panchami · champa-shashthi · mokshada-ekadashi · ekadashi-mahatmya | ✅ done |
+| 19 | dattatreya-jayanti · satyanarayan-adhyaya-3 · saphala-ekadashi · pausha-putrada-ekadashi · shakambhari-purnima | ✅ done |
+| 20 | sakat-chauth · magha-sankashti · lohri · makar-sankranti · shattila-ekadashi | ✅ done |
+| 21 | mauni-amavasya · vasant-panchami · ratha-saptami · bhishma-ashtami · jaya-ekadashi | ✅ done |
+| 22 | magha-purnima · satyanarayan-adhyaya-4 · phalguna-sankashti · vijaya-ekadashi · pradosh-vrat | ✅ done |
+| 23 | maha-shivaratri · phulera-dooj · amalaki-ekadashi · holika-dahan · chaitra-sankashti | ✅ done |
+| 24 | rangpanchami · sheetala-ashtami · papmochani-ekadashi · gudi-padwa · gangaur | ✅ done |
+| 25 | ram-navami · kamada-ekadashi · hanuman-jayanti · vaishakha-sankashti · varuthini-ekadashi | ✅ done |
+| 26 | akshaya-tritiya · parashurama-jayanti · akshaya-tritiya-parashuram · ganga-saptami · sita-navami | ✅ done |
+| 27 | mohini-ekadashi · narasimha-jayanti · buddha-purnima · satyanarayan-adhyaya-5 · jyeshtha-sankashti | ✅ done |
+| 28 | apara-ekadashi · vat-savitri-vrat · shani-jayanti · ganga-dussehra · somvati-amavasya | ✅ done |
+| 29 | nirjala-ekadashi · gayatri-jayanti · nirjala-gayatri-jayanti · vat-purnima · ashadha-sankashti | ✅ done |
+| 30 | yogini-ekadashi · kamika-ekadashi · masik-shivaratri · hariyali-amavasya · hariyali-teej | ✅ done |
 
-**Page budget:** Hindi 387pp → target ≤ 490pp after elaboration.
+**Page budget:** Hindi 390pp → target ≤ 500pp after all 150 elaborated.
 
 ---
 

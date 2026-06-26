@@ -846,7 +846,7 @@ Batch procedure:
 
 | Section | Minimum | Target | Maximum |
 |---|---|---|---|
-| Katha | 500 | 650–800 | 900 |
+| Katha | 500 | 600–650 | 900 |
 | Significance | 80 | 120–180 | 250 |
 | Vidhi | 60 | 100–150 | 200 |
 | Mantras | 1 mantra | 1–2 mantras | 3 mantras |
