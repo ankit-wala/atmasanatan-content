@@ -146,10 +146,7 @@ blockquote + p + p {
 }
 
 hr {
-    border: none;
-    border-top: 0.5pt solid #ccc;
-    width: 50%;
-    margin: 8pt auto;
+    display: none;
 }
 
 .chapter-end {
@@ -182,6 +179,9 @@ hr {
     margin: 10pt auto;
 }
 .invocation hr {
+    display: block;
+    border: none;
+    border-top: 0.5pt solid #ccc;
     width: 35%;
     margin: 12pt auto;
 }
