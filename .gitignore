@@ -1,6 +1,9 @@
 # Build outputs (generated from canonical source — never hand-edit, never commit)
 build/output/
 
+# Cover — generated output (regenerate with build/build_cover.py)
+cover/front-cover-300dpi.png
+
 # Python
 __pycache__/
 *.py[cod]
