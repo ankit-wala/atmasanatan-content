@@ -168,14 +168,12 @@ GRADIENT_TWILIGHT = [
     (1.00, [192, 32, 16]),
 ]
 
-# Variant B — Deep Maroon (near-black indigo → dark burgundy)
-# Inspired by reference: very dark, rich bottom like a sacred manuscript cover
+# Variant B — Deep Maroon (near-black → rich maroon, 3-stop clean gradient)
+# Matches reference book cover: no purple/violet band, just dark → warm maroon
 GRADIENT_MAROON = [
-    (0.00, [  4,  1, 18]),
-    (0.35, [ 18,  5, 48]),
-    (0.55, [ 35,  6, 58]),
-    (0.80, [ 72,  8, 20]),
-    (1.00, [ 48,  5, 12]),
+    (0.00, [  6,  2, 12]),   # near-black (faint warm undertone)
+    (0.45, [ 45,  8, 16]),   # transition — bias toward maroon early
+    (1.00, [ 88, 12, 20]),   # rich deep maroon
 ]
 
 if __name__ == "__main__":
