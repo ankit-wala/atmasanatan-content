@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 0 / 108**
+**Progress: 1 / 108**
 
 ---
 
@@ -43,7 +43,7 @@ Add notes inline if changes were requested / made.
 |  32 | hartalika-teej              | [ ]      | |
 |  33 | holika-dahan                | [ ]      | |
 |  34 | indira-ekadashi             | [ ]      | |
-|  35 | jagannath-rath-yatra        | [ ]      | |
+|  35 | jagannath-rath-yatra        | [x]      | दारु ब्रह्म explanation in brackets; Indradyumna tapasya elaborated; वरदान→संकल्प + secrecy context added to God's speech; Gundicha explained before naming; Bahuda etymology added; mantra translation metaphor clarified |
 |  36 | janmashtami                 | [ ]      | |
 |  37 | jaya-ekadashi               | [ ]      | |
 |  38 | jaya-parvati-vrat           | [ ]      | |
