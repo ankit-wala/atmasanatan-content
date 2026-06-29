@@ -208,8 +208,28 @@ Design: back-matter table with columns — **Festival | Page | 2026 | 2027 | 202
 
 ## 8. Cover design
 
-- [ ] Design front cover, spine, back cover — in `atmasanatan-assets/` repo
-- [ ] KDP cover spec: 6×9, 300 DPI, PDF or high-res JPG, spine width = page count × paper thickness
+### Hindi wraparound cover — Notion Press ✅ DONE
+
+- [x] **Front cover** — `build/build_cover.py` → `cover/front-cover-300dpi-maroon.png`
+  - 1800×2700px, 300 DPI, near-black → deep maroon gradient (3-stop)
+  - AI scene (Varaha) + gold ornate frame + NotoSerifDevanagari Black title (१०८ / व्रत कथाएँ)
+  - Dynamic text sizing fills frame-bottom → 75px safe zone
+- [x] **Back cover** — `build/build_full_cover.py --back` → `cover/back-cover-300dpi.png`
+  - Same maroon gradient; Atma Sanatan logo (white-bg removed), Hindi description, 5 bullets
+  - Atharva Veda verse + attribution + Hindi meaning; publisher block (आत्म सनातन + website)
+  - Barcode zone reserved (bottom-right, x 1100–1725, y 2185–2625)
+- [x] **Spine** — 280×2700px (0.934" for 420pp cream paper)
+  - १०८ व्रत कथाएँ, NotoSerifDevanagari Black gold, CCW rotation; आत्म सनातन at bottom
+- [x] **Full wraparound assembled** — `build/build_full_cover.py` → `cover/full-cover-300dpi.png` + `.pdf`
+  - 3964×2784px (13.212"×9.278"), 42px bleed each side — matches Notion Press template exactly
+- [x] Cover spec: 6×9, 300 DPI, PDF — Notion Press compliant
+
+### Remaining cover tasks
+
+- [ ] **Install img2pdf** (`/usr/bin/pip3 install img2pdf`) and rebuild PDF for lossless output before submission
+- [ ] **Upload to Notion Press** and pass the online cover checker
+- [ ] **KDP cover** — KDP uses a slightly different bleed template; rebuild or crop from full cover PNG for KDP submission (KDP accepts 300 DPI PNG/JPG as well as PDF)
+- [ ] **English cover** — front cover title needs "108 Vrat Katha" in English; back cover in English — design separately when ready to publish English edition
 
 ### Trim size decision — 6×9 confirmed ✅
 
@@ -315,20 +335,89 @@ genuinely supports it. Rules are in WRITING_GUIDE.md (elaboration rules section)
 
 ---
 
+---
+
+## 13. Final upload checklist — Hindi edition
+
+Complete these in order before submitting to Notion Press or KDP.
+
+### A. Interior PDF — curation & review
+
+- [ ] **Rebuild interior PDF** — `to_full_book.py --lang hi` — confirm no build errors
+- [ ] **Page count check** — expect 390–430pp; if over 450, revisit font/spacing
+- [ ] **Front matter review** (open PDF, check each page visually):
+  - [ ] Title page: correct title, subtitle, publisher ("Atma Sanatan"), year (2026)
+  - [ ] Copyright page: rights statement, scripture attribution, DrikPanchang credit
+  - [ ] Invocation page: Devanagari renders cleanly, no font fallback boxes
+  - [ ] Introduction: no broken references ("Observance" should not appear — should say "Vidhi")
+  - [ ] How to Use: references match actual section names (Katha / Significance / Vidhi / Mantras)
+- [ ] **Random sample — 10 kathas** (open PDF, spot-check):
+  - [ ] No mantra split across a page break
+  - [ ] No section heading isolated at bottom of page (widow heading)
+  - [ ] Bold labels in Vidhi section render correctly
+  - [ ] Devanagari conjuncts render without fallback boxes (especially ज्ञ, क्ष, त्र, श्र)
+  - [ ] IAST lines have been stripped (should not appear in any chapter)
+- [ ] **Index check:**
+  - [ ] Back-matter index table present with Festival | 2026 | 2027 | Page columns
+  - [ ] Spot-check 5 entries: page numbers match actual chapter pages
+  - [ ] Spot-check 5 dates: 2026 and 2027 dates are correct vs DrikPanchang
+- [ ] **Back matter:**
+  - [ ] About Atma Sanatan page present
+  - [ ] App page ("Continue Your Practice") present — QR code embedded (§7 must be done first)
+
+### B. Cover PDF — production quality
+
+- [ ] **Install img2pdf** (one-time):
+  ```bash
+  /usr/bin/pip3 install img2pdf
+  ```
+- [ ] **Rebuild full cover** — `build/build_full_cover.py` — confirm "img2pdf — lossless" in output (not "PIL fallback")
+- [ ] **Verify cover PDF dimensions**: 13.212" × 9.278" at 300 DPI — open in Preview → Tools → Show Inspector → confirm
+- [ ] **Visual check on cover PDF**: back cover text legible, no clipping at bleed edges, spine text readable
+
+### C. Notion Press upload (India print — Amazon.in + Flipkart)
+
+- [ ] Log in / create Notion Press account
+- [ ] Start new book → select "Black & White, Cream paper, 6×9"
+- [ ] Upload interior PDF → wait for processing → confirm page count matches
+- [ ] Upload full wraparound cover PDF (`full-cover-300dpi.pdf`)
+- [ ] Pass Notion Press cover checker (flag any safe-zone violations)
+- [ ] Set title, author, description (use Hindi back cover description)
+- [ ] Set price (INR) — research competitive pricing for devotional books (~₹299–399)
+- [ ] Distribution: Amazon.in + Flipkart + local retail only (do NOT enable international — see CLAUDE.md)
+- [ ] Order a physical proof copy before wide release
+
+### D. KDP upload (global print + Kindle ebook)
+
+- [ ] **Paperback cover** — KDP uses its own bleed template; regenerate or use `full-cover-300dpi.png` and let KDP's cover uploader crop; verify in KDP previewer
+- [ ] Upload interior PDF → KDP online previewer → confirm rendering
+- [ ] Set publisher name: **"Atma Sanatan"** (text field, no registration required)
+- [ ] Set categories: Religion & Spirituality → Hinduism
+- [ ] Set keywords (7): व्रत कथा, festival vrat, Hindu fasting, puja vidhi, vrat katha hindi, festival stories, Hindu observances
+- [ ] Pricing: $12.99 paperback (royalty ~$3.76 at 477pp) — or $14.99 for ~$4.96
+- [ ] **Kindle ebook**: upload `full-hi.epub` → set price (₹199–299 INR / $4.99 USD)
+- [ ] Preview ebook on KDP Kindle previewer — verify Devanagari, images, ToC
+- [ ] Submit; allow 24–72 hrs for review
+
+---
+
 ## Order of work
 
 1. ~~Confirm 108 katha list~~ ✅
 2. ~~Remove date bullets from Vidhi~~ ✅
 3. ~~Build `to_full_book.py` with July 15 ordering~~ ✅
-4. **Hindi katha elaboration — 22 phases of 5 (§11)** ← NOW
-5. Finalise Hindi front + back matter (§6)
-6. QR code for Hindi (§7)
-7. Hindi cover design (§8)
-8. **Publish Hindi book** → KDP (ebook) + Notion Press (India print) + KDP global print
-9. — (pause English until Hindi is live) —
-10. Re-translate elaborated hi.md → en.md → mr.md → gu.md
-11. English font reduction to 10.5pt (§12)
-12. Finalise English front + back matter
-13. English cover design
-14. Publish English book
-15. Add `date_2028` to all entries (lower priority — next year)
+4. ~~Hindi katha elaboration — all 30 phases of 5 (§11)~~ ✅
+5. ~~Hindi cover design — front + spine + back + full PDF (§8)~~ ✅
+6. **Finalise Hindi front + back matter (§6)** ← NOW
+   - About Atma Sanatan page
+   - App page ("Continue Your Practice") with QR code
+7. QR code for Hindi (§7) — get app URL, generate PNG, embed in §6 app page
+8. Install img2pdf + upload cover PDF to Notion Press; pass cover checker
+9. **Publish Hindi book** → KDP (ebook) + Notion Press (India print) + KDP global print
+10. — (pause English until Hindi is live) —
+11. Re-translate elaborated hi.md → en.md → mr.md → gu.md
+12. English font reduction to 10.5pt (§12)
+13. Finalise English front + back matter
+14. English cover design (§8 — English edition)
+15. Publish English book
+16. Add `date_2028` to all entries (lower priority — next year)
