@@ -192,17 +192,16 @@ Design: back-matter table with columns — **Festival | Page | 2026 | 2027 | 202
 
 ### Back matter
 - [ ] Full index table: Festival | Page | 2026 | 2027 | 2028 (see §5)
-- [ ] About Atma Sanatan page
-- [ ] App page: "Continue Your Practice" — QR code + App Store / Play Store links (QR URL TBD — user to provide)
+- [x] About Atma Sanatan page
+- [x] App page: "Continue Your Practice" — QR code + App Store / Play Store links
 
 ---
 
-## 7. QR code
+## 7. QR code ✅ DONE
 
-- [ ] Get app URL from user (ideally a short redirect link, e.g. `atmasanatan.in/app`, so the QR never goes stale)
-- [ ] Generate high-res QR code image (300 DPI, PNG) — `pip install qrcode[pil]`
-- [ ] Embed in "Get the App" back matter page
-- [ ] Test scan on printed/previewed PDF
+- [x] App deep-link URL confirmed: `app.atmasanatan.com/Yu6EECT`
+- [x] High-res QR code generated (300 DPI, PNG) and embedded in "Continue Your Practice" back matter page
+- [x] Tested scan on printed/previewed PDF
 
 ---
 
@@ -408,11 +407,9 @@ Complete these in order before submitting to Notion Press or KDP.
 3. ~~Build `to_full_book.py` with July 15 ordering~~ ✅
 4. ~~Hindi katha elaboration — all 30 phases of 5 (§11)~~ ✅
 5. ~~Hindi cover design — front + spine + back + full PDF (§8)~~ ✅
-6. **Finalise Hindi front + back matter (§6)** ← NOW
-   - About Atma Sanatan page
-   - App page ("Continue Your Practice") with QR code
-7. QR code for Hindi (§7) — get app URL, generate PNG, embed in §6 app page
-8. Install img2pdf + upload cover PDF to Notion Press; pass cover checker
+6. ~~Finalise Hindi front + back matter (§6)~~ ✅
+7. ~~QR code for Hindi (§7)~~ ✅
+8. **Install img2pdf + curate interior PDF + upload to Notion Press** ← NOW
 9. **Publish Hindi book** → KDP (ebook) + Notion Press (India print) + KDP global print
 10. — (pause English until Hindi is live) —
 11. Re-translate elaborated hi.md → en.md → mr.md → gu.md
