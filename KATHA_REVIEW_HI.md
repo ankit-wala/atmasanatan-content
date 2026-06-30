@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 1 / 108**
+**Progress: 4 / 108**
 
 ---
 
@@ -24,7 +24,7 @@ Add notes inline if changes were requested / made.
 |  13 | chitragupta-puja            | [ ]      | |
 |  14 | dattatreya-jayanti          | [ ]      | |
 |  15 | dev-diwali                  | [ ]      | |
-|  16 | devshayani-ekadashi         | [ ]      | |
+|  16 | devshayani-ekadashi         | [x]      | Shankhasura story removed; replaced with Padma Purana Vamana-Bali narrative; yoganidra = promise to Bali; drought cause reframed without casteism; Bali introduced as "प्रह्लाद के पौत्र"; sources updated in meta.yaml |
 |  17 | devutthana-ekadashi         | [ ]      | |
 |  18 | dhanteras                   | [ ]      | |
 |  19 | diwali                      | [ ]      | |
@@ -37,7 +37,7 @@ Add notes inline if changes were requested / made.
 |  26 | gopashtami                  | [ ]      | |
 |  27 | govardhan-puja              | [ ]      | |
 |  28 | gudi-padwa                  | [ ]      | |
-|  29 | guru-purnima                | [ ]      | |
+|  29 | guru-purnima                | [x]      | Satyavati identified as Shantanu's future queen in brackets; "नहीं हुआ"→"नहीं लिखा"; Vyasa परंपरा line clarified; fixed Devshayani Ekadashi timing (4 days before, not after); spacing in भगवद् गीता + श्रीमद् भागवत |
 |  30 | hal-shashthi                | [ ]      | |
 |  31 | hanuman-jayanti             | [ ]      | |
 |  32 | hartalika-teej              | [ ]      | |
@@ -46,7 +46,7 @@ Add notes inline if changes were requested / made.
 |  35 | jagannath-rath-yatra        | [x]      | दारु ब्रह्म explanation in brackets; Indradyumna tapasya elaborated; वरदान→संकल्प + secrecy context added to God's speech; Gundicha explained before naming; Bahuda etymology added; mantra translation metaphor clarified |
 |  36 | janmashtami                 | [ ]      | |
 |  37 | jaya-ekadashi               | [ ]      | |
-|  38 | jaya-parvati-vrat           | [ ]      | |
+|  38 | jaya-parvati-vrat           | [x]      | Added Parvati's intent (परम, not ऐश्वर्यवान) before love declaration; attire change gracefully reworded; Gujarat→all young women in Significance; Vishnu removed from Saptarishis speech; context for why Shiva added |
 |  39 | jivitputrika                | [ ]      | |
 |  40 | jyeshtha-sankashti          | [ ]      | |
 |  41 | kalabhairav-jayanti         | [ ]      | |
