@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 4 / 108**
+**Progress: 6 / 108**
 
 ---
 
@@ -89,7 +89,7 @@ Add notes inline if changes were requested / made.
 |  78 | raksha-bandhan              | [ ]      | |
 |  79 | ram-navami                  | [ ]      | |
 |  80 | ramdevji-jayanti            | [ ]      | |
-|  81 | ravivar-vrat                | [ ]      | |
+|  81 | ravivar-vrat                | [x]      | Katha rewritten: Samba story (Samba Purana) replaces Shibhavati folk tale; Durvasa curse → 12-yr Surya tapasya → cure in Chandrabhaga; Samba Pura temple; Surya Arogya Mantra added; meta.yaml sources updated |
 |  82 | rishi-panchami              | [ ]      | |
 |  83 | sakat-chauth                | [ ]      | |
 |  84 | satyanarayan-adhyaya-1      | [ ]      | |
@@ -101,7 +101,7 @@ Add notes inline if changes were requested / made.
 |  90 | sharad-purnima              | [ ]      | |
 |  91 | sheetala-ashtami            | [ ]      | |
 |  92 | sheetala-satam              | [ ]      | |
-|  93 | shravan-sankashti           | [ ]      | |
+|  93 | shravan-sankashti           | [x]      | Origin: "विक्षोभ" framing + Shukracharya naming added; all Krodhasur pronouns → वह/उसे; source "गणेश पुराण" → "मुद्गल पुराण"; Brahma's speech: why-Ganesha added; "Atma Sanatan" → "आत्म सनातन"; meta.yaml scripture_ref updated |
 |  94 | shravan-somvar-vrat         | [ ]      | |
 |  95 | shukravar-lakshmi           | [ ]      | |
 |  96 | sita-navami                 | [ ]      | |
