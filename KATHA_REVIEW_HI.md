@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 6 / 108**
+**Progress: 7 / 108**
 
 ---
 
@@ -102,11 +102,11 @@ Add notes inline if changes were requested / made.
 |  91 | sheetala-ashtami            | [ ]      | |
 |  92 | sheetala-satam              | [ ]      | |
 |  93 | shravan-sankashti           | [x]      | Origin: "विक्षोभ" framing + Shukracharya naming added; all Krodhasur pronouns → वह/उसे; source "गणेश पुराण" → "मुद्गल पुराण"; Brahma's speech: why-Ganesha added; "Atma Sanatan" → "आत्म सनातन"; meta.yaml scripture_ref updated |
-|  94 | shravan-somvar-vrat         | [ ]      | |
+|  94 | shravan-somvar-vrat         | [x]      | प्रभास bracket added (सौराष्ट्र/सोमनाथ); सोमराज=चंद्रदेव bracket clarified; Chandra backstory paragraph simplified (removed वैवस्वत मन्वंतर, added Daksha-shrap context); पुष्कर/केदार bracket added in phala-shruti |
 |  95 | shukravar-lakshmi           | [ ]      | |
 |  96 | sita-navami                 | [ ]      | |
-|  97 | solah-somvar-vrat           | [ ]      | |
-|  98 | somvar-vrat                 | [ ]      | |
+|  97 | kokila-vrat                 | —        | Replaced solah-somvar-vrat (3 Monday vrats on same date was redundant); kokila-vrat has Sati-as-cuckoo story — no overlap with other entries |
+|  98 | somvar-vrat                 | [ ]      | Reordered before shravan-somvar-vrat (meta order 105→6); Chandra-Daksha story is referenced in shravan-somvar-vrat so must come first |
 |  99 | somvati-amavasya            | [ ]      | |
 | 100 | tulsi-vivah                 | [ ]      | |
 | 101 | utpanna-ekadashi            | [ ]      | |

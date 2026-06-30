@@ -110,7 +110,7 @@ SLUGS_108_HI = {
     "satyanarayan-adhyaya-2", "shakambhari-purnima", "shani-jayanti",
     "shani-pradosh", "shanivar-vrat", "sharad-purnima", "sheetala-ashtami",
     "sheetala-satam", "shravan-sankashti", "shravan-somvar-vrat",
-    "shukravar-lakshmi", "sita-navami", "solah-somvar-vrat", "somvar-vrat",
+    "shukravar-lakshmi", "sita-navami", "kokila-vrat", "somvar-vrat",
     "somvati-amavasya", "tulsi-vivah", "utpanna-ekadashi", "vaishakha-sankashti",
     "valmiki-jayanti", "vamana-jayanti", "vasant-panchami", "vat-savitri-vrat",
     "vijayadashami", "vivah-panchami",
