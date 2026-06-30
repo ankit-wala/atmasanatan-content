@@ -125,6 +125,10 @@ Full schema is in `CONTENT_FORMAT.md` — read it before creating or editing ent
   date verified.
 - **Sources required.** Every factual/scriptural claim should trace to an entry in `meta.yaml`
   `sources:`. Prefer primary scripture (Valmiki Ramayana, Padma Purana, etc.) + DrikPanchang.
+  **Trusted research domains (in order):** en.wikipedia.org (overview + citation trail) →
+  wisdomlib.org (primary Purana translations) → vedabase.io (Bhagavatam) →
+  sacred-texts.com → gitapress.org (Hindi) → hinduism.stackexchange.com (tracing obscure refs).
+  See WRITING_GUIDE.md §1b for full guidance on using each.
 - **Never hand-edit `build/output/`.** It is generated and gitignored. Change the canonical
   source, then rebuild.
 - **`slug` is the join key** across book, seed, and reels. Unique, lowercase-hyphenated, matches

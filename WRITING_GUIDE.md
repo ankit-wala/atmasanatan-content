@@ -32,14 +32,29 @@ That is your primary source. Go there before writing a single word.
 
 ### 1b. Find the source text
 
-**Free online (English):**
+**Start here — overview + source trail:**
+- [en.wikipedia.org](https://en.wikipedia.org/) — **use as a research launchpad, not a final
+  source.** Wikipedia's festival and Purana articles are generally reliable for the broad story
+  arc, and crucially they cite their references (Purana + chapter). Use Wikipedia to quickly
+  identify which Purana/Khanda/chapter covers the katha, then go to that source directly via
+  wisdomlib or sacred-texts. Do not quote Wikipedia in `sources:` — quote the Purana it points
+  you to.
+
+**Free online (English — primary sources):**
 - [wisdomlib.org](https://www.wisdomlib.org/) — the best single resource. Has nearly all 18
-  Maha Puranas translated. Search by Purana name + chapter.
+  Maha Puranas translated with chapter numbers. Search by Purana name + chapter.
 - [sacred-texts.com](https://sacred-texts.com/hin/) — older translations, good for Ramayana
   and Mahabharata.
 - [valmiki.iitk.ac.in](https://valmiki.iitk.ac.in/) — Valmiki Ramayana, Sanskrit + English,
   searchable by kanda and sarga.
-- [mbh.iitk.ac.in](https://www.sacred-texts.com/hin/maha/index.htm) — Mahabharata.
+- [vedabase.io](https://vedabase.io/) — ISKCON's Bhagavata Purana (Srimad Bhagavatam) with
+  Sanskrit, transliteration, and commentary. Best source for Krishna/Vishnu kathas from the
+  Bhagavatam.
+
+**Community Q&A (useful for tracing obscure references):**
+- [hinduism.stackexchange.com](https://hinduism.stackexchange.com/) — community Q&A; answers
+  frequently cite exact Purana + chapter. Use to find the right chapter if wisdomlib search
+  fails, then verify the cited chapter yourself.
 
 **Hindi reference (cross-check):**
 - Gita Press editions: [gitapress.org](https://www.gitapress.org/) — most authoritative for
@@ -51,6 +66,14 @@ That is your primary source. Go there before writing a single word.
 **Sanskrit (for shloka verification):**
 - [GRETIL](https://gretil.sub.uni-goettingen.de/) — Göttingen Register of Electronic Texts
   in Indian Languages. Sanskrit originals, useful for mantra accuracy.
+- [spokensanskrit.org](https://spokensanskrit.org/) — Sanskrit–English dictionary; use to
+  verify the meaning of individual words in a mantra or verse.
+
+**Recommended research order for any katha:**
+1. Wikipedia → identify the Purana + chapter
+2. wisdomlib.org → read the actual passage
+3. Gita Press (gitapress.org) → cross-check the Hindi version
+4. hinduism.stackexchange.com → if a detail still seems unclear or contested
 
 ### 1c. What to extract from the source
 

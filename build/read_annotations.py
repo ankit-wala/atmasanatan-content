@@ -141,6 +141,17 @@ def find_slug_for_annotation(sorted_triples, chapter_page, annotation_y):
     return result
 
 
+def load_known_slugs(repo_root):
+    """Return the set of valid katha slugs from the festivals directory."""
+    festivals_dir = os.path.join(repo_root, "kathas", "festivals")
+    if not os.path.isdir(festivals_dir):
+        return set()
+    return {
+        name for name in os.listdir(festivals_dir)
+        if os.path.isdir(os.path.join(festivals_dir, name)) and not name.startswith("_")
+    }
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Extract PDF annotations and map them to katha source files."
@@ -153,6 +164,7 @@ def main():
     lang = args.lang
     output_dir = os.path.dirname(pdf_path)
     chapters_pdf = os.path.join(output_dir, f"full-{lang}-chapters.pdf")
+    repo_root = os.path.dirname(os.path.dirname(output_dir))  # build/output/ → repo root
 
     if not os.path.exists(pdf_path):
         print(f"Error: PDF not found: {pdf_path}", file=sys.stderr)
@@ -167,12 +179,14 @@ def main():
     front_pages = total_pages - chapters_pages
     print(f"PDF: {total_pages} total pages  |  front matter: {front_pages}  |  chapters: {chapters_pages}")
 
+    known_slugs = load_known_slugs(repo_root)
+
     anchor_positions = extract_anchor_positions(chapters_pdf)
     slug_triples = sorted(
         [
             (info["page"], name, info["y"])
             for name, info in anchor_positions.items()
-            if "-" in name and " " not in name
+            if name in known_slugs
         ],
         # Sort by page; on same page, put higher y-values first (further up = earlier in flow)
         key=lambda x: (x[0], -(x[2] or 0)),
