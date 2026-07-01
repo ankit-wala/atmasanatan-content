@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 7 / 108**
+**Progress: 9 / 108**
 
 ---
 
@@ -60,11 +60,11 @@ Add notes inline if changes were requested / made.
 |  49 | maha-shivaratri             | [ ]      | |
 |  50 | mahalaya-pitru-paksha       | [ ]      | |
 |  51 | makar-sankranti             | [ ]      | |
-|  52 | mangala-gauri-vrat          | [ ]      | |
+|  52 | mangala-gauri-vrat          | [x]      | Snake scene made vivid (फन उठा → झुका → पलटा); आरती bullet now specifies "जय गौरी माता" |
 |  53 | mangalvar-vrat              | [ ]      | |
 |  54 | margashirsha-sankashti      | [ ]      | |
 |  55 | masik-satyanarayan          | [ ]      | |
-|  56 | masik-shivaratri            | [ ]      | |
+|  56 | masik-shivaratri            | [x]      | व्याध bracket "(शिकारी)" added; all respectful pronouns वे/उन्होंने → वह/उसने throughout; paran date fixed: "कृष्ण पक्ष की प्रतिपदा या द्वितीया" → "अमावस्या को या शुक्ल प्रतिपदा को" (Chaturdashi next day is Amavasya, not Pratipada) |
 |  57 | mauni-amavasya              | [ ]      | |
 |  58 | mokshada-ekadashi           | [ ]      | |
 |  59 | nag-panchami                | [ ]      | |
@@ -105,7 +105,7 @@ Add notes inline if changes were requested / made.
 |  94 | shravan-somvar-vrat         | [x]      | प्रभास bracket added (सौराष्ट्र/सोमनाथ); सोमराज=चंद्रदेव bracket clarified; Chandra backstory paragraph simplified (removed वैवस्वत मन्वंतर, added Daksha-shrap context); पुष्कर/केदार bracket added in phala-shruti |
 |  95 | shukravar-lakshmi           | [ ]      | |
 |  96 | sita-navami                 | [ ]      | |
-|  97 | kokila-vrat                 | —        | Replaced solah-somvar-vrat (3 Monday vrats on same date was redundant); kokila-vrat has Sati-as-cuckoo story — no overlap with other entries |
+|  97 | kokila-vrat                 | [x]      | Replaced solah-somvar-vrat; p.22 "is this true?" — already labeled लोक-परंपरा, no change; p.25 phala-shruti paragraph moved from end of Mantras to end of Significance |
 |  98 | somvar-vrat                 | [ ]      | Reordered before shravan-somvar-vrat (meta order 105→6); Chandra-Daksha story is referenced in shravan-somvar-vrat so must come first |
 |  99 | somvati-amavasya            | [ ]      | |
 | 100 | tulsi-vivah                 | [ ]      | |
