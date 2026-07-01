@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 12 / 108**
+**Progress: 15 / 108**
 
 ---
 
@@ -14,7 +14,7 @@ Add notes inline if changes were requested / made.
 |   3 | anant-chaturdashi           | [ ]      | |
 |   4 | ashadha-sankashti           | [ ]      | |
 |   5 | ashwin-sankashti            | [ ]      | |
-|   6 | bhadrapada-sankashti        | [ ]      | |
+|   6 | bhadrapada-sankashti        | [x]      | "अपार विस्तार" → "असीम फैलाव"; all अहंकारासुर pronouns वे/उन/उनके → वह/उसे/उसके throughout Katha; "फिट बैठा" → "साँचे में ढला" |
 |   7 | bhai-dooj                   | [ ]      | |
 |   8 | bhishma-ashtami             | [ ]      | |
 |   9 | brihaspativar-vrat          | [ ]      | |
@@ -92,7 +92,7 @@ Add notes inline if changes were requested / made.
 |  81 | ravivar-vrat                | [x]      | Katha rewritten: Samba story (Samba Purana) replaces Shibhavati folk tale; Durvasa curse → 12-yr Surya tapasya → cure in Chandrabhaga; Samba Pura temple; Surya Arogya Mantra added; meta.yaml sources updated |
 |  82 | rishi-panchami              | [ ]      | |
 |  83 | sakat-chauth                | [ ]      | |
-|  84 | satyanarayan-adhyaya-1      | [ ]      | |
+|  84 | satyanarayan-adhyaya-1      | [x]      | Shaunak + Suta identified in opening; Narada's question: "सरल व्रत" → "सरल उपाय"; added hesitation beat — brahmin's "I'm too poor" + Narada's reply that devotion matters not wealth; Narada's earth visit now explicitly Kali Yuga (prior yugas' tapas/yajna no longer accessible); Narada's question to Vishnu reframed for Kali Yuga constraints; Vishnu explains the name first — Satya (Truth, unchanging even in Kali) + Narayana (sustainer) — then prescribes vrat as the Kali Yuga path; brahmin enriched: pious/learned/honest but poor because Kali Yuga severs the punya-samriddhi link |
 |  85 | satyanarayan-adhyaya-2      | [ ]      | |
 |  86 | shakambhari-purnima         | [ ]      | |
 |  87 | shani-jayanti               | [ ]      | |
