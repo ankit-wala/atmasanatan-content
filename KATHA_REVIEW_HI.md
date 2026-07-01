@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 15 / 108**
+**Progress: 16 / 108**
 
 ---
 
@@ -38,7 +38,7 @@ Add notes inline if changes were requested / made.
 |  27 | govardhan-puja              | [ ]      | |
 |  28 | gudi-padwa                  | [ ]      | |
 |  29 | guru-purnima                | [x]      | Satyavati identified as Shantanu's future queen in brackets; "नहीं हुआ"→"नहीं लिखा"; Vyasa परंपरा line clarified; fixed Devshayani Ekadashi timing (4 days before, not after); spacing in भगवद् गीता + श्रीमद् भागवत |
-|  30 | hal-shashthi                | [ ]      | |
+|  30 | hal-shashthi                | [x]      | शेषनाग bracket gloss added; योगमाया identified as दिव्य माया-शक्ति; transfer confirmed एकदिशीय (not exchange); Sankarshan→Balarama naming split into two paragraphs; Pralamba/Dhenuka exploits removed; Rohini: "दूसरी पत्नी"→"पत्नी" (Wikipedia: she's first wife); why Krishna→Yashoda not Rohini explained; grammar fix "जिस माँ ने"→"जिस संतान ने"; hal-varjan Significance expanded with weapon-rest logic |
 |  31 | hanuman-jayanti             | [ ]      | |
 |  32 | hartalika-teej              | [ ]      | |
 |  33 | holika-dahan                | [ ]      | |
