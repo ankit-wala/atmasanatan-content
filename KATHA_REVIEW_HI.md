@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 16 / 108**
+**Progress: 17 / 108**
 
 ---
 
@@ -100,7 +100,7 @@ Add notes inline if changes were requested / made.
 |  89 | shanivar-vrat               | [ ]      | |
 |  90 | sharad-purnima              | [ ]      | |
 |  91 | sheetala-ashtami            | [ ]      | |
-|  92 | sheetala-satam              | [ ]      | |
+|  92 | sheetala-satam              | [x]      | झाड़ू+गधा iconography verified correct (Wikipedia/Skanda Purana); no separate child-health katha exists in canon — Raja Virat is the standard; added 2-sentence maternal anguish beat ("माताएँ असहाय थीं — चेचक के दाने...") to bridge royal narrative to vrat's child-health purpose |
 |  93 | shravan-sankashti           | [x]      | Origin: "विक्षोभ" framing + Shukracharya naming added; all Krodhasur pronouns → वह/उसे; source "गणेश पुराण" → "मुद्गल पुराण"; Brahma's speech: why-Ganesha added; "Atma Sanatan" → "आत्म सनातन"; meta.yaml scripture_ref updated |
 |  94 | shravan-somvar-vrat         | [x]      | प्रभास bracket added (सौराष्ट्र/सोमनाथ); सोमराज=चंद्रदेव bracket clarified; Chandra backstory paragraph simplified (removed वैवस्वत मन्वंतर, added Daksha-shrap context); पुष्कर/केदार bracket added in phala-shruti |
 |  95 | shukravar-lakshmi           | [ ]      | |
