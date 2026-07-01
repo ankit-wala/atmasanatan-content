@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 11 / 108**
+**Progress: 12 / 108**
 
 ---
 
@@ -63,7 +63,7 @@ Add notes inline if changes were requested / made.
 |  52 | mangala-gauri-vrat          | [x]      | Snake scene made vivid (फन उठा → झुका → पलटा); आरती bullet now specifies "जय गौरी माता" |
 |  53 | mangalvar-vrat              | [ ]      | |
 |  54 | margashirsha-sankashti      | [ ]      | |
-|  55 | masik-satyanarayan          | [ ]      | |
+|  55 | onam                        | [x]      | Replaced masik-satyanarayan (redundant with satyanarayan-adhyaya entries); Bali-Vamana katha (Bhagavata Purana 8); removed 6 bold sub-headers and 5 `---` separators from within Katha (now continuous prose); date bullet added to Vidhi |
 |  56 | masik-shivaratri            | [x]      | व्याध bracket "(शिकारी)" added; all respectful pronouns वे/उन्होंने → वह/उसने throughout; paran date fixed: "कृष्ण पक्ष की प्रतिपदा या द्वितीया" → "अमावस्या को या शुक्ल प्रतिपदा को" (Chaturdashi next day is Amavasya, not Pratipada) |
 |  57 | mauni-amavasya              | [ ]      | |
 |  58 | mokshada-ekadashi           | [ ]      | |

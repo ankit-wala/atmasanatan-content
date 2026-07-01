@@ -98,7 +98,7 @@ SLUGS_108_HI = {
     "kartik-snan-mahatmya", "karwa-chauth", "lohri", "magha-purnima",
     "magha-sankashti", "maha-shivaratri", "mahalaya-pitru-paksha",
     "makar-sankranti", "mangala-gauri-vrat", "mangalvar-vrat",
-    "margashirsha-sankashti", "masik-satyanarayan", "masik-shivaratri",
+    "margashirsha-sankashti", "onam", "masik-shivaratri",
     "mauni-amavasya", "mokshada-ekadashi", "nag-panchami", "narak-chaturdashi",
     "narasimha-jayanti", "navratri-brahmacharini", "navratri-chandraghanta",
     "navratri-kalaratri", "navratri-katyayani", "navratri-kushmanda",
