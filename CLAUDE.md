@@ -113,6 +113,9 @@ Full schema is in `CONTENT_FORMAT.md` — read it before creating or editing ent
 
 ## Rules (do not break these)
 
+- **No Artifacts.** This is a content repo, not a web app. Never use the Artifact tool to
+  publish HTML pages. All output goes into the canonical source files or `build/output/`.
+
 - **DrikPanchang date rule.** Every date/tithi must be verified against
   [DrikPanchang](https://www.drikpanchang.com/) before an entry's `status` becomes `published`.
   Unverified dates are written literally as `TODO-VERIFY`. The book builder injects a warning
