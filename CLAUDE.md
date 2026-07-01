@@ -132,6 +132,9 @@ Full schema is in `CONTENT_FORMAT.md` — read it before creating or editing ent
   wisdomlib.org (primary Purana translations) → vedabase.io (Bhagavatam) →
   sacred-texts.com → gitapress.org (Hindi) → hinduism.stackexchange.com (tracing obscure refs).
   See WRITING_GUIDE.md §1b for full guidance on using each.
+  **Research depth for a single katha improvement:** 4–5 source lookups maximum. Do NOT spawn
+  multi-agent research workflows for single-katha edits — a focused sequential lookup is enough.
+  Individual research tasks (date verification, new katha writing) can work independently.
 - **Never hand-edit `build/output/`.** It is generated and gitignored. Change the canonical
   source, then rebuild.
 - **`slug` is the join key** across book, seed, and reels. Unique, lowercase-hyphenated, matches
