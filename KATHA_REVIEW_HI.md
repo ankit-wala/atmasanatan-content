@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 9 / 108**
+**Progress: 11 / 108**
 
 ---
 
@@ -67,7 +67,7 @@ Add notes inline if changes were requested / made.
 |  56 | masik-shivaratri            | [x]      | व्याध bracket "(शिकारी)" added; all respectful pronouns वे/उन्होंने → वह/उसने throughout; paran date fixed: "कृष्ण पक्ष की प्रतिपदा या द्वितीया" → "अमावस्या को या शुक्ल प्रतिपदा को" (Chaturdashi next day is Amavasya, not Pratipada) |
 |  57 | mauni-amavasya              | [ ]      | |
 |  58 | mokshada-ekadashi           | [ ]      | |
-|  59 | nag-panchami                | [ ]      | |
+|  59 | nag-panchami                | [x]      | Parikshit takes refuge in existing palace (not builds new one in 7 days); Takshaka's two-step disguise clarified (brahmins carry fruit, Takshaka hides inside fruit as tiny worm); आख्यान → कथाएँ; Significance: why Astika alone could stop yajna (half-brahmin, half-naga); milk offering redirected to temple idol |
 |  60 | narak-chaturdashi           | [ ]      | |
 |  61 | narasimha-jayanti           | [ ]      | |
 |  62 | navratri-brahmacharini      | [ ]      | |
@@ -86,7 +86,7 @@ Add notes inline if changes were requested / made.
 |  75 | phulera-dooj                | [ ]      | |
 |  76 | pradosh-vrat                | [ ]      | |
 |  77 | radha-ashtami               | [ ]      | |
-|  78 | raksha-bandhan              | [ ]      | |
+|  78 | raksha-bandhan              | [x]      | Opening context added (Yudhishthira asks about protective ritual after Kurukshetra); purohit→brother-sister transition clarified; "कोई प्रिय जन" → "माँ, बहन या पत्नी"; Lakshmi-Bali significance expanded (how this story gives brother-sister tradition); "Atma Sanatan ऐप 2026" → "आत्म सनातन ऐप" |
 |  79 | ram-navami                  | [ ]      | |
 |  80 | ramdevji-jayanti            | [ ]      | |
 |  81 | ravivar-vrat                | [x]      | Katha rewritten: Samba story (Samba Purana) replaces Shibhavati folk tale; Durvasa curse → 12-yr Surya tapasya → cure in Chandrabhaga; Samba Pura temple; Surya Arogya Mantra added; meta.yaml sources updated |
