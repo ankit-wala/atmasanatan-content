@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 17 / 108**
+**Progress: 22 / 108**
 
 ---
 
@@ -29,8 +29,8 @@ Add notes inline if changes were requested / made.
 |  18 | dhanteras                   | [ ]      | |
 |  19 | diwali                      | [ ]      | |
 |  20 | ekadashi-mahatmya           | [ ]      | |
-|  21 | ganesh-chaturthi-janma      | [ ]      | |
-|  22 | ganesh-chaturthi-syamantaka | [ ]      | |
+|  21 | ganesh-chaturthi-janma      | [x]      | Shiv gana framing rewritten (ganas serve Shiva, not Parvati — hence she needed her own द्वारपाल); Brahma Vaivarta Purana Vishnu note already in Significance |
+|  22 | ganesh-chaturthi-syamantaka | [x]      | ऋक्षराज bracket added; "इलज़ाम"→"आरोप"; Chandrama plea scene expanded (full speech + pashchatap); Narad circular ref fixed (annual protection logic, not self-referential "इस कथा"); vrat-after-kaltank logic added; non-eclipse clarification added to Significance |
 |  23 | ganga-dussehra              | [ ]      | |
 |  24 | gangaur                     | [ ]      | |
 |  25 | gayatri-jayanti             | [ ]      | |
@@ -40,11 +40,11 @@ Add notes inline if changes were requested / made.
 |  29 | guru-purnima                | [x]      | Satyavati identified as Shantanu's future queen in brackets; "नहीं हुआ"→"नहीं लिखा"; Vyasa परंपरा line clarified; fixed Devshayani Ekadashi timing (4 days before, not after); spacing in भगवद् गीता + श्रीमद् भागवत |
 |  30 | hal-shashthi                | [x]      | शेषनाग bracket gloss added; योगमाया identified as दिव्य माया-शक्ति; transfer confirmed एकदिशीय (not exchange); Sankarshan→Balarama naming split into two paragraphs; Pralamba/Dhenuka exploits removed; Rohini: "दूसरी पत्नी"→"पत्नी" (Wikipedia: she's first wife); why Krishna→Yashoda not Rohini explained; grammar fix "जिस माँ ने"→"जिस संतान ने"; hal-varjan Significance expanded with weapon-rest logic |
 |  31 | hanuman-jayanti             | [ ]      | |
-|  32 | hartalika-teej              | [ ]      | |
+|  32 | hartalika-teej              | [x]      | Option B — sakhi's act made narrative center: Jaya's decision scene added, her reasoning shown, sakhis' vigil throughout night; Significance: dedicated सखी का धर्म paragraph; Mantras: sakhi-smaran note added; Vidhi: Parvati murti guidance expanded (simple anthropomorphic clay figure) |
 |  33 | holika-dahan                | [ ]      | |
 |  34 | indira-ekadashi             | [ ]      | |
 |  35 | jagannath-rath-yatra        | [x]      | दारु ब्रह्म explanation in brackets; Indradyumna tapasya elaborated; वरदान→संकल्प + secrecy context added to God's speech; Gundicha explained before naming; Bahuda etymology added; mantra translation metaphor clarified |
-|  36 | janmashtami                 | [ ]      | |
+|  36 | janmashtami                 | [x]      | Kansa pronouns throughout: वे/उन्होंने → वह/उसने/उसके (3 locations: intro paragraph, ratha scene, balika scene) |
 |  37 | jaya-ekadashi               | [ ]      | |
 |  38 | jaya-parvati-vrat           | [x]      | Added Parvati's intent (परम, not ऐश्वर्यवान) before love declaration; attire change gracefully reworded; Gujarat→all young women in Significance; Vishnu removed from Saptarishis speech; context for why Shiva added |
 |  39 | jivitputrika                | [ ]      | |
@@ -88,7 +88,7 @@ Add notes inline if changes were requested / made.
 |  77 | radha-ashtami               | [ ]      | |
 |  78 | raksha-bandhan              | [x]      | Opening context added (Yudhishthira asks about protective ritual after Kurukshetra); purohit→brother-sister transition clarified; "कोई प्रिय जन" → "माँ, बहन या पत्नी"; Lakshmi-Bali significance expanded (how this story gives brother-sister tradition); "Atma Sanatan ऐप 2026" → "आत्म सनातन ऐप" |
 |  79 | ram-navami                  | [ ]      | |
-|  80 | ramdevji-jayanti            | [ ]      | |
+|  80 | ramdevji-jayanti            | [x]      | REMOVED from SLUGS_108_HI; replaced with shukravar-santoshi (Santoshi Mata katha, Hindi belt audience) |
 |  81 | ravivar-vrat                | [x]      | Katha rewritten: Samba story (Samba Purana) replaces Shibhavati folk tale; Durvasa curse → 12-yr Surya tapasya → cure in Chandrabhaga; Samba Pura temple; Surya Arogya Mantra added; meta.yaml sources updated |
 |  82 | rishi-panchami              | [ ]      | |
 |  83 | sakat-chauth                | [ ]      | |

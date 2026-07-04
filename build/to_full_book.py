@@ -83,7 +83,7 @@ SLUGS_108_EN = {
     "vasant-panchami", "vat-savitri-vrat", "vijayadashami",
 }
 
-SLUGS_108_HI = {
+SLUGS_108_HI = [
     "ahoi-ashtami", "akshaya-tritiya", "anant-chaturdashi", "ashadha-sankashti",
     "ashwin-sankashti", "bhadrapada-sankashti", "bhai-dooj", "bhishma-ashtami",
     "brihaspativar-vrat", "buddha-purnima", "chaitra-sankashti", "chhath-puja",
@@ -105,7 +105,7 @@ SLUGS_108_HI = {
     "navratri-mahagauri", "navratri-shailputri", "navratri-siddhidatri",
     "navratri-skandamata", "nirjala-ekadashi", "papmochani-ekadashi",
     "parashurama-jayanti", "phalguna-sankashti", "phulera-dooj", "pradosh-vrat",
-    "radha-ashtami", "raksha-bandhan", "ram-navami", "ramdevji-jayanti",
+    "radha-ashtami", "raksha-bandhan", "ram-navami", "shukravar-santoshi",
     "ravivar-vrat", "rishi-panchami", "sakat-chauth", "satyanarayan-adhyaya-1",
     "satyanarayan-adhyaya-2", "shakambhari-purnima", "shani-jayanti",
     "shani-pradosh", "shanivar-vrat", "sharad-purnima", "sheetala-ashtami",
@@ -114,7 +114,7 @@ SLUGS_108_HI = {
     "somvati-amavasya", "tulsi-vivah", "utpanna-ekadashi", "vaishakha-sankashti",
     "valmiki-jayanti", "vamana-jayanti", "vasant-panchami", "vat-savitri-vrat",
     "vijayadashami", "vivah-panchami",
-}
+]
 
 assert len(SLUGS_108_EN) == 108, f"EN list has {len(SLUGS_108_EN)} slugs"
 assert len(SLUGS_108_HI) == 108, f"HI list has {len(SLUGS_108_HI)} slugs"
