@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 22 / 108**
+**Progress: 28 / 108**
 
 ---
 
@@ -11,9 +11,9 @@ Add notes inline if changes were requested / made.
 |-----|-----------------------------|----------|-------|
 |   1 | ahoi-ashtami                | [ ]      | |
 |   2 | akshaya-tritiya             | [ ]      | |
-|   3 | anant-chaturdashi           | [ ]      | |
+|   3 | anant-chaturdashi           | [x]      | Opening: Krishna says "एक पुरानी कथा सुनो" (not direct vrat prescription); गर्दभ and पुष्कर brackets added; Katha ends with return to Yudhishthira frame — "चौदह वर्ष" echo without Krishna predicting future; Pandava connection moved from Significance into Katha ending as metaphor |
 |   4 | ashadha-sankashti           | [ ]      | |
-|   5 | ashwin-sankashti            | [ ]      | |
+|   5 | ashwin-sankashti            | [x]      | Subtitle/summary/reel_hook: "अहंकार के दानव" → "मद के दानव" (prev sankashti was ahankar); मद bracket added in Katha; Madasur pronouns → वह/उसने throughout; फरसा bracket (परशु + परशुराम etymology); Vidhi: "नवरात्रि और दशहरे के बीच" → "नवरात्रि से ठीक पहले" (sankashti comes before navratri, not between); chandrodaya clarification: rule applies to Sankashti (Krishna paksha) NOT Bhadrapada Shukla Chaturthi |
 |   6 | bhadrapada-sankashti        | [x]      | "अपार विस्तार" → "असीम फैलाव"; all अहंकारासुर pronouns वे/उन/उनके → वह/उसे/उसके throughout Katha; "फिट बैठा" → "साँचे में ढला" |
 |   7 | bhai-dooj                   | [ ]      | |
 |   8 | bhishma-ashtami             | [ ]      | |
@@ -61,7 +61,7 @@ Add notes inline if changes were requested / made.
 |  50 | mahalaya-pitru-paksha       | [ ]      | |
 |  51 | makar-sankranti             | [ ]      | |
 |  52 | mangala-gauri-vrat          | [x]      | Snake scene made vivid (फन उठा → झुका → पलटा); आरती bullet now specifies "जय गौरी माता" |
-|  53 | mangalvar-vrat              | [ ]      | |
+|  53 | mangalvar-vrat              | [x]      | Significance Hanuman section rewritten as navagraha-liberation story (Ravana imprisons navagrahas; Hanuman frees them; Mangal gives boon "my anisht won't affect your devotees"); katha-context explanation added |
 |  54 | margashirsha-sankashti      | [ ]      | |
 |  55 | onam                        | [x]      | Replaced masik-satyanarayan (redundant with satyanarayan-adhyaya entries); Bali-Vamana katha (Bhagavata Purana 8); removed 6 bold sub-headers and 5 `---` separators from within Katha (now continuous prose); date bullet added to Vidhi |
 |  56 | masik-shivaratri            | [x]      | व्याध bracket "(शिकारी)" added; all respectful pronouns वे/उन्होंने → वह/उसने throughout; paran date fixed: "कृष्ण पक्ष की प्रतिपदा या द्वितीया" → "अमावस्या को या शुक्ल प्रतिपदा को" (Chaturdashi next day is Amavasya, not Pratipada) |
@@ -85,12 +85,12 @@ Add notes inline if changes were requested / made.
 |  74 | phalguna-sankashti          | [ ]      | |
 |  75 | phulera-dooj                | [ ]      | |
 |  76 | pradosh-vrat                | [ ]      | |
-|  77 | radha-ashtami               | [ ]      | |
+|  77 | radha-ashtami               | [x]      | "ब्रह्मा का वर" → "वरदान"; p.105 Krishna-came-to-Radha fixed (newborn can't walk) → Yashoda places babies side-by-side; Bhagavata citation removed; moon metaphor corrected — Amavasya→Purnima direction |
 |  78 | raksha-bandhan              | [x]      | Opening context added (Yudhishthira asks about protective ritual after Kurukshetra); purohit→brother-sister transition clarified; "कोई प्रिय जन" → "माँ, बहन या पत्नी"; Lakshmi-Bali significance expanded (how this story gives brother-sister tradition); "Atma Sanatan ऐप 2026" → "आत्म सनातन ऐप" |
 |  79 | ram-navami                  | [ ]      | |
 |  80 | ramdevji-jayanti            | [x]      | REMOVED from SLUGS_108_HI; replaced with shukravar-santoshi (Santoshi Mata katha, Hindi belt audience) |
 |  81 | ravivar-vrat                | [x]      | Katha rewritten: Samba story (Samba Purana) replaces Shibhavati folk tale; Durvasa curse → 12-yr Surya tapasya → cure in Chandrabhaga; Samba Pura temple; Surya Arogya Mantra added; meta.yaml sources updated |
-|  82 | rishi-panchami              | [ ]      | |
+|  82 | rishi-panchami              | [x]      | Vidhi: removed "achyranthes aspera" botanical name; kept "चिचड़ी" |
 |  83 | sakat-chauth                | [ ]      | |
 |  84 | satyanarayan-adhyaya-1      | [x]      | Shaunak + Suta identified in opening; Narada's question: "सरल व्रत" → "सरल उपाय"; added hesitation beat — brahmin's "I'm too poor" + Narada's reply that devotion matters not wealth; Narada's earth visit now explicitly Kali Yuga (prior yugas' tapas/yajna no longer accessible); Narada's question to Vishnu reframed for Kali Yuga constraints; Vishnu explains the name first — Satya (Truth, unchanging even in Kali) + Narayana (sustainer) — then prescribes vrat as the Kali Yuga path; brahmin enriched: pious/learned/honest but poor because Kali Yuga severs the punya-samriddhi link |
 |  85 | satyanarayan-adhyaya-2      | [ ]      | |
@@ -112,7 +112,7 @@ Add notes inline if changes were requested / made.
 | 101 | utpanna-ekadashi            | [ ]      | |
 | 102 | vaishakha-sankashti         | [ ]      | |
 | 103 | valmiki-jayanti             | [ ]      | |
-| 104 | vamana-jayanti              | [ ]      | |
+| 104 | vamana-jayanti              | [x]      | "इसी पुस्तक में परिवर्तिनी एकादशी" → "परिवर्तिनी एकादशी की परंपरा में" (not in this book); Onam section revamped: date difference clarified (Onam = Shravana nakshatra, Vamana Jayanti = Dwadashi tithi — different days same week); Aditi's bhakti as distinct focus vs Onam's Bali-return focus |
 | 105 | vasant-panchami             | [ ]      | |
 | 106 | vat-savitri-vrat            | [ ]      | |
 | 107 | vijayadashami               | [ ]      | |
