@@ -11,9 +11,8 @@ page breaks), annotations above the chapter heading stay with the previous katha
 This is resolved by comparing annotation y-coordinates against anchor y-coordinates
 on the same page. Falls back to the previous katha if coordinates are unavailable.
 
-NOTE: This script reads your note text (/Contents). It does NOT extract the
-highlighted text itself — that requires coordinate-based text extraction (pypdf
-does not support this directly). Write your note to describe the change needed.
+This script reads note text (/Contents) AND extracts highlighted text using
+pymupdf (fitz). Highlighted words appear in the output as «quoted text».
 
 Usage:
     /usr/bin/python3 build/read_annotations.py --pdf build/output/full-hi.pdf
@@ -23,6 +22,12 @@ Usage:
 import sys
 import os
 import argparse
+
+try:
+    import fitz as _fitz
+    _FITZ_AVAILABLE = True
+except ImportError:
+    _FITZ_AVAILABLE = False
 
 
 def get_page_count(pdf_path):
@@ -74,11 +79,44 @@ def extract_anchor_positions(pdf_path):
     return result
 
 
+def _build_fitz_page_map(pdf_path):
+    """Return a dict {1-based-page-num: fitz.Page} for highlighted-text lookup."""
+    if not _FITZ_AVAILABLE:
+        return {}
+    doc = _fitz.open(pdf_path)
+    return {i + 1: doc[i] for i in range(len(doc))}
+
+
+def _extract_highlight_text(fitz_page, rect_array):
+    """Return the text under a /Highlight annotation rect (PDF coords).
+
+    rect_array is [x1, y1, x2, y2] in PDF space (y increases upward from bottom).
+    fitz uses a coordinate system where y increases downward from the top, so we
+    convert: fitz_y = page_height - pdf_y.
+    """
+    if fitz_page is None:
+        return ""
+    try:
+        x1, y1, x2, y2 = float(rect_array[0]), float(rect_array[1]), float(rect_array[2]), float(rect_array[3])
+        h = fitz_page.rect.height
+        # Convert PDF coords (bottom-origin) → fitz coords (top-origin)
+        fx1, fy1 = x1, h - y2
+        fx2, fy2 = x2, h - y1
+        clip = _fitz.Rect(fx1, fy1, fx2, fy2)
+        words = fitz_page.get_text("words", clip=clip)
+        text = " ".join(w[4] for w in words).strip()
+        return text
+    except Exception:
+        return ""
+
+
 def extract_annotations(pdf_path):
-    """Return list of {page, subtype, text, y} for all text-bearing annotations.
-    y is the mid-point of the annotation rect, in points from page bottom."""
+    """Return list of {page, subtype, text, highlight, y} for all text-bearing annotations.
+    y is the mid-point of the annotation rect, in points from page bottom.
+    highlight contains the highlighted text (if any) extracted via pymupdf."""
     from pypdf import PdfReader
     reader = PdfReader(pdf_path)
+    fitz_pages = _build_fitz_page_map(pdf_path)
     results = []
     for i, page in enumerate(reader.pages):
         annots = page.get("/Annots")
@@ -104,10 +142,17 @@ def extract_annotations(pdf_path):
                     except Exception:
                         pass
 
+                # Extract highlighted text for Highlight/Underline/StrikeOut annotations
+                highlight = ""
+                if subtype in ("Highlight", "Underline", "StrikeOut") and rect:
+                    fitz_page = fitz_pages.get(i + 1)
+                    highlight = _extract_highlight_text(fitz_page, rect)
+
                 results.append({
                     "page": i + 1,
                     "subtype": subtype,
                     "text": content,
+                    "highlight": highlight,
                     "y": y,
                 })
             except Exception:
@@ -219,9 +264,11 @@ def main():
 
     for slug, anns in grouped.items():
         print(f"\n### {slug}")
-        print(f"    kathas/festivals/{slug}/hi.md")
+        print(f"    kathas/festivals/{slug}/{lang}.md")
         for ann in anns:
-            print(f"    [p.{ann['page']}]  {ann['text']}")
+            highlight = ann.get("highlight", "")
+            hl_str = f"  «{highlight}»" if highlight else ""
+            print(f"    [p.{ann['page']}]{hl_str}  {ann['text']}")
 
     if unresolved:
         print("\n### (unresolved — front matter or before first chapter)")
