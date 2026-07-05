@@ -71,13 +71,13 @@ Add notes inline if changes were requested / made.
 |  60 | narak-chaturdashi           | [ ]      | |
 |  61 | narasimha-jayanti           | [ ]      | |
 |  62 | navratri-brahmacharini      | [x]      | FULL REWRITE (Katha + Significance): replaced Parvati tapasya (duplicate of Hartalika Teej) with Prakandasura episode — Devi in deep samadhi, demon army attacks, kamandalu tips → divine flood sweeps army, tapas-fire destroys the demon, samadhi never broken; short identity para at start (Brahmacharini = tapa-shakti, Day 2 of Navadurga arc); Significance rewritten: tapa-shakti, kamandalu/japmala as vessels of power, barefoot = no vahaan (gati is inward); subtitle/summary/reel_hook updated |
-|  63 | navratri-chandraghanta      | [ ]      | |
-|  64 | navratri-kalaratri          | [ ]      | |
-|  65 | navratri-katyayani          | [ ]      | |
-|  66 | navratri-kushmanda          | [ ]      | |
+|  63 | navratri-chandraghanta      | [x]      | Significance: lion vahaan paragraph added (first vahaan in Navadurga arc; transition from barefoot Brahmacharini to combat-ready) |
+|  64 | navratri-kalaratri          | [x]      | Significance: donkey/gardabha vahaan paragraph added (goes where lion/horse can't; "khara" = sharp/keen; darkness-piercing) |
+|  65 | navratri-katyayani          | [x]      | Significance: lion vahaan paragraph added (Mahashakti fully mobilized; contrast with Chandraghanta's first-time lion) |
+|  66 | navratri-kushmanda          | [x]      | Significance: tiger vahaan paragraph added (solar/primal creative energy; tiger = wild fertility vs lion's royal power) |
 |  67 | navratri-mahagauri          | [x]      | FULL REWRITE (Katha + Significance): replaced Ganga-water story with Vamana Purana version — Shiva calls Parvati "Kali," she declares she will shed the dark form herself, does 100-yr one-leg tapasya, Brahma grants suvarna varna, dark sheath separates as Kaushiki → becomes Vindhyavasini (active shrine today); whiteness was always within, revealed by her own sovereign act; Significance: Day7→Day8 arc (same Devi, two states), white bull = sattva-purified Nandi, Vindhyavasini living tradition; subtitle/summary/reel_hook updated |
-|  68 | navratri-shailputri         | [ ]      | |
-|  69 | navratri-siddhidatri        | [ ]      | |
+|  68 | navratri-shailputri         | [x]      | Significance: Nandi vahaan paragraph added (Shiva's own bull; earth-element, surrendered soul; journey begins from prithvi) |
+|  69 | navratri-siddhidatri        | [x]      | Significance: lotus vahaan paragraph added (Devi Bhagavatam primary source; Shailputri started on bull/earth, Siddhidatri rests on lotus above it; some traditions show lion — noted) |
 |  70 | navratri-skandamata         | [x]      | FULL REWRITE (Katha + Significance): cut Parvati tapasya and marriage retelling; Tarakasura setup compressed to 4 sentences; main story = Vel-giving: Parvati presses her Gnana Shakti into the Vel, gives it to Skanda as his 12th weapon — the one that pierces Taraka's maya; Sikkal Singaravelan temple added as living anchor; iconic dual-image (armed mother + infant) explained; Significance: Skandamata as source of the killing power, lion vahaan theological explanation, Sikkal living tradition; subtitle/summary/reel_hook updated |
 |  71 | nirjala-ekadashi            | [ ]      | |
 |  72 | papmochani-ekadashi         | [ ]      | |

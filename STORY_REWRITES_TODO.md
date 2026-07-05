@@ -24,15 +24,15 @@ Can be batched after story rewrites are done.
 
 | Devi | Vahaan | Status |
 |------|--------|--------|
-| Shailputri (1) | Nandi | ⬜ |
-| Brahmacharini (2) | Walks barefoot | ⬜ (add when rewriting Brahmacharini) |
-| Chandraghanta (3) | Lion | ⬜ |
-| Kushmanda (4) | Tiger | ⬜ |
-| Skandamata (5) | Lion | ⬜ (add when rewriting Skandamata) |
-| Katyayani (6) | Lion | ⬜ |
-| Kalaratri (7) | Donkey | ⬜ |
-| Mahagauri (8) | White bull | ⬜ (add when rewriting Mahagauri) |
-| Siddhidatri (9) | Lotus | ⬜ |
+| Shailputri (1) | Nandi | ✅ |
+| Brahmacharini (2) | Walks barefoot | ✅ (added during rewrite) |
+| Chandraghanta (3) | Lion | ✅ |
+| Kushmanda (4) | Tiger | ✅ |
+| Skandamata (5) | Lion | ✅ (added during rewrite) |
+| Katyayani (6) | Lion | ✅ |
+| Kalaratri (7) | Donkey | ✅ |
+| Mahagauri (8) | White bull | ✅ (added during rewrite) |
+| Siddhidatri (9) | Lotus | ✅ |
 
 ---
 
