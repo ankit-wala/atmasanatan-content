@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 28 / 108**
+**Progress: 30 / 108**
 
 ---
 
@@ -42,12 +42,12 @@ Add notes inline if changes were requested / made.
 |  31 | hanuman-jayanti             | [ ]      | |
 |  32 | hartalika-teej              | [x]      | Option B — sakhi's act made narrative center: Jaya's decision scene added, her reasoning shown, sakhis' vigil throughout night; Significance: dedicated सखी का धर्म paragraph; Mantras: sakhi-smaran note added; Vidhi: Parvati murti guidance expanded (simple anthropomorphic clay figure) |
 |  33 | holika-dahan                | [ ]      | |
-|  34 | indira-ekadashi             | [ ]      | |
+|  34 | indira-ekadashi             | [x]      | Yudhishthira's opening question expanded: now asks specifically about pitru loka connection — "यह संयोग है, या पितरों से विशेष संबंध है? यमलोक में बंधे पितरों को मुक्ति मिल सकती है?" |
 |  35 | jagannath-rath-yatra        | [x]      | दारु ब्रह्म explanation in brackets; Indradyumna tapasya elaborated; वरदान→संकल्प + secrecy context added to God's speech; Gundicha explained before naming; Bahuda etymology added; mantra translation metaphor clarified |
 |  36 | janmashtami                 | [x]      | Kansa pronouns throughout: वे/उन्होंने → वह/उसने/उसके (3 locations: intro paragraph, ratha scene, balika scene) |
 |  37 | jaya-ekadashi               | [ ]      | |
 |  38 | jaya-parvati-vrat           | [x]      | Added Parvati's intent (परम, not ऐश्वर्यवान) before love declaration; attire change gracefully reworded; Gujarat→all young women in Significance; Vishnu removed from Saptarishis speech; context for why Shiva added |
-|  39 | jivitputrika                | [ ]      | |
+|  39 | jivitputrika                | [x]      | Kalpavriksha departure clarified ("वह कल्पवृक्ष अपना कार्य पूर्ण करके स्वर्गलोक को प्रस्थान कर गया"); क्षुद्रता bracket added; पाषाण-शिला bracket added at first mention |
 |  40 | jyeshtha-sankashti          | [ ]      | |
 |  41 | kalabhairav-jayanti         | [ ]      | |
 |  42 | kamada-ekadashi             | [ ]      | |
