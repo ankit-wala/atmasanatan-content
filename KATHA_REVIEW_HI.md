@@ -46,7 +46,7 @@ Add notes inline if changes were requested / made.
 |  35 | jagannath-rath-yatra        | [x]      | दारु ब्रह्म explanation in brackets; Indradyumna tapasya elaborated; वरदान→संकल्प + secrecy context added to God's speech; Gundicha explained before naming; Bahuda etymology added; mantra translation metaphor clarified |
 |  36 | janmashtami                 | [x]      | Kansa pronouns throughout: वे/उन्होंने → वह/उसने/उसके (3 locations: intro paragraph, ratha scene, balika scene) |
 |  37 | jaya-ekadashi               | [ ]      | |
-|  38 | jaya-parvati-vrat           | [x]      | Added Parvati's intent (परम, not ऐश्वर्यवान) before love declaration; attire change gracefully reworded; Gujarat→all young women in Significance; Vishnu removed from Saptarishis speech; context for why Shiva added |
+|  38 | jaya-parvati-vrat           | [x]      | FULL REWRITE (Katha + Significance): replaced Parvati tapasya (duplicate of Hartalika Teej) with Vaman-Satya Gujarati folk katha — Brahmin couple worships neglected forest Shivalinga for 5 years, husband bitten by serpent, Satya calls on Parvati, Parvati revives him, grants a son; subtitle/summary/reel_hook updated; Significance rewritten around "Jaya" as Parvati's name + niyamit bhakti + 5-day salt-free vrat |
 |  39 | jivitputrika                | [x]      | Kalpavriksha departure clarified; क्षुद्रता + पाषाण-शिला brackets added; Significance: "पुत्रिका" etymology added — not "daughter" but the goddess who gives life to sons (Parvati reviving Jimutavahana = the literal enactment of the name) |
 |  40 | jyeshtha-sankashti          | [ ]      | |
 |  41 | kalabhairav-jayanti         | [ ]      | |
