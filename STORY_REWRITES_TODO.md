@@ -12,7 +12,7 @@ Translations (en/mr/gu) come after all Hindi rewrites are done.
 | 1 | `jaya-parvati-vrat` | HIGH | ✅ Done | Replaced Parvati tapasya with Vaman-Satya Gujarati folk katha |
 | 2 | `navratri-brahmacharini` | HIGH | ✅ Done | Prakandasura story; short identity para (Brahmacharini = tapa-shakti, Day 2 Navadurga arc); kamandalu flood + tapas-fire; samadhi never broken |
 | 3 | `navratri-skandamata` | MEDIUM | ✅ Done | Vel-giving: Parvati's Gnana Shakti as Skanda's 12th weapon; Sikkal Singaravelan temple; lion vahaan added to Significance |
-| 4 | `navratri-mahagauri` | MEDIUM | ⬜ Pending | Vamana Purana: Shiva calls her Kali → she does 100-yr tapasya → Brahma grants golden form → Kaushiki separates → Vindhyavasini |
+| 4 | `navratri-mahagauri` | MEDIUM | ✅ Done | Vamana Purana: Shiva says "Kali" → she decides to shed the dark form herself → 100-yr tapasya → Brahma grants suvarna varna → Kaushiki separates → Vindhyavasini; white bull vahaan added |
 | 5 | `kokila-vrat` | LOW | ⬜ Pending | Minor trim only — compress Sati self-immolation to 2 sentences; keep cuckoo-penance as center |
 
 ---

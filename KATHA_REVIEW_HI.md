@@ -75,7 +75,7 @@ Add notes inline if changes were requested / made.
 |  64 | navratri-kalaratri          | [ ]      | |
 |  65 | navratri-katyayani          | [ ]      | |
 |  66 | navratri-kushmanda          | [ ]      | |
-|  67 | navratri-mahagauri          | [ ]      | |
+|  67 | navratri-mahagauri          | [x]      | FULL REWRITE (Katha + Significance): replaced Ganga-water story with Vamana Purana version — Shiva calls Parvati "Kali," she declares she will shed the dark form herself, does 100-yr one-leg tapasya, Brahma grants suvarna varna, dark sheath separates as Kaushiki → becomes Vindhyavasini (active shrine today); whiteness was always within, revealed by her own sovereign act; Significance: Day7→Day8 arc (same Devi, two states), white bull = sattva-purified Nandi, Vindhyavasini living tradition; subtitle/summary/reel_hook updated |
 |  68 | navratri-shailputri         | [ ]      | |
 |  69 | navratri-siddhidatri        | [ ]      | |
 |  70 | navratri-skandamata         | [x]      | FULL REWRITE (Katha + Significance): cut Parvati tapasya and marriage retelling; Tarakasura setup compressed to 4 sentences; main story = Vel-giving: Parvati presses her Gnana Shakti into the Vel, gives it to Skanda as his 12th weapon — the one that pierces Taraka's maya; Sikkal Singaravelan temple added as living anchor; iconic dual-image (armed mother + infant) explained; Significance: Skandamata as source of the killing power, lion vahaan theological explanation, Sikkal living tradition; subtitle/summary/reel_hook updated |
