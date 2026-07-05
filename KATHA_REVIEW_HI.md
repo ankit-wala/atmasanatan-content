@@ -70,7 +70,7 @@ Add notes inline if changes were requested / made.
 |  59 | nag-panchami                | [x]      | Parikshit takes refuge in existing palace (not builds new one in 7 days); Takshaka's two-step disguise clarified (brahmins carry fruit, Takshaka hides inside fruit as tiny worm); आख्यान → कथाएँ; Significance: why Astika alone could stop yajna (half-brahmin, half-naga); milk offering redirected to temple idol |
 |  60 | narak-chaturdashi           | [ ]      | |
 |  61 | narasimha-jayanti           | [ ]      | |
-|  62 | navratri-brahmacharini      | [ ]      | |
+|  62 | navratri-brahmacharini      | [x]      | FULL REWRITE (Katha + Significance): replaced Parvati tapasya (duplicate of Hartalika Teej) with Prakandasura episode — Devi in deep samadhi, demon army attacks, kamandalu tips → divine flood sweeps army, tapas-fire destroys the demon, samadhi never broken; short identity para at start (Brahmacharini = tapa-shakti, Day 2 of Navadurga arc); Significance rewritten: tapa-shakti, kamandalu/japmala as vessels of power, barefoot = no vahaan (gati is inward); subtitle/summary/reel_hook updated |
 |  63 | navratri-chandraghanta      | [ ]      | |
 |  64 | navratri-kalaratri          | [ ]      | |
 |  65 | navratri-katyayani          | [ ]      | |
