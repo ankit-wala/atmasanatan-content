@@ -105,7 +105,7 @@ Add notes inline if changes were requested / made.
 |  94 | shravan-somvar-vrat         | [x]      | प्रभास bracket added (सौराष्ट्र/सोमनाथ); सोमराज=चंद्रदेव bracket clarified; Chandra backstory paragraph simplified (removed वैवस्वत मन्वंतर, added Daksha-shrap context); पुष्कर/केदार bracket added in phala-shruti |
 |  95 | shukravar-lakshmi           | [ ]      | |
 |  96 | sita-navami                 | [ ]      | |
-|  97 | kokila-vrat                 | [x]      | Replaced solah-somvar-vrat; p.22 "is this true?" — already labeled लोक-परंपरा, no change; p.25 phala-shruti paragraph moved from end of Mantras to end of Significance |
+|  97 | kokila-vrat                 | [x]      | Replaced solah-somvar-vrat; p.22 "is this true?" — already labeled लोक-परंपरा, no change; p.25 phala-shruti paragraph moved from end of Mantras to end of Significance; TRIM: Daksha yajna + Sati self-immolation + Shiva response (3 paragraphs) compressed to 2 sentences — cuckoo-penance story now takes full center stage |
 |  98 | somvar-vrat                 | [ ]      | Reordered before shravan-somvar-vrat (meta order 105→6); Chandra-Daksha story is referenced in shravan-somvar-vrat so must come first |
 |  99 | somvati-amavasya            | [ ]      | |
 | 100 | tulsi-vivah                 | [ ]      | |

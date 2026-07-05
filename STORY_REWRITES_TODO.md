@@ -13,7 +13,7 @@ Translations (en/mr/gu) come after all Hindi rewrites are done.
 | 2 | `navratri-brahmacharini` | HIGH | ✅ Done | Prakandasura story; short identity para (Brahmacharini = tapa-shakti, Day 2 Navadurga arc); kamandalu flood + tapas-fire; samadhi never broken |
 | 3 | `navratri-skandamata` | MEDIUM | ✅ Done | Vel-giving: Parvati's Gnana Shakti as Skanda's 12th weapon; Sikkal Singaravelan temple; lion vahaan added to Significance |
 | 4 | `navratri-mahagauri` | MEDIUM | ✅ Done | Vamana Purana: Shiva says "Kali" → she decides to shed the dark form herself → 100-yr tapasya → Brahma grants suvarna varna → Kaushiki separates → Vindhyavasini; white bull vahaan added |
-| 5 | `kokila-vrat` | LOW | ⬜ Pending | Minor trim only — compress Sati self-immolation to 2 sentences; keep cuckoo-penance as center |
+| 5 | `kokila-vrat` | LOW | ✅ Done | Trim: Daksha yajna + Sati death + Shiva response (3 paragraphs → 2 sentences); cuckoo-penance now takes full center stage |
 
 ---
 
