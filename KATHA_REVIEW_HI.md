@@ -78,7 +78,7 @@ Add notes inline if changes were requested / made.
 |  67 | navratri-mahagauri          | [ ]      | |
 |  68 | navratri-shailputri         | [ ]      | |
 |  69 | navratri-siddhidatri        | [ ]      | |
-|  70 | navratri-skandamata         | [ ]      | |
+|  70 | navratri-skandamata         | [x]      | FULL REWRITE (Katha + Significance): cut Parvati tapasya and marriage retelling; Tarakasura setup compressed to 4 sentences; main story = Vel-giving: Parvati presses her Gnana Shakti into the Vel, gives it to Skanda as his 12th weapon — the one that pierces Taraka's maya; Sikkal Singaravelan temple added as living anchor; iconic dual-image (armed mother + infant) explained; Significance: Skandamata as source of the killing power, lion vahaan theological explanation, Sikkal living tradition; subtitle/summary/reel_hook updated |
 |  71 | nirjala-ekadashi            | [ ]      | |
 |  72 | papmochani-ekadashi         | [ ]      | |
 |  73 | parashurama-jayanti         | [ ]      | |
