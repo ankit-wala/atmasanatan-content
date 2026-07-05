@@ -36,7 +36,7 @@ Everything else below needs to find a different angle.
 
 | Chapter | Issue | Verdict |
 |---------|-------|---------|
-| `navratri-chandraghanta` | Parvati-Shiva wedding barat scene — brief but still the same marriage | ⚠️ **Keep barat scene (it's the origin of the form), but make it 1 para and pivot quickly** |
+| `navratri-chandraghanta` | Parvati-Shiva wedding barat scene — the wedding arc is a DIFFERENT story (not tapasya) | ✅ **KEEP — the wedding arc is distinct; Chandraghanta's form arises directly from it** |
 | `navratri-skandamata` | Parvati tapasya + Shiva marriage retold before Kartikeya birth; marriage is 3rd time reader sees it | ❌ **Cut tapasya/marriage repetition; start at Kartikeya's birth / the Shakti-vel** |
 | `navratri-mahagauri` | Parvati tapasya darkened her skin, Shiva bathes her white (popular version) | ❌ **Replace with Vayaviya Samhita shed-skin story** |
 
@@ -98,18 +98,19 @@ Shiva accepts her. Near-identical to Hartalika Teej.
 
 ---
 
-### 2. `navratri-chandraghanta` — KEEP MOSTLY, TRIM AND ADD VAHAAN
+### 2. `navratri-chandraghanta` — KEEP, ADD VAHAAN
 
 **Current:** Shiva's terrifying barat arrives, Mena faints, Parvati assumes armed form.
-Brief (not a full retelling), but still the wedding scene.
 
-**Strategy:** Keep the barat scene as 1-2 paragraphs (it's the direct origin of the form).
-Redirect focus to what's theologically unique:
-- The crescent on her forehead: specifically bell-shaped (ghanta), inherited from Shiva the
-  Chandrashekhara. A bell's sound destroys demonic forces — her forehead is itself a weapon.
-- She is the FIRST combat-ready form in the Navadurga arc.
-- The transition: from no vahaan (Brahmacharini walks) to a lion (she now rides).
-- Add vahaan = lion, why.
+**Decision:** The wedding arc is a DIFFERENT story from the tapasya arc — it does not repeat
+Hartalika Teej or Brahmacharini. Chandraghanta's form specifically emerges FROM the wedding
+moment (her response to Shiva's procession). Keep the story as-is.
+
+**Only addition needed:**
+- Add vahaan = lion and why (first combat-ready form in Navadurga arc; transition from
+  Brahmacharini who walks to Chandraghanta who rides).
+- Optionally add: the theological meaning of the bell-crescent (Shiva's own crescent mark,
+  bell-shaped = sound destroys demons; her forehead is itself a weapon).
 
 ---
 
@@ -230,7 +231,7 @@ is what makes this chapter distinct — preserve it; trim only the backstory ove
 3. **`navratri-skandamata`** — medium priority; unique story exists (Shakti-vel), mostly cutting
 4. **`navratri-mahagauri`** — medium priority; better source version exists, straightforward swap
 5. **`kokila-vrat`** — low priority; mostly a trim, not a rewrite
-6. **`navratri-chandraghanta`** — low priority; mostly keep, add vahaan
+6. **`navratri-chandraghanta`** — no story change; just add vahaan paragraph
 
 ## Vahaan additions (not rewrites, just additions)
 
