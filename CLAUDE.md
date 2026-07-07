@@ -351,11 +351,12 @@ JavaScript-rendered and WebFetch returns stale/wrong content. Only specific stat
 
 | URL pattern | Accessible via WebFetch? | Notes |
 |-------------|--------------------------|-------|
+| `/festivals/lunar-month/festivals-<month>.html?year=YYYY` | ✅ Yes | Server-rendered; lists ALL festivals + Chandra Darshana (Shukla Pratipada) for any lunar month. `<month>` = lowercase English name, e.g. `festivals-jyeshtha.html`, `festivals-margashirsha.html`. **Primary method for weekday vrat date verification.** |
 | `/navratri/chaitra-vasant-navratri-dates.html?year=YYYY` | ✅ Yes | Server-rendered; gives all 9 Navratri tithi dates for Chaitra. Used to verify Chaitra Durgashtami. |
 | `/navratri/ashwin-shardiya-navratri-dates.html?year=YYYY` | ✅ Yes | Server-rendered; gives all 9 Navratri tithi dates for Ashwin. |
+| `/ekadashis/<name>/<name>-date-time.html?year=YYYY` | ✅ Yes | Server-rendered; confirmed for `nirjala/nirjala-ekadashi-date-time.html?year=YYYY`. Useful anchor for computing start of Jyeshtha Shukla. |
 | `/hindu-calendar/hindu-calendar-detail.html?year=YYYY&month=N` | ❌ 404 | Returns 404 — do not use. |
-| `/festivals/<category>/<slug>-date-time.html?year=YYYY` | ❌ 404 | All individual festival detail pages return 404. |
-| `/ekadashi/<slug>-date-time.html?year=YYYY` | ❌ 404 | Returns 404. |
+| `/festivals/<category>/<slug>-date-time.html?year=YYYY` | ❌ 404 | All individual festival detail pages under category subdirs return 404. |
 | `/vrats/<slug>-vrat-dates.html` | ❌ 404 | Returns 404. |
 | `/panchang/day-panchang.html?date=YYYY-MM-DD` | ❌ JS-rendered | Page ignores the date parameter and shows a default date. Do not use. |
 
@@ -400,21 +401,17 @@ Those dates are still accurate — the 404 only affects new verification attempt
 Entries like `ravivar-vrat`, `mangalvar-vrat`, `budhvar-vrat`, `brihaspativar-vrat`, `shanivar-vrat`,
 `shukravar-lakshmi`, `shukravar-santoshi`, `vaibhav-lakshmi-vrat` have `tithi: <Weekday>` in their
 panchang block (not a lunar tithi — just the day of week). DrikPanchang does not publish annual date
-lists for these generic weekday vratas. The canonical approach (**requires real browser** — ProKerala
-is JS-rendered and WebFetch cannot read it):
-1. Open ProKerala Hindu Calendar in a browser for the relevant month:
-   `https://www.prokerala.com/general/calendar/hinducalendar.php?year=<VS-year>&mon=<month-name>`
-   (Use Vikram Samvat year: 2083 VS ≈ 2026 CE · 2084 VS ≈ 2027 CE; omit `sb=1` — causes HTTP 400)
-2. Identify all occurrences of that weekday within the specified paksha (Shukla/Krishna).
-3. Record the **first occurrence** as the `date_YYYY` field, verified from the ProKerala panchang.
-4. Comment: `# verified ProKerala panchang YYYY — <Month> <Paksha> <tithi> — first <Weekday>`
+lists for these generic weekday vratas. The canonical approach (**via WebFetch — no browser needed**):
+1. Fetch the DrikPanchang lunar month festivals page for the relevant month:
+   `https://www.drikpanchang.com/festivals/lunar-month/festivals-<month>.html?year=<YYYY>`
+   (e.g. `festivals-jyeshtha.html?year=2026`, `festivals-ashwin.html?year=2026`)
+2. Read the "Chandra Darshana" date — that is Shukla Pratipada, the start of the bright fortnight.
+3. Identify all occurrences of the target weekday on or after Chandra Darshana and before Purnima.
+4. Record the **first occurrence** as the `date_YYYY` field.
+5. Comment: `# verified DrikPanchang YYYY — <Month> Shukla <tithi> — first <Weekday>`
 
 **Current verification status:**
-- `date_2026` and `date_2027` verified for all 150 entries (completed June 2026).
-- **Exception — re-verification needed (July 2026):** `shukravar-santoshi` moved from Ashwin to
-  **Jyeshtha Shukla** (first Friday); `shukravar-lakshmi` moved from Ashwin to **Margashirsha Shukla**
-  (first Friday). Both have `date_2026: TODO-VERIFY` and `date_2027: TODO-VERIFY` — verify manually
-  via ProKerala browser before setting `ready_to_publish`.
+- `date_2026` and `date_2027` verified for all 150 entries (completed June–July 2026).
 
 ---
 

@@ -8,8 +8,8 @@ panchang:
   month: Margashirsha
   paksha: Shukla
   tithi: Shukravar
-  date_2026: TODO-VERIFY   # Margashirsha Shukla — first Friday — verify DrikPanchang/ProKerala
-  date_2027: TODO-VERIFY   # Margashirsha Shukla — first Friday — verify DrikPanchang/ProKerala
+  date_2026: 2026-12-11  # verified DrikPanchang 2026 — Margashirsha Shukla Dwitiya — first Friday
+  date_2027: 2027-12-03  # verified DrikPanchang 2027 — Margashirsha Shukla Panchami — first Friday
 region: pan-india
 related_shlokas: []
 related_bhajans: []

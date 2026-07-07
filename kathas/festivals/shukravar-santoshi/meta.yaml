@@ -8,8 +8,8 @@ panchang:
   month: Jyeshtha
   paksha: Shukla
   tithi: Shukravar
-  date_2026: TODO-VERIFY   # Jyeshtha Shukla — first Friday — verify DrikPanchang/ProKerala
-  date_2027: TODO-VERIFY   # Jyeshtha Shukla — first Friday — verify DrikPanchang/ProKerala
+  date_2026: 2026-06-19  # verified DrikPanchang 2026 — Jyeshtha Shukla Shashthi — first Friday
+  date_2027: 2027-06-11  # verified DrikPanchang 2027 — Jyeshtha Shukla Saptami — first Friday
 region: pan-india
 related_shlokas: []
 related_bhajans: []
