@@ -226,6 +226,7 @@
 | R | `gudi-padwa` | Gudi Padwa / Ugadi — Hindu New Year | Chaitra Shukla Pratipada | ~ Apr 7, 2027 ✓ | [R] |
 | R | `chaitra-sankashti` | Chaitra Sankashti — Vakratunda | Chaitra Krishna Chaturthi | ~ Apr 1 | [R] |
 | 84 | `gangaur` | Gangaur — Isara-Gauri (Rajasthan) | Chaitra Shukla Tritiya | ~ Apr 9 | [108] |
+| R | `chaitra-durgashtami` | Chaitra Durgashtami — Surath & Samadhi Katha | Chaitra Shukla Ashtami | ~ Apr 14, 2027 | [R] |
 | 85 | `ram-navami` | Ram Navami — Shri Rama Janma | Chaitra Shukla Navami | ~ Apr 15, 2027 ✓ | [108] |
 | 86 | `kamada-ekadashi` | Kamada Ekadashi | Chaitra Shukla Ekadashi | ~ Apr 17, 2027 ✓ | [108] |
 | 87 | `hanuman-jayanti` | Hanuman Jayanti | Chaitra Purnima | ~ Apr 20, 2027 ✓ | [108] |
