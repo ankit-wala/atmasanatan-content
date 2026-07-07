@@ -342,21 +342,46 @@ channels only (Amazon.in + Flipkart + local retail). All global print sales go t
 
 ---
 
-## date_2027 verification — monthly calendar approach
+## Date verification — source accessibility
 
-DrikPanchang publishes a "Hindu Festivals and Vrats" page for each calendar month, listing every
-festival with its exact date. This is far more efficient than one-by-one lookups — fetch one month
-page and verify every festival in that month simultaneously.
+Before attempting to verify dates, check this table. Most DrikPanchang pages are
+JavaScript-rendered and WebFetch returns stale/wrong content. Only specific static pages work.
 
-**URL pattern:**
+### DrikPanchang URL accessibility via WebFetch
+
+| URL pattern | Accessible via WebFetch? | Notes |
+|-------------|--------------------------|-------|
+| `/navratri/chaitra-vasant-navratri-dates.html?year=YYYY` | ✅ Yes | Server-rendered; gives all 9 Navratri tithi dates for Chaitra. Used to verify Chaitra Durgashtami. |
+| `/navratri/ashwin-shardiya-navratri-dates.html?year=YYYY` | ✅ Yes | Server-rendered; gives all 9 Navratri tithi dates for Ashwin. |
+| `/hindu-calendar/hindu-calendar-detail.html?year=YYYY&month=N` | ❌ 404 | Returns 404 — do not use. |
+| `/festivals/<category>/<slug>-date-time.html?year=YYYY` | ❌ 404 | All individual festival detail pages return 404. |
+| `/ekadashi/<slug>-date-time.html?year=YYYY` | ❌ 404 | Returns 404. |
+| `/vrats/<slug>-vrat-dates.html` | ❌ 404 | Returns 404. |
+| `/panchang/day-panchang.html?date=YYYY-MM-DD` | ❌ JS-rendered | Page ignores the date parameter and shows a default date. Do not use. |
+
+### ProKerala Hindu Calendar
+
+ProKerala is **fully JavaScript-rendered** — WebFetch cannot read its content. Additionally,
+the `year=` URL parameter is interpreted as a Vikram Samvat year, not Gregorian
+(e.g. `year=2026` → shows 1969 CE content). The `sb=1` parameter causes HTTP 400.
+**ProKerala must be verified manually in a real browser.**
+
+URL for manual browser use:
 ```
-https://www.drikpanchang.com/hindu-calendar/hindu-calendar-detail.html?year=2027&month=<N>
+https://www.prokerala.com/general/calendar/hinducalendar.php?year=<YYYY>&mon=<MonthName>
 ```
-Replace `<N>` with the 1-based month number (1=January … 12=December).
+(omit `sb=1` — it causes 400; `year` here means VS year: 2083 VS ≈ 2026 CE, 2084 VS ≈ 2027 CE)
 
-**Process (per month batch):**
-1. Open the URL for that month in DrikPanchang.
-2. Scan the page for all festivals matching our entries.
+### date_2027 verification — monthly calendar approach (completed June 2026)
+
+All 150 entries' `date_2027` fields were verified in June 2026 using DrikPanchang (in-browser,
+not via WebFetch) and ProKerala. The original monthly calendar URL
+`hindu-calendar-detail.html?year=YYYY&month=N` was used at that time but now 404s via WebFetch.
+Those dates are still accurate — the 404 only affects new verification attempts via WebFetch.
+
+**Process (per month batch — requires real browser):**
+1. Open DrikPanchang in a browser for that month's festival calendar.
+2. Scan for all festivals matching our entries.
 3. Note the exact Gregorian dates shown.
 4. Update each matching `meta.yaml` `date_2027` field; replace `TODO-VERIFY` with `YYYY-MM-DD`.
 5. Add a `# verified DrikPanchang 2027` comment on the same line.
@@ -375,14 +400,21 @@ Replace `<N>` with the 1-based month number (1=January … 12=December).
 Entries like `ravivar-vrat`, `mangalvar-vrat`, `budhvar-vrat`, `brihaspativar-vrat`, `shanivar-vrat`,
 `shukravar-lakshmi`, `shukravar-santoshi`, `vaibhav-lakshmi-vrat` have `tithi: <Weekday>` in their
 panchang block (not a lunar tithi — just the day of week). DrikPanchang does not publish annual date
-lists for these generic weekday vratas. The canonical approach:
-1. Fetch the ProKerala Hindu Calendar for the relevant Gregorian month:
-   `https://www.prokerala.com/general/calendar/hinducalendar.php?year=<YYYY>&mon=<month-name>&sb=1`
+lists for these generic weekday vratas. The canonical approach (**requires real browser** — ProKerala
+is JS-rendered and WebFetch cannot read it):
+1. Open ProKerala Hindu Calendar in a browser for the relevant month:
+   `https://www.prokerala.com/general/calendar/hinducalendar.php?year=<VS-year>&mon=<month-name>`
+   (Use Vikram Samvat year: 2083 VS ≈ 2026 CE · 2084 VS ≈ 2027 CE; omit `sb=1` — causes HTTP 400)
 2. Identify all occurrences of that weekday within the specified paksha (Shukla/Krishna).
 3. Record the **first occurrence** as the `date_YYYY` field, verified from the ProKerala panchang.
 4. Comment: `# verified ProKerala panchang YYYY — <Month> <Paksha> <tithi> — first <Weekday>`
 
-Note: `date_2026` is fully verified for all 150 entries. `date_2027` is now also complete for all 150.
+**Current verification status:**
+- `date_2026` and `date_2027` verified for all 150 entries (completed June 2026).
+- **Exception — re-verification needed (July 2026):** `shukravar-santoshi` moved from Ashwin to
+  **Jyeshtha Shukla** (first Friday); `shukravar-lakshmi` moved from Ashwin to **Margashirsha Shukla**
+  (first Friday). Both have `date_2026: TODO-VERIFY` and `date_2027: TODO-VERIFY` — verify manually
+  via ProKerala browser before setting `ready_to_publish`.
 
 ---
 
