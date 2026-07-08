@@ -86,7 +86,7 @@ SLUGS_108_EN = {
 SLUGS_108_HI = [
     "ahoi-ashtami", "akshaya-tritiya", "anant-chaturdashi", "ashadha-sankashti",
     "ashwin-sankashti", "bhadrapada-sankashti", "bhai-dooj", "bhishma-ashtami",
-    "brihaspativar-vrat", "buddha-purnima", "chaitra-sankashti", "chhath-puja",
+    "brihaspativar-vrat", "buddha-purnima", "chaitra-durgashtami", "chaitra-sankashti", "chhath-puja",
     "chitragupta-puja", "dattatreya-jayanti", "dev-diwali", "devshayani-ekadashi",
     "devutthana-ekadashi", "dhanteras", "diwali", "ekadashi-mahatmya",
     "ganesh-chaturthi-janma", "ganesh-chaturthi-syamantaka", "ganga-dussehra",
@@ -94,7 +94,7 @@ SLUGS_108_HI = [
     "guru-purnima", "hal-shashthi", "hanuman-jayanti", "hartalika-teej",
     "holika-dahan", "indira-ekadashi", "jagannath-rath-yatra", "janmashtami",
     "jaya-ekadashi", "jaya-parvati-vrat", "jivitputrika", "jyeshtha-sankashti",
-    "kalabhairav-jayanti", "kamada-ekadashi", "kartik-sankashti",
+    "kalabhairav-jayanti", "kamada-ekadashi",
     "kartik-snan-mahatmya", "karwa-chauth", "lohri", "magha-purnima",
     "magha-sankashti", "maha-shivaratri", "mahalaya-pitru-paksha",
     "makar-sankranti", "mangala-gauri-vrat", "mangalvar-vrat",
