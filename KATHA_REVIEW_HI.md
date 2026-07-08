@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 30 / 108**
+**Progress: 43 / 108**
 
 ---
 
@@ -19,7 +19,8 @@ Add notes inline if changes were requested / made.
 |   8 | bhishma-ashtami             | [ ]      | |
 |   9 | brihaspativar-vrat          | [ ]      | |
 |  10 | buddha-purnima              | [ ]      | |
-|  11 | chaitra-sankashti           | [ ]      | |
+|  11 | chaitra-durgashtami         | [x]      | NEW — swapped in for kartik-sankashti (canonical Devi Mahatmya story; Raja Surath + Samadhi; promoted draft→ready_to_publish; dates verified) |
+|  12 | chaitra-sankashti           | [ ]      | |
 |  12 | chhath-puja                 | [ ]      | |
 |  13 | chitragupta-puja            | [ ]      | |
 |  14 | dattatreya-jayanti          | [ ]      | |
@@ -51,8 +52,8 @@ Add notes inline if changes were requested / made.
 |  40 | jyeshtha-sankashti          | [ ]      | |
 |  41 | kalabhairav-jayanti         | [ ]      | |
 |  42 | kamada-ekadashi             | [ ]      | |
-|  43 | kartik-sankashti            | [ ]      | |
-|  44 | kartik-snan-mahatmya        | [ ]      | |
+|  43 | kartik-sankashti            | [x]      | REMOVED from HI book — replaced by chaitra-durgashtami; karwa-chauth already covers same day |
+|  44 | kartik-snan-mahatmya        | [x]      | "कोई कथा है?" removed from Narad's question; ऊखल (ओखली) bracket added; Significance Damodara etymology corrected (ओखल ≠ उदर — fixed to दाम+उदर=दामोदर); Tulsi Vivah: द्वादशी primary |
 |  45 | karwa-chauth                | [ ]      | |
 |  46 | lohri                       | [ ]      | |
 |  47 | magha-purnima               | [ ]      | |
@@ -98,7 +99,7 @@ Add notes inline if changes were requested / made.
 |  87 | shani-jayanti               | [ ]      | |
 |  88 | shani-pradosh               | [ ]      | |
 |  89 | shanivar-vrat               | [ ]      | |
-|  90 | sharad-purnima              | [ ]      | |
+|  90 | sharad-purnima              | [x]      | Why Lakshmi descends this night added (16-kala moon + harvest season); Dandiya Raas: equal Krishnas + gopis (जितनी गोपियाँ उतने ही कृष्ण, एकांतर क्रम); Significance trimmed (moon/Maharasa paragraphs were duplicating Katha — replaced with new insights: post-monsoon sky clarity, Garba-Dandiya origin) |
 |  91 | sheetala-ashtami            | [ ]      | |
 |  92 | sheetala-satam              | [x]      | झाड़ू+गधा iconography verified correct (Wikipedia/Skanda Purana); no separate child-health katha exists in canon — Raja Virat is the standard; added 2-sentence maternal anguish beat ("माताएँ असहाय थीं — चेचक के दाने...") to bridge royal narrative to vrat's child-health purpose |
 |  93 | shravan-sankashti           | [x]      | Origin: "विक्षोभ" framing + Shukracharya naming added; all Krodhasur pronouns → वह/उसे; source "गणेश पुराण" → "मुद्गल पुराण"; Brahma's speech: why-Ganesha added; "Atma Sanatan" → "आत्म सनातन"; meta.yaml scripture_ref updated |
@@ -111,9 +112,9 @@ Add notes inline if changes were requested / made.
 | 100 | tulsi-vivah                 | [ ]      | |
 | 101 | utpanna-ekadashi            | [ ]      | |
 | 102 | vaishakha-sankashti         | [ ]      | |
-| 103 | valmiki-jayanti             | [ ]      | |
+| 103 | valmiki-jayanti             | [x]      | Pronoun consistency: रहता था → रहते थे (वे throughout); killing explicit: जीवन लेना → हत्या; मरा-मरा verified (Puranic/folk tradition, kept); Narad telling katha verified (VR Bala Kanda 1.1–2, accurate); Significance: करुणा + परिवर्तन paragraphs trimmed (were duplicating Katha) — replaced with काव्यशास्त्र foundation + नाम-माहात्म्य/community significance |
 | 104 | vamana-jayanti              | [x]      | "इसी पुस्तक में परिवर्तिनी एकादशी" → "परिवर्तिनी एकादशी की परंपरा में" (not in this book); Onam section revamped: date difference clarified (Onam = Shravana nakshatra, Vamana Jayanti = Dwadashi tithi — different days same week); Aditi's bhakti as distinct focus vs Onam's Bali-return focus |
 | 105 | vasant-panchami             | [ ]      | |
 | 106 | vat-savitri-vrat            | [ ]      | |
-| 107 | vijayadashami               | [ ]      | |
+| 107 | vijayadashami               | [x]      | अपराजिता (जगदम्बा दुर्गा) in brackets; Ravan genealogy corrected: प्रपौत्र not पोता (Brahma→Pulastya→Vishrava→Ravan); Aditya Hridayam passage verified accurate (VR Yuddha Kanda 107); Significance: Maryada Purushottam paragraph added (Ram as Vishnu's 7th avatar); Mantras: रामाय रामभद्राय... stuti added |
 | 108 | vivah-panchami              | [ ]      | |
