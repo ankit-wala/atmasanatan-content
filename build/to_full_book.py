@@ -50,12 +50,12 @@ def strip_iast_lines(text: str) -> str:
 # (chronological), then Jan–Jul wrap-around entries at the end.
 # See BOOK_TODO.md §1 for the audience logic behind each list.
 
-SLUGS_108_EN = {
+SLUGS_108_EN = [
     "ahoi-ashtami", "akshaya-navami", "akshaya-tritiya", "amalaki-ekadashi",
     "anant-chaturdashi", "ashadha-sankashti", "ashwin-sankashti",
     "bhadrapada-sankashti", "bhai-dooj", "brihaspativar-vrat", "buddha-purnima",
     "chaitra-sankashti", "chhath-puja", "dattatreya-jayanti", "dev-diwali",
-    "devshayani-ekadashi", "devutthana-ekadashi", "dhanteras", "diwali",
+    "devshayani-ekadashi", "devutthana-ekadashi", "dhanteras", "narak-chaturdashi", "diwali",
     "ekadashi-mahatmya", "ganesh-chaturthi-janma", "ganesh-chaturthi-syamantaka",
     "ganga-dussehra", "ganga-saptami", "gayatri-jayanti", "gopashtami",
     "govardhan-puja", "gudi-padwa", "guru-purnima", "hal-shashthi",
@@ -66,7 +66,7 @@ SLUGS_108_EN = {
     "lohri", "magha-purnima", "magha-sankashti", "maha-shivaratri",
     "mahalaya-pitru-paksha", "makar-sankranti", "mangala-gauri-vrat",
     "margashirsha-sankashti", "masik-satyanarayan", "masik-shivaratri",
-    "mauni-amavasya", "mokshada-ekadashi", "nag-panchami", "narak-chaturdashi",
+    "mauni-amavasya", "mokshada-ekadashi", "nag-panchami",
     "narasimha-jayanti", "navratri-brahmacharini", "navratri-chandraghanta",
     "navratri-kalaratri", "navratri-katyayani", "navratri-kushmanda",
     "navratri-mahagauri", "navratri-shailputri", "navratri-siddhidatri",
@@ -81,14 +81,14 @@ SLUGS_108_EN = {
     "somvati-amavasya", "swarna-gowri-vrat", "tulsi-vivah", "utpanna-ekadashi",
     "vaishakha-sankashti", "valmiki-jayanti", "vamana-jayanti", "varalakshmi-vrat",
     "vasant-panchami", "vat-savitri-vrat", "vijayadashami",
-}
+]
 
 SLUGS_108_HI = [
     "ahoi-ashtami", "akshaya-tritiya", "anant-chaturdashi", "ashadha-sankashti",
     "ashwin-sankashti", "bhadrapada-sankashti", "bhai-dooj", "bhishma-ashtami",
     "brihaspativar-vrat", "buddha-purnima", "chaitra-durgashtami", "chaitra-sankashti", "chhath-puja",
     "chitragupta-puja", "dattatreya-jayanti", "dev-diwali", "devshayani-ekadashi",
-    "devutthana-ekadashi", "dhanteras", "diwali", "ekadashi-mahatmya",
+    "devutthana-ekadashi", "dhanteras", "narak-chaturdashi", "diwali", "ekadashi-mahatmya",
     "ganesh-chaturthi-janma", "ganesh-chaturthi-syamantaka", "ganga-dussehra",
     "gangaur", "gayatri-jayanti", "gopashtami", "govardhan-puja", "gudi-padwa",
     "guru-purnima", "hal-shashthi", "hanuman-jayanti", "hartalika-teej",
@@ -99,7 +99,7 @@ SLUGS_108_HI = [
     "magha-sankashti", "maha-shivaratri", "mahalaya-pitru-paksha",
     "makar-sankranti", "mangala-gauri-vrat", "mangalvar-vrat",
     "margashirsha-sankashti", "onam", "masik-shivaratri",
-    "mauni-amavasya", "mokshada-ekadashi", "nag-panchami", "narak-chaturdashi",
+    "mauni-amavasya", "mokshada-ekadashi", "nag-panchami",
     "narasimha-jayanti", "navratri-brahmacharini", "navratri-chandraghanta",
     "navratri-kalaratri", "navratri-katyayani", "navratri-kushmanda",
     "navratri-mahagauri", "navratri-shailputri", "navratri-siddhidatri",
