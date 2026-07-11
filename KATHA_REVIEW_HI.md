@@ -3,13 +3,13 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 43 / 108**
+**Progress: 49 / 108**
 
 ---
 
 | #   | Slug                        | Reviewed | Notes |
 |-----|-----------------------------|----------|-------|
-|   1 | ahoi-ashtami                | [ ]      | |
+|   1 | ahoi-ashtami                | [x]      | शावक+अहोई brackets added; मूर्च्छित passage rewritten (होश-बेहोशी transition); चोरी bracket added; Significance: Ahoi Mata redescribed as समस्त प्राणियों की माँ; Vidhi compressed to 5 bullets |
 |   2 | akshaya-tritiya             | [ ]      | |
 |   3 | anant-chaturdashi           | [x]      | Opening: Krishna says "एक पुरानी कथा सुनो" (not direct vrat prescription); गर्दभ and पुष्कर brackets added; Katha ends with return to Yudhishthira frame — "चौदह वर्ष" echo without Krishna predicting future; Pandava connection moved from Significance into Katha ending as metaphor |
 |   4 | ashadha-sankashti           | [ ]      | |
@@ -27,8 +27,8 @@ Add notes inline if changes were requested / made.
 |  15 | dev-diwali                  | [ ]      | |
 |  16 | devshayani-ekadashi         | [x]      | Shankhasura story removed; replaced with Padma Purana Vamana-Bali narrative; yoganidra = promise to Bali; drought cause reframed without casteism; Bali introduced as "प्रह्लाद के पौत्र"; sources updated in meta.yaml |
 |  17 | devutthana-ekadashi         | [ ]      | |
-|  18 | dhanteras                   | [ ]      | |
-|  19 | diwali                      | [ ]      | |
+|  18 | dhanteras                   | [x]      | Samudra manthan expanded (Kurma avatar, Vasuki loops, full ratna sequence, Dhanvantari 4-armed form, Mohini); King Dīrghatapas boon direction corrected; Raja Hima + Yamraj explanation added; Significance trimmed |
+|  19 | diwali                      | [x]      | Bharata 14-yr tapasya detail; Pushpaka Viman returned to Kubera (Valmiki Ramayana); journey locations shown to Sita from vimana; Sita-as-Lakshmi connection; Kojagri Purnima vs Diwali "को जागर्ति" distinction clarified |
 |  20 | ekadashi-mahatmya           | [ ]      | |
 |  21 | ganesh-chaturthi-janma      | [x]      | Shiv gana framing rewritten (ganas serve Shiva, not Parvati — hence she needed her own द्वारपाल); Brahma Vaivarta Purana Vishnu note already in Significance |
 |  22 | ganesh-chaturthi-syamantaka | [x]      | ऋक्षराज bracket added; "इलज़ाम"→"आरोप"; Chandrama plea scene expanded (full speech + pashchatap); Narad circular ref fixed (annual protection logic, not self-referential "इस कथा"); vrat-after-kaltank logic added; non-eclipse clarification added to Significance |
@@ -36,7 +36,7 @@ Add notes inline if changes were requested / made.
 |  24 | gangaur                     | [ ]      | |
 |  25 | gayatri-jayanti             | [ ]      | |
 |  26 | gopashtami                  | [ ]      | |
-|  27 | govardhan-puja              | [ ]      | |
+|  27 | govardhan-puja              | [x]      | Krishna's suggestion reframed (same fervor/rituals for Govardhan, not "stop Indra worship"); Govardhan-form contradiction fixed (simultaneous dual form); कनिष्ठ उँगली bracket; "बच्चा छाता" simile removed; Go/Vardhan → गो/वर्धन; Atma Sanatan → आत्म सनातन; narak-chaturdashi moved before diwali in SLUGS lists; SLUGS_108_EN converted set→list |
 |  28 | gudi-padwa                  | [ ]      | |
 |  29 | guru-purnima                | [x]      | Satyavati identified as Shantanu's future queen in brackets; "नहीं हुआ"→"नहीं लिखा"; Vyasa परंपरा line clarified; fixed Devshayani Ekadashi timing (4 days before, not after); spacing in भगवद् गीता + श्रीमद् भागवत |
 |  30 | hal-shashthi                | [x]      | शेषनाग bracket gloss added; योगमाया identified as दिव्य माया-शक्ति; transfer confirmed एकदिशीय (not exchange); Sankarshan→Balarama naming split into two paragraphs; Pralamba/Dhenuka exploits removed; Rohini: "दूसरी पत्नी"→"पत्नी" (Wikipedia: she's first wife); why Krishna→Yashoda not Rohini explained; grammar fix "जिस माँ ने"→"जिस संतान ने"; hal-varjan Significance expanded with weapon-rest logic |
@@ -54,7 +54,7 @@ Add notes inline if changes were requested / made.
 |  42 | kamada-ekadashi             | [ ]      | |
 |  43 | kartik-sankashti            | [x]      | REMOVED from HI book — replaced by chaitra-durgashtami; karwa-chauth already covers same day |
 |  44 | kartik-snan-mahatmya        | [x]      | "कोई कथा है?" removed from Narad's question; ऊखल (ओखली) bracket added; Significance Damodara etymology corrected (ओखल ≠ उदर — fixed to दाम+उदर=दामोदर); Tulsi Vivah: द्वादशी primary |
-|  45 | karwa-chauth                | [ ]      | |
+|  45 | karwa-chauth                | [x]      | Full rewrite: combined two stories — Karwa (folk, names the vrat; pativrata binds crocodile with cotton thread, threatens Yama) leads; Veeravati (Mahabharata) secondary; source corrected Skanda Purana→Mahabharata; Significance: Karwa name etymology added |
 |  46 | lohri                       | [ ]      | |
 |  47 | magha-purnima               | [ ]      | |
 |  48 | magha-sankashti             | [ ]      | |
@@ -69,7 +69,7 @@ Add notes inline if changes were requested / made.
 |  57 | mauni-amavasya              | [ ]      | |
 |  58 | mokshada-ekadashi           | [ ]      | |
 |  59 | nag-panchami                | [x]      | Parikshit takes refuge in existing palace (not builds new one in 7 days); Takshaka's two-step disguise clarified (brahmins carry fruit, Takshaka hides inside fruit as tiny worm); आख्यान → कथाएँ; Significance: why Astika alone could stop yajna (half-brahmin, half-naga); milk offering redirected to temple idol |
-|  60 | narak-chaturdashi           | [ ]      | |
+|  60 | narak-chaturdashi           | [x]      | नरकासुर pronouns → वह/उसने; देवताओं का ऐश्वर्य-चिह्न bracket; Satyabhama backstory (Bhudevi avatara, Vishnu's promise); dying speech: addresses सत्यभामा as "माते" not Krishna; पारिजात उखाड़ लिया → साथ ले लिया; abhyanga mantra merged into first Vidhi bullet |
 |  61 | narasimha-jayanti           | [ ]      | |
 |  62 | navratri-brahmacharini      | [x]      | FULL REWRITE (Katha + Significance): replaced Parvati tapasya (duplicate of Hartalika Teej) with Prakandasura episode — Devi in deep samadhi, demon army attacks, kamandalu tips → divine flood sweeps army, tapas-fire destroys the demon, samadhi never broken; short identity para at start (Brahmacharini = tapa-shakti, Day 2 of Navadurga arc); Significance rewritten: tapa-shakti, kamandalu/japmala as vessels of power, barefoot = no vahaan (gati is inward); subtitle/summary/reel_hook updated |
 |  63 | navratri-chandraghanta      | [x]      | Significance: lion vahaan paragraph added (first vahaan in Navadurga arc; transition from barefoot Brahmacharini to combat-ready) |
