@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 53 / 108**
+**Progress: 55 / 108**
 
 ---
 
@@ -24,7 +24,7 @@ Add notes inline if changes were requested / made.
 |  12 | chhath-puja                 | [x]      | 4-day names added (नहाय-खाय, खरना, संध्या अर्घ्य, उषा अर्घ्य); अस्तगामी bracket (ढलते, पश्चिम में डूबते); Significance para-1 removed (duplicate of Katha line 27); निर्जल व्रत flexibility note added |
 |  13 | chitragupta-puja            | [x]      | Chitragupt's self-naming removed from speech (Brahma names him; being says "मेरा उद्देश्य..." instead) |
 |  14 | dattatreya-jayanti          | [ ]      | |
-|  15 | dev-diwali                  | [ ]      | |
+|  15 | dev-diwali                  | [x]      | WHY Brahma/Vishnu couldn't handle Tripurasuras explained; WHY 3 cities align (separate orbits, 1000-yr cycle) added; (Gurpurab) English removed |
 |  16 | devshayani-ekadashi         | [x]      | Shankhasura story removed; replaced with Padma Purana Vamana-Bali narrative; yoganidra = promise to Bali; drought cause reframed without casteism; Bali introduced as "प्रह्लाद के पौत्र"; sources updated in meta.yaml |
 |  17 | devutthana-ekadashi         | [x]      | monsoon-cycle WHY for yoganidra added; Vrinda-Tulsi promise narrative (first right to wake Vishnu); "रात बहुत लंबी थी"/"पौ फटी" clarified as chaturmaas metaphor; Atma Sanatan → आत्म सनातन |
 |  18 | dhanteras                   | [x]      | Samudra manthan expanded (Kurma avatar, Vasuki loops, full ratna sequence, Dhanvantari 4-armed form, Mohini); King Dīrghatapas boon direction corrected; Raja Hima + Yamraj explanation added; Significance trimmed |
@@ -109,7 +109,7 @@ Add notes inline if changes were requested / made.
 |  97 | kokila-vrat                 | [x]      | Replaced solah-somvar-vrat; p.22 "is this true?" — already labeled लोक-परंपरा, no change; p.25 phala-shruti paragraph moved from end of Mantras to end of Significance; TRIM: Daksha yajna + Sati self-immolation + Shiva response (3 paragraphs) compressed to 2 sentences — cuckoo-penance story now takes full center stage |
 |  98 | somvar-vrat                 | [ ]      | Reordered before shravan-somvar-vrat (meta order 105→6); Chandra-Daksha story is referenced in shravan-somvar-vrat so must come first |
 |  99 | somvati-amavasya            | [ ]      | |
-| 100 | tulsi-vivah                 | [ ]      | |
+| 100 | tulsi-vivah                 | [x]      | "इस कथा में अन्याय" → "वृंदा के साथ अन्याय"; Significance bullet 2: removed "वृंदा के श्राप से यह स्वरूप प्रकट हुआ" line |
 | 101 | utpanna-ekadashi            | [ ]      | |
 | 102 | vaishakha-sankashti         | [ ]      | |
 | 103 | valmiki-jayanti             | [x]      | Pronoun consistency: रहता था → रहते थे (वे throughout); killing explicit: जीवन लेना → हत्या; मरा-मरा verified (Puranic/folk tradition, kept); Narad telling katha verified (VR Bala Kanda 1.1–2, accurate); Significance: करुणा + परिवर्तन paragraphs trimmed (were duplicating Katha) — replaced with काव्यशास्त्र foundation + नाम-माहात्म्य/community significance |
