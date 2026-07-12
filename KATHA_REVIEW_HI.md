@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 58 / 108**
+**Progress: 59 / 108**
 
 ---
 
@@ -50,7 +50,7 @@ Add notes inline if changes were requested / made.
 |  38 | jaya-parvati-vrat           | [x]      | FULL REWRITE (Katha + Significance): replaced Parvati tapasya (duplicate of Hartalika Teej) with Vaman-Satya Gujarati folk katha — Brahmin couple worships neglected forest Shivalinga for 5 years, husband bitten by serpent, Satya calls on Parvati, Parvati revives him, grants a son; subtitle/summary/reel_hook updated; Significance rewritten around "Jaya" as Parvati's name + niyamit bhakti + 5-day salt-free vrat |
 |  39 | jivitputrika                | [x]      | Kalpavriksha departure clarified; क्षुद्रता + पाषाण-शिला brackets added; Significance: "पुत्रिका" etymology added — not "daughter" but the goddess who gives life to sons (Parvati reviving Jimutavahana = the literal enactment of the name) |
 |  40 | jyeshtha-sankashti          | [ ]      | |
-|  41 | kalabhairav-jayanti         | [ ]      | |
+|  41 | kalabhairav-jayanti         | [x]      | परम सत्ता + बाह्य स्वरूप brackets added; ब्रह्म-हत्या bracket added — verified Shiva Purana Ch.8 + Skanda Purana Ch.31 (Shiva deliberately manifests her; wording confirmed accurate) |
 |  42 | kamada-ekadashi             | [ ]      | |
 |  43 | kartik-sankashti            | [x]      | REMOVED from HI book — replaced by chaitra-durgashtami; karwa-chauth already covers same day |
 |  44 | kartik-snan-mahatmya        | [x]      | "कोई कथा है?" removed from Narad's question; ऊखल (ओखली) bracket added; Significance Damodara etymology corrected (ओखल ≠ उदर — fixed to दाम+उदर=दामोदर); Tulsi Vivah: द्वादशी primary |
@@ -98,7 +98,7 @@ Add notes inline if changes were requested / made.
 |  86 | shakambhari-purnima         | [ ]      | |
 |  87 | shani-jayanti               | [ ]      | |
 |  88 | shani-pradosh               | [ ]      | |
-|  89 | shanivar-vrat               | [x]      | Foreign king's court clarified; speaking horse = divine grant (not Vikramaditya transformed); princess motivation added (teja + miracle connection); Shani's boon: "कर्म-धर्म निष्ठा" replaces "कथा सुनें" |
+|  89 | shanivar-vrat               | [x]      | Foreign king's court clarified; MAJOR REWRITE: conspiracy+horse scene replaced with traditional Malhar raga scene (Vikramaditya sings, princess hears, marries him — per traditional sources; horse scene unattested); मणि reappearance at end added; Shani's boon: "कर्म-धर्म निष्ठा" replaces "कथा सुनें" |
 |  90 | sharad-purnima              | [x]      | Why Lakshmi descends this night added (16-kala moon + harvest season); Dandiya Raas: equal Krishnas + gopis (जितनी गोपियाँ उतने ही कृष्ण, एकांतर क्रम); Significance trimmed (moon/Maharasa paragraphs were duplicating Katha — replaced with new insights: post-monsoon sky clarity, Garba-Dandiya origin) |
 |  91 | sheetala-ashtami            | [ ]      | |
 |  92 | sheetala-satam              | [x]      | झाड़ू+गधा iconography verified correct (Wikipedia/Skanda Purana); no separate child-health katha exists in canon — Raja Virat is the standard; added 2-sentence maternal anguish beat ("माताएँ असहाय थीं — चेचक के दाने...") to bridge royal narrative to vrat's child-health purpose |
