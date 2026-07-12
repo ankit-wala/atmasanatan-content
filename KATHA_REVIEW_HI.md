@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 49 / 108**
+**Progress: 53 / 108**
 
 ---
 
@@ -17,16 +17,16 @@ Add notes inline if changes were requested / made.
 |   6 | bhadrapada-sankashti        | [x]      | "अपार विस्तार" → "असीम फैलाव"; all अहंकारासुर pronouns वे/उन/उनके → वह/उसे/उसके throughout Katha; "फिट बैठा" → "साँचे में ढला" |
 |   7 | bhai-dooj                   | [ ]      | |
 |   8 | bhishma-ashtami             | [ ]      | |
-|   9 | brihaspativar-vrat          | [ ]      | |
+|   9 | brihaspativar-vrat          | [x]      | subtitle bracket; opener de-attributed ("बृहस्पतिवार व्रत की परंपरा में..." removed); छद्मवेश bracket; पड़ोसियों → राज-गण और प्रजा |
 |  10 | buddha-purnima              | [ ]      | |
 |  11 | chaitra-durgashtami         | [x]      | NEW — swapped in for kartik-sankashti (canonical Devi Mahatmya story; Raja Surath + Samadhi; promoted draft→ready_to_publish; dates verified) |
 |  12 | chaitra-sankashti           | [ ]      | |
-|  12 | chhath-puja                 | [ ]      | |
-|  13 | chitragupta-puja            | [ ]      | |
+|  12 | chhath-puja                 | [x]      | 4-day names added (नहाय-खाय, खरना, संध्या अर्घ्य, उषा अर्घ्य); अस्तगामी bracket (ढलते, पश्चिम में डूबते); Significance para-1 removed (duplicate of Katha line 27); निर्जल व्रत flexibility note added |
+|  13 | chitragupta-puja            | [x]      | Chitragupt's self-naming removed from speech (Brahma names him; being says "मेरा उद्देश्य..." instead) |
 |  14 | dattatreya-jayanti          | [ ]      | |
 |  15 | dev-diwali                  | [ ]      | |
 |  16 | devshayani-ekadashi         | [x]      | Shankhasura story removed; replaced with Padma Purana Vamana-Bali narrative; yoganidra = promise to Bali; drought cause reframed without casteism; Bali introduced as "प्रह्लाद के पौत्र"; sources updated in meta.yaml |
-|  17 | devutthana-ekadashi         | [ ]      | |
+|  17 | devutthana-ekadashi         | [x]      | monsoon-cycle WHY for yoganidra added; Vrinda-Tulsi promise narrative (first right to wake Vishnu); "रात बहुत लंबी थी"/"पौ फटी" clarified as chaturmaas metaphor; Atma Sanatan → आत्म सनातन |
 |  18 | dhanteras                   | [x]      | Samudra manthan expanded (Kurma avatar, Vasuki loops, full ratna sequence, Dhanvantari 4-armed form, Mohini); King Dīrghatapas boon direction corrected; Raja Hima + Yamraj explanation added; Significance trimmed |
 |  19 | diwali                      | [x]      | Bharata 14-yr tapasya detail; Pushpaka Viman returned to Kubera (Valmiki Ramayana); journey locations shown to Sita from vimana; Sita-as-Lakshmi connection; Kojagri Purnima vs Diwali "को जागर्ति" distinction clarified |
 |  20 | ekadashi-mahatmya           | [ ]      | |
