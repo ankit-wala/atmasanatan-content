@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 56 / 108**
+**Progress: 58 / 108**
 
 ---
 
@@ -63,7 +63,7 @@ Add notes inline if changes were requested / made.
 |  51 | makar-sankranti             | [ ]      | |
 |  52 | mangala-gauri-vrat          | [x]      | Snake scene made vivid (फन उठा → झुका → पलटा); आरती bullet now specifies "जय गौरी माता" |
 |  53 | mangalvar-vrat              | [x]      | Significance Hanuman section rewritten as navagraha-liberation story (Ravana imprisons navagrahas; Hanuman frees them; Mangal gives boon "my anisht won't affect your devotees"); katha-context explanation added |
-|  54 | margashirsha-sankashti      | [ ]      | |
+|  54 | margashirsha-sankashti      | [x]      | मानसून→वर्षा ऋतु; brackets for king; Ganesh Purana refs 4→1; Gita quote removed from Katha (kept in Significance); भानु Significance updated with सूर्यकोटिसमप्रभ connection |
 |  55 | onam                        | [x]      | Replaced masik-satyanarayan (redundant with satyanarayan-adhyaya entries); Bali-Vamana katha (Bhagavata Purana 8); removed 6 bold sub-headers and 5 `---` separators from within Katha (now continuous prose); date bullet added to Vidhi |
 |  56 | masik-shivaratri            | [x]      | व्याध bracket "(शिकारी)" added; all respectful pronouns वे/उन्होंने → वह/उसने throughout; paran date fixed: "कृष्ण पक्ष की प्रतिपदा या द्वितीया" → "अमावस्या को या शुक्ल प्रतिपदा को" (Chaturdashi next day is Amavasya, not Pratipada) |
 |  57 | mauni-amavasya              | [ ]      | |
@@ -98,7 +98,7 @@ Add notes inline if changes were requested / made.
 |  86 | shakambhari-purnima         | [ ]      | |
 |  87 | shani-jayanti               | [ ]      | |
 |  88 | shani-pradosh               | [ ]      | |
-|  89 | shanivar-vrat               | [ ]      | |
+|  89 | shanivar-vrat               | [x]      | Foreign king's court clarified; speaking horse = divine grant (not Vikramaditya transformed); princess motivation added (teja + miracle connection); Shani's boon: "कर्म-धर्म निष्ठा" replaces "कथा सुनें" |
 |  90 | sharad-purnima              | [x]      | Why Lakshmi descends this night added (16-kala moon + harvest season); Dandiya Raas: equal Krishnas + gopis (जितनी गोपियाँ उतने ही कृष्ण, एकांतर क्रम); Significance trimmed (moon/Maharasa paragraphs were duplicating Katha — replaced with new insights: post-monsoon sky clarity, Garba-Dandiya origin) |
 |  91 | sheetala-ashtami            | [ ]      | |
 |  92 | sheetala-satam              | [x]      | झाड़ू+गधा iconography verified correct (Wikipedia/Skanda Purana); no separate child-health katha exists in canon — Raja Virat is the standard; added 2-sentence maternal anguish beat ("माताएँ असहाय थीं — चेचक के दाने...") to bridge royal narrative to vrat's child-health purpose |
