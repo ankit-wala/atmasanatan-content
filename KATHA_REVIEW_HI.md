@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 59 / 108**
+**Progress: 61 / 108**
 
 ---
 
@@ -97,7 +97,7 @@ Add notes inline if changes were requested / made.
 |  85 | satyanarayan-adhyaya-2      | [x]      | Context-setting opener added ("उसी नगर में" was dangling standalone); adhyaya-2 content is tightly consistent with adhyaya-1 — same brahmin, same prasad tradition, same closing teaching |
 |  86 | shakambhari-purnima         | [ ]      | |
 |  87 | shani-jayanti               | [ ]      | |
-|  88 | shani-pradosh               | [ ]      | |
+|  88 | shani-pradosh               | [x]      | Katha restructured: confusing cross-reference opener removed; Shani background moved first; two secondary anecdotes (Seth couple + Satharatha) given natural paragraph transitions; "माता सरस्वती" fix; AI-numbered labels ("पहली —", "दूसरी —") removed |
 |  89 | shanivar-vrat               | [x]      | Foreign king's court clarified; MAJOR REWRITE: conspiracy+horse scene replaced with traditional Malhar raga scene (Vikramaditya sings, princess hears, marries him — per traditional sources; horse scene unattested); मणि reappearance at end added; Shani's boon: "कर्म-धर्म निष्ठा" replaces "कथा सुनें" |
 |  90 | sharad-purnima              | [x]      | Why Lakshmi descends this night added (16-kala moon + harvest season); Dandiya Raas: equal Krishnas + gopis (जितनी गोपियाँ उतने ही कृष्ण, एकांतर क्रम); Significance trimmed (moon/Maharasa paragraphs were duplicating Katha — replaced with new insights: post-monsoon sky clarity, Garba-Dandiya origin) |
 |  91 | sheetala-ashtami            | [ ]      | |
@@ -110,7 +110,7 @@ Add notes inline if changes were requested / made.
 |  98 | somvar-vrat                 | [ ]      | Reordered before shravan-somvar-vrat (meta order 105→6); Chandra-Daksha story is referenced in shravan-somvar-vrat so must come first |
 |  99 | somvati-amavasya            | [ ]      | |
 | 100 | tulsi-vivah                 | [x]      | "इस कथा में अन्याय" → "वृंदा के साथ अन्याय"; Significance bullet 2: removed "वृंदा के श्राप से यह स्वरूप प्रकट हुआ" line |
-| 101 | utpanna-ekadashi            | [ ]      | |
+| 101 | utpanna-ekadashi            | [x]      | Mur origin added (पाताल-लोक, ब्रह्मा boon); ऐरावत bracket (इंद्र का दिव्य हाथी); "एक हजार वर्षों" attributed to पद्म पुराण; Mur pronouns वे/उन्होंने → वह/उसने (4 locations); Significance duplicate "चौबीसों एकादशियाँ... फल" para trimmed |
 | 102 | vaishakha-sankashti         | [ ]      | |
 | 103 | valmiki-jayanti             | [x]      | Pronoun consistency: रहता था → रहते थे (वे throughout); killing explicit: जीवन लेना → हत्या; मरा-मरा verified (Puranic/folk tradition, kept); Narad telling katha verified (VR Bala Kanda 1.1–2, accurate); Significance: करुणा + परिवर्तन paragraphs trimmed (were duplicating Katha) — replaced with काव्यशास्त्र foundation + नाम-माहात्म्य/community significance |
 | 104 | vamana-jayanti              | [x]      | "इसी पुस्तक में परिवर्तिनी एकादशी" → "परिवर्तिनी एकादशी की परंपरा में" (not in this book); Onam section revamped: date difference clarified (Onam = Shravana nakshatra, Vamana Jayanti = Dwadashi tithi — different days same week); Aditi's bhakti as distinct focus vs Onam's Bali-return focus |
