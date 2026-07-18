@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 61 / 108**
+**Progress: 62 / 108**
 
 ---
 
@@ -104,7 +104,7 @@ Add notes inline if changes were requested / made.
 |  92 | sheetala-satam              | [x]      | झाड़ू+गधा iconography verified correct (Wikipedia/Skanda Purana); no separate child-health katha exists in canon — Raja Virat is the standard; added 2-sentence maternal anguish beat ("माताएँ असहाय थीं — चेचक के दाने...") to bridge royal narrative to vrat's child-health purpose |
 |  93 | shravan-sankashti           | [x]      | Origin: "विक्षोभ" framing + Shukracharya naming added; all Krodhasur pronouns → वह/उसे; source "गणेश पुराण" → "मुद्गल पुराण"; Brahma's speech: why-Ganesha added; "Atma Sanatan" → "आत्म सनातन"; meta.yaml scripture_ref updated |
 |  94 | shravan-somvar-vrat         | [x]      | प्रभास bracket added (सौराष्ट्र/सोमनाथ); सोमराज=चंद्रदेव bracket clarified; Chandra backstory paragraph simplified (removed वैवस्वत मन्वंतर, added Daksha-shrap context); पुष्कर/केदार bracket added in phala-shruti |
-|  95 | shukravar-lakshmi           | [ ]      | |
+|  95 | shukravar-lakshmi           | [x]      | मथानी glossed (मथने का दंड); amrit-vs-Lakshmi confusion fixed — Vishnu's advice now states amrit (immortality) was the goal, Lakshmi returns via the same churning; churning kept as brief narration (halahala→Shiva + compact ratna list: कामधेनु/उच्चैःश्रवा/ऐरावत/कौस्तुभ/पारिजात) — intentionally lighter than dhanteras's full manthan (Kurma/Vasuki fire-cool detail) but present, since the churning is integral to THIS story's arc (per owner: keep the repeat in brief, story differs); clarified Lakshmi rose before amrit and is distinct from it; entry's unique focus stays the Durvasa-curse → Lakshmi-departure → return; "(Venus)" English gloss removed (both occurrences) |
 |  96 | sita-navami                 | [ ]      | |
 |  97 | kokila-vrat                 | [x]      | Replaced solah-somvar-vrat; p.22 "is this true?" — already labeled लोक-परंपरा, no change; p.25 phala-shruti paragraph moved from end of Mantras to end of Significance; TRIM: Daksha yajna + Sati self-immolation + Shiva response (3 paragraphs) compressed to 2 sentences — cuckoo-penance story now takes full center stage |
 |  98 | somvar-vrat                 | [ ]      | Reordered before shravan-somvar-vrat (meta order 105→6); Chandra-Daksha story is referenced in shravan-somvar-vrat so must come first |
