@@ -88,7 +88,7 @@ SLUGS_108_HI = [
     "ashwin-sankashti", "bhadrapada-sankashti", "bhai-dooj", "bhishma-ashtami",
     "brihaspativar-vrat", "buddha-purnima", "chaitra-durgashtami", "chaitra-sankashti", "chhath-puja",
     "chitragupta-puja", "dattatreya-jayanti", "dev-diwali", "devshayani-ekadashi",
-    "devutthana-ekadashi", "dhanteras", "narak-chaturdashi", "diwali", "ekadashi-mahatmya",
+    "devutthana-ekadashi", "dhanteras", "narak-chaturdashi", "diwali", "vijaya-ekadashi",
     "ganesh-chaturthi-janma", "ganesh-chaturthi-syamantaka", "ganga-dussehra",
     "gangaur", "gayatri-jayanti", "gopashtami", "govardhan-puja", "gudi-padwa",
     "guru-purnima", "hal-shashthi", "hanuman-jayanti", "hartalika-teej",

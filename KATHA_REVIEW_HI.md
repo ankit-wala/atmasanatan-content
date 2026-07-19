@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 62 / 108**
+**Progress: 63 / 108**
 
 ---
 
@@ -29,7 +29,7 @@ Add notes inline if changes were requested / made.
 |  17 | devutthana-ekadashi         | [x]      | monsoon-cycle WHY for yoganidra added; Vrinda-Tulsi promise narrative (first right to wake Vishnu); "रात बहुत लंबी थी"/"पौ फटी" clarified as chaturmaas metaphor; Atma Sanatan → आत्म सनातन |
 |  18 | dhanteras                   | [x]      | Samudra manthan expanded (Kurma avatar, Vasuki loops, full ratna sequence, Dhanvantari 4-armed form, Mohini); King Dīrghatapas boon direction corrected; Raja Hima + Yamraj explanation added; Significance trimmed |
 |  19 | diwali                      | [x]      | Bharata 14-yr tapasya detail; Pushpaka Viman returned to Kubera (Valmiki Ramayana); journey locations shown to Sita from vimana; Sita-as-Lakshmi connection; Kojagri Purnima vs Diwali "को जागर्ति" distinction clarified |
-|  20 | ekadashi-mahatmya           | [ ]      | |
+|  20 | ekadashi-mahatmya           | [x]      | REMOVED from HI book — its Katha (Mur→Ekadashi-devi, Padma Purana) fully duplicated utpanna-ekadashi. Before removal, ported its unique details into utpanna-ekadashi (grain/asura teaching = why अन्न is forbidden; three fasting levels + द्वादशी पारण सहस्रगुना + 7-births' sins; Mur = तालजंघ-पुत्र, चंद्रावती नगरी). Replaced in SLUGS_108_HI by **vijaya-ekadashi** (owner pick — Rama + Muni Bakadalbhya, Lanka-vijaya). EN book unchanged (still has ekadashi-mahatmya) — revisit when doing other languages |
 |  21 | ganesh-chaturthi-janma      | [x]      | Shiv gana framing rewritten (ganas serve Shiva, not Parvati — hence she needed her own द्वारपाल); Brahma Vaivarta Purana Vishnu note already in Significance |
 |  22 | ganesh-chaturthi-syamantaka | [x]      | ऋक्षराज bracket added; "इलज़ाम"→"आरोप"; Chandrama plea scene expanded (full speech + pashchatap); Narad circular ref fixed (annual protection logic, not self-referential "इस कथा"); vrat-after-kaltank logic added; non-eclipse clarification added to Significance |
 |  23 | ganga-dussehra              | [ ]      | |
@@ -110,11 +110,12 @@ Add notes inline if changes were requested / made.
 |  98 | somvar-vrat                 | [ ]      | Reordered before shravan-somvar-vrat (meta order 105→6); Chandra-Daksha story is referenced in shravan-somvar-vrat so must come first |
 |  99 | somvati-amavasya            | [ ]      | |
 | 100 | tulsi-vivah                 | [x]      | "इस कथा में अन्याय" → "वृंदा के साथ अन्याय"; Significance bullet 2: removed "वृंदा के श्राप से यह स्वरूप प्रकट हुआ" line |
-| 101 | utpanna-ekadashi            | [x]      | Mur origin added (पाताल-लोक, ब्रह्मा boon); ऐरावत bracket (इंद्र का दिव्य हाथी); "एक हजार वर्षों" attributed to पद्म पुराण; Mur pronouns वे/उन्होंने → वह/उसने (4 locations); Significance duplicate "चौबीसों एकादशियाँ... फल" para trimmed |
+| 101 | utpanna-ekadashi            | [x]      | Mur origin added (पाताल-लोक, ब्रह्मा boon); ऐरावत bracket (इंद्र का दिव्य हाथी); "एक हजार वर्षों" attributed to पद्म पुराण; Mur pronouns वे/उन्होंने → वह/उसने (4 locations); Significance duplicate "चौबीसों एकादशियाँ... फल" para trimmed. LATER: absorbed ekadashi-mahatmya's unique data (grain/asura teaching, three fasting levels + द्वादशी पारण सहस्रगुना, Mur = तालजंघ-पुत्र/चंद्रावती) since that entry was removed from the HI book as a duplicate |
 | 102 | vaishakha-sankashti         | [ ]      | |
 | 103 | valmiki-jayanti             | [x]      | Pronoun consistency: रहता था → रहते थे (वे throughout); killing explicit: जीवन लेना → हत्या; मरा-मरा verified (Puranic/folk tradition, kept); Narad telling katha verified (VR Bala Kanda 1.1–2, accurate); Significance: करुणा + परिवर्तन paragraphs trimmed (were duplicating Katha) — replaced with काव्यशास्त्र foundation + नाम-माहात्म्य/community significance |
 | 104 | vamana-jayanti              | [x]      | "इसी पुस्तक में परिवर्तिनी एकादशी" → "परिवर्तिनी एकादशी की परंपरा में" (not in this book); Onam section revamped: date difference clarified (Onam = Shravana nakshatra, Vamana Jayanti = Dwadashi tithi — different days same week); Aditi's bhakti as distinct focus vs Onam's Bali-return focus |
 | 105 | vasant-panchami             | [ ]      | |
 | 106 | vat-savitri-vrat            | [ ]      | |
 | 107 | vijayadashami               | [x]      | अपराजिता (जगदम्बा दुर्गा) in brackets; Ravan genealogy corrected: प्रपौत्र not पोता (Brahma→Pulastya→Vishrava→Ravan); Aditya Hridayam passage verified accurate (VR Yuddha Kanda 107); Significance: Maryada Purushottam paragraph added (Ram as Vishnu's 7th avatar); Mantras: रामाय रामभद्राय... stuti added |
-| 108 | vivah-panchami              | [ ]      | |
+| 108 | vivah-panchami              | [x]      | बालक → किशोर राजकुमार (Rama was <16 per VR Bala Kanda, a youth not a child); Janak-knew-identity framing fixed — now Janak inquires, Vishvamitra reveals they are Dasharath's sons (per VR); 5000-men/eight-wheeled-chest VERIFIED correct (VR Bala Kanda 1-67-3/4 — no change); Significance trimmed of duplication (cut जनकपुर-अयोध्या उत्सव + नवविवाहित bullets — both already in Vidhi; tightened धर्म-शक्ति bullet) |
+| —   | vijaya-ekadashi (NEW in book) | [ ]      | Swapped into SLUGS_108_HI replacing ekadashi-mahatmya. Content ready_to_publish + complete; NOT yet annotation-reviewed. FLAG for its review pass: attributes katha to ब्रह्म वैवर्त पुराण — Vijaya Ekadashi is more commonly cited from स्कंद पुराण; verify source |
