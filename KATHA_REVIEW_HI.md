@@ -3,7 +3,7 @@
 One row per entry. Mark `[x]` when reviewed (with or without changes).
 Add notes inline if changes were requested / made.
 
-**Progress: 63 / 108**
+**Progress: 64 / 108**
 
 ---
 
@@ -67,7 +67,7 @@ Add notes inline if changes were requested / made.
 |  55 | onam                        | [x]      | Replaced masik-satyanarayan (redundant with satyanarayan-adhyaya entries); Bali-Vamana katha (Bhagavata Purana 8); removed 6 bold sub-headers and 5 `---` separators from within Katha (now continuous prose); date bullet added to Vidhi |
 |  56 | masik-shivaratri            | [x]      | व्याध bracket "(शिकारी)" added; all respectful pronouns वे/उन्होंने → वह/उसने throughout; paran date fixed: "कृष्ण पक्ष की प्रतिपदा या द्वितीया" → "अमावस्या को या शुक्ल प्रतिपदा को" (Chaturdashi next day is Amavasya, not Pratipada) |
 |  57 | mauni-amavasya              | [ ]      | |
-|  58 | mokshada-ekadashi           | [ ]      | |
+|  58 | mokshada-ekadashi           | [x]      | Opening reframed from bare Q&A into a natural conversation (Yudhishthira & Krishna discussing vrats; Krishna explains); CORRECTED terminology in Parvata Muni's diagnosis — text said "ऋतुकाल" (which strictly = fertile period, NOT menstruation) but the sin depicted is coitus-during-menstruation-against-her-will (Brahmanda/Padma Purana variant), so changed to रजस्वला-काल (मासिक धर्म के दिनों) + सहवास (dropped संसर्ग for clarity); Significance trimmed 4 paras→2 (cut duplication with Katha — मोक्षदा-meaning, गीता-जयंती-संयोग, पितृ-उद्धार; kept unique pitru-transfer point + गीता का स्थान); Vidhi condensed 8 verbose bullets→7 tight ones (dropped standalone रात्रि bullet + Atma-Sanatan-app paran line; shortened उपवास food list) |
 |  59 | nag-panchami                | [x]      | Parikshit takes refuge in existing palace (not builds new one in 7 days); Takshaka's two-step disguise clarified (brahmins carry fruit, Takshaka hides inside fruit as tiny worm); आख्यान → कथाएँ; Significance: why Astika alone could stop yajna (half-brahmin, half-naga); milk offering redirected to temple idol |
 |  60 | narak-chaturdashi           | [x]      | नरकासुर pronouns → वह/उसने; देवताओं का ऐश्वर्य-चिह्न bracket; Satyabhama backstory (Bhudevi avatara, Vishnu's promise); dying speech: addresses सत्यभामा as "माते" not Krishna; पारिजात उखाड़ लिया → साथ ले लिया; abhyanga mantra merged into first Vidhi bullet |
 |  61 | narasimha-jayanti           | [ ]      | |
