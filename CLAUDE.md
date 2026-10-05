@@ -116,9 +116,11 @@ Full schema is in `CONTENT_FORMAT.md` — read it before creating or editing ent
 - **No Artifacts.** This is a content repo, not a web app. Never use the Artifact tool to
   publish HTML pages. All output goes into the canonical source files or `build/output/`.
 
-- **No cf-drop / Drop.** Do not upload anything to cf-drop or use the `drop-live-doc` skill
-  in this repository. Documents, reports, and research findings stay as files in the repo or
-  in the conversation — never pushed to an external hosting service.
+- **No cf-drop / Drop, no Claude artifacts or docs.** Do not upload anything to cf-drop or use the
+  `drop-live-doc` skill in this repository, and never create Claude artifacts or Claude Docs (the
+  Artifact tool's publish action, Claude Docs `batch`/`create`, or the docs skill). Documents,
+  reports, and research findings stay as local files in the repo or in the conversation — never
+  pushed to an external hosting service. If a task seems to need one, stop and ask the user.
 
 - **DrikPanchang date rule.** Every date/tithi must be verified against
   [DrikPanchang](https://www.drikpanchang.com/) before an entry's `status` becomes `published`.
